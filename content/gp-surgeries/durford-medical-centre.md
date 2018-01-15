@@ -1,0 +1,14 @@
+---
+title: Durford Medical Centre
+draft: true
+areas:
+- Middleton
+contact:
+  addresses:
+  - 113 Long Street, Middleton
+  phone:
+  - 0161 643 2011
+  web_addresses:
+  - www.durnfordm.@nhs.uk
+---
+

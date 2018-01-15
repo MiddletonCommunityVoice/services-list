@@ -1,0 +1,17 @@
+---
+title: The Outside Clinic
+draft: true
+areas:
+- Nationwide
+contact:
+  addresses:
+  - Working with Lloyds Pharmacy
+  phone:
+  - '0800 95 49 100'
+  web_addresses:
+  - www.outsideclcinic.co.uk
+---
+
+### Information
+Housebound, over 60, mobile services in your home  0800 85 44 77
+

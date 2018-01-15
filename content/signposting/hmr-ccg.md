@@ -1,0 +1,18 @@
+---
+title: HMR CCG
+draft: true
+tags:
+- Health
+areas:
+- Heywood
+- Middleton
+- Rochdale
+contact:
+  addresses:
+  - 3rd Floor Number One Riverside Smith St, Rochdale
+  phone:
+  - 01706 652 853
+  web_addresses:
+  - www.hmr.nhs.uk
+---
+

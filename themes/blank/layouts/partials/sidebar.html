@@ -1,0 +1,14 @@
+	<aside>
+		<div>
+			<div>
+				<h3>LATEST POSTS</h3>
+			</div>
+			<div>
+				<ul>
+					{{ range first 25 .Site.RegularPages }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		</div>
+	</aside>

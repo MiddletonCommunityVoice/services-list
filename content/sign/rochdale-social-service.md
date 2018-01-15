@@ -1,0 +1,16 @@
+---
+title: Rochdale Social Service
+draft: true
+areas:
+- Heywood
+- Middleton
+- Rochdale
+contact:
+  addresses:
+  - Number One, Riverside, Smith St  Rochdale
+  phone:
+  - 0300 303 8886
+  web_addresses:
+  - www.mycare.rochdale.gov.uk
+---
+

@@ -1,0 +1,22 @@
+---
+title: Rowland Pharmacy
+draft: true
+tags:
+- Addiction
+- Drugs
+areas:
+- Heywood
+- Middleton
+- Rochdale
+contact:
+  addresses:
+  - 3A Lakeland Court, Langley, Middleton
+  phone:
+  - 0161 643 5454
+  web_addresses:
+  - www.rowlandspharmacy.co.uk
+---
+
+### Opening Times
+* Mon - Fri & Sat morning
+

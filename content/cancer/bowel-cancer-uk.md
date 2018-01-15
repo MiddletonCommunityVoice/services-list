@@ -1,0 +1,20 @@
+---
+title: Bowel Cancer UK
+draft: true
+tags:
+- Bowel Cancer
+- Cancer
+areas:
+- Heywood
+- Middleton
+- Rochdale
+contact:
+  phone:
+  - 0207 940 1760
+  web_addresses:
+  - www.bowelcanceruk.org.uk
+---
+
+### Information
+Also numbers for other agencies.  Online service
+

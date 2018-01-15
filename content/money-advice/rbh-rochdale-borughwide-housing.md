@@ -1,0 +1,22 @@
+---
+title: RBH Rochdale Borughwide Housing
+draft: true
+areas:
+- Heywood
+- Middleton
+- Rochdale
+contact:
+  addresses:
+  - St Alban's House, Drake St. Rochdale
+  phone:
+  - 0300 303 8875
+  - '0800 027 7769'
+  web_addresses:
+  - www.rbh.org.uk
+  - www.rbh.org.uk/homelessness-services
+---
+
+### Information
+Also at 0300 303 8548
+Emergency out of hours services
+
