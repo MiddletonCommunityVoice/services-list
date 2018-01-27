@@ -4,9 +4,13 @@
 	<ul>
 		{{ range .Site.Sections }}
 
-		<li>
-			<a href="{{ .Permalink }}">{{ .Title }}</a>
-		</li>
+			{{ if gt (len .Pages) 0 }}
+
+				<li>
+					<a href="{{ .Permalink }}">{{ .Title }}</a>
+				</li>
+
+			{{ end }}
 
 		{{ end }}
 	</ul>

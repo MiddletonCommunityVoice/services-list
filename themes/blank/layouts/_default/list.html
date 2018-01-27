@@ -1,10 +1,11 @@
 {{ partial "header.html" . }}
-	<main>
-		{{ .Content }}
+
+{{ .Content }}
+	<nav>
 
 		{{ range .Data.Pages }}
 			{{ partial "summary" . }}
 		{{ end }}
 
-	</main>
+	</nav>
 {{ partial "footer.html" . }}
