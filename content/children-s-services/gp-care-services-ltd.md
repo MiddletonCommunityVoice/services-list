@@ -1,6 +1,6 @@
 ---
 title: GP Care Services Ltd
-draft: true
+draft: false
 areas:
 - Heywood Middleton
 - Rochdale

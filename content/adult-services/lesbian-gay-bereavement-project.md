@@ -1,6 +1,6 @@
 ---
 title: Lesbian & Gay Bereavement Project
-draft: true
+draft: false
 tags:
 - LGBT
 areas:

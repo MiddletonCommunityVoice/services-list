@@ -1,6 +1,6 @@
 ---
 title: Healthy weight team. Pennine Trust
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

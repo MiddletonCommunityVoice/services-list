@@ -1,6 +1,6 @@
 ---
 title: Pennine Acute Hospitals / Living Well
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

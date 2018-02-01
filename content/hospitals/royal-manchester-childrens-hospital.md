@@ -1,6 +1,6 @@
 ---
 title: Royal Manchester Children's Hospital
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

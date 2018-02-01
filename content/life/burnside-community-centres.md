@@ -1,6 +1,6 @@
 ---
 title: Burnside Community Centres
-draft: true
+draft: false
 tags:
 - Social
 areas:

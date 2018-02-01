@@ -1,6 +1,6 @@
 ---
 title: Gamblers Anonymous
-draft: true
+draft: false
 tags:
 - Money
 areas:

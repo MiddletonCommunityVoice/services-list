@@ -1,6 +1,6 @@
 ---
 title: Rochdale Time Bank
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

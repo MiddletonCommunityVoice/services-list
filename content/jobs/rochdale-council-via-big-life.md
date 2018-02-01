@@ -1,6 +1,6 @@
 ---
 title: Rochdale Council via Big Life
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

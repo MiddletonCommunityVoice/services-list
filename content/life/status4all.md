@@ -1,6 +1,6 @@
 ---
 title: Status4All
-draft: true
+draft: false
 tags:
 - Social
 areas:

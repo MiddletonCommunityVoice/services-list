@@ -1,6 +1,6 @@
 ---
 title: North Manchester General Hospital
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

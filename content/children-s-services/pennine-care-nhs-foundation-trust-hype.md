@@ -1,6 +1,6 @@
 ---
 title: Pennine Care NHS Foundation Trust / HYPE
-draft: true
+draft: false
 tags:
 - Mental Health
 areas:

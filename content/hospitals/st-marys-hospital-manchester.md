@@ -1,6 +1,6 @@
 ---
 title: St Mary's Hospital   Manchester
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

@@ -1,6 +1,6 @@
 ---
 title: Milnrow Café Social Group
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

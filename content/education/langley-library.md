@@ -1,6 +1,6 @@
 ---
 title: Langley Library
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

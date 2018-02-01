@@ -1,6 +1,6 @@
 ---
 title: Thornham Senior Citizens
-draft: true
+draft: false
 areas:
 - Slattocks
 - Thornham

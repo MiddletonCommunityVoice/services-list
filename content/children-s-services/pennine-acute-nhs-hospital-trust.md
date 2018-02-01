@@ -1,6 +1,6 @@
 ---
 title: Pennine Acute NHS Hospital Trust
-draft: true
+draft: false
 areas:
 - Heywood Middleton
 - Rochdale

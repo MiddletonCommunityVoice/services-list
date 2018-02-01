@@ -1,6 +1,6 @@
 ---
 title: Samaritans
-draft: true
+draft: false
 areas:
 - Nationwide
 contact:

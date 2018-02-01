@@ -1,6 +1,6 @@
 ---
 title: Resolve
-draft: true
+draft: false
 tags:
 - Mental Health
 areas:

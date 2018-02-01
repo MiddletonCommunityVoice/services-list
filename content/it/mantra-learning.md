@@ -1,6 +1,6 @@
 ---
 title: Mantra Learning
-draft: true
+draft: false
 contact:
   addresses:
   - Greengate Middleton m24 1RU

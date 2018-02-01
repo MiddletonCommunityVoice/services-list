@@ -1,6 +1,6 @@
 ---
 title: Transport for Greater Manchester
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

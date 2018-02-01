@@ -1,6 +1,6 @@
 ---
 title: Dental Access Centre
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

@@ -1,6 +1,6 @@
 ---
 title: The Angel Project
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

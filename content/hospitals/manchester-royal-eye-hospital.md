@@ -1,6 +1,6 @@
 ---
 title: Manchester Royal Eye Hospital
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

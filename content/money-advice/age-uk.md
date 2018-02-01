@@ -1,6 +1,6 @@
 ---
 title: Age UK
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

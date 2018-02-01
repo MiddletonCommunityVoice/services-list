@@ -1,6 +1,6 @@
 ---
 title: Susan Pattison Therapy Services
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

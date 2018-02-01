@@ -1,6 +1,6 @@
 ---
 title: B-eat
-draft: true
+draft: false
 tags:
 - Mental Health
 contact:

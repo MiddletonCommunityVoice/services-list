@@ -1,6 +1,6 @@
 ---
 title: Always talk to your GP first
-draft: true
+draft: false
 tags:
 - Bowel Cancer
 - Cancer

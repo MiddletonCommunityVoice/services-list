@@ -1,6 +1,6 @@
 ---
 title: Rochdale Youth Services
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

@@ -1,6 +1,6 @@
 ---
 title: Riverside Housing Association
-draft: true
+draft: false
 areas:
 - Langley Tenants
 contact:

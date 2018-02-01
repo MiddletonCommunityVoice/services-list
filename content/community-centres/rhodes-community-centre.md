@@ -1,6 +1,6 @@
 ---
 title: Rhodes Community Centre
-draft: true
+draft: false
 areas:
 - Rhodes / Middleton
 contact:

@@ -1,6 +1,6 @@
 ---
 title: Making sense of Mental Health
-draft: true
+draft: false
 tags:
 - Mental Health
 contact:

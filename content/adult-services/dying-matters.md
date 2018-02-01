@@ -1,6 +1,6 @@
 ---
 title: Dying Matters
-draft: true
+draft: false
 areas:
 - Naitonwide
 contact:

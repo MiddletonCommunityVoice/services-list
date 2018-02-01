@@ -1,6 +1,6 @@
 ---
 title: Stanycliffe Social Centre
-draft: true
+draft: false
 areas:
 - Boarshaw / Middleton
 contact:

@@ -1,6 +1,6 @@
 ---
 title: Fairfield Hospital
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

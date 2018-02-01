@@ -1,6 +1,6 @@
 ---
 title: Link4Life & Healthy Workplace Team
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

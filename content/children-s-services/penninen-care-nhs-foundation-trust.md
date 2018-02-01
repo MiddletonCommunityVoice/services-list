@@ -1,6 +1,6 @@
 ---
 title: Penninen Care NHS Foundation Trust
-draft: true
+draft: false
 areas:
 - Heywood Middleton
 - Rochdale

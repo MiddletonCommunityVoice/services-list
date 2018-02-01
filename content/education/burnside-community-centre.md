@@ -1,6 +1,6 @@
 ---
 title: Burnside Community Centre
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

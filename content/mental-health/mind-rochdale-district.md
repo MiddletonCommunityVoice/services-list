@@ -1,6 +1,6 @@
 ---
 title: MIND Rochdale & District
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

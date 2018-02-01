@@ -1,6 +1,6 @@
 ---
 title: Stagecoach
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

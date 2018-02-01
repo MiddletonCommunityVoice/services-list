@@ -1,6 +1,6 @@
 ---
 title: Alzheimers
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

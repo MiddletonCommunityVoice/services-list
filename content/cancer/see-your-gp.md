@@ -1,6 +1,6 @@
 ---
 title: SEE your GP
-draft: true
+draft: false
 tags:
 - Cancer
 - Prostate Cancer

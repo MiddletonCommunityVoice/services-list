@@ -1,6 +1,6 @@
 ---
 title: Community Champions
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

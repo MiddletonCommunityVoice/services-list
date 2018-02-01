@@ -1,6 +1,6 @@
 ---
 title: Alkrington Podiatry
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

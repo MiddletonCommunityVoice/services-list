@@ -1,6 +1,6 @@
 ---
 title: Rochdale Family Services Directory
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

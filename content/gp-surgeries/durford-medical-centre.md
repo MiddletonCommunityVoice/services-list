@@ -1,6 +1,6 @@
 ---
 title: Durford Medical Centre
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

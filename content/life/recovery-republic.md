@@ -1,6 +1,6 @@
 ---
 title: Recovery Republic
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

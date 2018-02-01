@@ -1,6 +1,6 @@
 ---
 title: Living Well
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

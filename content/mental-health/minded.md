@@ -1,6 +1,6 @@
 ---
 title: MindEd
-draft: true
+draft: false
 areas:
 - Nationwide
 contact:

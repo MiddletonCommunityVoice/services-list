@@ -1,6 +1,6 @@
 ---
 title: Stay Safe
-draft: true
+draft: false
 tags:
 - Addiction
 - Drugs

@@ -1,6 +1,6 @@
 ---
 title: University Dental Hospital of Manchester
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

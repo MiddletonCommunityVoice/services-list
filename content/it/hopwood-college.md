@@ -1,6 +1,6 @@
 ---
 title: Hopwood College
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

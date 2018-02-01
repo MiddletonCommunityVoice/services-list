@@ -1,6 +1,6 @@
 ---
 title: Rochdale Training
-draft: true
+draft: false
 contact:
   addresses:
   - 1 Fishwick Street, Rochdale

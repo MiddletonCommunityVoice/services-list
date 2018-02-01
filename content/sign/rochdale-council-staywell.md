@@ -1,6 +1,6 @@
 ---
 title: Rochdale Council Staywell
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

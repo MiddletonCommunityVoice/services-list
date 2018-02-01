@@ -1,6 +1,6 @@
 ---
 title: Rochdale Staywell via Direct Health
-draft: true
+draft: false
 tags:
 - Health
 areas:

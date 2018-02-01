@@ -1,6 +1,6 @@
 ---
 title: Better Health 4 Middleton
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

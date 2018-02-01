@@ -1,6 +1,6 @@
 ---
 title: Stanycliffe Social Centre
-draft: true
+draft: false
 tags:
 - Social
 areas:

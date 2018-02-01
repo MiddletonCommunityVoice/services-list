@@ -1,6 +1,6 @@
 ---
 title: Men get eating disorders too
-draft: true
+draft: false
 tags:
 - Mental Health
 contact:

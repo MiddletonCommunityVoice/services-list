@@ -1,6 +1,6 @@
 ---
 title: Middleton Health Centre
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

@@ -1,6 +1,6 @@
 ---
 title: Manchester Credit Union
-draft: true
+draft: false
 areas:
 - Greater Manchester
 - Langley Tenants

@@ -1,6 +1,6 @@
 ---
 title: Compleat Café
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

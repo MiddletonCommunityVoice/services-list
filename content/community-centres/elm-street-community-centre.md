@@ -1,6 +1,6 @@
 ---
 title: Elm Street Community Centre
-draft: true
+draft: false
 areas:
 - Moorclose
 contact:

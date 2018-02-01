@@ -1,6 +1,6 @@
 ---
 title: Woodsdie Medical Centre
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

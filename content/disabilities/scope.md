@@ -1,6 +1,6 @@
 ---
 title: Scope
-draft: true
+draft: false
 areas:
 - Naitonwide
 contact:

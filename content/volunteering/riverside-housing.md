@@ -1,6 +1,6 @@
 ---
 title: Riverside Housing
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

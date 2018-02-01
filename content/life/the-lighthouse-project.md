@@ -1,6 +1,6 @@
 ---
 title: The Lighthouse Project
-draft: true
+draft: false
 tags:
 - Social
 areas:

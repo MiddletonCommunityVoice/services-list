@@ -1,6 +1,6 @@
 ---
 title: MIND
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

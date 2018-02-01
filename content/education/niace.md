@@ -1,6 +1,6 @@
 ---
 title: Niace
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

@@ -1,6 +1,6 @@
 ---
 title: CALM  campaign against living miserably
-draft: true
+draft: false
 areas:
 - Nationwide
 contact:

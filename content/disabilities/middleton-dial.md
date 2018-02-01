@@ -1,6 +1,6 @@
 ---
 title: Middleton DIAL
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

@@ -1,6 +1,6 @@
 ---
 title: D Igoe
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

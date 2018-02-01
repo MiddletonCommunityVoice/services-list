@@ -1,6 +1,6 @@
 ---
 title: CH Dance
-draft: true
+draft: false
 tags:
 - Social
 contact:

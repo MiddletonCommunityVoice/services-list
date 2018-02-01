@@ -1,6 +1,6 @@
 ---
 title: Rochdale Borough User Forum
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

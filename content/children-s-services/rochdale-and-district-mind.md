@@ -1,6 +1,6 @@
 ---
 title: Rochdale and District Mind
-draft: true
+draft: false
 tags:
 - Mental Health
 areas:

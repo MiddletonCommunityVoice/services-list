@@ -1,6 +1,6 @@
 ---
 title: Royal National Institure for the Blind
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

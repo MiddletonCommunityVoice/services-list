@@ -1,6 +1,6 @@
 ---
 title: Trend UK
-draft: true
+draft: false
 areas:
 - Naitonwide
 contact:

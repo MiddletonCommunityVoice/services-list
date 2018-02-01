@@ -1,6 +1,6 @@
 ---
 title: Salford Royal Infirmary
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

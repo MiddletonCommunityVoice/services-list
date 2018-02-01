@@ -1,6 +1,6 @@
 ---
 title: Pride Media
-draft: true
+draft: false
 tags:
 - Information Technology
 - Training

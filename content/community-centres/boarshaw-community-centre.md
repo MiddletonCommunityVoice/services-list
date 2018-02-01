@@ -1,6 +1,6 @@
 ---
 title: Boarshaw Community Centre
-draft: true
+draft: false
 areas:
 - Boarshaw
 contact:

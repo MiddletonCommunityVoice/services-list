@@ -1,6 +1,6 @@
 ---
 title: Ovacome
-draft: true
+draft: false
 tags:
 - Cancer
 - Ovarian Cancer

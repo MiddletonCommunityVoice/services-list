@@ -1,6 +1,6 @@
 ---
 title: Pathways
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

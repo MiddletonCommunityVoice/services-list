@@ -1,6 +1,6 @@
 ---
 title: Demesne Community Centre
-draft: true
+draft: false
 areas:
 - Langley
 contact:

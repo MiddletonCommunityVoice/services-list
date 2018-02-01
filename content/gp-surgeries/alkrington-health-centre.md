@@ -1,6 +1,6 @@
 ---
 title: Alkrington Health Centre
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

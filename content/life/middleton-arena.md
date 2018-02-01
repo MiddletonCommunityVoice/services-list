@@ -1,6 +1,6 @@
 ---
 title: Middleton Arena
-draft: true
+draft: false
 tags:
 - Social
 areas:

@@ -1,6 +1,6 @@
 ---
 title: Angela Bird Charities
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

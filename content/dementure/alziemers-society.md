@@ -1,6 +1,6 @@
 ---
 title: Alziemer's Society
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

@@ -1,6 +1,6 @@
 ---
 title: Pioneer Denture Clinic
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

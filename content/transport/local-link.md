@@ -1,6 +1,6 @@
 ---
 title: Local Link
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

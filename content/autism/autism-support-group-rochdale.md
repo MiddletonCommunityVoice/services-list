@@ -1,6 +1,6 @@
 ---
 title: Autism Support Group Rochdale
-draft: true
+draft: false
 areas:
 - Rochdale
 contact:

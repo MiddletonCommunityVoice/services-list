@@ -1,6 +1,6 @@
 ---
 title: Rochdale Road Medical Centre
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

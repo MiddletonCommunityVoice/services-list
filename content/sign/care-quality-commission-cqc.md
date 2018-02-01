@@ -1,6 +1,6 @@
 ---
 title: Care Quality Commission    CQC
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

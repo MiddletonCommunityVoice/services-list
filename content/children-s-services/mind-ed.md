@@ -1,6 +1,6 @@
 ---
 title: Mind-ed
-draft: true
+draft: false
 tags:
 - Mental Health
 areas:

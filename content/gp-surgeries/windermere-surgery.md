@@ -1,6 +1,6 @@
 ---
 title: Windermere Surgery
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

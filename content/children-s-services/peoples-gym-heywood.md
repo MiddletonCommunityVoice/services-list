@@ -1,6 +1,6 @@
 ---
 title: People's Gym Heywood
-draft: true
+draft: false
 areas:
 - Heywood Middleton
 - Rochdale

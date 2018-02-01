@@ -1,6 +1,6 @@
 ---
 title: Police, Fire, Ambulance
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

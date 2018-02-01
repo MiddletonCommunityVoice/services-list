@@ -1,6 +1,6 @@
 ---
 title: BARDOC
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

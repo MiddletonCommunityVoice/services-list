@@ -1,6 +1,6 @@
 ---
 title: Greater Manchester Autism Consortium
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

@@ -1,6 +1,6 @@
 ---
 title: Moorgate Medical Centre
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

@@ -1,6 +1,6 @@
 ---
 title: Papyrus
-draft: true
+draft: false
 tags:
 - Help at Home
 - Mental Health

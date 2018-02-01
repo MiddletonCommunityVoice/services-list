@@ -1,6 +1,6 @@
 ---
 title: The Big Life Group
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

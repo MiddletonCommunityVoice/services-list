@@ -1,6 +1,6 @@
 ---
 title: Brentwood Day Centre
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

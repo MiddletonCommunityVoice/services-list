@@ -1,6 +1,6 @@
 ---
 title: Link4Life & Rochdale Youth Service
-draft: true
+draft: false
 areas:
 - Heywood Middleton
 - Rochdale

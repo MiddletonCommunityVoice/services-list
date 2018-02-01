@@ -1,6 +1,6 @@
 ---
 title: via Manchester City Council
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

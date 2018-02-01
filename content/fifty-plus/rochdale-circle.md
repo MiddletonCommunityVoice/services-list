@@ -1,6 +1,6 @@
 ---
 title: Rochdale Circle
-draft: true
+draft: false
 tags:
 - Social
 areas:

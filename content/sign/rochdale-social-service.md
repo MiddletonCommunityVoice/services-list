@@ -1,6 +1,6 @@
 ---
 title: Rochdale Social Service
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

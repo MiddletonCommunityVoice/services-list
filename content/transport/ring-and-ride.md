@@ -1,6 +1,6 @@
 ---
 title: Ring and Ride
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

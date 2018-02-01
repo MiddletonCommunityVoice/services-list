@@ -1,6 +1,6 @@
 ---
 title: Parkinsons
-draft: true
+draft: false
 contact:
   addresses:
   - Radcliffe between Bury and Bolton

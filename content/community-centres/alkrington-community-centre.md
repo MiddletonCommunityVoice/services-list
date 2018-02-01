@@ -1,6 +1,6 @@
 ---
 title: Alkrington Community Centre
-draft: true
+draft: false
 areas:
 - Alkrington
 contact:

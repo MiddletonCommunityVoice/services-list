@@ -1,6 +1,6 @@
 ---
 title: Living Well with Pennine Acute
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

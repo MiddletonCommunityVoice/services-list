@@ -1,6 +1,6 @@
 ---
 title: LGBT Foundation
-draft: true
+draft: false
 tags:
 - LGBT
 areas:

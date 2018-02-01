@@ -1,6 +1,6 @@
 ---
 title: Basic Skills Agency
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

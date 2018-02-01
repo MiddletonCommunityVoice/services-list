@@ -1,6 +1,6 @@
 ---
 title: Digital Champion
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

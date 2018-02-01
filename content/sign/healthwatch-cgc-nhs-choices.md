@@ -1,6 +1,6 @@
 ---
 title: Healthwatch, CGC, NHS Choices
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

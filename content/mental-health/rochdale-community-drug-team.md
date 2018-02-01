@@ -1,6 +1,6 @@
 ---
 title: Rochdale Community Drug Team
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

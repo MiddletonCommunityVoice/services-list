@@ -1,6 +1,6 @@
 ---
 title: Pathways in partnership Pennine
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

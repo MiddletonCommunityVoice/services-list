@@ -1,6 +1,6 @@
 ---
 title: Rochdale Libraries
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

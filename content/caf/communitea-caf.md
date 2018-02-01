@@ -1,6 +1,6 @@
 ---
 title: CommuniTea Café
-draft: true
+draft: false
 areas:
 - Rochdale
 contact:

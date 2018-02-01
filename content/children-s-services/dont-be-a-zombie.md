@@ -1,6 +1,6 @@
 ---
 title: Don't be a Zombie
-draft: true
+draft: false
 tags:
 - Mental Health
 contact:

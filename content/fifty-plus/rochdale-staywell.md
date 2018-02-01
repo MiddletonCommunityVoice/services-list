@@ -1,6 +1,6 @@
 ---
 title: Rochdale Staywell
-draft: true
+draft: false
 tags:
 - Health
 areas:

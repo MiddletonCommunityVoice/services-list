@@ -1,6 +1,6 @@
 ---
 title: CVS via Pride Media
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

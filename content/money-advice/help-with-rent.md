@@ -1,6 +1,6 @@
 ---
 title: Help With Rent
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

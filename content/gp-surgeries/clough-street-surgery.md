@@ -1,6 +1,6 @@
 ---
 title: Clough Street Surgery
-draft: true
+draft: false
 areas:
 - Middleton
 contact:

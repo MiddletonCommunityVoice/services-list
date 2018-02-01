@@ -1,6 +1,6 @@
 ---
 title: Big Life for Rochdale
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

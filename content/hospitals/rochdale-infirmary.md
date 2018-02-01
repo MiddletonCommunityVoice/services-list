@@ -1,6 +1,6 @@
 ---
 title: Rochdale Infirmary
-draft: true
+draft: false
 areas:
 - Greater Manchester
 contact:

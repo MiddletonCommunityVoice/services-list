@@ -1,6 +1,6 @@
 ---
 title: Selfharm UK
-draft: true
+draft: false
 areas:
 - Nationwide
 contact:

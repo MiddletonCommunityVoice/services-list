@@ -1,6 +1,6 @@
 ---
 title: CVS
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton

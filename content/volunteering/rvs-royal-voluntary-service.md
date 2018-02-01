@@ -1,6 +1,6 @@
 ---
 title: RVS ( Royal Voluntary Service )
-draft: true
+draft: false
 areas:
 - Heywood
 - Middleton
