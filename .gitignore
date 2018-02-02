@@ -2,3 +2,5 @@ public
 *.swp
 *.swo
 .DS_Store
+*.sass-cache
+themes/blank/sass/node_modules

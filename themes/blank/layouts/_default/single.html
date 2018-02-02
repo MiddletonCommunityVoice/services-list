@@ -1,10 +1,33 @@
 {{ partial "header.html" . }}
-	<main>
-		<article>
-			<h1>{{ .Title }}</h1>
+	<main class="container">
+
+		<article class="content service">
+
+			<div class="clearfix">
+				<h1 class="float-left">
+					
+					{{ with $.Site.GetPage "section" .Section }}
+						<a href="{{ .Permalink }}">
+							{{ .Title | humanize }}
+						</a>
+					{{ end }}
+					/
+					{{ .Title }}
+				</h1>
+
+				<div class="float-right">
+					<ul class="tags">
+						{{ range .Params.tags }}
+						<li class="tag">
+							<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+						</li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
 
 			{{- if $.Params.contact.addresses }}
-			<div>
+			<div class="card">
 				<h3>Address Information</h3>
 				<ul>
 					{{ range $name, $value := $.Params.contact.addresses }}
@@ -17,7 +40,7 @@
 			{{ end }}
 
 			{{- if $.Params.contact.phone }}
-			<div>
+			<div class="card">
 				<h3>Telephone Numbers</h3>
 				<ul>
 					{{ range $name, $value := $.Params.contact.phone }}
@@ -30,7 +53,7 @@
 			{{ end }}
 
 			{{- if $.Params.contact.web_addresses }}
-			<div>
+			<div class="card">
 				<h3>Web Addresses</h3>
 				<ul>
 					{{ range $name, $value := $.Params.contact.web_addresses }}
@@ -42,16 +65,11 @@
 			</div>
 			{{ end }}
 
-			<div>
-				{{ .Content }}
-			</div>
-			<div>
-				<ul id="tags">
-					{{ range .Params.tags }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-					{{ end }}
-				</ul>
-			</div>
+			{{- if .Content }}
+				<div class="card">
+					{{ .Content }}
+				</div>
+			{{ end }}
 		</article>
 	</main>
 {{ partial "footer.html" . }}

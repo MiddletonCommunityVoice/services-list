@@ -1,11 +1,27 @@
 {{ partial "header.html" . }}
 
-{{ .Content }}
-	<nav>
+<main class="container">
 
-		{{ range .Data.Pages }}
-			{{ partial "summary" . }}
-		{{ end }}
+	<div class="content">
+		{{ .Content }}
+	</div>
 
-	</nav>
+	<table class="card">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Telephone Number</th>
+				<th>Web Address</th>
+				<th>Address</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{ range .Data.Pages }}
+				{{ partial "row" . }}
+			{{ end }}
+		</tbody>
+	</table>
+
+
+</main>
 {{ partial "footer.html" . }}

@@ -1,0 +1,79 @@
+/*
+ * Standard theme colours
+ */
+
+$color-white: white
+$color-bg: #f6f6ef
+$color-blue: #0074D9
+$color-yellow: #f4e842
+$color-text: #606c76
+
+/*
+ * Milligram overrides
+ */
+
+$color-initial: #fff !default
+$color-primary: $color-blue !default
+$color-secondary: #606c76 !default
+$color-tertiary: #f4f5f6 !default
+$color-quaternary: #d1d1d1 !default
+$color-quinary: #e1e1e1 !default
+
+
+@import 'milligram'
+
+
+@mixin floaty
+  border-radius: 10px
+  box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.15)
+
+html
+  background-color: $color-bg
+
+header
+  padding: 0rem 2rem
+
+  h1.title
+    font-weight: bold
+
+.card
+  background-color: $color-white
+  padding: 2rem 3rem
+  margin: 1.5rem
+  @include floaty
+
+  &.compact
+    padding: 1rem 2rem
+
+// main directory listing on index
+.directory
+  ul
+    list-style: none
+
+
+.content
+  h1
+    font-size: 4.0rem
+
+.service
+
+  ul
+    list-style: none
+
+ul.tags
+  list-style-type: none
+
+  li
+    display: inline
+
+  .tag
+    background-color: $color-yellow
+    padding: 0.5rem 0.6rem
+    margin: 0rem 0.4rem
+    font-weight: 450
+    @include floaty
+
+    a
+      color: $color-text
+      text-align: center
+

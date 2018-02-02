@@ -1,9 +1,11 @@
 {{ partial "header.html" . }}
-	<main>
+	<main class="container">
 
 	<h1>{{ .Title }}</h1>
-		{{ range .Data.Pages }}
-			{{ partial "summary.html" . }}
-		{{ end }}
+
+	{{ range .Data.Pages }}
+		{{ partial "summary.html" . }}
+	{{ end }}
+
 	</main>
 {{ partial "footer.html" . }}

@@ -1,19 +1,19 @@
 {{ partial "header.html" . }}
-<main>
+<main class="container">
 
-	<ul>
+	<div class="directory">
 		{{ range .Site.Sections }}
 
 			{{ if gt (len .Pages) 0 }}
 
-				<li>
+				<div class="card compact">
 					<a href="{{ .Permalink }}">{{ .Title }}</a>
-				</li>
+				</div>
 
 			{{ end }}
 
 		{{ end }}
-	</ul>
+	</div>
 
 </main>
 {{ partial "footer.html" . }}
