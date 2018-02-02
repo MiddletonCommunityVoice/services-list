@@ -1,4 +1,4 @@
 ---
-title: Dementure
+title: Dementia
 ---
-# Dementure
+# Dementia
