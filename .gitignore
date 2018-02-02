@@ -1,6 +1,7 @@
 public
 *.swp
 *.swo
+*.map
 .DS_Store
 *.sass-cache
 themes/blank/sass/node_modules

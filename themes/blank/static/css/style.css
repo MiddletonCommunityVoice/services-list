@@ -475,6 +475,8 @@ header {
   font-size: 4rem; }
 
 .service ul {
+  list-style: disc inside; }
+.service .contact ul {
   list-style: none; }
 
 ul.tags {
