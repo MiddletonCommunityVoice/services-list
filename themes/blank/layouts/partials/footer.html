@@ -1,6 +1,16 @@
-	<footer>
-		<hr/>
-		<p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></p>
+	<footer class="container">
+		<div class="row">
+			<div class="column column-offset-25 column-10">
+				<a href="/about">About Us</a>
+			</div>
+			<div class="column column-33">
+				&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+
+			</div>
+			<div class="column column-10">
+				<a href="https://github.com/MiddletonCommunityVoice/services-list">Contribute</a>
+			</div>
+		</div>
 	</footer>
 </body>
 </html>
