@@ -6,7 +6,7 @@ tags:
 - Alcohol
 - Drugs
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - Toft Green  York   0845 769 7555
