@@ -15,7 +15,7 @@ contact:
   - '0845 7697 555'
   web_addresses:
   - www.alcoholconcern.org.uk
-  - www.alcoholics-anonymous/,org,uk
+  - www.alcoholics-anonymous.org,uk
 ---
 
 ### Information

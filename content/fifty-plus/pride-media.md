@@ -4,6 +4,7 @@ draft: false
 tags:
 - Information Technology
 - Training
+- Photgraphy
 areas:
 - Middleton
 contact:
