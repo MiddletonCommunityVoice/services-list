@@ -18,5 +18,6 @@ contact:
 Community Transport for a small charge
 
 ### Opening Times
-* Mon - Fri 9 - 12 & 1 - 4pm
+* 9am to 5pm  Mon to Fri for a small charge
+* Operated by HMR Cirlce since CVS closed
 
