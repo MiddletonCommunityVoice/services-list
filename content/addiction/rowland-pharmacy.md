@@ -18,5 +18,5 @@ contact:
 ---
 
 ### Opening Times
-* Mon - Fri & Sat morning
+* Needle Exchange Mon - Fri & Sat morning
 
