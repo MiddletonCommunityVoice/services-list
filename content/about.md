@@ -2,16 +2,16 @@
 title: About Us
 ---
 
-# Middleton Services Directory
+# Better Health 4 Middleton Services Directory
 
-Welcome to this directory of services which is aimed at the people of
+Welcome to this directory of services which is aimed at the residents of
 Middleton, especially people who are:
 
   * **50+**, or
   * **children and teenagers**
 
-The directory does cover everyone. This directory has been compiled from many public
-sources available online and printed materials.
+The directory does cover everyone. This directory has been compiled from many 
+public sources available online and printed materials.
 
 Because lots of services come and go, some just change their names, and
 services vary without any notification it is impossible to maintain 100%
