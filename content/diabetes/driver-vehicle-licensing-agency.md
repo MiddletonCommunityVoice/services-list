@@ -13,5 +13,5 @@ contact:
 ---
 
 ### Information
-info for drivers
+info for drivers with Diabetes. Can I still drive ?
 

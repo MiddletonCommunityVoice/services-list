@@ -1,5 +1,5 @@
 ---
-title: HMR CCG
+title: GP out of Hours Service
 draft: false
 areas:
 - Heywood
@@ -11,5 +11,5 @@ contact:
 ---
 
 ### Information
-GP out of hours appointments phone line
+GP out of hours appointments phone line.  Mon - Fri 6.30pm to 9pm
 

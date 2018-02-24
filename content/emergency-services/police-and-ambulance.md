@@ -1,5 +1,5 @@
 ---
-title: Police and Ambulance
+title: Police and Ambulance non emergency
 draft: false
 areas:
 - Heywood

@@ -11,5 +11,6 @@ contact:
 ---
 
 ### Information
-Affects childrens
+Macular Eye Degenerations, effects 30 to 40 year olds
+but also affects children
 
