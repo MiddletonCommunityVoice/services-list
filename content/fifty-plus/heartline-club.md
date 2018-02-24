@@ -4,7 +4,8 @@ draft: false
 tags:
 - Social
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
@@ -17,5 +18,5 @@ contact:
 supported by HMR CCG & affiliated to British Heart Foundation
 
 ### Opening Times
-* Wed & Fri 10 til 12
+* Wed & Fri 10 til 12 midday
 

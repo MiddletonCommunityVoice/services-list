@@ -13,5 +13,5 @@ contact:
 ---
 
 ### Opening Times
-* Thu/  11:30 - 2pm / £3.50
+* Meals  Thu  11:30 - 2pm / Price £3.50
 

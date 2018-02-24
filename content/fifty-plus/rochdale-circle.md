@@ -4,7 +4,8 @@ draft: false
 tags:
 - Social
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Nationwide
 - Rochdale
 contact:

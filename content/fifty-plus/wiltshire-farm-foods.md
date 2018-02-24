@@ -4,7 +4,8 @@ draft: false
 tags:
 - Support
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
@@ -16,8 +17,8 @@ contact:
 ---
 
 ### Information
-Order by phone or online. Foods delivered to your door weekly
+Order by phone or online. Foods delivered to your door every weekl
 
 ### Opening Times
-* Phones open 24hrs
+* Phones open 24hrs and online
 

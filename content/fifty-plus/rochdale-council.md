@@ -5,7 +5,8 @@ tags:
 - Help at Home
 - Support
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:

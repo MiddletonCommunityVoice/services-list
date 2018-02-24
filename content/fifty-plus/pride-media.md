@@ -7,6 +7,8 @@ tags:
 - Photgraphy
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Demesne Arts Centre, Asby Drive, Langley, Middleton

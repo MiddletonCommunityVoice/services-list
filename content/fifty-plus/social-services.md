@@ -4,7 +4,8 @@ draft: false
 tags:
 - Help at Home
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:

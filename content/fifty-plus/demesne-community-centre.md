@@ -16,5 +16,5 @@ contact:
 ---
 
 ### Opening Times
-* Wed. 11:30 - 3:30 / Fri  10:30 - 2pm / £3.50
+* Meals  Wed. 11:30 - 3:30 / Fri  10:30 - 2pm / Price £3.50
 
