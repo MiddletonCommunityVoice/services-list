@@ -11,6 +11,6 @@ contact:
 ---
 
 ### Information
-Available at many Opticians
-Online service
+Find Opticians
+ and Online service
 
