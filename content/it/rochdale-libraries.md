@@ -28,5 +28,5 @@ Beginners
 Learn with your equip. Beginners to Silver Sufers
 
 ### Opening Times
-* Mon / Tue 10 - 12
+* Mon / Tue 10 - 12 at Langley Library
 
