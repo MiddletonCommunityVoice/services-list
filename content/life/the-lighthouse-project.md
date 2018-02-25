@@ -5,6 +5,8 @@ tags:
 - Social
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - 2nd Floor  Middleton Shopping Centre
@@ -13,4 +15,5 @@ contact:
   web_addresses:
   - www.lighthouseproject.org.uk
 ---
-
+### Information
+Impoving lifestyle, Meet up, Walking, Cooking, IT Sessions, Money Matters

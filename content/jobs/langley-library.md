@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Windermere Road  Langley Middleton
+  - Windermere Road, Langley, Middleton
   phone:
   - 0161 654 8911
   web_addresses:
@@ -18,5 +18,5 @@ contact:
 One to One and group sessions available
 
 ### Opening Times
-* Mon 10 - 12
+* Sessions Mon and Tue 10 - 12 midday
 

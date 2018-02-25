@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Community Champions
+  - Big Life Group, Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
   web_addresses:

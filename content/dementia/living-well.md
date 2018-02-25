@@ -9,7 +9,7 @@ contact:
   phone:
   - 01706 751 190
   web_addresses:
-  - www.the biglifegroup.com/big-life-centres
+  - www.biglifegroup.com/big-life-centres
 ---
 
 ### Information

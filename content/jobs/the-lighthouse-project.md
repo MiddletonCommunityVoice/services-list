@@ -3,6 +3,9 @@ title: The Lighthouse Project
 draft: false
 areas:
 - across North Manchester
+- Middleton
+= Heywood
+- Rochdale
 contact:
   addresses:
   - 2nd Floor Middleton Shopping Centre
