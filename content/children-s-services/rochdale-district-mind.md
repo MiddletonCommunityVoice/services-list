@@ -3,7 +3,6 @@ title: Rochdale & District MIND
 draft: false
 areas:
 - Heywood
-- Heywood Middleton
 - Middleton
 - Rochdale
 contact:

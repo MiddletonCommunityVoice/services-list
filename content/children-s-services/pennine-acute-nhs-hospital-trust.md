@@ -2,7 +2,8 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
@@ -11,7 +12,6 @@ contact:
   - 0161 624 0420
   - 01706 901 822
   web_addresses:
-  - 01706 901 822
   - www.pat.nhs.uk
 ---
 

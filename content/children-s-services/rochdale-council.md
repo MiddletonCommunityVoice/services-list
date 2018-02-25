@@ -5,14 +5,12 @@ tags:
 - Mental Health
 areas:
 - Heywood
-- Heywood Middleton
 - Middleton
 - Rochdale
 contact:
   addresses:
   - Kirkway, Alkrington,  Middleton
   - Number One Riverside, Smith Street, Rochdale
-  - Number One, Riverside Smith Street,  Rochdale
   - Stanycliffe Lane Middleton
   - Tintern Road, Hollins,  Middleton
   - Windermere Road Langley Middleton

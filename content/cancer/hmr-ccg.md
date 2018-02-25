@@ -2,7 +2,7 @@
 title: HMR CCG
 draft: false
 tags:
-- Breast Cancer
+- All Cancers
 - Cancer
 areas:
 - Heywood

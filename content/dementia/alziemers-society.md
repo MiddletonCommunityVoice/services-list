@@ -12,7 +12,6 @@ contact:
   - Butterworth Hall, New Street, Milnrow
   - Café's @ Middleton, Milnrow, Heywood
   - D'olivera Court, Wood Street,  Langley, Middleton
-  - D'olivera Court, Wood Street, Langley,  Middleton
   - St. Andrew’s Church, Entwisle Road, Rochdale
   phone:
   - 0161 342 0797

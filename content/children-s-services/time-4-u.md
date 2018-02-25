@@ -2,7 +2,8 @@
 title: Time 4 U
 draft: false
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:

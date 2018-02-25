@@ -4,7 +4,8 @@ draft: false
 tags:
 - Disability
 areas:
-- Heywood Middleton
+- Heywood 
+- Middleton
 - Rochdale
 contact:
   addresses:

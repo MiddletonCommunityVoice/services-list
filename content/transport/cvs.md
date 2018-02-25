@@ -1,5 +1,5 @@
 ---
-title: CVS
+title: CVS now operared by HMR Cirlce
 draft: false
 areas:
 - Heywood
@@ -20,4 +20,3 @@ Community Transport for a small charge
 ### Opening Times
 * 9am to 5pm  Mon to Fri for a small charge
 * Operated by HMR Cirlce since CVS closed
-

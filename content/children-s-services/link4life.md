@@ -6,7 +6,6 @@ tags:
 - Sport
 areas:
 - Heywood
-- Heywood Middleton
 - Middleton
 - Rochdale
 contact:

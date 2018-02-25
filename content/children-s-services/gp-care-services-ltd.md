@@ -2,7 +2,8 @@
 title: GP Care Services Ltd
 draft: false
 areas:
-- Heywood Middleton
+- Heywood 
+- Middleton
 - Rochdale
 contact:
   addresses:

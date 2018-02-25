@@ -2,7 +2,8 @@
 title: Link4Life & Rochdale Youth Service
 draft: false
 areas:
-- Heywood Middleton
+- Heywood 
+- Middleton
 - Rochdale
 contact:
   addresses:

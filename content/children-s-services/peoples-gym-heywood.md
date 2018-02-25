@@ -2,7 +2,8 @@
 title: People's Gym Heywood
 draft: false
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
