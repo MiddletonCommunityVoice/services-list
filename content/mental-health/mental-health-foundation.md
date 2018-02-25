@@ -5,8 +5,7 @@ areas:
 - Nationwide
 contact:
   addresses:
-  - London
-  - London based.
+  - Nationwide but London based
   phone:
   - 0207 803 1100
   web_addresses:

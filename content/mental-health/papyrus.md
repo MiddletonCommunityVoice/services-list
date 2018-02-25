@@ -11,7 +11,7 @@ contact:
 ---
 
 ### Information
-Helpline for children
+Helpline for children with mental issues
 
 ### Opening Times
 * 10-10 M-F / Sat 2-10 / Sun 2- 5

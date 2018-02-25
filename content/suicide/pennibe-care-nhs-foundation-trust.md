@@ -16,4 +16,3 @@ contact:
 
 ### Opening Times
 * Menatl help 7 days a week 8am - 9pm
-

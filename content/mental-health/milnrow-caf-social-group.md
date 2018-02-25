@@ -2,9 +2,7 @@
 title: Milnrow Café Social Group
 draft: false
 areas:
-- Heywood
-- Middleton
-- Rochdale
+- Milnrow, Rochdale
 contact:
   addresses:
   - Butterworth Hall, New Street, Milnrow
