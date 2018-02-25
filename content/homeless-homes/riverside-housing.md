@@ -5,6 +5,7 @@ areas:
 - Heywood
 - Middleton
 - Rochdale
+- Nationwide
 contact:
   addresses:
   - Speke Boulevard, Liverpool
