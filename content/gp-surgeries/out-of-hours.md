@@ -1,5 +1,5 @@
 ---
-title: HMR CCG
+title: GP 7 days out of hours surgeries
 draft: false
 areas:
 - Heywood
@@ -7,8 +7,8 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Birle View, Heywood
-  - Kingsway, Rochdale  ( on Morrison's Car Park )
+  - Birle View Surgery, Heywood
+  - Kingsway Surgery, Rochdale  ( on Morrison's Car Park )
   - Littleborough Health Centre
   - Middleton Health Centre, 1st Floor, Middleton Shopping Centre
   phone:
