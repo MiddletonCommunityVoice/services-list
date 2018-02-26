@@ -16,5 +16,5 @@ contact:
 ONLINE INFO & at GM Travel Shops or by phone
 
 ### Opening Times
-* Mon - Fri 7 - 8 / Sat Sun 8 - 8
+* Mon - Fri 7 - 8 / Sat & Sun 8 - 8
 

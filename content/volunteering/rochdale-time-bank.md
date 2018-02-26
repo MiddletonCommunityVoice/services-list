@@ -13,5 +13,5 @@ contact:
 ---
 
 ### Information
-you volunteer to teach someone, then someone teaches you
+You volunteer your timeto teach someone. You then use this time for someone to teach you what you want to know
 

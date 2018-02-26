@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-Join their Community Champions
+Join their Community Champions via Living Well
 

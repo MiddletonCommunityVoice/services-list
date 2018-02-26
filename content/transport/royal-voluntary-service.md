@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-Community Transport for a small charge
+Community Transport helping with hospital discharges
 

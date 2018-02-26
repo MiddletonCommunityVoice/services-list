@@ -1,5 +1,5 @@
 ---
-title: CVS
+title: CVS   CLOSED in January 2018
 draft: false
 areas:
 - Heywood
@@ -15,7 +15,7 @@ contact:
 ---
 
 ### Information
-Community Transport for a small charge
+Community Transport for a small charge.  HMR Circle has now taken over this services using the same phone number.
 
 ### Opening Times
 * Mon - Fri 9 - 12 & 1 - 4pm

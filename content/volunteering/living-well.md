@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-volunteering
+Always looking for volunteers across the borough
 

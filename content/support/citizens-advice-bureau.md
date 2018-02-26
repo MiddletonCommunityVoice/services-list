@@ -5,7 +5,10 @@ tags:
 - Help at Home
 areas:
 - Middleton
-- Not known
+- Heywood
+- Rochdale
+- Oldham
+- Bury
 contact:
   addresses:
   - Ashcroft Court  Peter Street Oldham
@@ -22,8 +25,9 @@ contact:
 
 ### Information
 Customer service
+You can book an appointment for a local meeting. Ask at Sure Start and Libraries.
 
 ### Opening Times
 * Mon - Fri  9.30 til 3.30
-* Mon - Fri,  10 til 3
+* Mon - Fri  10 til 3
 

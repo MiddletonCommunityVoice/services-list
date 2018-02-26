@@ -8,6 +8,7 @@ areas:
 contact:
   addresses:
   - Lngmell Close, Langley, Middleton
+  - HQ at Speke Boulevard, Liverpool
   phone:
   - 0345 111 0000
   web_addresses:
@@ -18,5 +19,5 @@ contact:
 volunteering
 
 ### Opening Times
-* Service Centre open 24hrs
+* Customer Service Centre open 24hrs
 

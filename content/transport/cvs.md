@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 3rd Floor, Unique Enterprise Centre, Belfield Road, Rochdale
+  - Rochdale
   phone:
   - '0800 032 0868'
   web_addresses:

@@ -2,9 +2,7 @@
 title: Burnside Community Centre
 draft: false
 areas:
-- Heywood
 - Middleton
-- Rochdale
 contact:
   addresses:
   - Burnside Crescent, Langley Middleton
