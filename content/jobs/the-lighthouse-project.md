@@ -4,7 +4,7 @@ draft: false
 areas:
 - across North Manchester
 - Middleton
-= Heywood
+- Heywood
 - Rochdale
 contact:
   addresses:
