@@ -9,6 +9,6 @@ contact:
   phone:
   - 01706 926 203
   web_addresses:
-  - http://link4life.org/
+  - https://link4life.org/
 ---
 
