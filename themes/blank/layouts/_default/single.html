@@ -58,7 +58,7 @@
 				<ul>
 					{{ range $name, $value := $.Params.contact.web_addresses }}
 						<li>
-							<a href="//{{$value}}">{{ $value }}</a>
+							<a href="{{$value}}">{{ $value }}</a>
 						</li>
 					{{ end }}
 				</ul>
