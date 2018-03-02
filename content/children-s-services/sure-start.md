@@ -17,8 +17,8 @@ contact:
 ---
 
 ### Information
-Available from all Sure Start Centres in Middleton
+Event programme available from all Sure Start Centres in Middleton area
 
 ### Opening Times
-* Tuesday's   10 til 11.30am
+* Mon - Fri 9 til 5pm with events during school holidays
 
