@@ -10,8 +10,8 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 14 St Chads Crt School Ln Rochdale
   - Burnside Community Centre, Burnside Crescent, Langley, Middleton
+  - 14 St Chads Crt School Ln Rochdale
   - Recovery Republic 63 - 65 York Street Heywood
   - United Reform Church Victoria Street, Littleborough
   phone:
@@ -23,7 +23,7 @@ contact:
 ---
 
 ### Opening Times
-* Every Wed 5.30 til 7pm
+* Every Wed 5.30 til 7pm @ St Chads
 * 1st Mon  each month 5.45 til 7.15pm
 * 2nd Mon each month 5.30 til 7pm
 * 3rd Mon each month 5.30 til 7pm
