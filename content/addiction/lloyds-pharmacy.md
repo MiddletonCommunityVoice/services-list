@@ -7,7 +7,7 @@ tags:
 areas:
 - Middleton
 contact:
-  addresses: - 
+  addresses:
   - Rochdale Road Middleton
   - Kirkeway Alkrington Middleton
   phone:
