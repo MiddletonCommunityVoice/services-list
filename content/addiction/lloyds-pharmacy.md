@@ -9,7 +9,7 @@ areas:
 contact:
   addresses:
   - Rochdale Road Middleton
-  - Kirkeway Alkrington Middleton
+  - Kirkway Alkrington Middleton
   phone:
   - 0161 643 8522
   - 0161 643 5645
