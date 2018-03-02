@@ -11,7 +11,7 @@
 	</td>
 	<td>
 		{{ if .Params.contact.web_addresses }}
-		<a href="//{{ index .Params.contact.web_addresses 0 }}">
+		<a href="{{ index .Params.contact.web_addresses 0 }}">
 			{{ index .Params.contact.web_addresses 0 }}
 		</a>
 		{{ end }}
