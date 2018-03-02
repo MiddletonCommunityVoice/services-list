@@ -5,11 +5,15 @@ tags:
 - Addiction
 - Drugs
 areas:
-- Heywood
 - Middleton
-- Rochdale
 contact:
-  addresses:
+  addresses: - 
+  - Rochdale Road Middleton
+  - Kirkeway Alkrington Middleton
+  phone:
+  - 0161 643 8522
+  - 0161 643 5645
+  web_addresses:
   - www.lloydspharmacy.com
 ---
 
