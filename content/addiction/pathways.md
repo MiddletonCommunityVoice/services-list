@@ -12,9 +12,9 @@ contact:
   addresses:
   - 13 St Chads Crt School Ln Rochdale
   phone:
-  - 01706 676 500
+  - 01706 676 500 and 01706 751 190
   web_addresses:
-  - http://www.thebiglifegroup.com
+  - http://www.livingwellrochdale.com
 ---
 
 ### Information
