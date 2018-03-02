@@ -9,7 +9,7 @@ contact:
   phone:
   - 01706 751 190
   web_addresses:
-  - http://www.biglifegroup.com/big-life-centres
+  - http://www.livingwellrochdale.com
 
 ---
 

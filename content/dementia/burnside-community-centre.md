@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 643 5775
   web_addresses:
-  - burnsidecentre@btconnect.com
+  - www.burnsidecentre.org.uk
 ---
 
 ### Opening Times
