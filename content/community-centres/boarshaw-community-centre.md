@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 643 2276
   web_addresses:
-  - lindap59@live.com
+  - Email to lindap59@live.com
 ---
 

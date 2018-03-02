@@ -5,6 +5,11 @@ areas:
 - Middleton
 contact:
   addresses:
-  - Grimshaw Lane, Middleton
+  - Grimshaw Lane, MiddletonPhone:
+  Phone:
+  - 0161 643 3036
+  web_addresses:
+  - Not known
+
 ---
 
