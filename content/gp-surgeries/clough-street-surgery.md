@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 654 4103
   web_addresses:
-  - www.drstocktonandthompson.co.uk
+  - http://www.drstocktonandthompson.co.uk
 ---
 

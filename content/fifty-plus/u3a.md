@@ -20,9 +20,9 @@ contact:
   - '0208 466 6139'
   - 07565 327598
   web_addresses:
-  - www.buryu3a.org.uk 
-  - www.u3a.org.uk
-  - www.u3asites.org.uk/littleborough
-  - www.u3asites.org.uk/oldham
+  - http://www.buryu3a.org.uk 
+  - http://www.u3a.org.uk
+  - http://www.u3asites.org.uk/littleborough
+  - http://www.u3asites.org.uk/oldham
 ---
 

@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 976 5000
   web_addresses:
-  - www.gamblersanonymous.org.uk
+  - http://www.gamblersanonymous.org.uk
 ---
 
 ### Information

@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 751190
   web_addresses:
-  - www.thebiglifegroup.com
+  - http://www.thebiglifegroup.com
 ---
 
 ### Information

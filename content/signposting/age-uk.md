@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 633 0213
   web_addresses:
-  - www.ageuk.org.uk
+  - http://www.ageuk.org.uk
 ---
 
 ### Information

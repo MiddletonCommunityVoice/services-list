@@ -9,7 +9,7 @@ contact:
   phone:
   - '0800 95 49 100'
   web_addresses:
-  - www.outsideclcinic.co.uk
+  - http://www.outsideclcinic.co.uk
 ---
 
 ### Information

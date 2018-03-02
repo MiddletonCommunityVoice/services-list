@@ -15,7 +15,7 @@ contact:
   - 01706 751 165
   - '0800 112 3440'
   web_addresses:
-  - www.hmrcircle.org.uk
+  - http://www.hmrcircle.org.uk
 ---
 
 ### Information

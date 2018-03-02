@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 716 2844
   web_addresses:
-  - www.minded.org.uk
+  - http://www.minded.org.uk
 ---
 
 ### Information

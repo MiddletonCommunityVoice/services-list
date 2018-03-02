@@ -7,7 +7,7 @@ contact:
   phone:
   - 0161 653 5767
   web_addresses:
-  - www.mantralearning.co.uk
+  - http://www.mantralearning.co.uk
 ---
 
 ### Information

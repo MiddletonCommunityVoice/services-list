@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 925 939
   web_addresses:
-  - www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Information

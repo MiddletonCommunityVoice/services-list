@@ -3,6 +3,7 @@ languageCode: en-gb
 title: Better Health 4 Middleton
 metaDataFormat: yaml
 pluralizeListTitles: false
+theme: blank
 taxonomies:
   tag: tags
   area: areas

@@ -9,7 +9,7 @@ contact:
   phone:
   - 116 123
   web_addresses:
-  - www.samaritans.org
+  - http://www.samaritans.org
 ---
 
 ### Information

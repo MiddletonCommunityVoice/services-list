@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 261 940
   web_addresses:
-  - www.penninecare.nhs.uk/healthyminds
+  - http://www.penninecare.nhs.uk/healthyminds
 ---
 
 ### Opening Times

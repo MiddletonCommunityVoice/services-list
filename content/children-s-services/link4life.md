@@ -27,7 +27,7 @@ contact:
   web_addresses:
   - http://link4life.org/
   - https://link4life.org
-  - www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Information

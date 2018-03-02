@@ -10,7 +10,7 @@ contact:
   phone:
   - 0300 999 1212
   web_addresses:
-  - www.recoveryrepublic.co.uk
+  - http://www.recoveryrepublic.co.uk
 ---
 
 ### Information

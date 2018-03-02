@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 447 9898
   web_addresses:
-  - www.nhs.uk
+  - http://www.nhs.uk
 ---
 

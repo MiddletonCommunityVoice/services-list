@@ -10,7 +10,7 @@ contact:
   phone:
   - 0207 380 1730 
   web_addresses:
-  - www.ovarian.org.uk
+  - http://www.ovarian.org.uk
 ---
 
 ### Information

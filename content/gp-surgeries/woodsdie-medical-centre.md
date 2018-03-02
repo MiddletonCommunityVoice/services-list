@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 643 9244
   web_addresses:
-  - www.woodsidemedicalcentre.co.uk
+  - http://www.woodsidemedicalcentre.co.uk
 ---
 

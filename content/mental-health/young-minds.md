@@ -7,7 +7,7 @@ contact:
   phone:
   - '0808 802 5544'
   web_addresses:
-  - www.youngminds.org.uk
+  - http://www.youngminds.org.uk
 ---
 
 ### Information

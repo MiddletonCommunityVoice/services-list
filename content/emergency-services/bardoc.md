@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 763 4242
   web_addresses:
-  - www.bardoc.co.uk
+  - http://www.bardoc.co.uk
 ---
 
 ### Information

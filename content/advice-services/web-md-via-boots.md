@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 643 2101
   web_addresses:
-  - www.webmd.boots.com
+  - http://www.webmd.boots.com
 ---
 
 ### Opening Times

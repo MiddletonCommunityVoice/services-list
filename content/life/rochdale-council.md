@@ -11,6 +11,6 @@ contact:
   phone:
   - 01706 901 763
   web_addresses:
-  - www.rochdale.gov.uk/healthyweight
+  - http://www.rochdale.gov.uk/healthyweight
 ---
 

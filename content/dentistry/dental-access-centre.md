@@ -11,6 +11,6 @@ contact:
   phone:
   - 01706 676 367
   web_addresses:
-  - www.nhs.uk
+  - http://www.nhs.uk
 ---
 

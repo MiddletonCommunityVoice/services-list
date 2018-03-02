@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 676100
   web_addresses:
-  - www.penninecare.nhs.uk/your-services/services-directory/
+  - http://www.penninecare.nhs.uk/your-services/services-directory/
 ---
 
 ### Opening Times

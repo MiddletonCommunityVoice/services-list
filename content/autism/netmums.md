@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 998 4667
   web_addresses:
-  - www.netmums.com
+  - http://www.netmums.com
 ---
 
 ### Information

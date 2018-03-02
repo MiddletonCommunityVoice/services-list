@@ -15,8 +15,8 @@ contact:
   - 01706 861 598
   web_addresses:
   - info@rochdalemind.org.uk
-  - www.mind.org
-  - www.rochdalemind.org.uk
+  - http://www.mind.org
+  - http://www.rochdalemind.org.uk
 ---
 
 ### Information

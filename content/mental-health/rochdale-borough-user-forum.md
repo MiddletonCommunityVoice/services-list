@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 521 279
   web_addresses:
-  - www.rbuf.org.uk
+  - http://www.rbuf.org.uk
 ---
 
 ### Information

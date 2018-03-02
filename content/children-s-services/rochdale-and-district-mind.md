@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 752338
   web_addresses:
-  - www.rochdalemind.org.uk/
+  - http://www.rochdalemind.org.uk/
 ---
 
 ### Information

@@ -13,6 +13,6 @@ contact:
   phone:
   - 0161 848 2420
   web_addresses:
-  - www.thebiglifegroup.com/big-life-centres
+  - http://www.thebiglifegroup.com/big-life-centres
 ---
 

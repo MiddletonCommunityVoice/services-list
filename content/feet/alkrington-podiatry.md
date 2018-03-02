@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 653 0777
   web_addresses:
-  - www.alkringtonpodiatry.com
+  - http://www.alkringtonpodiatry.com
 ---
 
 ### Information

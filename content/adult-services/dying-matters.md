@@ -7,7 +7,7 @@ contact:
   phone:
   - '08000 21 44 66'
   web_addresses:
-  - www.dyingmatters.org
+  - http://www.dyingmatters.org
 ---
 
 ### Information

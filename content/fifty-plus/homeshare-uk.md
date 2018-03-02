@@ -9,6 +9,6 @@ contact:
   phone:
   - 0151 227 3499
   web_addresses:
-  - www.homeshare.org
+  - http://www.homeshare.org
 ---
 

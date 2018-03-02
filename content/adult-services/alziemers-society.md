@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 341 803
   web_addresses:
-  - www.alzheimers.org.uk
+  - http://www.alzheimers.org.uk
 ---
 
 ### Information

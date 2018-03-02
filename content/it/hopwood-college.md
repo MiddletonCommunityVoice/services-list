@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 643 7530
   web_addresses:
-  - www.hopwood.ac.uk
+  - http://www.hopwood.ac.uk
 ---
 

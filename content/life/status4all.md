@@ -11,6 +11,6 @@ contact:
   phone:
   - 0776 782 0987
   web_addresses:
-  - www.status4all.co.uk
+  - http://www.status4all.co.uk
 ---
 

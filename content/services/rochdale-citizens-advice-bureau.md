@@ -13,7 +13,7 @@ contact:
   phone:
   - 0344 488 9622
   web_addresses:
-  - www.rochdalecab.org.uk
+  - http://www.rochdalecab.org.uk
 ---
 
 ### Information

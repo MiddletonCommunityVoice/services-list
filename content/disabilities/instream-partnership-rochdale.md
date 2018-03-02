@@ -9,7 +9,7 @@ contact:
   phone:
   - 01706 642 196
   web_addresses:
-  - www.instream.org.uk
+  - http://www.instream.org.uk
 ---
 
 ### Information

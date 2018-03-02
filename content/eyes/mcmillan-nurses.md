@@ -7,6 +7,6 @@ contact:
   phone:
   - '0800 980 3322'
   web_addresses:
-  - www.macmillan.org.uk/
+  - http://www.macmillan.org.uk/
 ---
 

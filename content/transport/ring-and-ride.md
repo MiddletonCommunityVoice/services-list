@@ -11,7 +11,7 @@ contact:
   - 0161 200 6011
   - '0845 688 3989'
   web_addresses:
-  - www.ringandride.info
+  - http://www.ringandride.info
 ---
 
 ### Information

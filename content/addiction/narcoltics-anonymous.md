@@ -20,7 +20,7 @@ contact:
   - 01706 660 247
   - 0300 999 1212
   web_addresses:
-  - www.recoveryrepublic.co.uk
+  - http://www.recoveryrepublic.co.uk
 ---
 
 ### Opening Times

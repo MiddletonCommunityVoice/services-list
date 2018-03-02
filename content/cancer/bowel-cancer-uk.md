@@ -12,7 +12,7 @@ contact:
   phone:
   - 0207 940 1760
   web_addresses:
-  - www.bowelcanceruk.org.uk
+  - http://www.bowelcanceruk.org.uk
 ---
 
 ### Information

@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 871 2011
   web_addresses:
-  - www.royalvoluntaryservice.org.uk
+  - http://www.royalvoluntaryservice.org.uk
 ---
 

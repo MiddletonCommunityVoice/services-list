@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 627 2929
   web_addresses:
-  - www.firstgroup.com/greatermanchester
+  - http://www.firstgroup.com/greatermanchester
 ---
 

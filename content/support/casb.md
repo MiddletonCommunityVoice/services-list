@@ -11,7 +11,7 @@ contact:
   phone:
   - 03444 889 622
   web_addresses:
-  - www.rochdalecab.org
+  - http://www.rochdalecab.org
 ---
 
 ### Opening Times

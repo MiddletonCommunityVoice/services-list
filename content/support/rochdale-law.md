@@ -14,7 +14,7 @@ contact:
   - 01706 657 766
   - 01706 657 850
   web_addresses:
-  - www.rochdalelawcentre.org.uk
+  - http://www.rochdalelawcentre.org.uk
 ---
 
 ### Information

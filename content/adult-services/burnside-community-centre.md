@@ -9,5 +9,5 @@ contact:
   phone:
   - 0161 643 5775
   web_addresses:
-  - www.burnsidecentre.org.uk
+  - http://www.burnsidecentre.org.uk
 ---

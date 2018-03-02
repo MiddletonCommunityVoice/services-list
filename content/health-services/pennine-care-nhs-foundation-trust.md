@@ -16,8 +16,8 @@ contact:
   - 01706 676 460
   - 01706 837 193
   web_addresses:
-  - www.nhs.uk
-  - www.penninecare/nhs.net
+  - http://www.nhs.uk
+  - http://www.penninecare/nhs.net
 ---
 
 ### Information

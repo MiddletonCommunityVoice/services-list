@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   web_addresses:
-  - www.youngminds.org.uk
+  - http://www.youngminds.org.uk
 ---
 
 ### Information

@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 676 333
   web_addresses:
-  - www.nhs.uk
-  - www.penninecare/nhs.net
+  - http://www.nhs.uk
+  - http://www.penninecare/nhs.net
 ---
 

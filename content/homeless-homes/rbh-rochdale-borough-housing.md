@@ -11,7 +11,7 @@ contact:
   phone:
   - '0800 027 7769'
   web_addresses:
-  - www.rbh.org.uk
+  - http://www.rbh.org.uk
 ---
 
 ### Opening Times

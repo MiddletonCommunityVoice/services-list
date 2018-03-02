@@ -13,7 +13,7 @@ contact:
   - 0161 620 5411
   - 01706 712515
   web_addresses:
-  - www.ageuk.org.uk
+  - http://www.ageuk.org.uk
 ---
 
 ### Information

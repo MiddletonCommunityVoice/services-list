@@ -12,8 +12,8 @@ contact:
   - 0300 303 8875
   - '0800 027 7769'
   web_addresses:
-  - www.rbh.org.uk
-  - www.rbh.org.uk/homelessness-services
+  - http://www.rbh.org.uk
+  - http://www.rbh.org.uk/homelessness-services
 ---
 
 ### Information

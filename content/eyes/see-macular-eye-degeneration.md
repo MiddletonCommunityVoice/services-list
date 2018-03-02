@@ -7,7 +7,7 @@ contact:
   phone:
   - 111 and online
   web_addresses:
-  - www.nhs.uk
+  - http://www.nhs.uk
 ---
 
 ### Information

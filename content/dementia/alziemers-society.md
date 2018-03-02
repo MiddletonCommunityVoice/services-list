@@ -19,8 +19,8 @@ contact:
   - 01706 751 838
   web_addresses:
   - michaeltomlinson@btinternet.com
-  - www.alzheimers.org.uk
-  - www.housingcare.org
+  - http://www.alzheimers.org.uk
+  - http://www.housingcare.org
 ---
 
 ### Information

@@ -11,6 +11,6 @@ contact:
   phone:
   - 01706 925 919
   web_addresses:
-  - www.rochdale.gov.uk/communitychampions
+  - http://www.rochdale.gov.uk/communitychampions
 ---
 

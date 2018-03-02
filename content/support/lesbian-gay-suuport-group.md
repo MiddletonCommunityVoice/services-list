@@ -5,7 +5,7 @@ tags:
 - LGBT
 contact:
   web_addresses:
-  - www.salford.gov.uk/.../community-cohesion/lgbt-support
+  - http://www.salford.gov.uk/.../community-cohesion/lgbt-support
 ---
 
 ### Information

@@ -10,8 +10,8 @@ contact:
   - 0121 552 7007
   - 0300 5000 927
   web_addresses:
-  - www.rethink.org
-  - www.rethink.org/about-us/our-mental-health-advice/crisis-contacts
+  - http://www.rethink.org
+  - http://www.rethink.org/about-us/our-mental-health-advice/crisis-contacts
 ---
 
 ### Information

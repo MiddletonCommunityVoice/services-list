@@ -14,7 +14,7 @@ contact:
   phone:
   - 0161 723 3880
   web_addresses:
-  - www.earlybreak.co.uk
+  - http://www.earlybreak.co.uk
 ---
 
 ### Information

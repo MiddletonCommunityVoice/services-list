@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 764 3799
   web_addresses:
-  - www.neurologicalphtsio.co.uk
-  - www.sptherapyservices.co.uk/
+  - http://www.neurologicalphtsio.co.uk
+  - http://www.sptherapyservices.co.uk/
 ---
 

@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 221 759
   web_addresses:
-  - www.wiltshirefarmfoods.com
+  - http://www.wiltshirefarmfoods.com
 ---
 
 ### Information

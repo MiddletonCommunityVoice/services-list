@@ -12,6 +12,6 @@ contact:
   phone:
   - 0161 624 0420
   web_addresses:
-  - www.pat.nhs.uk
+  - http://www.pat.nhs.uk
 ---
 

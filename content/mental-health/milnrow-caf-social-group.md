@@ -10,7 +10,7 @@ contact:
   - 0161 342 0797
   web_addresses:
   - 01706 357 785
-  - www.alzheimers.org.uk
+  - http://www.alzheimers.org.uk
 ---
 
 ### Information

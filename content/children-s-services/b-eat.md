@@ -5,6 +5,6 @@ tags:
 - Mental Health
 contact:
   web_addresses:
-  - www.b-eat.co.uk
+  - http://www.b-eat.co.uk
 ---
 

@@ -18,9 +18,9 @@ contact:
   - 0300 330 1153
   - 03444 889 662
   web_addresses:
-  - www.burycab.org.uk
-  - www.oldhamcab.org.uk
-  - www.zendesk.com/customer-portal
+  - http://www.burycab.org.uk
+  - http://www.oldhamcab.org.uk
+  - http://www.zendesk.com/customer-portal
 ---
 
 ### Information

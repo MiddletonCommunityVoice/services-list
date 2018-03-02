@@ -10,7 +10,7 @@ contact:
   phone:
   - 0300 123 1110
   web_addresses:
-  - www.drinkaware/co.uk
+  - http://www.drinkaware/co.uk
 ---
 
 ### Information

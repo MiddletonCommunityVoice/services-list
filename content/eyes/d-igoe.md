@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 653 0771
   web_addresses:
-  - www.digoe.com
+  - http://www.digoe.com
 ---
 
 ### Information

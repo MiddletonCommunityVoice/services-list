@@ -5,7 +5,7 @@ areas:
 - Nationwide
 contact:
   web_addresses:
-  - www.selfharm.co.uk
+  - http://www.selfharm.co.uk
 ---
 
 ### Information

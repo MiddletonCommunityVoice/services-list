@@ -34,11 +34,11 @@ contact:
   - Text service only.
   - healthyminds.penninecare.nhs.uk
   - http://link4life.org/
-  - www.healthyyoungmindspennine.nhs.uk
-  - www.nhs.uk
-  - www.penninecare.nhs.uk
-  - www.penninecare/nhs.net
-  - www.withuinmind.nhs.uk
+  - http://www.healthyyoungmindspennine.nhs.uk
+  - http://www.nhs.uk
+  - http://www.penninecare.nhs.uk
+  - http://www.penninecare/nhs.net
+  - http://www.withuinmind.nhs.uk
 ---
 
 ### Information

@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact:
   web_addresses:
-  - www.betterhealth4.org.uk
+  - http://www.betterhealth4.org.uk
 ---
 
 ### Information

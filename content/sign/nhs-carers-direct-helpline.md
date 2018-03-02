@@ -9,7 +9,7 @@ contact:
   phone:
   - 0300 123 1053
   web_addresses:
-  - www.nhs.uk
+  - http://www.nhs.uk
 ---
 
 ### Information

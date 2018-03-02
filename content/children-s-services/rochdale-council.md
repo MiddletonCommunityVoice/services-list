@@ -23,9 +23,9 @@ contact:
   - is 01706 71 99 00 correct ?
   web_addresses:
   - N1RSchools.Improvement@rochdale.gov.uk
-  - www.healthyyoungmindspennine.nhs.uk/thrive 
-  - www.rochdale.gov.uk
-  - www.rochdale.gov.uk/childrenscentres
+  - http://www.healthyyoungmindspennine.nhs.uk/thrive 
+  - http://www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk/childrenscentres
 ---
 
 ### Information

@@ -13,6 +13,6 @@ contact:
   phone:
   - 01706 249 575
   web_addresses:
-  - www.healthwatchrochdale.org.uk
+  - http://www.healthwatchrochdale.org.uk
 ---
 

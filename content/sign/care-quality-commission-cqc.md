@@ -9,6 +9,6 @@ contact:
   phone:
   - 03000 616161
   web_addresses:
-  - www.cqc.org.uk
+  - http://www.cqc.org.uk
 ---
 

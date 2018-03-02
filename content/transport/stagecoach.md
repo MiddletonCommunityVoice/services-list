@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 273 3377
   web_addresses:
-  - www.stagecoachbus.com
+  - http://www.stagecoachbus.com
 ---
 

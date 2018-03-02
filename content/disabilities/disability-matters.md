@@ -7,6 +7,6 @@ contact:
   phone:
   - 0207 092 6108
   web_addresses:
-  - www.manchester.services@scope.org.uk
+  - http://www.manchester.services@scope.org.uk
 ---
 

@@ -9,7 +9,7 @@ contact:
   phone:
   - '0808 808 4000'
   web_addresses:
-  - www.nationaldebtline.org
+  - http://www.nationaldebtline.org
 ---
 
 ### Information

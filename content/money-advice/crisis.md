@@ -9,6 +9,6 @@ contact:
   phone:
   - 0300 636 1967
   web_addresses:
-  - www.crisis.org.uk
+  - http://www.crisis.org.uk
 ---
 

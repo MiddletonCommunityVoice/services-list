@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 231 5222
   web_addresses:
-  - www.manchestercreditunion.co.uk
+  - http://www.manchestercreditunion.co.uk
 ---
 
 ### Information

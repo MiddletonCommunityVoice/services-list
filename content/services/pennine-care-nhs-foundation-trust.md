@@ -12,6 +12,6 @@ contact:
   phone:
   - 0161 716 3000
   web_addresses:
-  - www.penninecare.nhs.uk
+  - http://www.penninecare.nhs.uk
 ---
 

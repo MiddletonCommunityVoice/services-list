@@ -19,7 +19,7 @@ contact:
   web_addresses:
   - langley.library@rochdale.gov.uk
   - rochdale.gov.uk/libraries
-  - www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Information

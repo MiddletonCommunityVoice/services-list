@@ -11,7 +11,7 @@ contact:
   - '01925 653 288'
   - 0345 123 2399
   web_addresses:
-  - www.diabetes.org.uk
+  - http://www.diabetes.org.uk
 ---
 
 ### Information

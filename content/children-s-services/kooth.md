@@ -11,7 +11,7 @@ contact:
   phone:
   - '0800 068 41 41 /  01925 572 444'
   web_addresses:
-  - www.kooth.com
+  - http://www.kooth.com
 ---
 
 ### Information

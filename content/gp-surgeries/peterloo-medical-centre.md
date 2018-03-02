@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 643 5005
   web_addresses:
-  - www.peterloomc.co.uk
+  - http://www.peterloomc.co.uk
 ---
 

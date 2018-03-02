@@ -14,8 +14,8 @@ contact:
   - '0800 917 7650'
   - '0845 7697 555'
   web_addresses:
-  - www.alcoholconcern.org.uk
-  - www.alcoholics-anonymous.org,uk
+  - http://www.alcoholconcern.org.uk
+  - http://www.alcoholics-anonymous.org,uk
 ---
 
 ### Information

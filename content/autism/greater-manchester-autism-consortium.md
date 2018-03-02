@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 998 4667
   web_addresses:
-  - www.autismGM.org.uk
+  - http://www.autismGM.org.uk
 ---
 

@@ -5,6 +5,6 @@ tags:
 - Mental Health
 contact:
   web_addresses:
-  - www.makingsenseofmentalhealth.org.uk
+  - http://www.makingsenseofmentalhealth.org.uk
 ---
 

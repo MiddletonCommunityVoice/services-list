@@ -14,8 +14,8 @@ contact:
   - 01706 676 367
   web_addresses:
   - https://www.nhs.uk/Services/dentists/
-  - www.nhs.uk
-  - www.penninecare/nhs.uk/your-services/service-directory/
+  - http://www.nhs.uk
+  - http://www.penninecare/nhs.uk/your-services/service-directory/
 ---
 
 ### Information

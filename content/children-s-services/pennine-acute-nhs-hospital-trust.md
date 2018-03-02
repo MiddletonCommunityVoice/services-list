@@ -12,7 +12,7 @@ contact:
   - 0161 624 0420
   - 01706 901 822
   web_addresses:
-  - www.pat.nhs.uk
+  - http://www.pat.nhs.uk
 ---
 
 ### Information

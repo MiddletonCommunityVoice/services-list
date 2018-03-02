@@ -11,7 +11,7 @@ contact:
   - '0800 068  41 41'
   - '0808 802 5544'
   web_addresses:
-  - www.papyrus-uk.org
+  - http://www.papyrus-uk.org
 ---
 
 ### Information

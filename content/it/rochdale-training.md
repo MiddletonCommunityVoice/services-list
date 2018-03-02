@@ -7,6 +7,6 @@ contact:
   phone:
   - 01706 631 417
   web_addresses:
-  - www.rochdaletraining.co.uk
+  - http://www.rochdaletraining.co.uk
 ---
 

@@ -7,7 +7,7 @@ contact:
   phone:
   - 03000 616161
   web_addresses:
-  - www.gov.uk
+  - http://www.gov.uk
 ---
 
 ### Information

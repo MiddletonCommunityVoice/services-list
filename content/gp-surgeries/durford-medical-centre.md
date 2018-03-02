@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 643 2011
   web_addresses:
-  - www.durnfordm.@nhs.uk
+  - http://www.durnfordm.@nhs.uk
 ---
 

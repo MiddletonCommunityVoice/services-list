@@ -27,18 +27,18 @@ contact:
   - 01076 924 854
   - '0845 769 7555'
   web_addresses:
-  - www.adfarm.org.uk
-  - www.alcoholics-anonymous.org.uk
-  - www.alcohollearningcentre.org.uk
-  - www.drinkaware/co.uk
-  - www.drinkinganddrugsnews.com
-  - www.drinkingwithcharlie.co.uk
-  - www.drugsline.org
-  - www.fivewaystowellbeing.org
-  - www.nhs.uk/livewell/drugs
-  - www.re-solv.org.uk
-  - www.release.org.uk
-  - www.smartrecovery.org
-  - www.ukna.org
+  - http://www.adfarm.org.uk
+  - http://www.alcoholics-anonymous.org.uk
+  - http://www.alcohollearningcentre.org.uk
+  - http://www.drinkaware/co.uk
+  - http://www.drinkinganddrugsnews.com
+  - http://www.drinkingwithcharlie.co.uk
+  - http://www.drugsline.org
+  - http://www.fivewaystowellbeing.org
+  - http://www.nhs.uk/livewell/drugs
+  - http://www.re-solv.org.uk
+  - http://www.release.org.uk
+  - http://www.smartrecovery.org
+  - http://www.ukna.org
 ---
 

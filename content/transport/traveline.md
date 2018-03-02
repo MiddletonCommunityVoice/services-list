@@ -7,7 +7,7 @@ contact:
   phone:
   - '0871 200 2233'
   web_addresses:
-  - www.traveline,info
+  - http://www.traveline,info
 ---
 
 ### Information

@@ -9,7 +9,7 @@ contact:
   phone:
   - 0345 111 0000
   web_addresses:
-  - www.riverside.org.uk
+  - http://www.riverside.org.uk
 ---
 
 ### Information

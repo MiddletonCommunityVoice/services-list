@@ -9,6 +9,6 @@ contact:
   phone:
   - '0845 120 2093'
   web_addresses:
-  - www.helpwithrent.org.uk
+  - http://www.helpwithrent.org.uk
 ---
 

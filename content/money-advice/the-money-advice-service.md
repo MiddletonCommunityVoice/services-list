@@ -7,6 +7,6 @@ contact:
   phone:
   - 0300 500 5000
   web_addresses:
-  - www.moneyadviceservice.org.uk
+  - http://www.moneyadviceservice.org.uk
 ---
 

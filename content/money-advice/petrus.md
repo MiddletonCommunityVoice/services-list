@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 654 8279
   web_addresses:
-  - www.petrus.org.uk
+  - http://www.petrus.org.uk
 ---
 

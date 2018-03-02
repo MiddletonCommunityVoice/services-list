@@ -12,7 +12,7 @@ contact:
   phone:
   - 0161 655 4062
   web_addresses:
-  - www.brentwoodmdc.org
+  - http://www.brentwoodmdc.org
 ---
 
 ### Opening Times

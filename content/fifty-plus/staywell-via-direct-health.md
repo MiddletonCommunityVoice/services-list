@@ -13,7 +13,7 @@ contact:
   phone:
   - 03443 266000
   web_addresses:
-  - www.direct-health.co.uk/get-touch/contact-us
+  - http://www.direct-health.co.uk/get-touch/contact-us
 ---
 
 ### Information

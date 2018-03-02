@@ -7,8 +7,8 @@ contact:
   addresses:
   - Government online website
   web_addresses:
-  - www.dailyjobseeker.tumblr.com
-  - www.gov.uk/apply-universal-credit
+  - http://www.dailyjobseeker.tumblr.com
+  - http://www.gov.uk/apply-universal-credit
 ---
 
 ### Information

@@ -5,7 +5,7 @@ areas:
 - Nationwide
 contact:
   web_addresses:
-  - www.minded.org.uk
+  - http://www.minded.org.uk
 ---
 
 ### Information

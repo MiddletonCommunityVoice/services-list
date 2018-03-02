@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 667 6609
   web_addresses:
-  - www.windermereroadsurgery.co.uk
+  - http://www.windermereroadsurgery.co.uk
 ---
 

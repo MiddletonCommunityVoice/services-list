@@ -7,7 +7,7 @@ areas:
 - Naitonwide
 contact:
   web_addresses:
-  - www.counselling-directory.org.uk
+  - http://www.counselling-directory.org.uk
 ---
 
 ### Information

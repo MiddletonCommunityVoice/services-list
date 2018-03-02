@@ -9,7 +9,7 @@ contact:
   phone:
   - 0300 790 6801
   web_addresses:
-  - www.gov.uk
+  - http://www.gov.uk
 ---
 
 ### Information

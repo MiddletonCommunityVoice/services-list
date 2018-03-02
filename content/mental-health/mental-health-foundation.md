@@ -9,7 +9,7 @@ contact:
   phone:
   - 0207 803 1100
   web_addresses:
-  - www.mentalhealth.org.uk
+  - http://www.mentalhealth.org.uk
 ---
 
 ### Information

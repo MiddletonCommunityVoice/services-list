@@ -8,6 +8,6 @@ areas:
 - Naitonwide
 contact:
   web_addresses:
-  - www.bowelcanceruk.org.uk
+  - http://www.bowelcanceruk.org.uk
 ---
 

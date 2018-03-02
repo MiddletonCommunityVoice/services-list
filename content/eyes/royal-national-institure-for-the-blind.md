@@ -11,7 +11,7 @@ contact:
   - online
   web_addresses:
   - http://www.sightlinedirectory.org.uk/
-  - www.rnib.org.uk
+  - http://www.rnib.org.uk
 ---
 
 ### Information

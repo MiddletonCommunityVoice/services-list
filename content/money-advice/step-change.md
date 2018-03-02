@@ -9,7 +9,7 @@ contact:
   phone:
   - '0800 138 1111'
   web_addresses:
-  - www.stepchange.org
+  - http://www.stepchange.org
 ---
 
 ### Information

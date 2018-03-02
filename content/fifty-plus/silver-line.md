@@ -9,6 +9,6 @@ contact:
   phone:
   - '0800 4 70 80 90'
   web_addresses:
-  - www.thesilverline.org.uk
+  - http://www.thesilverline.org.uk
 ---
 

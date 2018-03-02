@@ -10,7 +10,7 @@ contact:
   phone:
   - 0300 123 6600
   web_addresses:
-  - www.talktofrank.com
+  - http://www.talktofrank.com
 ---
 
 ### Information

@@ -11,6 +11,6 @@ contact:
   phone:
   - 01706 861 598
   web_addresses:
-  - www.mind.org
+  - http://www.mind.org
 ---
 

@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 655 7478 press 4
   web_addresses:
-  - www.junctionsurgery.nhs.uk
+  - http://www.junctionsurgery.nhs.uk
 ---
 

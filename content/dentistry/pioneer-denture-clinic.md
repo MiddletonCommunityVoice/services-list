@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 643 7623
   web_addresses:
-  - www.pioneerdentureclinic.co.uk
+  - http://www.pioneerdentureclinic.co.uk
 ---
 
 ### Information

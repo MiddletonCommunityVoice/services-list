@@ -10,7 +10,7 @@ contact:
   phone:
   - 0300 303 8876
   web_addresses:
-  - www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Information

@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 244 1000
   web_addresses:
-  - www.tfgm.com
+  - http://www.tfgm.com
 ---
 
 ### Information

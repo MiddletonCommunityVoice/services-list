@@ -7,7 +7,7 @@ contact:
   phone:
   - '0800 58 58 58'
   web_addresses:
-  - www.thecalmzone.net/
+  - http://www.thecalmzone.net/
 ---
 
 ### Information

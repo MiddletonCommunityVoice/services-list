@@ -12,7 +12,7 @@ contact:
   phone:
   - 0161 643 1163
   web_addresses:
-  - www.lighthouseproject.org.uk
+  - http://www.lighthouseproject.org.uk
 ---
 
 ### Opening Times

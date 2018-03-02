@@ -7,7 +7,7 @@ contact:
   phone:
   - 0161 393 7199
   web_addresses:
-  - www.millercare.co.uk
+  - http://www.millercare.co.uk
 ---
 
 ### Information

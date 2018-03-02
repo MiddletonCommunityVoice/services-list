@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 653 9526
   web_addresses:
-  - www.rochdale.gov.uk/childrenscentres
+  - http://www.rochdale.gov.uk/childrenscentres
 ---
 
 ### Information

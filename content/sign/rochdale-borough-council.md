@@ -11,6 +11,6 @@ contact:
   phone:
   - 01706 647 474
   web_addresses:
-  - www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 

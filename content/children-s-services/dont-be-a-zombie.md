@@ -5,6 +5,6 @@ tags:
 - Mental Health
 contact:
   web_addresses:
-  - www.dontbeazombie.co.uk
+  - http://www.dontbeazombie.co.uk
 ---
 

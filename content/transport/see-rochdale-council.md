@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 764 764
   web_addresses:
-  - www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Information

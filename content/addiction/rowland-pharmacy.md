@@ -14,7 +14,7 @@ contact:
   phone:
   - 0161 643 5454
   web_addresses:
-  - www.rowlandspharmacy.co.uk
+  - http://www.rowlandspharmacy.co.uk
 ---
 
 ### Opening Times

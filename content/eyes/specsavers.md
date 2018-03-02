@@ -13,8 +13,8 @@ contact:
   - 0161 654 0440
   - 0161 763 3916
   web_addresses:
-  - www.specsavers.co.uk
-  - www.specsavers.co.uk/stores/bury
+  - http://www.specsavers.co.uk
+  - http://www.specsavers.co.uk/stores/bury
 ---
 
 ### Information

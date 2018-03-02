@@ -7,7 +7,7 @@ contact:
   phone:
   - 0161 200 6012
   web_addresses:
-  - www.tfgm.com/
+  - http://www.tfgm.com/
 ---
 
 ### Information

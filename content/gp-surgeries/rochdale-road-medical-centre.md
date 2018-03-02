@@ -9,6 +9,6 @@ contact:
   phone:
   - 0161 643 9131
   web_addresses:
-  - www.rochdaleroadmedicalcentre.co.uk
+  - http://www.rochdaleroadmedicalcentre.co.uk
 ---
 

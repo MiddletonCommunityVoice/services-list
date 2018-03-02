@@ -15,7 +15,7 @@ contact:
   - 01706 751 190
   - '07580 876 566'
   web_addresses:
-  - www.livingwellrochdale.com
+  - http://www.livingwellrochdale.com
 ---
 
 ### Information

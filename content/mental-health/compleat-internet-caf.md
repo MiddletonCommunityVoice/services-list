@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 653 5278
   web_addresses:
-  - www.alzheimers.org.uk
+  - http://www.alzheimers.org.uk
 ---
 
 ### Information

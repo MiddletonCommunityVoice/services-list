@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 662 4200
   web_addresses:
-  - www.link4life.org
+  - http://www.link4life.org
 ---
 
 ### Information

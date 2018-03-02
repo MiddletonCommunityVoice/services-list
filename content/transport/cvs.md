@@ -11,7 +11,7 @@ contact:
   phone:
   - '0800 032 0868'
   web_addresses:
-  - www.cvsr.org.uk
+  - http://www.cvsr.org.uk
 ---
 
 ### Information

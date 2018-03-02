@@ -7,7 +7,7 @@ contact:
   phone:
   - '0808 102 4070'
   web_addresses:
-  - www.anchor.org.uk
+  - http://www.anchor.org.uk
 ---
 
 ### Information

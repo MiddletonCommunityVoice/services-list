@@ -7,7 +7,7 @@ contact:
   phone:
   - Online
   web_addresses:
-  - www.who.int
+  - http://www.who.int
 ---
 
 ### Information

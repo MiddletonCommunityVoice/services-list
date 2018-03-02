@@ -10,7 +10,7 @@ contact:
   phone:
   - 0161 716 3000
   web_addresses:
-  - www.penninecare.nhs.uk/your-services/services-directory/
-  - www.penninecare/nhs.net
+  - http://www.penninecare.nhs.uk/your-services/services-directory/
+  - http://www.penninecare/nhs.net
 ---
 

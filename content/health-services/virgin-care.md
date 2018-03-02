@@ -14,6 +14,6 @@ contact:
   phone:
   - 0300 303 8565
   web_addresses:
-  - www.virgincare.co.uk
+  - http://www.virgincare.co.uk
 ---
 

@@ -21,7 +21,7 @@ contact:
   - 01706 378 050
   - 01706 660 247
   web_addresses:
-  - www.durnfordm.@nhs.uk
+  - http://www.durnfordm.@nhs.uk
 ---
 
 ### Opening Times

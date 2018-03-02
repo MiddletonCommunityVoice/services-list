@@ -11,7 +11,7 @@ contact:
   phone:
   - 0345 330 3030
   web_addresses:
-  - www.lgbt.foundation
+  - http://www.lgbt.foundation
 ---
 
 ### Information

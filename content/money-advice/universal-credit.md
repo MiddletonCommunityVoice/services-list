@@ -6,7 +6,7 @@ areas:
 contact:
   web_addresses:
   - dailyjobseeker.tumblr.com
-  - www.gov.uk/apply-universal-credit
+  - http://www.gov.uk/apply-universal-credit
 ---
 
 ### Information

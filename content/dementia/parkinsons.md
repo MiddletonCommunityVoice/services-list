@@ -7,6 +7,6 @@ contact:
   phone:
   - 0161 724 7718
   web_addresses:
-  - www.parkinson.org.uk
+  - http://www.parkinson.org.uk
 ---
 

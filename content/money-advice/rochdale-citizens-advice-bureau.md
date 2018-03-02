@@ -11,7 +11,7 @@ contact:
   phone:
   - 0300 330 1153
   web_addresses:
-  - www.penninewestcab.org.uk/rochdale
+  - http://www.penninewestcab.org.uk/rochdale
 ---
 
 ### Information

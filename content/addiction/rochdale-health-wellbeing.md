@@ -14,7 +14,7 @@ contact:
   phone:
   - 01706 924 883
   web_addresses:
-  - www.rochdale.gov.uk/health-and-wellbeing/
+  - http://www.rochdale.gov.uk/health-and-wellbeing/
 ---
 
 ### Information

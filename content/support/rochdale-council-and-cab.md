@@ -11,7 +11,7 @@ contact:
   phone:
   - 03444 889 622
   web_addresses:
-  - www.rochdale.gov.uk/welfarereform
+  - http://www.rochdale.gov.uk/welfarereform
 ---
 
 ### Information

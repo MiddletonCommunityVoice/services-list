@@ -7,7 +7,7 @@ contact:
   phone:
   - '0845 676 8000'
   web_addresses:
-  - www.sane.org.uk
+  - http://www.sane.org.uk
 ---
 
 ### Opening Times

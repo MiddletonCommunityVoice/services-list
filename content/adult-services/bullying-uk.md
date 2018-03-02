@@ -10,7 +10,7 @@ contact:
   - '0808 800 2222'
   web_addresses:
   - "@bullyinguk    on Twitter"
-  - www.bullying.co.uk
+  - http://www.bullying.co.uk
 ---
 
 ### Information

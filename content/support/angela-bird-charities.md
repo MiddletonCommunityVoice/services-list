@@ -11,6 +11,6 @@ contact:
   phone:
   - 01706 368 369
   web_addresses:
-  - www.angelabirdcharity.org.uk
+  - http://www.angelabirdcharity.org.uk
 ---
 
