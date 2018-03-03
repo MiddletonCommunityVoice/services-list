@@ -5,10 +5,11 @@ areas:
 - Langley
 contact:
   addresses:
-  - Asby Drive, Langley, Middleton
+  - Asby Drive Langley Middleton
   phone:
+ Phone:
   - 0161 653 2902
   web_addresses:
-  - http://demesnecommunitycentre.org.uk/
+  - Not known
 ---
 

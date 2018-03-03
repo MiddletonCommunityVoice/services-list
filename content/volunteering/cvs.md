@@ -1,6 +1,8 @@
 ---
 title: CVS   CLOSED in January 2018
 draft: false
+tags:
+- volunteering
 areas:
 - Heywood
 - Middleton
@@ -9,7 +11,7 @@ contact:
   addresses:
   - Unique Enterprise Centre, Belfield Road, Rochdale
   phone:
-  - '0800 032 0868'
+  - 0800 032 0868
   web_addresses:
   - http://www.cvsr.org.uk
 ---
