@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Needle Exchange, 29 The Strand Kirkholt Rochdale
+  - Needle Exchange at 29 The Strand Kirkholt Rochdale
   phone:
   - 01706 649 874
   web_addresses:
