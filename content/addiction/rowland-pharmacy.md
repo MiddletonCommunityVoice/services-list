@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 3A Lakeland Court, Langley, Middleton
+  - Needle Exchange, 3A Lakeland Court, Langley, Middleton
   phone:
   - 0161 643 5454
   web_addresses:
