@@ -11,7 +11,7 @@ areas:
 contact:
   addresses:
   - 5 ways to Wellbeing  3rd Fl.  Riverside One, Rochdale
-  - ADFRAM 3rd Fl.  Riverside One, Smith St. Rochdale.  OL16 1XU
+  - ADFAM 3rd Fl.  Riverside One, Smith St. Rochdale.  OL16 1XU
   - Alcohol Learning Centre 3rd Fl. Riverside One, Rochdale
   - Alcoholics Anonymous  See Mutial Aid for more info
   - DRINKAWARE 3rd Fl  Riverside One, Rochdale OL16 1XU
@@ -27,7 +27,7 @@ contact:
   - 01076 924 854
   - '0845 769 7555'
   web_addresses:
-  - http://www.adfarm.org.uk
+  - http://www.adfam.org.uk
   - http://www.alcoholics-anonymous.org.uk
   - http://www.alcohollearningcentre.org.uk
   - http://www.drinkaware/co.uk
