@@ -9,10 +9,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Big Life,  Lock 50, Oldham Road, Rochdale
   - operated by Big Life Group, Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
+  web-address:
+  - http://www.livingwellrochdale.com
 ---
 
 ### Information
