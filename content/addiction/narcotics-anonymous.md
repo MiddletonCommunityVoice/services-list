@@ -7,6 +7,8 @@ tags:
 areas:
 - Naitonwide
 contact:
+addresses:
+- nationwide
   phone:
   - 0300 999 1212
   web_addresses:
