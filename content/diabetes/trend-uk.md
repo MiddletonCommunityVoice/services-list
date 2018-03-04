@@ -2,7 +2,7 @@
 title: Trend UK
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - London, Durham & Northamptonshire

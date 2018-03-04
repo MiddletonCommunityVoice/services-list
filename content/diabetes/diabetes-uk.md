@@ -2,7 +2,7 @@
 title: Diabetes UK
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 - North West England
 contact:
   addresses:

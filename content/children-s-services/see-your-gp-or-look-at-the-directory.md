@@ -4,7 +4,7 @@ draft: false
 tags:
 - Help at Home
 areas:
-- Naitonwide
+- Nationwide
 contact:
   web_addresses:
   - http://www.counselling-directory.org.uk

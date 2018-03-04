@@ -2,7 +2,7 @@
 title: Disability Rights UK
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - 0207 250 8181

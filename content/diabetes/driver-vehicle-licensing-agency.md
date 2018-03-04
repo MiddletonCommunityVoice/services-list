@@ -2,7 +2,7 @@
 title: Driver & Vehicle Licensing Agency
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - Swansea

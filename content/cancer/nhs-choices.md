@@ -8,7 +8,7 @@ tags:
 areas:
 - Heywood
 - Middleton
-- Naitonwide
+- Nationwide
 - Rochdale
 contact:
   addresses:

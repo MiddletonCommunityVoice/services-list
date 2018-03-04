@@ -2,7 +2,7 @@
 title: Disability Matters
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - 0207 092 6108

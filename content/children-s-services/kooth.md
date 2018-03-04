@@ -4,7 +4,7 @@ draft: false
 tags:
 - Mental Health
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - Lineva House,  28 - 32, Milner Street, Warrington

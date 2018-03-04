@@ -5,7 +5,7 @@ tags:
 - Bowel Cancer
 - Cancer
 areas:
-- Naitonwide
+- Nationwide
 contact:
   web_addresses:
   - http://www.bowelcanceruk.org.uk

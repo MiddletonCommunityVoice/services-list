@@ -4,7 +4,7 @@ draft: false
 tags:
 - Help at Home
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - '0800 4 70 80 90'

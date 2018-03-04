@@ -2,7 +2,7 @@
 title: Childline
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - 1 -2 -1 webchat

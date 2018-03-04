@@ -5,7 +5,7 @@ tags:
 - Addiction
 - Drugs
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - 0300 123 6600

@@ -4,7 +4,7 @@ draft: false
 tags:
 - Help at Home
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - See your GP or local NHS
