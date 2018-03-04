@@ -5,10 +5,10 @@ tags:
 - Addiction
 - Drugs
 areas:
-- Naitonwide
+- Nationwide
 contact:
-addresses:
-- nationwide
+  addresses:
+  - nationwide
   phone:
   - 0300 999 1212
   web_addresses:
