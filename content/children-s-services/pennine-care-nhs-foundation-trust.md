@@ -30,9 +30,7 @@ contact:
   - 07507 330 382
   - on Twitter @healthyYM
   web_addresses:
-  - 0161 716 5970
-  - Text service only.
-  - healthyminds.penninecare.nhs.uk
+  - http://healthyminds.penninecare.nhs.uk
   - http://link4life.org/
   - http://www.healthyyoungmindspennine.nhs.uk
   - http://www.nhs.uk
