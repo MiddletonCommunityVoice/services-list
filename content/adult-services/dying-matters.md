@@ -2,7 +2,7 @@
 title: Dying Matters
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - '08000 21 44 66'

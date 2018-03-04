@@ -2,7 +2,7 @@
 title: Diabetes UK careline
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - '0845 120 2960'

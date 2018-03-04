@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - '111'

@@ -5,7 +5,7 @@ tags:
 - Addiction
 - Alcohol
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - 0300 123 1110

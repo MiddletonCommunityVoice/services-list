@@ -4,7 +4,7 @@ draft: false
 tags:
 - LGBT
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - London

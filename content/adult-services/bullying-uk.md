@@ -4,17 +4,15 @@ draft: false
 tags:
 - Children
 areas:
-- Naitonwide
+- Nationwide
 contact:
-address:
-- on Twitter at  @bullyinguk
   phone:
   - 0808 800 2222
   web_addresses:
   - http://www.bullying.co.uk
+  - https://twitter.com/bullyinguk
 ---
 
 ### Information
-On Twitter at  @bullyinguk
-Mostly for children within a chatline available
 
+Mostly for children within a chatline available

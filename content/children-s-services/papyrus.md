@@ -5,7 +5,7 @@ tags:
 - Help at Home
 - Mental Health
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - '0800 068  41 41'

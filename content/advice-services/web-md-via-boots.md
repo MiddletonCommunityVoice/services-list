@@ -4,7 +4,7 @@ draft: false
 tags:
 - Help at Home
 areas:
-- Naitonwide
+- Nationwide
 contact:
   addresses:
   - SEE YOUR GP first.  Boots Middleton Shopping Centre

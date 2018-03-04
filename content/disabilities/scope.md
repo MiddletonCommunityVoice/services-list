@@ -2,7 +2,7 @@
 title: Scope
 draft: false
 areas:
-- Naitonwide
+- Nationwide
 contact:
   phone:
   - '0808 800 333'
