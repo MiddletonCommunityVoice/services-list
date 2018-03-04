@@ -17,7 +17,6 @@ contact:
   - 01706 751 190
   - 01706 924 883
   web_addresses:
-  - https://rochdale.fsd.org.uk/smoking
   - http://www.rochdale.gov.uk/smoking
 ---
 
