@@ -5,8 +5,10 @@ areas:
 - Heywood
 - Middleton
 - Rochdale
+- Manchester
 contact:
   addresses:
+  - 72 to 74 Oxford Street
   - Knowsley Street, Bury
   phone:
   - 116 123
@@ -15,6 +17,7 @@ contact:
 ---
 
 ### Information
-Open 24 hours for help and advice
-for young and adults
+Manchester open 8.30am to 8.30pm every day.
+Bury open every day. Limited hours
+Help and advice for young people and adults. limited hours
 

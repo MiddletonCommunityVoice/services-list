@@ -12,6 +12,9 @@ contact:
   addresses:
   - Big Life,  Lock 50, Oldham Road, Rochdale
   phone:
-  - 01706 751 190
+  -01706 751 190
+  web_addresses:
+  - http://www.livingwellrochdale.com
+
 ---
 

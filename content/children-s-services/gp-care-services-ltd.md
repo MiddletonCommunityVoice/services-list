@@ -11,7 +11,6 @@ contact:
   phone:
   - 01706 906 940
   web_addresses:
-  - 01706 261 868
   - http://www.gpcareservices.co.uk
 ---
 

@@ -22,7 +22,7 @@ contact:
   - 01706 927 292
   - is 01706 71 99 00 correct ?
   web_addresses:
-  - N1RSchools.Improvement@rochdale.gov.uk
+  - http://N1RSchools.Improvement@rochdale.gov.uk
   - http://www.healthyyoungmindspennine.nhs.uk/thrive 
   - http://www.rochdale.gov.uk
   - http://www.rochdale.gov.uk/childrenscentres

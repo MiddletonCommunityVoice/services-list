@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 866 8483
   web_addresses:
-  - asgma.org.uk
+  - http://asgma.org.uk
 ---
 

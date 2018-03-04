@@ -8,8 +8,8 @@ areas:
 - Nationwide
 contact:
   phone:
-  - '0800 068  41 41'
-  - '0808 802 5544'
+  - 0800 068 4141
+  - 0808 802 5544
   web_addresses:
   - http://www.papyrus-uk.org
 ---

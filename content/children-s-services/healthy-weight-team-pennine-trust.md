@@ -9,7 +9,8 @@ contact:
   phone:
   - 01706 901 822
   web_addresses:
-  - pah-tr.bhhdiabetics@nhs.net
+  - http://www.pat.nhs.uk/our-services/healthy-weight-team.htm
+  - Email to pah-tr.bhhdietetics@nhs.net
 ---
 
 ### Information

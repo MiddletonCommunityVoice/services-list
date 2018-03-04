@@ -12,6 +12,8 @@ contact:
   - Croft Shifa Health Centre, Belfield Road, Rochdale
   phone:
   - 01706 261 883
+  web_addresses:
+  - http://www.penninecare.nhs.uk/
 ---
 
 ### Information

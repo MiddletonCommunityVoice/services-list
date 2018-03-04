@@ -7,9 +7,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Doorstep Sports Centre,  Heywood
+  - Star Work Wham Street  Heywood
   phone:
-  - '07907 056 211'
+  - 07907 056 211  Kieran Farrell
+  web_addresses:
+  - http://www.thepeoplesgym.net
 ---
 
 ### Information
