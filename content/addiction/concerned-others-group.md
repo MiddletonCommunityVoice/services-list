@@ -20,7 +20,7 @@ contact:
   - 01706 622 722
   - 01706 676 500
   - 01706 751 175
-  web address:
+  web_addresses:
   - http://www.burnsidecentre.org.uk
 
 ---
