@@ -13,5 +13,6 @@ Contacts:
 ---
 
 ### Information
-Booklet 2nd Edition. Choose TOPICS to find more or type Niace in the search bar
+Booklet 2nd Edition. 
+Online, choose TOPICS to find more or type Niace in the search box.
 

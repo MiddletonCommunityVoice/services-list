@@ -13,5 +13,5 @@ Contacts:
 ---
 
 ### Information
-Skill cards
+Skill cards and other information online
 
