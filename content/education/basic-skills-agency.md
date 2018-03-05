@@ -9,7 +9,6 @@ areas:
 Contacts:
   web_addresses:
   - http://www.skillsforlifenetwork.com
-
 ---
 
 ### Information
