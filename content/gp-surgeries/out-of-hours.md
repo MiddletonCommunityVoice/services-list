@@ -7,10 +7,11 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - Middleton Health Centre, 1st Floor, Middleton Shopping Centre
   - Birle View Surgery, Heywood
   - Kingsway Surgery, Rochdale  ( on Morrison's Car Park )
   - Littleborough Health Centre
-  - Middleton Health Centre, 1st Floor, Middleton Shopping Centre
+  
   phone:
   - 0161 763 8292
 ---

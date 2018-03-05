@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 2nd Floor.   Middleton Shopping Centre
+  - Within the Lighthouse, 2nd Floor. Middleton Shopping Centre
   phone:
   - 0161 871 2011
   web_addresses:
