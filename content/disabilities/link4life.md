@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact: 
   addresses:
-  - Ask at the Arena and the Lighthouse
+  - Ask at the Arena or the Lighthouse
   phone:
   - 0161 662 4000
   - 0161 643 1163
