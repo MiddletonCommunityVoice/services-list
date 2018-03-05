@@ -6,7 +6,7 @@ areas:
 - Heywood
 - Middleton
 - Rochdale
-Contacts:
+contact:
   web_addresses:
   - http://www.skillsforlifenetwork.com
 ---
