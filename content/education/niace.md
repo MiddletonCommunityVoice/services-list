@@ -7,7 +7,7 @@ areas:
 - Middleton
 - Rochdale
 web_addresses:
-  - http://www.local.gov.uk
+  - http://www.local.gov.uk/
 
 ---
 

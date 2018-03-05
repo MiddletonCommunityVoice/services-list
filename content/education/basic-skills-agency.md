@@ -2,7 +2,7 @@
 title: Basic Skills Agency
 draft: false
 areas:
-- Nationewide
+- Nationwide
 - Heywood
 - Middleton
 - Rochdale
