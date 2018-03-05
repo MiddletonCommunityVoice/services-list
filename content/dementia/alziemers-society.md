@@ -8,10 +8,10 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - D'olivera Court, Wood Street,  Langley, Middleton
   - 585-591, Oldham Road, Rochdale
   - Butterworth Hall, New Street, Milnrow
   - Café's @ Middleton, Milnrow, Heywood
-  - D'olivera Court, Wood Street,  Langley, Middleton
   - St. Andrew’s Church, Entwisle Road, Rochdale
   phone:
   - 0161 342 0797
@@ -20,7 +20,6 @@ contact:
   web_addresses: 
   - http://www.alzheimers.org.uk
   - http://www.housingcare.org
-  - Email to michaeltomlinson@btinternet.com
 ---
 
 ### Information
