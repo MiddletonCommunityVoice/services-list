@@ -3,12 +3,14 @@ title: Demesne Community Centre
 draft: false
 areas:
 - Langley
+- Middleton
 contact:
   addresses:
   - Asby Drive Langley Middleton
   phone:
   - 0161 653 2902
   web_addresses:
-  - Not known
+  - http://demesnecommunitycentre.org.uk/
+
 ---
 

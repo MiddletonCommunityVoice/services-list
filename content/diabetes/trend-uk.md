@@ -9,7 +9,7 @@ contact:
   phone:
   - 01604 882 342
   web_addresses:
-  - http://www.trend-UK.org.uk
+  - http://www.trend-UK.org
 ---
 
 ### Information

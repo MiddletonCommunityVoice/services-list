@@ -17,10 +17,10 @@ contact:
   - 0161 342 0797
   - 01706 357 785
   - 01706 751 838
-  web_addresses:
-  - michaeltomlinson@btinternet.com
+  web_addresses: 
   - http://www.alzheimers.org.uk
   - http://www.housingcare.org
+  - Email to michaeltomlinson@btinternet.com
 ---
 
 ### Information
