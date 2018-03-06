@@ -11,8 +11,7 @@ contact:
   phone:
   - 01706 901 822
   web_addresses:
-  - http://www.nhs.uk
-  - http://www.penninecare/nhs.net
+  - https://www.penninecare.nhs.uk/
 ---
 
 ### Information

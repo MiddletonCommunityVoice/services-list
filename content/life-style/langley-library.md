@@ -4,7 +4,8 @@ draft: false
 tags:
 - Social
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
@@ -12,11 +13,13 @@ contact:
   phone:
   - 0161 654 8911
   web_addresses:
-  - langley.library@rochdale.gov.uk
+  - http://rochdale.gov.uk/library-services/
+
 ---
 
 ### Information
-One to One and group sessions available
+One to One and group sessions available or group sessions
+on Family History,  IT or Jobseekers
 
 ### Opening Times
 * Mon & Tues 10 - 12

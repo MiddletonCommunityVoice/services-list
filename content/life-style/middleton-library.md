@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 927 101
   web_addresses:
-  - middleton.library@rochdale.gov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Information
