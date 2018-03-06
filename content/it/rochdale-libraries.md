@@ -13,9 +13,9 @@ contact:
   - Middleton Library,  Long Street, Middleton
   - Riverside One, Smith Street, Rochdale
   phone:
+  - 0300 303 8876
   - 0161 654 8911
   - 01706 925 939
-  - 0300 303 8876
   web_addresses:
   - langley.library@rochdale.gov.uk
   - rochdale.gov.uk/libraries

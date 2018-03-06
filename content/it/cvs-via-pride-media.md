@@ -1,5 +1,5 @@
 ---
-title: CVS via Pride Media
+title: CVS has CLOSED but service still operates
 draft: false
 areas:
 - Heywood

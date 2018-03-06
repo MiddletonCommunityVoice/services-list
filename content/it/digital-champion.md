@@ -1,5 +1,5 @@
 ---
-title: Digital Champion
+title: Digital Champions
 draft: false
 areas:
 - Heywood

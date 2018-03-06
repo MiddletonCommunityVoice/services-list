@@ -14,5 +14,5 @@ contact:
 Lots of training courses
 
 ### Opening Times
-* 7.45 - 6pm
+* 7.45am - 6pm
 

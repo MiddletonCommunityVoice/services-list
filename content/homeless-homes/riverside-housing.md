@@ -1,5 +1,5 @@
 ---
-title: Rochdale Housing Association
+title: Riverside Housing Association
 draft: false
 areas:
 - Heywood
