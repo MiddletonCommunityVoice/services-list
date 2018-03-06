@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 751 190
   web_addresses:
-  - comminity.champions@rochdale.gov.uk
+  - http://www.livingwellrochdale.com
 ---
 
 ### Information

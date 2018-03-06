@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 654 8911
   web_addresses:
-  - langley.library@rochdale.gov.uk
+  -http://rochdale.gov.uk/library-services/local-libraries/Pages/langley-library.aspx
 ---
 
 ### Information
