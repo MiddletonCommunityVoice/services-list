@@ -11,7 +11,7 @@ contact:
   phone:
   - 0161 654 8911
   web_addresses:
-  - http://rochdale.gov.uk/library-services/
+  - https://rochdale.gov.uk/library-services/
 ---
 
 ### Information
