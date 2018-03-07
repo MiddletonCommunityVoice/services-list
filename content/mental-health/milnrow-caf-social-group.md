@@ -7,9 +7,9 @@ contact:
   addresses:
   - Butterworth Hall, New Street, Milnrow
   phone:
-  - 0161 342 0797
-  web_addresses:
+  - 07582 954 228
   - 01706 357 785
+  web_addresses:
   - http://www.alzheimers.org.uk
 ---
 
