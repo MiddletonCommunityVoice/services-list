@@ -14,11 +14,10 @@ contact:
   - 01706 752 343
   - 01706 861 598
   web_addresses:
-  - info@rochdalemind.org.uk
-  - http://www.mind.org
   - http://www.rochdalemind.org.uk
+  
 ---
 
 ### Information
-Taking up sport. "Get set to go" project.  Contact Melanie Tilley
+Taking up sport. "Get set to go" project.  Contact Melanie Tilley at info@rochdalemind.org.uk
 

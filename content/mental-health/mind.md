@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 752 338
   web_addresses:
-  - http://www.rochdalemind.org.uk
+  - http://www.mind.org.uk
 ---
 
 ### Information
