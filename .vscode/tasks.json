@@ -6,7 +6,7 @@
 		{
 			"label": "Run Server",
 			"type": "shell",
-			"command": "hugo server --watch",
+			"command": "hugo.exe server --watch",
 			"group": {
 				"kind": "build",
 				"isDefault": true
