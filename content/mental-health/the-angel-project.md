@@ -9,7 +9,7 @@ contact:
   phone:
   - 0161 637 4010
   web_addresses:
-  - https://www.livingwellrochdale.com/service/angel-project-community-cafe/
+  - http://www.livingwellrochdale.com/service/angel-project-community-cafe/
   - 
 ---
 
