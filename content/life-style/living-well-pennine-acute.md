@@ -1,6 +1,8 @@
 ---
 title: Living Well / Pennine Acute
 draft: false
+tags:
+- social
 areas:
 - Heywood
 - Middleton
