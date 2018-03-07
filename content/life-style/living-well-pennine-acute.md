@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  Many see website
+  - See website
   phone:
   - 01706 901 822
   web_addresses:
