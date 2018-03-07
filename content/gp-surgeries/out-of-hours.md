@@ -1,5 +1,5 @@
 ---
-title: GP 7 days out of hours surgeries
+title: GP 7 day surgeries extra hours
 draft: false
 areas:
 - Heywood
@@ -8,9 +8,9 @@ areas:
 contact:
   addresses:
   - Middleton Health Centre, 1st Floor, Middleton Shopping Centre
-  - Birle View Surgery, Heywood
-  - Kingsway Surgery, Rochdale  ( on Morrison's Car Park )
-  - Littleborough Health Centre
+  - The Phoenix Centre, Heywood ( behind the Library )
+  - Whitehall Street, Rochdale
+  - Pennine Surgery, Littleborough Health Centre
   
   phone:
   - 0161 763 8292
