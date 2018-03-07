@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 643 3036
   web_address:
-  - not known
+  - http://www.rochdale.gov.uk/library-services/local-libraries/
 ---
 

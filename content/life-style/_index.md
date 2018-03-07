@@ -1,4 +1,4 @@
 ---
-title: Life
+title: Life Style
 ---
-# Life
+# Life Style
