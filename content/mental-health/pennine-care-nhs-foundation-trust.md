@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 676 100
   web_addresses:
-  - http://www.penninecare.nhs.uk/your-services/services-directory/
+  - http://www.penninecare.nhs.uk/your-services/mental-health-service/
 ---
 
 ### Opening Times
