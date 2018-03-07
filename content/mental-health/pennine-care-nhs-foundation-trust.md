@@ -9,11 +9,11 @@ contact:
   addresses:
   - Birch Hill Hospital,  Birch Road, Rochdale
   phone:
-  - 01706 676100
+  - 01706 676 100
   web_addresses:
   - http://www.penninecare.nhs.uk/your-services/services-directory/
 ---
 
 ### Opening Times
-* Menatl help 7 days a week 8am - 9pm
+* Mental help 7 days a week 8am - 9pm
 
