@@ -7,10 +7,12 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Windermere Rd Langley Middleton
+  - Windermere Rd Langley Middleton via Riverside Housing
   phone:
   - 0161 654 8911
   web_addresses:
-  - langley.library@rochdale.gov.uk
+  - http://riverside.org.uk
 ---
+### Information
+By appointment only on 0345 111 0000 open 24hrs
 

@@ -10,7 +10,7 @@ contact:
   - St Alban's House, Drake St. Rochdale
   phone:
   - 0300 303 8875
-  - '0800 027 7769'
+  - 0800 027 7769
   web_addresses:
   - http://www.rbh.org.uk
   - http://www.rbh.org.uk/homelessness-services

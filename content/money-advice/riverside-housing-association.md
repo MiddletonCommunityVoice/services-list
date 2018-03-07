@@ -6,8 +6,6 @@ areas:
 contact:
   addresses:
   - Lingmel Close, Langley, Middleton
-  - Lingmell Close, Langley, Middleton
-  - Riverside. Lingmell Close, Langley, Middleton
   phone:
   - 0345 111 0000
   web_addresses:

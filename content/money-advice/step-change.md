@@ -7,7 +7,7 @@ contact:
   addresses:
   - Wade House, Merrion Centre, Leeds
   phone:
-  - '0800 138 1111'
+  - 0800 138 1111
   web_addresses:
   - http://www.stepchange.org
 ---

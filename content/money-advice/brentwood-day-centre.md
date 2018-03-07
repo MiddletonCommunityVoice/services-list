@@ -8,7 +8,6 @@ areas:
 contact:
   addresses:
   - 115 Long Street Middleton
-  - Long Street, Middleton
   phone:
   - 0161 655 4062
   web_addresses:
@@ -17,5 +16,5 @@ contact:
 
 ### Opening Times
 * Mon - Fri
-* Mornings Only
+* Mornings Only for meals
 

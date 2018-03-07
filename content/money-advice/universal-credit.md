@@ -5,10 +5,9 @@ areas:
 - Nationwide
 contact:
   web_addresses:
-  - dailyjobseeker.tumblr.com
   - http://www.gov.uk/apply-universal-credit
+  - http://dailyjobseeker.tumblr.com
 ---
 
 ### Information
 gov.uk/openingupwork
-

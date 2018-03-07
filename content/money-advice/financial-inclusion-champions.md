@@ -7,10 +7,10 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Rochdale Council, Number One, Riverside, Smith Street, Rochdale
+  - Living Well, lock 50, Oldham Road, Rochdale
   phone:
   - 01706 925 919
   web_addresses:
-  - http://www.rochdale.gov.uk/communitychampions
+  - http://www.livingwellrochdale.com
 ---
 

@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-Free advice. Book for a local appointment in Middleton
+Free advice. Book a local appointment in Middleton via Sure Start
 

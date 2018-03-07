@@ -3,11 +3,13 @@ title: Manchester Credit Union
 draft: false
 areas:
 - Greater Manchester
-- Langley Tenants
+- Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Riverside Housing, Lingmell Close, Langley, Middleton
-  - Riverside Housing. Lingmell Close, Langley, Middleton
+  - Rochdale Borough Libraries
   phone:
   - 0161 231 5222
   web_addresses:
@@ -15,8 +17,8 @@ contact:
 ---
 
 ### Information
-By appointment only on 0345 111 0000 open 24hrs
+By appointment only on 0345 111 0000 open 24hrs at Riverside Housing
 
 ### Opening Times
-* Appoinment only
+* Appoinment only via Riverside Housing
 
