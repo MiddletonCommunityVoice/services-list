@@ -10,6 +10,7 @@ contact:
   - 0161 393 7730
   - 0161 275 6666
 tags:
+- Hospital
 - Oral Medicine
 - Oral Surgery
 - Orthadontics

@@ -10,6 +10,9 @@ contact:
   - 0161 276 1234
   web_addresses:
   - http://www.cmft.nhs.uk/royal-eye
+tags:
+  - Hospital
+  - Eye Surgery
 ---
 
 ### Information

@@ -11,6 +11,7 @@ contact:
   web_addresses:
   - http://www.srft.nhs.uk/
 tags:
+- Hospital
 - A&E
 - Neurology
 - Neurosurgery

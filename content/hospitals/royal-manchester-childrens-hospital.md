@@ -9,6 +9,7 @@ contact:
   phone:
   - 0161 276 1234
 tags:
+- Hospital
 - Paediatric Emergency Department
 - Critical Care
 - Burns Service

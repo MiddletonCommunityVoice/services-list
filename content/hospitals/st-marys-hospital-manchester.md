@@ -11,6 +11,7 @@ contact:
   web_addresses:
   - http://www.cmft.nhs.uk/saint-marys
 tags:
+- Hospital
 - Genomic Medicine
 - Gynaecology
 - Maternity
