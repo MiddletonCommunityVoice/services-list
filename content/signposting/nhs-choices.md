@@ -6,7 +6,7 @@ tags:
 areas:
 - Nationwide
 contact:
-address:
+  address:
   phone:
   - 111
   web_address:
