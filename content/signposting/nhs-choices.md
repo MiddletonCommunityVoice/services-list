@@ -9,7 +9,7 @@ contact:
 address:
 - Online Nationwide
   phone:
-  - '111'
+  - 111
   web_address:
   - http://www.nhs.uk
 ---
