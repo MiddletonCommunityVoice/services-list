@@ -9,9 +9,10 @@ contact:
   addresses:
   - Rochdale
   phone:
-  - '0800 032 0868'
-  web_addresses:
-  - http://www.cvsr.org.uk
+  - 0800 112 3440
+  - 01706 751 165
+  web_address:
+  - http://hmrcircle.org.uk
 ---
 
 ### Information

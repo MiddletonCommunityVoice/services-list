@@ -1,5 +1,5 @@
 ---
-title: SEE TRANSPORT for GREATER MANCHESTER
+title: Bus Pass Renewals via TRANSPORT for GREATER MANCHESTER
 draft: false
 areas:
 - Greater Manchester
@@ -8,8 +8,8 @@ contact:
   - 2, Piccadilly Place, Manchester
   - GM Travel Shops
   phone:
-  - 0161 244 1000
   - 0161 244 1050
+  - 0161 244 1000
   web_addresses:
   - http://www.tfgm.com
 ---
