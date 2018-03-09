@@ -7,7 +7,7 @@ areas:
 - Nationwide
 contact:
 address:
-- Online Nationwide
+  - Nationwide
   phone:
   - 111
   web_address:
