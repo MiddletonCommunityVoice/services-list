@@ -18,7 +18,7 @@ contact:
 ---
 
 ### Information
-Main phone number
+
 Advice line
 
 ### Opening Times

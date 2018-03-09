@@ -9,6 +9,8 @@ contact:
   phone:
   - 01706 901 822
   web_addresses:
-  - pah-tr.bhhdiabetics@nhs.net
+  - http://www.pat.nhs.uk
 ---
+### Information
 
+Email:  pah-tr.bhhdiabetics@nhs.net

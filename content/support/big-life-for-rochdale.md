@@ -1,5 +1,5 @@
 ---
-title: Big Life for Rochdale
+title: Living Well Rochdale
 draft: false
 areas:
 - Heywood

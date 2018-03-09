@@ -1,5 +1,5 @@
 ---
-title: via Manchester City Council
+title: LGBT via Manchester City Council
 draft: false
 areas:
 - Heywood
@@ -18,5 +18,5 @@ contact:
 Lesbian / Gay Community
 
 ### Opening Times
-* Tue / Thu 730pm to 10pm
+* Tue / Thu 7.30pm to 10pm
 

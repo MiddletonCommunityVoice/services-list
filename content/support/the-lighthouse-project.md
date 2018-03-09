@@ -15,7 +15,7 @@ contact:
 ---
 
 ### Information
-Many activities for men and women.  Men in Shed / Knit & Natter
+Many activities for men and women.  Men in Sheds / Knit & Natter
 
 ### Opening Times
 * Mon - Fri 10am to 4pm   See timetable online at the website
