@@ -7,7 +7,7 @@ areas:
 - Nationwide
 contact:
   phone:
-  - 111
+  - '111'
   web_address:
   - http://www.nhs.uk
 ---

@@ -11,7 +11,7 @@ contact:
   phone:
   - 01706 647 474
   web_addresses:
-  - https://rochdale.fsd.org.uk/kb5/rochdale/fsd/home
+  - https://rochdale.fsd.org.uk/
 ---
 
 ### Information

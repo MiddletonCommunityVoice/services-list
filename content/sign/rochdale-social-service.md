@@ -11,7 +11,6 @@ contact:
   phone:
   - 0300 303 8886
   web_addresses:
-  - http://wwww.rochdale.gov.uk/social-care-and-support
-
+  - http://www.rochdale.gov.uk/social-care-and-support
 ---
 
