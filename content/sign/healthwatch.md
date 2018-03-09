@@ -1,5 +1,5 @@
 ---
-title: Healthwatch
+title: Healthwatch Rochdale
 draft: false
 areas:
 - Heywood
@@ -7,7 +7,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - KYP, Belfield Road, Rochdale
+  - Unique Enterprise Centre, Belfield Road, Rochdale
   phone:
   - 01706 249 575
   web_addresses:
@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-ONLINE Directory. Hard copy at GP surgeries. Complaints service.
+Your chance as a patient, to improve services or complain. Also an ONLINE Directory. Hard copy at GP surgeries.
 

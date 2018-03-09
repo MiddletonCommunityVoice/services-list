@@ -11,9 +11,9 @@ contact:
   phone:
   - 01706 647 474
   web_addresses:
-  - https://staywell.rochdale.gov.uk/web/portal/pages/
+  - https://staywell.rochdale.gov.uk/
 ---
 
 ### Information
-ONLINE DIRECTORY.
+ONLINE DIRECTORY OF SERVICES.
 

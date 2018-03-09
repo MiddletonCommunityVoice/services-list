@@ -7,6 +7,8 @@ areas:
 - Rochdale
 contact:
   phone:
-  - '111'
+  - 111
+  web_addresses:
+  - http://www.nhs.uk
 ---
 

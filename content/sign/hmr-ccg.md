@@ -12,6 +12,5 @@ contact:
   - 01706 652 853
   web_addresses:
   - http://www.hmr.nhs.uk/
-  - http://www.nhs.uk
 ---
 

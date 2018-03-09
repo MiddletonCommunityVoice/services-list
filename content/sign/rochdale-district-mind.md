@@ -15,7 +15,7 @@ contact:
 ---
 
 ### Information
-Many other phone numbers depending on the service is required
+Phone for advice.  Also online directory of services
 
 ### Opening Times
 * Open Mon to Fri  9.30 - 4.30

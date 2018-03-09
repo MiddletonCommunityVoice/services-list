@@ -11,5 +11,5 @@ contact:
 ---
 
 ### Information
-ONLINE Directory. Hard copy at The Lighthouse Project
+ONLINE Directory of Services. Hard copy at The Lighthouse Project. Here to help you find the services you need.
 

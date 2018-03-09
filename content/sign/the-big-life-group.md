@@ -1,5 +1,5 @@
 ---
-title: The Big Life Group
+title: Living Well / Big Life Group
 draft: false
 areas:
 - Heywood
@@ -9,9 +9,9 @@ contact:
   addresses:
   - Lock 50  Oldham Road  Rochdale
   phone:
-  - 01706 751190
+  - 01706 751 190
   web_addresses:
-  - http://www.thebiglifegroup.com
+  - http://www.livingwellrochdale.com
 ---
 
 ### Information

@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-ONLINE DIRECTORY.
+ONLINE DIRECTORY OF FAMILY SERVICES
 
