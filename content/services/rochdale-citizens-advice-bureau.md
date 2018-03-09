@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-By appointment only.
+Ask for a local appointment only.
 
 ### Opening Times
 * Mon -Fri  9am - 4pm

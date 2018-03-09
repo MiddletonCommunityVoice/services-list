@@ -7,11 +7,11 @@ areas:
 - Middleton
 contact:
   addresses:
-  - Royal Oldham Hospital Rochdale Road Oldham
+  - Sure Start, Windermere Road, Langley, Middleton
   phone:
   - 0161 653 9526
 ---
 
 ### Information
-By appointment only.
+To book a local appointment with CAB.
 

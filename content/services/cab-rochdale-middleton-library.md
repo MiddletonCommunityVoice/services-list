@@ -9,11 +9,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Sure Start, Windermere Road, Langley, Middleton
+  - Long Street, Middleton
   phone:
   - 01706 927 101
 ---
 
 ### Information
-By appointment only.
+To book a local appointment with CAB.
 
