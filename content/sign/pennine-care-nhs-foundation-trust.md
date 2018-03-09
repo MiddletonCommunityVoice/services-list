@@ -2,7 +2,8 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
@@ -10,7 +11,6 @@ contact:
   phone:
   - 0161 716 3000
   web_addresses:
-  - http://www.penninecare.nhs.uk/your-services/services-directory/
-  - http://www.penninecare/nhs.net
+  - http://www.penninecare.nhs.uk/your-services/
 ---
 
