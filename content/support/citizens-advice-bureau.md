@@ -11,12 +11,12 @@ areas:
 - Bury
 contact:
   addresses:
+  - Middleton Library, Long St Middleton
   - Ashcroft Court  Peter Street Oldham
-  - Middleton Township Office, Middleton Library, Long St Middleton
   phone:
-  - 0161 627 8333
   - 0300 330 1153
   - 03444 889 662
+  - 0161 627 8333
   web_addresses:
   - http://www.burycab.org.uk
   - http://www.oldhamcab.org.uk
