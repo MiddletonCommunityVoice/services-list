@@ -1,5 +1,5 @@
 ---
-title: Big Life / Living Well
+title: Living Well / Big Life
 draft: false
 tags:
 - Support Services
@@ -9,10 +9,12 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - Living Well, Lock 50, Oldham Road, Rochdale
   - Big Life HQ, 1st Fl.  463 Stretford Road, Manchester
   phone:
-  - 0161 848 2420
+  - 01706 751 190
+   -0161 848 2420
   web_addresses:
-  - http://www.thebiglifegroup.com/big-life-centres
+  - http://www.livingwellrochdale.com
 ---
 

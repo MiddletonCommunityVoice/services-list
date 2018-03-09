@@ -9,11 +9,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Big Life Group, Lock 50  Oldham Road  Rochdale
-  - Middleton Location
+  - Living Well, Lock 50  Oldham Road  Rochdale
+  - Middleton at The Lighthouse Project
   phone:
   - 01706 751 190
-  - '07580 876 566'
+  - 07580 876 566
   web_addresses:
   - http://www.livingwellrochdale.com
 ---
