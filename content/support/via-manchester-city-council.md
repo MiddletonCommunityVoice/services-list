@@ -11,7 +11,7 @@ contact:
   phone:
   - 0207 403 5969
   web_addresses:
-  - https://hsm.manchester.gov.uk/kb5/manchester/directory/service
+  - https://hsm.manchester.gov.uk/
 ---
 
 ### Information

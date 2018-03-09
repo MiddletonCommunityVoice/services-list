@@ -1,11 +1,11 @@
 ---
-title: Lesbian Gay Suuport group
+title: Lesbian Gay Support group
 draft: false
 tags:
 - LGBT
 contact:
   web_addresses:
-  - http://www.salford.gov.uk/.../community-cohesion/lgbt-support
+  - https://www.salford.gov.uk/people-communities-and-local-information/community-cohesion/lgbt-support/
 ---
 
 ### Information
