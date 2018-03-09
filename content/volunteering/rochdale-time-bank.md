@@ -9,7 +9,7 @@ contact:
   phone:
   - 01706 515805
   web_addresses:
-  - rochdalesolutions.wordpress.com/rochdale-timebank/
+  - http://rochdalesolutions.wordpress.com/rochdale-timebank/
 ---
 
 ### Information

@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-Community Transport for a small charge.  HMR Circle has now taken over this services using the same phone number.
+Only the drivers service is operating until new companies are given the contracts
 
 ### Opening Times
 * Mon - Fri 9 - 12 & 1 - 4pm

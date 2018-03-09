@@ -16,7 +16,7 @@ contact:
 ---
 
 ### Information
-volunteering
+volunteering.  Become a Community Champion.
 
 ### Opening Times
 * Customer Service Centre open 24hrs

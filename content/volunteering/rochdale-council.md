@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - operated by Big Life Group, Lock 50, Oldham Road, Rochdale
+  - operated by Living Well, Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
   web-address:
@@ -18,5 +18,5 @@ contact:
 
 ### Information
 volunteering
-Join their Community Champions  ( 01706 925 939 )
+Join the Community Champions  ( 01706 925 939 )
 
