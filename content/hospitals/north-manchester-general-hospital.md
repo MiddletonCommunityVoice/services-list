@@ -11,6 +11,7 @@ contact:
   web_addresses:
   - http://www.pat.nhs.uk/our-hospitals/north-manchester-general-hospital/
 tags:
+- Hospital
 - Maternity
 - A&E
 ---

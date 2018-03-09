@@ -11,6 +11,7 @@ contact:
   web_addresses:
   - http://www.cmft.nhs.uk/royal-infirmary
 tags:
+- Hospital
 - A&E
 - Urology
 - Orthopaedic

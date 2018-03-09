@@ -1,4 +1,9 @@
 <tr>
+	<td class="category">
+		{{ if .Params.Tags }}
+			{{ index .Params.Tags 0 }}
+		{{ end }}
+	</td>
 	<td>
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
 	</td>

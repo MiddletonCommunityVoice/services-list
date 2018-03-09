@@ -9,6 +9,7 @@
 	<table class="card">
 		<thead>
 			<tr>
+				<th>Category</th>
 				<th>Name</th>
 				<th>Telephone Number</th>
 				<th>Web Address</th>
@@ -16,7 +17,8 @@
 			</tr>
 		</thead>
 		<tbody>
-			{{ range .Data.Pages }}
+
+			{{ range sort .Data.Pages ".Params.Tags" }}
 				{{ partial "row" . }}
 			{{ end }}
 		</tbody>
