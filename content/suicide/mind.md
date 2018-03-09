@@ -9,7 +9,7 @@ contact:
   addresses:
   - 3 -11, Drake Street, Rochdale
   phone:
-  - 010706 752 338
+  - 01706 752 338
   - 0300 123 3393
   - 0800 107 0729
   web_addresses:
@@ -17,6 +17,7 @@ contact:
 ---
 
 ### Information
-Online Signposting directory
 For help and advice
 for young and adults
+Online Services directory
+

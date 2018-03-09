@@ -8,12 +8,10 @@ areas:
 contact:
   addresses:
   - Birch Hill Hospital,  Birch Road, Rochdale
-
   phone:
   - 01706 676100
-
   web_addresses:
-  - http://www.penninecare.nhs.uk/your-services/services-directory/
+  - http://www.penninecare.nhs.uk/your-services/
   
 ---
 

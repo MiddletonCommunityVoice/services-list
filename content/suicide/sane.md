@@ -6,8 +6,8 @@ areas:
 
 contact:
   phone:
+  - 0300 304 7000
   - '0845 676 8000'
-
   web_addresses:
   - http://www.sane.org.uk
   
