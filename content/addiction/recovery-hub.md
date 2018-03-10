@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Forward Together Cafe, Champness Jall, Drake St, Rochdale
+  - Forward Together Cafe, Champness Hall, Drake St, Rochdale
   phone:
   - 01076 924 883
   web_addresses:
