@@ -2,7 +2,7 @@
 title: Recovery Hub
 draft: false
 tags:
-- Drug Addiction
+- Drug & Alcohol
 - Addiction
 areas:
 - Heywood
