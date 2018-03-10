@@ -2,7 +2,7 @@
 title: Concerned Others Group
 draft: false
 tags:
-- Addiction
+- Drug Addiction
 - Drugs
 areas:
 - Heywood

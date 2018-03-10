@@ -2,8 +2,8 @@
 title: DAAT Drug Alcohol Action Team
 draft: false
 tags:
+- Drugs & Alcohol
 - Addiction
-- Drugs
 areas:
 - Heywood
 - Middleton
