@@ -2,10 +2,10 @@
 title: CH Dance
 draft: false
 tags:
-- Social
+- Dance & Social
 contact:
   address:
-  - talk to Carrie
+  - Events across Manchester
   phone:
   - 07710 745 702
 ---
