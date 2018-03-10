@@ -20,4 +20,3 @@ contact:
 
 ### Opening Times
 * check the directory for further detail
----
