@@ -2,8 +2,8 @@
 title: Mutual Aid
 draft: false
 tags:
-- Addiction
 - Alcohol
+- Addiciton
 areas:
 - Heywood
 - Middleton

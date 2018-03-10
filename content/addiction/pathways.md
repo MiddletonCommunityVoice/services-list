@@ -2,8 +2,8 @@
 title: Pathways
 draft: false
 tags:
+- Drug Addiction
 - Addiction
-- Drugs
 areas:
 - Heywood
 - Middleton
