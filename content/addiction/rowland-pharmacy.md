@@ -2,8 +2,9 @@
 title: Rowland Pharmacy
 draft: false
 tags:
-- Addiction
+- Needle exchange
 - Drugs
+- Alcohol
 areas:
 - Heywood
 - Middleton

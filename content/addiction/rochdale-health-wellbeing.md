@@ -2,8 +2,8 @@
 title: Rochdale Health & Wellbeing
 draft: false
 tags:
+- Drugs & Alcohol
 - Addiction
-- Drugs
 areas:
 - Heywood
 - Middleton

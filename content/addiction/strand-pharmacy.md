@@ -2,8 +2,9 @@
 title: Strand Pharmacy
 draft: false
 tags:
-- Addiction
+- Needle exchange
 - Drugs
+- Addiction
 areas:
 - Heywood
 - Middleton
