@@ -4,7 +4,7 @@ draft: false
 tags:
 - Activities & Volunteering
 contact:
-  Addresses:
+  Address:
   - Lock 50 Oldham Road Rochdale
   phone:
   - 0800 112 3440
