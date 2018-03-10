@@ -2,7 +2,7 @@
 title: Gamblers Anonymous
 draft: false
 tags:
-- Gambling
+- Gambling addiction
 - Money
 - Addiction
 areas:

@@ -2,7 +2,7 @@
 title: Narcoltics Anonymous
 draft: false
 tags:
-- Drugs
+- Drug addiction
 - Addiction
 areas:
 - Heywood

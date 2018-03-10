@@ -2,7 +2,7 @@
 title: Mutual Aid
 draft: false
 tags:
-- Alcohol
+- Alcohol addiction
 - Addiciton
 areas:
 - Heywood

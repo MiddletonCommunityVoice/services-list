@@ -2,9 +2,8 @@
 title: Alcoholics Anonymous
 draft: false
 tags:
-- Alcohol
-- addirction
-- Drugs
+- Alcohol addiction
+- Addiction
 areas:
 - Nationwide
 contact:
