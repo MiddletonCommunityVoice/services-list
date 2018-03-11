@@ -1,6 +1,8 @@
 ---
-title: Rochdale Council via Big Life
+title: Rochdale Council via Living Well
 draft: false
+tags:
+- Help from Community Champions
 areas:
 - Heywood
 - Middleton
