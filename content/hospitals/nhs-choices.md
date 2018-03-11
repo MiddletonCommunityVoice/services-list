@@ -1,6 +1,8 @@
 ---
 title: NHS Choices
 draft: false
+tags:
+- Find a Hospital
 areas:
 - Nationwide
 contact:

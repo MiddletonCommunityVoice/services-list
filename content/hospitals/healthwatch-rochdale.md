@@ -1,6 +1,8 @@
 ---
 title: Healthwatch Rochdale
 draft: false
+tags:
+- Patient quality and complaints
 areas:
 - Heywood
 - Middleton
