@@ -8,7 +8,7 @@ areas:
 - Nationwide
 contact:
   address:
-  - Numer One Riverside, Smith St Rochdale
+  - Number One Riverside, Smith St Rochdale
   phone:
   - 0300 123 6600
   web_addresses:
