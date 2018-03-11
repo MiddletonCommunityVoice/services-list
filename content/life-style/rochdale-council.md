@@ -1,6 +1,8 @@
 ---
 title: Rochdale Council
 draft: false
+tags:
+- Healthy Weight Team
 areas:
 - Heywood
 - Middleton

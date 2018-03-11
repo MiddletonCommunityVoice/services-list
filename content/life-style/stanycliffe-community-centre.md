@@ -2,7 +2,7 @@
 title: Stanycliffe Community Centre
 draft: false
 tags:
-- Social
+- Activities & Tap Dance
 areas:
 - Middleton
 contact:

@@ -1,6 +1,8 @@
 ---
 title: Recovery Republic
 draft: false
+tags:
+- Self improvement & wellbeing
 areas:
 - Heywood
 - Middleton

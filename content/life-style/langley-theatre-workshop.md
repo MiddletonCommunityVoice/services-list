@@ -2,15 +2,15 @@
 title: Langley Theatre Workshop
 draft: false
 tags:
-- Dance Classes
+- Art & Dance Classes
 areas:
 - Middleton
 contact:
   addresses:
-  - Burnside Crescent, Langley,  Middleton
+  - Burnside & Demesne Community Centres,Langley,Middleton
   phone:
-  - 0161 643 5775
+  - 0161 643 0581
   web_addresses:
-  - http://www.burnsidecentre.org.uk
+  - http://www.langleytheatreworkshop.co.uk/
 ---
 

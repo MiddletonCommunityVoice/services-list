@@ -2,7 +2,7 @@
 title: The Lighthouse Project
 draft: false
 tags:
-- Social
+- Activities & Social
 areas:
 - Middleton
 - Heywood

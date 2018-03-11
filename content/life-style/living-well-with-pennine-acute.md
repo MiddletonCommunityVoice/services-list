@@ -2,14 +2,14 @@
 title: Living Well with Pennine Acute
 draft: false
 tags:
-- Volunteering & social
+- Healthy Lifestyles
 areas:
 - Heywood
 - Middleton
 - Rochdale
 contact:
   addresses:
-  - Living Well ( Big Life ),  Lock 50, Oldham Road, Rochdale
+  - Living Well,  Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
   web_address:
