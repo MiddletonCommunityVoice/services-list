@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Living Well,  Lock 50, Oldham Road, Rochdale
+  - Living Wells,  Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
   web_address:
