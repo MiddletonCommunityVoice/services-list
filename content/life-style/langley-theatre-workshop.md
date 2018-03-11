@@ -2,7 +2,7 @@
 title: Langley Theatre Workshop
 draft: false
 tags:
-- Social
+- Dance Classes
 areas:
 - Middleton
 contact:

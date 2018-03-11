@@ -2,7 +2,7 @@
 title: Living Well with Pennine Acute
 draft: false
 tags:
-- social
+- Volunteering & social
 areas:
 - Heywood
 - Middleton

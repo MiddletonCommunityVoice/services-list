@@ -2,7 +2,7 @@
 title: Middleton Library
 draft: false
 tags:
-- Social
+- Activities & Social
 areas:
 - Heywood
 - Middleton

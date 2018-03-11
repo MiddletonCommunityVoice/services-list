@@ -2,7 +2,7 @@
 title: Living Well / Pennine Acute
 draft: false
 tags:
-- social
+- Activities & social
 areas:
 - Heywood
 - Middleton
