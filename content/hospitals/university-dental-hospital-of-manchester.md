@@ -2,7 +2,7 @@
 title: University Dental Hospital of Manchester
 draft: false
 tags:
-- Dental Hospital
+- Dental Hospital.
 areas:
 - Greater Manchester
 contact:

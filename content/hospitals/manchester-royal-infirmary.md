@@ -2,7 +2,7 @@
 title: Manchester Royal Infirmary
 draft: false
 tags:
-- Hospital with A & E
+- Hospital with A & E.
 areas:
 - Greater Manchester
 contact:
