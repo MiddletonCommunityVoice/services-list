@@ -8,6 +8,8 @@ contact:
   - Events across Manchester
   phone:
   - 07710 745 702
+  web_address:
+  - https://www.chdance.com
 ---
 
 ### Information
