@@ -2,7 +2,7 @@
 title: Royal Manchester Children's Hospital
 draft: false
 tags:
-- Children's Hospital.
+- Hospital for children
 areas:
 - Greater Manchester
 contact:

@@ -2,7 +2,7 @@
 title: St Mary's Hospital   Manchester
 draft: false
 tags:
-- Maternity Hospital,
+- Hospital for maternity
 areas:
 - Greater Manchester
 contact:

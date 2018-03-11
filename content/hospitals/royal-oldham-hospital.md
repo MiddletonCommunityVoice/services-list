@@ -2,7 +2,7 @@
 title: Royal Oldham Hospital
 draft: false
 tags:
-- Hospital with A & E.
+- Hospital + A & E
 areas:
 - Oldham
 - Greater Manchester

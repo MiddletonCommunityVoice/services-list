@@ -2,7 +2,7 @@
 title: Rochdale Infirmary
 draft: false
 tags:
-- Hospital with Urgent Care.
+- Hospital + Urgent Care Centre
 areas:
 - Greater Manchester
 contact:
