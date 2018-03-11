@@ -1,6 +1,8 @@
 ---
 title: Demesne Community Centre
 draft: false
+tags:
+- Jobseekers & CVs
 areas:
 - Middleton
 contact:

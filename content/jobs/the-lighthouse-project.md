@@ -1,6 +1,8 @@
 ---
 title: The Lighthouse Project
 draft: false
+tags:
+- Jobseekers & CVs
 areas:
 - across North Manchester
 - Middleton

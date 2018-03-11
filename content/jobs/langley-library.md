@@ -1,6 +1,8 @@
 ---
 title: Langley Library
 draft: false
+tags:
+- Jobseekers & CVs
 areas:
 - Heywood
 - Middleton
