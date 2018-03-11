@@ -1,6 +1,8 @@
 ---
 title: Rochdale Training
 draft: false
+tags:
+- Computer courses
 contact:
   addresses:
   - 1 Fishwick Street, Rochdale

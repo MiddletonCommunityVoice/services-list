@@ -1,6 +1,8 @@
 ---
 title: Digital Champions
 draft: false
+tags:
+- Help with computers
 areas:
 - Heywood
 - Middleton

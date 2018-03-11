@@ -1,6 +1,8 @@
 ---
 title: Demesne Community Centre
 draft: false
+tags:
+- Help with computers
 areas:
 - Heywood
 - Middleton

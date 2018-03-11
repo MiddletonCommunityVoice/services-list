@@ -1,6 +1,8 @@
 ---
 title: Mantra Learning
 draft: false
+tags:
+- Computer courses
 contact:
   addresses:
   - Greengate Middleton m24 1RU

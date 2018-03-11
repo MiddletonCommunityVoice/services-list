@@ -1,6 +1,8 @@
 ---
 title: Rochdale Libraries
 draft: false
+tags:
+- Computer courses
 areas:
 - Heywood
 - Middleton
