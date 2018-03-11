@@ -9,6 +9,8 @@ areas:
 - Middleton
 - Rochdale
 contact:
+  Address:
+  - Various locations
   phone:
   - 01706 517 223
   web_addresses:

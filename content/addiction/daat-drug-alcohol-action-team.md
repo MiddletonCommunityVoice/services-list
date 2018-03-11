@@ -10,6 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - DAAT Team, Number One Riverside, Smith St. Rochdale
   - 5 ways to Wellbeing  3rd Fl.  Riverside One, Rochdale
   - ADFAM 3rd Fl.  Riverside One, Smith St. Rochdale.  OL16 1XU
   - Alcohol Learning Centre 3rd Fl. Riverside One, Rochdale

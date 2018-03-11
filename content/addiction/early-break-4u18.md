@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Rochdale ( Bury Admin Office )
+  - Bury Admin Office for Rochdale
   - Water St off Drake St Rochdale
   phone:
   - 0161 723 3880
