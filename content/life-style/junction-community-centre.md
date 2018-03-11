@@ -2,7 +2,7 @@
 title: Junction Community Centres
 draft: false
 tags:
-- Social
+- Activities & Social
 areas:
 - Middleton
 contact:

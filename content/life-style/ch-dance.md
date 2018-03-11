@@ -5,7 +5,7 @@ tags:
 - Dance & Social
 contact:
   address:
-  - Events across Manchester
+  - See the website
   phone:
   - 07710 745 702
   web_address:
