@@ -2,7 +2,7 @@
 title: Rochdale Council via Living Well
 draft: false
 tags:
-- Help from Community Champions
+- Work Clubs by Community Champions
 areas:
 - Heywood
 - Middleton

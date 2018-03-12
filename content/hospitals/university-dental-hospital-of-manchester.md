@@ -9,8 +9,8 @@ contact:
   addresses:
   - Cambridge Street, Manchester
   phone:
-  - 0161 393 7730
   - 0161 275 6666
+  - 0161 393 7730
 tags:
 - Hospital
 - Oral Medicine
