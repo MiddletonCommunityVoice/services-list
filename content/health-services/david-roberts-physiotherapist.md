@@ -1,6 +1,8 @@
 ---
 title: David Roberts Physiotherapist
 draft: false
+tags:
+- Physiotherapy
 areas:
 - Heywood
 - Middleton

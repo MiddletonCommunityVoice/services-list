@@ -2,7 +2,6 @@
 title: Living Well
 draft: false
 tags:
-- Health
 - Sexual Health
 areas:
 - Heywood
