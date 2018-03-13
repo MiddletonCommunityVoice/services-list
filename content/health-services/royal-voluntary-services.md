@@ -2,7 +2,7 @@
 title: Royal Voluntary Services
 draft: false
 tags:
-- H0spital Discharge service
+- Hospital Discharge service
 areas:
 - Heywood
 - Middleton
