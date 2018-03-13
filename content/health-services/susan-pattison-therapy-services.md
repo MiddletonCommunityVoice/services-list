@@ -1,6 +1,8 @@
 ---
 title: Susan Pattison Therapy Services
 draft: false
+tags:
+- Physiotherapy
 areas:
 - Heywood
 - Middleton

@@ -2,10 +2,11 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Children
+- Expert Patient Program
 - Help at Home
 areas:
-- Heywood Middleton
+- Heywood
+- Middleton
 - Rochdale
 contact:
   addresses:
@@ -16,8 +17,7 @@ contact:
   - 01706 676 460
   - 01706 837 193
   web_addresses:
-  - http://www.nhs.uk
-  - http://www.penninecare/nhs.net
+  - http://www.penninecare.nhs.uk/your-services/
 ---
 
 ### Information

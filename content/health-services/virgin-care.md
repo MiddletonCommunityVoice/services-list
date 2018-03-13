@@ -2,7 +2,6 @@
 title: Virgin Care
 draft: false
 tags:
-- Health
 - Sexual Health
 areas:
 - Heywood
