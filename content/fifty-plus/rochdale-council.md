@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Help at Home
+- Adults at risk
 - Support
 areas:
 - Heywood
@@ -13,10 +13,10 @@ contact:
   - Number One, Riverside Smith Street,  Rochdale
   - Redbrook Mill, Bury Road, Rochdale
   phone:
-  - 01706 860347
   - 0300 303 8886
+  - 01706 860347
   web_addresses:
-  - rbsab@rochdale.gov.uk
+  - http://www.rochdale.gov.uk/social-care-and-support/pages/safeguarding-adults-at-risk/
 ---
 
 ### Information
