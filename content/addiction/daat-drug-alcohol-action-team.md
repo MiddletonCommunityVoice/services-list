@@ -25,7 +25,7 @@ contact:
   - SMART RECOVERY 3rd Fl  Riverside One, Rochdale
   - UKNA    3rd Fl  Riverside One, Smith Street, Rochdale
   phone:
-  - 01076 924 854
+  - 01706 924 854
   - '0845 769 7555'
   web_addresses:
   - http://www.adfam.org.uk
