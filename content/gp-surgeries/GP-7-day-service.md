@@ -1,6 +1,7 @@
 ---
 title: GP 7 day surgeries extra hours
-draft: falsetags:
+draft: false
+tags:
 - Extra Hours GP Services
 areas:
 - Heywood

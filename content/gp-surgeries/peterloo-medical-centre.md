@@ -1,6 +1,7 @@
 ---
 title: Peterloo Medical Centre
-draft: falsetags:
+draft: false
+tags:
 - GP Services
 areas:
 - Middleton
