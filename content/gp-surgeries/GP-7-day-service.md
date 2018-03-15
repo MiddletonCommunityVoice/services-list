@@ -1,5 +1,5 @@
 ---
-title: GP 7 day surgeries extra hours
+title: GP 7 day extra hours Hubs
 draft: false
 tags:
 - Extra Hours GP Services
