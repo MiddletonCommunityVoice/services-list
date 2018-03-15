@@ -1,6 +1,8 @@
 ---
-title: Windermere Surgery
+title: Windermere Road Surgery
 draft: false
+tags:
+- GP Services
 areas:
 - Middleton
 contact:

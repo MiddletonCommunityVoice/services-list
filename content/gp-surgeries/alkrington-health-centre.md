@@ -1,6 +1,8 @@
 ---
 title: Alkrington Health Centre
 draft: false
+tags:
+- GP Services
 areas:
 - Middleton
 contact:

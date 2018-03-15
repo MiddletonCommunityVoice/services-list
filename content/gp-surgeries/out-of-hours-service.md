@@ -2,7 +2,7 @@
 title: GP Out of Hours ( BARDOC )
 draft: false
 tags:
-- Help at Home
+- Emergeny GP services
 areas:
 - Heywood
 - Middleton

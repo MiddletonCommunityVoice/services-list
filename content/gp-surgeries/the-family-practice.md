@@ -1,6 +1,7 @@
 ---
 title: The Family Practice
-draft: false
+draft: falsetags:
+- GP Services
 areas:
 - Middleton
 contact:

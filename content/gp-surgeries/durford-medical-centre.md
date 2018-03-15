@@ -1,6 +1,8 @@
 ---
 title: Durford Medical Centre
 draft: false
+tags:
+- GP Services
 areas:
 - Middleton
 contact:

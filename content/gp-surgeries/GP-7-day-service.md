@@ -1,6 +1,7 @@
 ---
 title: GP 7 day surgeries extra hours
-draft: false
+draft: falsetags:
+- Extra Hours GP Services
 areas:
 - Heywood
 - Middleton

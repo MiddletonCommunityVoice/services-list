@@ -1,6 +1,8 @@
 ---
 title: Middleton Health Centre
 draft: false
+tags:
+- GP Services
 areas:
 - Middleton
 contact:

@@ -1,6 +1,8 @@
 ---
 title: Junction Surgery
 draft: false
+tags:
+- GP Services
 areas:
 - Middleton
 contact:
