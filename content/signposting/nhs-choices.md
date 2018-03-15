@@ -6,11 +6,11 @@ tags:
 areas:
 - Nationwide
 contact:
-  address:
+  addresses:
   - Nationwide
   phone:
   - '111'
-  web_address:
+  web_addresses:
   - http://www.nhs.uk
 ---
 

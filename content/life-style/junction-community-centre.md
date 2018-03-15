@@ -10,7 +10,7 @@ contact:
   - Grimshaw Lane, Middleton
   phone:
   - 0161 643 3036
-  web_address:
+  web_addresses:
   - http://www.rochdale.gov.uk/library-services/local-libraries/
 ---
 

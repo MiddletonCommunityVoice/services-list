@@ -11,7 +11,7 @@ contact:
   phone:
   - 0800 112 3440
   - 01706 751 165
-  web_address:
+  web_addresses:
   - http://hmrcircle.org.uk
 ---
 

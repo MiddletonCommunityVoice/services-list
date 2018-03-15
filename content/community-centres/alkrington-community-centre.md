@@ -8,7 +8,7 @@ contact:
   - Kirkway, Alkrington, Middleton
   phone:
   - 0161 643 6953 or 07960 227627
-  web_address:
+  web_addresses:
   - Not known
 ---
 

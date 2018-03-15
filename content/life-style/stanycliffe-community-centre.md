@@ -10,7 +10,7 @@ contact:
   - Stannycliffe Lane, Boarshaw,  Middleton
   phone:
   - 0161 643 2276
-  web_address:
+  web_addresses:
   - Not known
 ---
 
