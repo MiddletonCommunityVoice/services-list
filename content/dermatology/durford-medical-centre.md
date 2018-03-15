@@ -1,6 +1,8 @@
 ---
 title: Durford Medical Centre
 draft: false
+tags:
+- Dermatology
 areas:
 - Heywood
 - Middleton
@@ -16,5 +18,5 @@ contact:
 ---
 
 ### Information
-Dermatology Clinic within Durnford Street
+Dermatology Clinic within Durnford Street on Wednesday's
 
