@@ -1,6 +1,8 @@
 ---
 title: The Outside Clinic
 draft: false
+tags:
+- Mobile eye tests
 areas:
 - Nationwide
 contact:

@@ -1,6 +1,8 @@
 ---
 title: Myeloma UK
 draft: false
+tags:
+- Eye conditions
 areas:
 - Nationwide
 contact:

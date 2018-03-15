@@ -1,6 +1,7 @@
 ---
-title: See Macular Eye Degeneration
-draft: false
+title: Macular Eye Degeneration
+draft: falsetags:
+- Macular Eye Degeneration
 areas:
 - Nationwide
 contact:

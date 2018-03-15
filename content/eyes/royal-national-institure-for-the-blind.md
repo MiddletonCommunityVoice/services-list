@@ -1,6 +1,8 @@
 ---
 title: Royal National Institure for the Blind
 draft: false
+tags:
+- Directory of services
 areas:
 - Heywood
 - Middleton

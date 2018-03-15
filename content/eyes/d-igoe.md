@@ -1,6 +1,8 @@
 ---
 title: D Igoe
 draft: false
+tags:
+- Opticians
 areas:
 - Heywood
 - Middleton
