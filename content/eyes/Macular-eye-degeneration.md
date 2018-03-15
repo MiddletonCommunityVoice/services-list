@@ -1,6 +1,7 @@
 ---
 title: Macular Eye Degeneration
-draft: falsetags:
+draft: false
+tags:
 - Macular Eye Degeneration
 areas:
 - Nationwide
