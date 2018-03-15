@@ -7,7 +7,7 @@ areas:
 - North Manchester towns
 contact:
   phone:
-  - '07964 184 943'
+  - 07964 184 943
   web_address:
   - Not known
 ---

@@ -2,7 +2,7 @@
 title: Rochdale Staywell via Direct Health
 draft: false
 tags:
-- Health
+- Health help
 areas:
 - Heywood
 - Middleton

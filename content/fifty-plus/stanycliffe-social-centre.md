@@ -2,7 +2,7 @@
 title: Stanycliffe Social Centre
 draft: false
 tags:
-- Social
+- Activities & Social
 areas:
 - Middleton
 contact:

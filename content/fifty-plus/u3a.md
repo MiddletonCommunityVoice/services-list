@@ -2,7 +2,7 @@
 title: U3A
 draft: false
 tags:
-- Social
+- Social & days out
 areas:
 - Middleton
 - Heywood
@@ -28,6 +28,6 @@ contact:
   - http://www.u3a.org.uk
   - http://www.u3asites.org.uk/littleborough
   - http://www.u3asites.org.uk/oldham
-  
+
 ---
 
