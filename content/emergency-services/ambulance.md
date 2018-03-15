@@ -1,6 +1,8 @@
 ---
 title: Ambulance
 draft: false
+tags:
+- Emerency Ambulance
 areas:
 - Heywood
 - Middleton

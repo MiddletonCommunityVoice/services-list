@@ -1,6 +1,8 @@
 ---
 title: BARDOC
 draft: false
+tags:
+- Emergency GP Service
 areas:
 - Heywood
 - Middleton

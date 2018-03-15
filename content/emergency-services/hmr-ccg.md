@@ -1,6 +1,8 @@
 ---
-title: GP out of Hours Service
+title: GP extra Hours Service
 draft: false
+tags:
+- GP Extra Hours Service
 areas:
 - Heywood
 - Middleton
