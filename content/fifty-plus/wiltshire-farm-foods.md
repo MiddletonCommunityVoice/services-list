@@ -2,7 +2,7 @@
 title: Wiltshire Farm Foods
 draft: false
 tags:
-- Support
+- Meals on Wheels
 areas:
 - Heywood
 - Middleton
@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-Order by phone or online. Foods delivered to your door every weekl
+Order by phone or online. Foods delivered to your door every week
 
 ### Opening Times
 * Phones open 24hrs and online
