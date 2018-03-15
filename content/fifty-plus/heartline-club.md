@@ -12,7 +12,7 @@ contact:
   - Middleton Arena, LCpl Joel Halliwell VC Way, Middleton
   phone:
   - 0161 643 2942 / 0161 728 5060
-  web_address:
+  web_addresses:
   - https://www.totalgiving.co.uk/charity/middleton-heartline
 ---
 

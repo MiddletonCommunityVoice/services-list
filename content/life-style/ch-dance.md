@@ -4,11 +4,11 @@ draft: false
 tags:
 - Dance Classes
 contact:
-  address:
+  addresses:
   - See the website
   phone:
   - 07710 745 702
-  web_address:
+  web_addresses:
   - https://www.chdance.com
 ---
 

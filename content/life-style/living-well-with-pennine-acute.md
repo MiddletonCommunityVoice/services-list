@@ -12,7 +12,7 @@ contact:
   - Living Well, Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
-  web_address:
+  web_addresses:
   - http://www.livingwellrochdale.com
 ---
 

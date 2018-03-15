@@ -8,7 +8,7 @@ areas:
 contact:
   phone:
   - '07482 277 847'
-  web_address:
+  web_addresses:
   - Not known
 ---
 
