@@ -1,5 +1,5 @@
 ---
-title: Specsavers
+title: Specsavers  Bury
 draft: false
 tags:
 - Eye tests for the DVLA
@@ -19,8 +19,8 @@ contact:
 ---
 
 ### Information
-Minor surgery
-If you need to notify the DVLA call  0300 790 6806. Book online
+Minor surgery amd DVLA approved for their eye tests. Book online or phone the shop.
+If you need to notify the DVLA call  0300 790 6806.
 
 ### Opening Times
 * Open every day
