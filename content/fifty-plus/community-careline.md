@@ -9,18 +9,20 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - Middleton
+  - Heywood
   - Rochdale
   phone:
-  - 0800 101 3333
+  - 0800 101 3333 or 01706 926 671
   web_addresses:
-  - http://www.careline.co.uk
   - https://staywell.rochdale.gov.uk/web/portal/pages/help/independence/gadgets/careline
+  - http://www.careline.co.uk
+
 ---
 
 ### Information
-24hr Emergency care via your own home phone
+24hr Emergency via your own home phone. If you fall and need help this is the services for you.
 
 ### Opening Times
 * Office enquiries 9 - 5pm Mon - Fri
 
-01706 643433 ?   01706 926 671 ?
