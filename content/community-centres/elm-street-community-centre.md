@@ -1,8 +1,10 @@
 ---
 title: Elm Street Community Centre
 draft: false
+tags:
+- Community Centres
 areas:
-- Moorclose
+- Moorclose Middleton
 contact:
   addresses:
   - Elm Street, Moorclose, Middleton

@@ -1,8 +1,10 @@
 ---
 title: Stanycliffe Social Centre
 draft: false
+tags:
+- Community Centres
 areas:
-- Boarshaw / Middleton
+- Boarshaw Middleton
 contact:
   addresses:
   - Stanycliffe Lane, Boarshaw, Middleton
