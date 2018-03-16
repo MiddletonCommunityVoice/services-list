@@ -10,7 +10,8 @@ contact:
   - Kirkway, Alkrington, Middleton
   - Brookside CC Mainway East
   phone:
-  - 0161 643 6953 or 
+  - 0161 643 6890
+  - 0161 643 6953
   - 07960 227627
   web_addresses:
   -  https://en-gb.facebook.com/Alkrington-Community-Centre-1573303042903526/
