@@ -1,6 +1,8 @@
 ---
 title: Junction Community Centre & Library
 draft: false
+tags:
+- Community Centres
 areas:
 - Middleton
 contact:

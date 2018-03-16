@@ -1,8 +1,9 @@
 ---
 title: Thornham Senior Citizens
 draft: false
+tags:
+- Community Centres
 areas:
-- Slattocks
-- Thornham
+- Thornham Middleton
 ---
 

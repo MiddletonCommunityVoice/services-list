@@ -1,8 +1,10 @@
 ---
 title: Burnside Community Centre
 draft: false
+tags:
+- Community Centres
 areas:
-- Langley
+- Langley Middleton
 contact:
   addresses:
   - Burnside Crescent, Langley, Middleton

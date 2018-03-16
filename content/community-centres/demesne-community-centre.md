@@ -1,6 +1,8 @@
 ---
 title: Demesne Community Centre
 draft: false
+tags:
+- Community Centres
 areas:
 - Langley
 - Middleton

@@ -1,6 +1,8 @@
 ---
 title: Jumbo Comunity Centre and Library
 draft: false
+tags:
+- Community Centres
 areas:
 - Middleton
 contact:

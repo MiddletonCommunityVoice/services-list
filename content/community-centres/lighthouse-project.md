@@ -1,8 +1,12 @@
 ---
 title: Lighthouse Project
 draft: false
+tags:
+- Community Centres
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - 2nd Floor, Middleton Shopping Centre
