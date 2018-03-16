@@ -10,7 +10,7 @@ contact:
   - Sure Start, Windermere Road, Langley, Middleton
   phone:
   - 0161 653 9526
-web_addresses:
+  web_addresses:
   - http://www.rochdale.gov.uk/children-and-childcare/sure-start-childrens-centres/pages/langley-sure-start-centre.aspx
 
 ---
