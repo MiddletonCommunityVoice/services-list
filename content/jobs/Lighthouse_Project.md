@@ -2,7 +2,7 @@
 title: Lighthouse Project
 draft: false
 tags:
-- Cpmuter use for jobseekers
+- jobseekers help
 areas:
 - Heywood
 - Middleton
