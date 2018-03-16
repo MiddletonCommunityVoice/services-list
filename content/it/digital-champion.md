@@ -2,7 +2,7 @@
 title: Digital Champions
 draft: false
 tags:
-- Help with computers
+- Computer Courses
 areas:
 - Heywood
 - Middleton

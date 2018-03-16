@@ -2,7 +2,7 @@
 title: Burnside Community Centre
 draft: false
 tags:
-- Help with computers
+- Computer Courses
 areas:
 - Heywood
 - Middleton
