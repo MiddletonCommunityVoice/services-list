@@ -1,8 +1,8 @@
 ---
-title: Healthwatch
+title: Healthwatch Rochdale
 draft: false
 tags:
-- Help at Home
+- Patient complaints
 areas:
 - Heywood
 - Middleton
@@ -16,3 +16,5 @@ contact:
   - http://www.healthwatchrochdale.org.uk
 ---
 
+### Information
+Service Directory available.  Patient complaints etc

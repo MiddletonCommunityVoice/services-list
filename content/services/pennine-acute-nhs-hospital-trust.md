@@ -2,7 +2,7 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 tags:
-- Help at Home
+- Health service
 areas:
 - Heywood
 - Middleton
@@ -16,3 +16,5 @@ contact:
   - http://www.pat.nhs.uk
 ---
 
+### Information
+Provide many health services across the borough.

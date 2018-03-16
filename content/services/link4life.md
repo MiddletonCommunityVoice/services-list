@@ -2,7 +2,7 @@
 title: Link4Life
 draft: false
 tags:
-- Help at Home
+- Providers of activities
 areas:
 - Heywood
 - Middleton
@@ -16,4 +16,8 @@ contact:
   - http://www.link4life.org/middletonarena
   - https://link4life.org
 ---
+
+### Information
+Provide many activities and sports across the borough on behalf of Rochdale Council.
+
 

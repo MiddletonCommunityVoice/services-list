@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Help at Home
+- Service Directory
 areas:
 - Heywood
 - Middleton
@@ -16,3 +16,5 @@ contact:
   - http://www.rochdale.gov.uk
 ---
 
+### Information
+Online directory of services or phone for help.

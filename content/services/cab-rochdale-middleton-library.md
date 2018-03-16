@@ -2,7 +2,7 @@
 title: CAB Rochdale @ Middleton Library
 draft: false
 tags:
-- Help at Home
+- Citizens Advice
 areas:
 - Heywood
 - Middleton
@@ -12,6 +12,8 @@ contact:
   - Long Street, Middleton
   phone:
   - 01706 927 101
+web_addresses:
+  - http://www.rochdale.gov.uk/library-services/local-libraries/Pages/middleton-library.aspx
 ---
 
 ### Information

@@ -2,7 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Help at Home
+- Health services
 areas:
 - Heywood
 - Middleton
@@ -16,3 +16,5 @@ contact:
   - http://www.penninecare.nhs.uk
 ---
 
+### Information
+Provide many services across the borough.

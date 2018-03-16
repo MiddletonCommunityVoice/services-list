@@ -2,7 +2,7 @@
 title: Rochdale Citizen's Advice Bureau
 draft: false
 tags:
-- Help at Home
+- Citizens advice
 areas:
 - Heywood
 - Middleton
@@ -10,10 +10,11 @@ areas:
 contact:
   addresses:
   - Middleton Library,  Long Street, Middleton
+  - 104 - 106 Drake Street Rochdale. Not a drop in service
   phone:
-  - 0344 488 9622
+  - 0300 330 1153
   web_addresses:
-  - http://www.rochdalecab.org.uk
+  - http://www.penninewestcab.org.uk/Rochdale/
 ---
 
 ### Information

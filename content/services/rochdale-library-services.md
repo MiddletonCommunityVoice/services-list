@@ -1,8 +1,8 @@
 ---
-title: See Rochdale Library Services
+title: Rochdale Library Services
 draft: false
 tags:
-- Help at Home
+- Citizens Advice
 areas:
 - Heywood
 - Middleton
@@ -11,7 +11,7 @@ contact:
   phone:
   - 0300 303 8876
   web_addresses:
-  - http://www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk/library-services/
 ---
 
 ### Information
