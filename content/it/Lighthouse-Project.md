@@ -2,14 +2,14 @@
 title: Lighthouse Project
 draft: false
 tags:
-- Computer Courses & use for jobseekers
+- IT Courses & use for jobseekers
 areas:
 - Heywood
 - Middleton
 - Rochdale
 contact:
   addresses:
-  - Lighthouse Project,2nd Fl. Middleton Shopping Centre
+  - Lighthouse Project 2nd Fl Middleton Shopping Centre
   phone:
   - 0161 643 1163
   web_addresses:
@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-All ages from children to pensioners
+Computers available Mon to Fri
 
 ### Opening Times
 * Mon to Fri  10am til 4pm
