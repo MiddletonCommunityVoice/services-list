@@ -1,7 +1,11 @@
 ---
 title: Autism Support Group Rochdale
 draft: false
+tags:
+- Autism
 areas:
+- Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

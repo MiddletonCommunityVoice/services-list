@@ -1,8 +1,12 @@
 ---
 title: Greater Manchester Autism Consortium
 draft: false
+tags:
+- Autism
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Anglo House, Chapel Road, Northenden

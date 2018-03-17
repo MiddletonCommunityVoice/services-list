@@ -2,7 +2,7 @@
 title: Autistic Society Greater Manchester
 draft: false
 tags:
-- Help at Home
+- Autism
 areas:
 - Greater Manchester
 contact:
