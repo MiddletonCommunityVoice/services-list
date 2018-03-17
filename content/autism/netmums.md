@@ -4,10 +4,12 @@ draft: false
 tags:
 - Autism
 areas:
-- Greater Manchester
+- Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
-  - Anglo House, Chapel Road, Northenden
+  - 
   phone:
   - 0161 998 4667
   web_addresses:

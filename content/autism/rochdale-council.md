@@ -4,7 +4,9 @@ draft: false
 tags:
 - Autism Signposting
 areas:
-- Greater Manchester
+- Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Number One, Smith Street, Rochdale

@@ -4,7 +4,9 @@ draft: false
 tags:
 - Autism
 areas:
-- Greater Manchester
+- Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - 1114, Chester Road, Stretford

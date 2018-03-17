@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Anglo House, Chapel Road, Northenden
+  - Anglo House,Chapel Road,Northenden,Manchester
   phone:
   - 0161 998 4667
   web_addresses:
