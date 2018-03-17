@@ -1,6 +1,8 @@
 ---
 title: Burnside Community Centre
 draft: false
+tags:
+- Community Cafe
 areas:
 - Middleton
 contact:

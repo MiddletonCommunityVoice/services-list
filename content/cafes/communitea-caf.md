@@ -1,6 +1,8 @@
 ---
 title: CommuniTea Café
 draft: false
+tags:
+- Community Cafe
 areas:
 - Rochdale
 contact:
