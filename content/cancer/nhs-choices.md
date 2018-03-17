@@ -2,9 +2,9 @@
 title: NHS Choices
 draft: false
 tags:
+- Cancer
 - Bowel Cancer
 - Breast Cancer
-- Cancer
 areas:
 - Heywood
 - Middleton
@@ -15,9 +15,9 @@ contact:
   - Ashton-under-Lyne
   - Salford
   phone:
+  - 111
   - 0161 716 3000
   - 0161 789 7373
-  - '111'
   web_addresses:
   - http://www.nhs.uk/conditions/breast-cancer-screening/Pages/Introduction.aspx
   - http://www.nhs,uk

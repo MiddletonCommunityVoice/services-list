@@ -2,7 +2,6 @@
 title: HMR CCG
 draft: false
 tags:
-- All Cancers
 - Cancer
 areas:
 - Heywood
