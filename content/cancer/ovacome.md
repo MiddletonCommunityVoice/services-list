@@ -2,7 +2,6 @@
 title: Ovacome
 draft: false
 tags:
-- Cancer
 - Ovarian Cancer
 areas:
 - Nationwide
