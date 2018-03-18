@@ -1,6 +1,8 @@
 ---
 title: University Dental Hospital
 draft: false
+tags:
+- Dental Hospital
 areas:
 - Greater Manchester
 contact:
@@ -10,3 +12,5 @@ contact:
   - 0161 275 6666
 ---
 
+### Information
+Dental hospital and emergencies.

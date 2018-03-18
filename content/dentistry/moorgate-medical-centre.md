@@ -1,6 +1,8 @@
 ---
 title: Moorgate Medical Centre
 draft: false
+tags:
+- Emergency Dentistry
 areas:
 - Heywood
 - Middleton

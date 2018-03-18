@@ -1,6 +1,8 @@
 ---
 title: Pioneer Denture Clinic
 draft: false
+tags:
+- Dentures
 areas:
 - Middleton
 contact:
@@ -14,4 +16,6 @@ contact:
 
 ### Information
 Implants / repairs etc
+Out of hours  0793 486 6247
+Can arrange home visits too
 

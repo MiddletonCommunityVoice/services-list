@@ -1,6 +1,8 @@
 ---
 title: Dental Access Centre
 draft: false
+tags:
+- Emergency Dentistry
 areas:
 - Heywood
 - Middleton
@@ -14,3 +16,8 @@ contact:
   - http://www.nhs.uk
 ---
 
+### Information
+Dentist service and also emergency denistry
+
+### Opening Times
+* 
