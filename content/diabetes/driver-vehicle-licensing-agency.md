@@ -11,6 +11,7 @@ contact:
   phone:
   - 0300 790 6801
   web_addresses:
+  - https://www.gov.uk/search?q=diabetes
   - http://www.gov.uk
 ---
 
