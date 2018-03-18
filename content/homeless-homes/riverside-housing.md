@@ -1,9 +1,11 @@
 ---
 title: Riverside Housing Association
 draft: false
+tags:
+- Housing
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 - Nationwide
 contact:

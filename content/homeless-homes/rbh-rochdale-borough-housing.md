@@ -1,9 +1,11 @@
 ---
 title: RBH Rochdale Borough Housing
 draft: false
+tags:
+- Housing
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
