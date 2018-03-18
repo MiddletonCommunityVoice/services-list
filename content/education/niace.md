@@ -1,14 +1,18 @@
 ---
 title: Niace
 draft: false
+tags:
+- Learn to Read
 areas:
+- Middleton
 - Nationwide
 - Heywood
-- Middleton
 - Rochdale
 contact:
   web_addresses:
   - http://www.local.gov.uk/
+  - http://www.learningandwork.org.uk/
+  - http://shop.niace.org.uk/
 ---
 
 ### Information

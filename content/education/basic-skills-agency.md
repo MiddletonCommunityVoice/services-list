@@ -1,6 +1,8 @@
 ---
 title: Basic Skills Agency
 draft: false
+tags:
+- Learn Maths & English
 areas:
 - Nationwide
 - Heywood
@@ -13,4 +15,5 @@ contact:
 
 ### Information
 Skill cards and other information online
+Learn to read. Learn maths.
 

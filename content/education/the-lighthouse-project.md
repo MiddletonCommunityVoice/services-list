@@ -1,8 +1,12 @@
 ---
 title: The Lighthouse Project
 draft: false
+tags:
+- Talking English
 areas:
-- across North Manchester
+- Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - 2nd Floor, Middleton Shopping Centre

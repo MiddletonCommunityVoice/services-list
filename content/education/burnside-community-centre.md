@@ -1,8 +1,11 @@
 ---
 title: Burnside Community Centre
 draft: false
+tags:
+- Talking English
 areas:
 - Middleton
+- Heywood
 contact:
   addresses:
   - Burnside Crescent, Langley, Middleton
