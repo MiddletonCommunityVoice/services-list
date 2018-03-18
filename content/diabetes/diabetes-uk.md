@@ -1,6 +1,8 @@
 ---
 title: Diabetes UK
 draft: false
+tags:
+- Diabetes
 areas:
 - Nationwide
 - North West England

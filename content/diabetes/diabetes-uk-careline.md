@@ -1,6 +1,8 @@
 ---
 title: Diabetes UK careline
 draft: false
+tags:
+- Diabetes
 areas:
 - Nationwide
 contact:

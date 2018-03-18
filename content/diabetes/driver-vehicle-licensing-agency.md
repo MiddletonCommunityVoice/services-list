@@ -1,6 +1,8 @@
 ---
 title: Driver & Vehicle Licensing Agency
 draft: false
+tags:
+- Drivers with Diabetes
 areas:
 - Nationwide
 contact:

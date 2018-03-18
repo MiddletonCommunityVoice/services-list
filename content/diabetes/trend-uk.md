@@ -1,6 +1,8 @@
 ---
 title: Trend UK
 draft: false
+tags:
+- Diabetes for professionals
 areas:
 - Nationwide
 contact:
