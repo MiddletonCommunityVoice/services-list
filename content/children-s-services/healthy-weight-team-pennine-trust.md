@@ -1,9 +1,11 @@
 ---
 title: Healthy weight team. Pennine Trust
 draft: false
+tags:
+- Healthy Weight Team for chilren
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:
@@ -13,7 +15,7 @@ contact:
 ---
 
 ### Information
-Help with under 5s
+Help with under 5 year old and up to 17
 Email to pah-tr.bhhdietetics@nhs.net
 
 

@@ -2,15 +2,15 @@
 title: Living Well
 draft: false
 tags:
+- Sexual Health & Support
 - Health
-- Sexual Health
 areas:
-- Heywood 
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Big Life,  Lock 50, Oldham Road, Rochdale
+  - Living Well, Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
   web_addresses:
@@ -18,3 +18,6 @@ contact:
 
 ---
 
+### Information
+12 -17 year olds sexual health & support.
+Contraception

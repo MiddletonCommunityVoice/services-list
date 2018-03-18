@@ -2,7 +2,7 @@
 title: CH Dance
 draft: false
 tags:
-- Social
+- Social / Dance
 areas:
 - Middleton
 contact:

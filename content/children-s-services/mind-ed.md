@@ -2,10 +2,10 @@
 title: Mind-ed
 draft: false
 tags:
-- Mental Health
+- Childrens emotional Help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

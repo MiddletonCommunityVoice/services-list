@@ -2,7 +2,7 @@
 title: Kooth
 draft: false
 tags:
-- Mental Health
+- Childrens Mental Health
 areas:
 - Nationwide
 contact:
@@ -18,5 +18,5 @@ contact:
 Helpline for children & people under 35, suicidal
 
 ### Opening Times
-* Mon = Fri 10-10 / Sat 2-10 / Sun 2- 5
+* Mon - Fri 10 til 10 / Sat 2-10 / Sun 2- 5
 

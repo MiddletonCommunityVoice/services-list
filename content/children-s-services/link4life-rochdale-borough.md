@@ -2,10 +2,10 @@
 title: Link4life / Rochdale Borough
 draft: false
 tags:
-- Disability
+- Disability Sports
 areas:
-- Heywood 
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,5 +17,5 @@ contact:
 ---
 
 ### Information
-Disabled 01706 926 203
+Disabled Sports 01706 926 203
 

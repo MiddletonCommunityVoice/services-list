@@ -1,9 +1,11 @@
 ---
 title: Link4Life & Rochdale Youth Service
 draft: false
+tags:
+- Doorstep Sports Club
 areas:
-- Heywood 
-- Middleton
+- Middleton 
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -16,6 +18,7 @@ contact:
 
 ### Information
 Contact Diane Higgins
+12 to 17 year olds
 
 ### Opening Times
 * Fri Nights

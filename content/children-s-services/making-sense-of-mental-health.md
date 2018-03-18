@@ -2,9 +2,13 @@
 title: Making sense of Mental Health
 draft: false
 tags:
-- Mental Health
+- Childrens Mental Health
+areas:
+- Middleton
+- Heywood
+- Rochdale
 contact:
   web_addresses:
-  - http://www.makingsenseofmentalhealth.org.uk
+  - http://healthyyoungmindspennine.nhs.uk/resource-centre/external-links/making-sense-of-mental-health/
 ---
 

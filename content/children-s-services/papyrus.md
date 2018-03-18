@@ -2,8 +2,7 @@
 title: Papyrus
 draft: false
 tags:
-- Help at Home
-- Mental Health
+- Young peoples Mental Health
 areas:
 - Nationwide
 contact:
@@ -16,7 +15,7 @@ contact:
 
 ### Information
 Helpline for children. Fill in website form.
-Text line: 07786 209697,  Helpline for children
+Text line: 07786 209697.
 
 ### Opening Times
 * Mon to Fri 9.30 til 4pm

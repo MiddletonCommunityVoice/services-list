@@ -1,9 +1,11 @@
 ---
 title: GP Care Services Ltd
 draft: false
+tags:
+- Phlebotomy for Children
 areas:
-- Heywood 
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -16,4 +18,5 @@ contact:
 
 ### Information
 or  01706 906 940
+Phlebotomy for children under 16
 

@@ -2,11 +2,10 @@
 title: Link4Life
 draft: false
 tags:
-- Health
-- Sport
+- Childrens Sport & Health
 areas:
+- HMiddleton
 - Heywood
-- Middleton
 - Rochdale
 contact:
   addresses:
