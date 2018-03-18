@@ -1,6 +1,8 @@
 ---
 title: Demesne Community Centre
 draft: false
+tags:
+- Lets Just Dance for Dementia
 areas:
 - Middleton
 contact:
