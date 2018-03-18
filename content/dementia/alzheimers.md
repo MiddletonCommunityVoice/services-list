@@ -1,6 +1,8 @@
 ---
 title: Alzheimers
 draft: false
+tags:
+- Alzheimers & Dementia
 areas:
 - Heywood
 - Middleton

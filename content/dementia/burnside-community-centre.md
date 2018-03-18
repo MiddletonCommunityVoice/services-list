@@ -1,6 +1,8 @@
 ---
 title: Burnside Community Centre
 draft: false
+tags:
+- Dementia
 areas:
 - Middleton
 contact:
