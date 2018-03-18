@@ -2,7 +2,7 @@
 title: Myeloma UK
 draft: false
 tags:
-- Eye conditions
+- Myeloma
 areas:
 - Nationwide
 contact:
@@ -12,3 +12,7 @@ contact:
   - http://www.myeloma.org.uk
 ---
 
+### Information
+Myeloma.  Eye Degenerations, effects 30 to 40 year olds
+but also affects children
+Also a group in Whitefield

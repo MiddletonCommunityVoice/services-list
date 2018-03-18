@@ -4,8 +4,8 @@ draft: false
 tags:
 - Opticians
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

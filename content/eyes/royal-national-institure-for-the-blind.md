@@ -4,8 +4,8 @@ draft: false
 tags:
 - Directory of services
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

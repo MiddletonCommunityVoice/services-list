@@ -4,8 +4,8 @@ draft: false
 tags:
 - Eye tests
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
