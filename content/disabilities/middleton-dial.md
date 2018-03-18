@@ -1,6 +1,8 @@
 ---
 title: Middleton DIAL
 draft: false
+tags:
+- Wheelchair repairs & hire
 areas:
 - Heywood
 - Middleton
@@ -15,7 +17,7 @@ contact:
 ---
 
 ### Information
-Wheelchair purchase, hire and repair
+Wheelchair hire and repair
 
 ### Opening Times
 * Tue /Wed/ Fri 11am - 1.30pm

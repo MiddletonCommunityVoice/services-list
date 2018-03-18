@@ -1,6 +1,8 @@
 ---
 title: Millercare
 draft: false
+tags:
+- Wheelchairs
 contact:
   addresses:
   - 69 - 87 Bolton Road, Bury
@@ -12,4 +14,5 @@ contact:
 
 ### Information
 Wheelchair sales
+Branches in Bury and Rochdale
 
