@@ -1,6 +1,8 @@
 ---
 title: Compleat Internet Café
 draft: false
+tags:
+- Mental Health Cafe
 areas:
 - Middleton
 contact:
@@ -14,3 +16,4 @@ contact:
 
 ### Information
 For people who need help with their mental problems
+10am til 3pm  Mon, Tues, Thurs, Fri
