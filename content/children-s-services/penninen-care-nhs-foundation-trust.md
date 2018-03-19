@@ -2,7 +2,7 @@
 title: Penninen Care NHS Foundation Trust
 draft: false
 tags:
-- Mental Health for young people
+- Child Commmunity Nursing
 areas:
 - Middleton
 - Heywood
@@ -17,3 +17,5 @@ contact:
   - http://www.nhs.uk
 ---
 
+### Information
+Helpline & care for children under 16 with long term illness.
