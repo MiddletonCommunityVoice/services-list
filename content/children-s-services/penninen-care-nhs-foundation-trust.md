@@ -1,9 +1,11 @@
 ---
 title: Penninen Care NHS Foundation Trust
 draft: false
+tags:
+- Mental Health for young people
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -11,7 +13,7 @@ contact:
   phone:
   - 01706 676 333
   web_addresses:
+  - http://www.penninecare/nhs.uk
   - http://www.nhs.uk
-  - http://www.penninecare/nhs.net
 ---
 

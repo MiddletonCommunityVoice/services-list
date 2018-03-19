@@ -2,13 +2,11 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Health
-- Help at Home
+- Mental Health for young people
 - Sexual Health
 areas:
-- Heywood
-- Heywood Middleton
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,7 +15,6 @@ contact:
   - 'Pheonix Centre,  Heywood '
   - on Twitter @healthyYM
   phone:
-  - 0161 662 4000
   - 0161 716 3000
   - 0161 716 5918
   - 0161 716 5970
@@ -30,12 +27,10 @@ contact:
   - 07507 330 382
   - on Twitter @healthyYM
   web_addresses:
-  - http://healthyminds.penninecare.nhs.uk
+  - http://www.penninecare.nhs.uk
   - http://link4life.org/
   - http://www.healthyyoungmindspennine.nhs.uk
   - http://www.nhs.uk
-  - http://www.penninecare.nhs.uk
-  - http://www.penninecare/nhs.net
   - http://www.withuinmind.nhs.uk
 ---
 

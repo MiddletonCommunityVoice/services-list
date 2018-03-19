@@ -1,9 +1,11 @@
 ---
 title: Pennine Acute NHS Hospital Trust
 draft: false
+tags:
+- Mental Health for young people
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

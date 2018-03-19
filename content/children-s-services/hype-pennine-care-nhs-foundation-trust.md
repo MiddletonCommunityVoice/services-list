@@ -1,11 +1,11 @@
 ---
-title: Pennine Care NHS Foundation Trust / HYPE
+title: HYPE / Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Mental Health
+- Mental Health for young people
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
