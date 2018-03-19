@@ -5,6 +5,8 @@ tags:
 - Social / Dance
 areas:
 - Middleton
+- Heywwood
+- Rochdale
 contact:
   addresses:
   - Sessions across Manchester

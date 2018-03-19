@@ -2,7 +2,7 @@
 title: Healthy weight team. Pennine Trust
 draft: false
 tags:
-- Healthy Weight Team for chilren
+- Healthy Weight Team for children
 areas:
 - Middleton
 - Heywood

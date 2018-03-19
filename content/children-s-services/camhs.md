@@ -1,12 +1,21 @@
 ---
-title: CAMHS
+title: CAMHS now Healthy Young Minds
 draft: false
 tags:
-- Childrens mental health
+- Mental health for young people
 areas:
-- Nationwide
+- Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
-  - See your GP or local NHS
+  - Birh Hill Hospital, Birch Rd, Rochdale
+  phone:
+  - 01706 676000
+  web_addresses:
+  - https://www.penninecare.nhs.uk/your-services/mental-health-services/our-child-and-adolescent-mental-health-services/
 ---
+
+### Information
+Help for children and young adults
 

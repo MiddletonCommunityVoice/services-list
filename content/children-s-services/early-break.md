@@ -5,6 +5,8 @@ tags:
 - Young people Mental & Drug help
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Water St off Drake St  Rochdale
