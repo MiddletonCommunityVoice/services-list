@@ -2,10 +2,10 @@
 title: "#Thrive"
 draft: false
 tags:
-- Mental Health
+- Mental Health for young people
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -14,6 +14,7 @@ contact:
   phone:
   - 0161 716 2844
   web_addresses:
+  - https://twitter.com/hashtag/thrive
   - http://www.healthyyoungmindspennine.nhs.uk/Thrive 
 ---
 
