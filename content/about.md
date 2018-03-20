@@ -16,11 +16,11 @@ public sources available online and printed materials.
 Because lots of services come and go, some just change their names, and
 services vary without any notification it is impossible to maintain 100%
 correct information. For this reason we cannot accept any responsibility for
-any errors or ommissions.
+any errors or ommissions.  Nor do we endorse any of the services.
 
-However, if you find any errors or missing services we would be pleased to hear
+If you find any errors or missing services we would be pleased to hear
 from you. You can contact us via [email](mailto:betterhealth4middleton@gmail.com), [raise
-a issue](https://github.com/MiddletonCommunityVoice/services-list/issues) or send a
+an issue](https://github.com/MiddletonCommunityVoice/services-list/issues) or send a
 text message to 07970 708 448.
 
 **Calls to this number will not be answered and voicemails will not be acted upon**
