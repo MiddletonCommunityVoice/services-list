@@ -2,7 +2,7 @@
 title: Resolve
 draft: false
 tags:
-Child emotional help
+- Child emotional help
 - Mental Health
 areas:
 - Middleton
