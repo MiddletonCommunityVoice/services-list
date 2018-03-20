@@ -1,5 +1,5 @@
 ---
-title: Shia via Rochdale Mind
+title: Shifa via Rochdale Mind
 draft: false
 tags:
 - Dementia Family Link
