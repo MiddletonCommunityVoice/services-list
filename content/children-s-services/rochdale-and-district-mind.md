@@ -2,10 +2,10 @@
 title: Rochdale and District Mind
 draft: false
 tags:
-- Mental Health
+- Mental Health Services
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

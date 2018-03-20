@@ -2,10 +2,10 @@
 title: Sure Start
 draft: false
 tags:
-- Help at Home
+- Child Services & help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-Event programme available from all Sure Start Centres in Middleton area
+Event programme available from all Sure Start Centres in Middleton
 
 ### Opening Times
 * Mon - Fri 9 til 5pm with events during school holidays

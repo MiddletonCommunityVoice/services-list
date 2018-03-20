@@ -1,16 +1,17 @@
 ---
 title: Rochdale & District MIND
 draft: false
+tags:
+- Mental Health for young people
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Mind & Wellbeing 3 - 11 Drake St
   - The Mind Wellbeing  Centre  3 - 11 Drake St  Rochdale
   phone:
-  - 01706 752 341
+  - 01706 752 341 John Swallow
   web_addresses:
   - http://www.rochdalemind.org.uk/
 ---

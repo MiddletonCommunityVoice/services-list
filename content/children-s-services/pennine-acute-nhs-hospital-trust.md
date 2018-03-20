@@ -2,7 +2,7 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 tags:
-- Mental Health for young people
+- Healthy exercise for the young
 areas:
 - Middleton
 - Heywood
@@ -11,7 +11,6 @@ contact:
   addresses:
   - Trust HQ.  North Manchester General Hospital, Delaunays Rd Manchester
   phone:
-  - 0161 624 0420
   - 01706 901 822
   web_addresses:
   - http://www.pat.nhs.uk

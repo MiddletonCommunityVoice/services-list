@@ -1,19 +1,23 @@
 ---
 title: Rochdale Youth Services
 draft: false
+tags:
+- Youth services
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Various locations in Middleton
+  - Middleton
   phone:
   - 01706 924 926
   web_addresses:
+  - https://rochdale.fsd.org.uk/kb5/rochdale/fsd/results.page?newfamilychannel=0&qt=youth+clubs&term=middleon&sorttype=distance
   - http://rochdale.fsd.org.uk/
 ---
 
 ### Information
-Several clubs across Middleton
+Youth services & Childrens services
+Several youth clubs across Middleton
 

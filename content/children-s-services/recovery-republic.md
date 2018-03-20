@@ -1,9 +1,11 @@
 ---
 title: Recovery Republic
 draft: false
+tags:
+- Childrens emotional Help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

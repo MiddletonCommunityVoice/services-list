@@ -2,7 +2,7 @@
 title: Penninen Care NHS Foundation Trust
 draft: false
 tags:
-- Child Commmunity Nursing
+- 6 to 17 Commmunity Nursing
 areas:
 - Middleton
 - Heywood

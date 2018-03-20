@@ -1,9 +1,11 @@
 ---
 title: People's Gym Heywood
 draft: false
+tags:
+- Child Boxing lessons
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -16,4 +18,5 @@ contact:
 
 ### Information
 Contact Kieran Farrell
+All types of sports
 

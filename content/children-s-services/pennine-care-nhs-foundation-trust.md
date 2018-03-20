@@ -2,7 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Child Comm Nursing
+- Child Diabetes & Asthama
 areas:
 - Middleton
 - Heywood
