@@ -23,3 +23,5 @@ contact:
 ### Information
 Taking up sport. "Get set to go" project.  Contact Melanie Tilley at info@rochdalemind.org.uk
 
+### Information
+Also 0300 123 3393 or 0800 107 0729
