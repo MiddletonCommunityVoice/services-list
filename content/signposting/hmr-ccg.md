@@ -2,10 +2,10 @@
 title: HMR CCG
 draft: false
 tags:
-- Health
+- Governing Body
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
