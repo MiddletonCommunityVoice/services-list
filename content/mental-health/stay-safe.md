@@ -1,6 +1,8 @@
 ---
 title: Stay Safe
 draft: false
+tags:
+- Mental Health
 areas:
 - Heywood
 - Middleton

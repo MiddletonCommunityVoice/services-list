@@ -1,6 +1,8 @@
 ---
 title: Selfharm UK
 draft: false
+tags:
+- Self Harm Help
 areas:
 - Nationwide
 contact:

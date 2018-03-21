@@ -1,17 +1,19 @@
 ---
 title: Rochdale Borough User Forum
 draft: false
+tags:
+- Mental Health
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
   - 142 Drake Street Rochdale
   phone:
-  - 01706 521 279
+  - 01706 515 720 voices for all
   web_addresses:
-  - Not Known
+
 ---
 
 ### Information

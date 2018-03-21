@@ -1,13 +1,15 @@
 ---
 title: Rochdale MIND
 draft: false
+tags:
+- Mental help directory
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - 3 - 11 Drake Street,  Rochdale
+  - The Mind Wellbeing Centre, 3 to 11 Drake Street,  Rochdale
   phone:
   - 01706 752 338
   web_addresses:

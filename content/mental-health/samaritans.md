@@ -1,6 +1,8 @@
 ---
 title: Samaritans
 draft: false
+tags:
+- Suicide & Mental Help
 areas:
 - Nationwide
 contact:
