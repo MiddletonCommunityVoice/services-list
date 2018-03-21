@@ -1,17 +1,17 @@
 ---
-title: Link4Life
-draft: false
+title: Middleton Arena
+draft: True
 tags:
-- Activities Provider
+- Sports Activities
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Number One, Riverside, Smith St  Rochdale
+  - Middleton
   phone:
-  - 01706 926 203
+  - 0161 622 4000
   web_addresses:
   - http://link4life.org/
 ---

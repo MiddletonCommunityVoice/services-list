@@ -1,6 +1,6 @@
 ---
-title: Link4Life
-draft: false
+title: Bowlee Park Sports Hall
+draft: True
 tags:
 - Activities Provider
 areas:
@@ -9,9 +9,9 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Number One, Riverside, Smith St  Rochdale
+  - Windermere Road, Middleton
   phone:
-  - 01706 926 203
+  - 
   web_addresses:
   - http://link4life.org/
 ---

@@ -1,9 +1,11 @@
 ---
 title: Rochdale Council
 draft: false
+tags:
+- Sport Facilities
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -11,6 +13,7 @@ contact:
   phone:
   - 01706 647 474
   web_addresses:
+  - http://www.rochdale.gov.uk/leisure-and-culture/Pages/default.aspx
   - http://www.rochdale.gov.uk
 ---
 
