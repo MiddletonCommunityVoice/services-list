@@ -1,6 +1,8 @@
 ---
 title: Milnrow Café Social Group
 draft: false
+tags:
+- Mental Health help Cafe
 areas:
 - Milnrow, Rochdale
 contact:

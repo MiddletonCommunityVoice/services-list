@@ -9,5 +9,5 @@ areas:
 - Rochdale
 contact:
   web_addresses:
-  - http://www.makingsenseofmentalhealth.org.uk
+  - https://www.nasschools.org.uk/wp-content/uploads/sites/9/public/Making-Sense-of-Mental-Health.pdf
 ---
