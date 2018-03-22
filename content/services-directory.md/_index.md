@@ -1,4 +1,4 @@
 ---
-title: Service Directory
+title: Services Directory
 ---
-# Service Directory
+# Services Directory
