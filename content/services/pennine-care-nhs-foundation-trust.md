@@ -2,10 +2,10 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Health services
+- Health services provider
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

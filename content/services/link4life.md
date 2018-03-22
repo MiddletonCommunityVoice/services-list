@@ -2,14 +2,14 @@
 title: Link4Life
 draft: false
 tags:
-- Providers of activities
+- Activities provider
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Enquire at Middleton Arena
+  - Enquiries at Middleton Arena
   phone:
   - 0161 662 4000
   web_addresses:
@@ -18,6 +18,6 @@ contact:
 ---
 
 ### Information
-Provide many activities and sports across the borough on behalf of Rochdale Council.
-
+Provide many activities and sports across the 
+borough on behalf of Rochdale Council.
 

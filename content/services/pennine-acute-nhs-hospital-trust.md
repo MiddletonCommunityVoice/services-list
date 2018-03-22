@@ -2,10 +2,10 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 tags:
-- Health service
+- Health service provider
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

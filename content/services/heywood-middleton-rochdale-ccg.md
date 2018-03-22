@@ -4,8 +4,8 @@ draft: false
 tags:
 - Governing Body
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

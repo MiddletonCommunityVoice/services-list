@@ -4,8 +4,8 @@ draft: false
 tags:
 - Citizens advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,7 +18,7 @@ contact:
 ---
 
 ### Information
-Ask for a local appointment only.
+Ask for a local appointment in Middleton.
 
 ### Opening Times
 * Mon -Fri  9am - 4pm

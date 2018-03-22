@@ -16,5 +16,5 @@ contact:
 ---
 
 ### Information
-To book a local appointment with CAB.
+To book a local appointment with CAB in Middleton.
 

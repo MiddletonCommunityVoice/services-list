@@ -4,8 +4,8 @@ draft: false
 tags:
 - Citizens Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:
@@ -15,5 +15,7 @@ contact:
 ---
 
 ### Information
-Ask at a library or go online at Rochdale Council
+Ask at a library or go online at Rochdale Council.
+Sure Start Centres can phone CAB to book a local
+appointemt for you.
 

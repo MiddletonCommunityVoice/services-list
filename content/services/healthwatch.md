@@ -4,8 +4,8 @@ draft: false
 tags:
 - Patient complaints
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

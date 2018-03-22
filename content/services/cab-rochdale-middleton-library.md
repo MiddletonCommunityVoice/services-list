@@ -4,8 +4,8 @@ draft: false
 tags:
 - Citizens Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,5 +17,5 @@ contact:
 ---
 
 ### Information
-To book a local appointment with CAB.
+To book a local appointment with CAB in Middleton.
 
