@@ -1,9 +1,11 @@
 ---
 title: Rochdale Council Staywell
 draft: false
+tags:
+- Service Directory
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -15,5 +17,7 @@ contact:
 ---
 
 ### Information
-ONLINE DIRECTORY OF SERVICES.
+Another ONLINE DIRECTORY OF SERVICES by Rochdale.
+Rochdale has aprrox. 3 directories for everyone to
+negotiate to find a service.
 

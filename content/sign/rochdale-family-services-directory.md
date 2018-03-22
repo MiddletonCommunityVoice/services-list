@@ -1,9 +1,11 @@
 ---
 title: Rochdale Family Services Directory
 draft: false
+tags:
+- Service Directory
 areas:
+- Midd;etpm
 - Heywood
-- Middleton
 - Rochdale
 contact:
   addresses:
@@ -16,4 +18,6 @@ contact:
 
 ### Information
 ONLINE DIRECTORY OF FAMILY SERVICES
+If you don't find what you want, try another
+of the Rochdale directories.
 

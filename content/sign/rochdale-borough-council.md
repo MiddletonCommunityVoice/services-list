@@ -1,9 +1,11 @@
 ---
 title: Rochdale Borough Council
 draft: false
+tags:
+- Service Directory
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

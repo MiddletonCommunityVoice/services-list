@@ -1,9 +1,11 @@
 ---
 title: Living Well / Big Life Group
 draft: false
+tags:
+- Service Directory
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
