@@ -9,5 +9,8 @@ contact:
 ---
 
 ### Information
+Lesbian / Bisexual / gay & Transgender help.
 Lots of numbers and contacts on this website
+If you need help, take a look for the help
+you need.
 

@@ -1,6 +1,8 @@
 ---
 title: Demesne Community Centre
 draft: false
+tags:
+- Acticities Help & Advice
 areas:
 - Middleton
 contact:

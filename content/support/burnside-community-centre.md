@@ -1,6 +1,8 @@
 ---
 title: Burnside Community Centre
 draft: false
+tags:
+- Support Help & Advice
 areas:
 - Middleton
 contact:
@@ -13,8 +15,8 @@ contact:
 ---
 
 ### Information
-Kayleigh
+Lots of activities & services
 
 ### Opening Times
-* Thu  1 til 4pm
+* 
 

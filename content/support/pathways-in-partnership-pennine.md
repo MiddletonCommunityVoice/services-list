@@ -1,9 +1,11 @@
 ---
 title: Pathways in partnership Pennine
 draft: false
+tags:
+- Drugs Help & Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -11,8 +13,13 @@ contact:
   phone:
   - 01706 676 500
   web_addresses:
+  - https://www.nhs.uk/livewell/drugs/pages/drugtreatment.aspx
   - http://www.livingwellrochdale.com
 ---
 
 ### Information
-Also 01706 924 883  &  www.penninecare.nhs.uk
+If you can't find what you want phone FRANK
+on 0300 123 6600 ( Freephone )
+Rochdale Drugs Service 01706 676 500
+Also Renaisance House at 01706 924 883  &  
+Pennine Care at http://www.penninecare.nhs.uk

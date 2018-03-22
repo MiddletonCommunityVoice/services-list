@@ -15,5 +15,6 @@ contact:
 ---
 
 ### Information
-Lesbian / Gay Community
+Lesbian / Bisexual / Gay & Transgender Community
+Help of all kinds
 
