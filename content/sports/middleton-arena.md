@@ -1,6 +1,6 @@
 ---
 title: Middleton Arena
-draft: True
+draft: False
 tags:
 - Sports Activities
 areas:
@@ -9,14 +9,14 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Middleton
+  - LCpl Joel Halliwell VC Way, Middleton
   phone:
   - 0161 622 4000
   web_addresses:
+  - https://link4life.org/events-entertainment/middleton-arena
   - http://link4life.org/
 ---
 
 ### Information
-Graeme Hill on 07976 498 615.  Inactive 16 - 25 year olds
-Lots of activities across the borough
-
+Many events at the Arena and many sports activities  
+including activities for disabled and GP referals.
