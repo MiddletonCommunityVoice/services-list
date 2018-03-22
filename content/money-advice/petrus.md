@@ -1,9 +1,11 @@
 ---
 title: Petrus
 draft: false
+tags:
+- Money Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

@@ -1,9 +1,11 @@
 ---
 title: Help With Rent
 draft: false
+tags:
+- Money & Debt Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

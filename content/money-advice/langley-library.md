@@ -1,9 +1,11 @@
 ---
 title: Langley Library
 draft: false
+tags:
+- Money & Debt Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

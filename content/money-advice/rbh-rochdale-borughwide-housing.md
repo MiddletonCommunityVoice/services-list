@@ -1,9 +1,11 @@
 ---
 title: RBH Rochdale Borughwide Housing
 draft: false
+tags:
+- Money Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

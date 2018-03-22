@@ -1,9 +1,11 @@
 ---
 title: Brentwood Day Centre
-draft: false
+draft: True
+tags:
+- Money & Debt Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
