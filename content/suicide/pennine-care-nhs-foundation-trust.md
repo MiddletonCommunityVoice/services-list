@@ -1,9 +1,11 @@
 ---
 title: Pennine Care NHS Foundation Trust
 draft: false
+tags:
+- Suicide Help & Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

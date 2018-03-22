@@ -1,6 +1,8 @@
 ---
 title: The Angel Project
 draft: false
+tags:
+- Mental Help & Advice
 areas:
 - Middleton
 contact:
@@ -14,3 +16,5 @@ contact:
 
 ### Opening Times
 * Local mental health help for people in Middleton
+The Hub on Lakeland Court is only open in the
+mornings on weekdays.

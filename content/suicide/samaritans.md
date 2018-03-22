@@ -1,9 +1,11 @@
 ---
 title: Samaritans
 draft: false
+tags:
+- Suicide Help & Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 - Manchester
 contact:

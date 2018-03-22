@@ -1,9 +1,10 @@
 ---
 title: Sane
 draft: false
+tags:
+- Suicide Help & Advice
 areas:
 - Nationwide
-
 contact:
   phone:
   - 0300 304 7000

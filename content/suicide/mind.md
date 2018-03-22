@@ -1,9 +1,11 @@
 ---
 title: Mind Rochdale
 draft: false
+tags:
+- Suicide Help & Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,6 +20,6 @@ contact:
 
 ### Information
 For help and advice
-for young and adults
+for young people and adults
 Online Services directory
 
