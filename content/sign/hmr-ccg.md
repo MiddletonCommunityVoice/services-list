@@ -1,9 +1,11 @@
 ---
 title: HMR CCG
 draft: false
+tags:
+- Governing Body
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -14,3 +16,10 @@ contact:
   - http://www.hmr.nhs.uk/
 ---
 
+### Information
+
+Governing Body. HMR is Heywood, Middleton & Rochdale
+CCG is Clinical Commission Group which decides on
+what services will be provided within the boroughs.
+Then commissions them. Public can attend their
+Meetings to ask questions

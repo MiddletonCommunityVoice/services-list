@@ -1,9 +1,11 @@
 ---
 title: NHS Carers Direct Helpline
 draft: false
+tags:
+- Information for Carers
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

@@ -1,9 +1,11 @@
 ---
 title: Healthwatch Rochdale
 draft: false
+tags:
+- Services Directory
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

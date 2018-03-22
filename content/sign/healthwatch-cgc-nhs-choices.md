@@ -1,9 +1,15 @@
 ---
 title: Healthwatch, CGC, NHS Choices
-draft: false
+draft: false 
+tags:
+- Health Services
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 ---
 
+### Information
+ONLINE Directory of Services.
+Check quality of services.
+Report problems and complaints

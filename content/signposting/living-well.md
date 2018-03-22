@@ -2,10 +2,10 @@
 title: Living Well
 draft: false
 tags:
-- Support Services
+- Health Trainers
 areas:
 - Middleton
-- Heywood
+- Heywoods
 - Rochdale
 contact:
   addresses:
@@ -19,5 +19,5 @@ contact:
 ---
 
 ### Information
-Contact Janis Atkinson
+Sports activities
 

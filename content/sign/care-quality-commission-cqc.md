@@ -1,9 +1,11 @@
 ---
 title: Care Quality Commission    CQC
 draft: false
+tags:
+- Checks quality of NHS
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

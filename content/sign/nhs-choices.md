@@ -1,9 +1,11 @@
 ---
 title: NHS Choices
 draft: false
+tags:
+- Services Directory & help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:
