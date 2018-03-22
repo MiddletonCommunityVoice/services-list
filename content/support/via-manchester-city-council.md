@@ -1,22 +1,28 @@
 ---
 title: LGBT via Manchester City Council
 draft: false
+tags:
+- LGBT
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - London
+  - Manchester
   phone:
-  - 0207 403 5969
+  - 0161 205 3851
   web_addresses:
+  - https://hsm.manchester.gov.uk/kb5/manchester/directory/results.page?directorychannel=0&qt=lgbt&term=manchester&sorttype=distance
   - https://hsm.manchester.gov.uk/
 ---
 
 ### Information
-Lesbian / Gay Community
+Lesbian / Bisexual / Gay & Transexual Community
+Help of all types.
+See the directory.
 
 ### Opening Times
-* Tue / Thu 7.30pm to 10pm
+* Times and days vary according to the service
+you want to use,
 
