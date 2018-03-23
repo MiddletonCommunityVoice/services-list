@@ -4,13 +4,13 @@ draft: false
 tags:
 - Emergency Dentist
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - 225, Old Street, Ashton Under Lyne
   - Integrated Care Centre, Dental Department, New Radcliffe Street , Oldham
+  - 225, Old Street, Ashton Under Lyne
   phone:
   - 0161 621 3613
   - 01706 676 367

@@ -4,12 +4,12 @@ draft: false
 tags:
 - Emergency Dentistry
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Dental Access Centre 22 Derby Way, Bury
+  - Dental Access Centre, 22 Derby Way, Bury
   phone:
   - 0161 447 9898
   web_addresses:

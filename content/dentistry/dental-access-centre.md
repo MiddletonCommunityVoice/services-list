@@ -4,8 +4,8 @@ draft: false
 tags:
 - Emergency Dentistry
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
