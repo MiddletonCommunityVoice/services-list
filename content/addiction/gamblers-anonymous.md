@@ -6,8 +6,8 @@ tags:
 - Money
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

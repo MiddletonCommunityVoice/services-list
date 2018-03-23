@@ -5,10 +5,10 @@ tags:
 - Drug addiction
 - Addiction
 areas:
-- Heywood
 - Middleton
-- Nationwide
+- Heywood
 - Rochdale
+- Nationwide
 contact:
   addresses:
   - High Level Great George St  Drake St Rochdale

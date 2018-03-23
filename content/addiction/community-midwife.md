@@ -5,8 +5,8 @@ tags:
 - Stop Smoking
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   Address:

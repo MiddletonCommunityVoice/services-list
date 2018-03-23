@@ -5,12 +5,12 @@ tags:
 - Stop Smoking
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Living Well ( Big Life ),  Lock 50, Oldham Road, Rochdale
+  - Living Well,  Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
   web_addresses:

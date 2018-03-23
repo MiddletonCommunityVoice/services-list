@@ -5,8 +5,8 @@ tags:
 - Drug Addiction
 - Addiciton
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

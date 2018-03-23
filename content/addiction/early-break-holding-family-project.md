@@ -5,8 +5,8 @@ tags:
 - Drugs under 18
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

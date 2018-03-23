@@ -6,13 +6,12 @@ tags:
 - Drugs
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Needle Exchange at 29 The Strand Kirkholt Rochdale
-
+  - Needle Exchange, 29 The Strand Kirkholt Rochdale
   phone:
   - 01706 649 874
   web_addresses:

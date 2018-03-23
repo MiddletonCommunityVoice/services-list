@@ -5,16 +5,16 @@ tags:
 - Drug, Alcohol, Smoking
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Champmess Hall Drake St Rochda;e
   - Number One, Riverside, Smith St  Rochdale
+  - Champmess Hall Drake St Rochda;e
   phone:
-  - 01706 751 190
   - 01706 924 883
+  - 01706 751 190
   web_addresses:
   - http://www.rochdale.gov.uk/smoking
 ---

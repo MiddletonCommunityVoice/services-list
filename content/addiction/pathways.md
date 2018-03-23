@@ -5,14 +5,14 @@ tags:
 - Drug Addiction
 - Addiction
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
   - 13 St Chads Crt School Ln Rochdale
   phone:
-  - 01706 676 500 and 01706 751 190
+  - 01706 676 500 & 01706 751 190
   web_addresses:
   - http://www.livingwellrochdale.com
 ---

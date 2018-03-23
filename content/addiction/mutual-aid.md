@@ -5,8 +5,8 @@ tags:
 - Alcohol addiction
 - Addiciton
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -14,7 +14,7 @@ contact:
   - High Level Great George St  Drake St Rochdale
   - St Josephs RC Church  Hind Hill St  Heywood
   phone:
-  - 0161 643 5775
+  - 0161 716 2840
   - 01706 369 777
   - 01706 378 050
   - 01706 660 247
@@ -23,6 +23,6 @@ contact:
 ---
 
 ### Opening Times
-* Mon @ 7.30pm @ Durnford Street
+* Mon @ 7.30pm at Durnford Street
 * Other days at other centres in Heywood Rochdale and Littleborough
 
