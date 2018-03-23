@@ -2,7 +2,7 @@
 title: Living Well
 draft: false
 tags:
-- Carers Club
+- Caring for Carers Club
 areas:
 - Middleton
 contact:

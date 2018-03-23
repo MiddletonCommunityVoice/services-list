@@ -4,8 +4,8 @@ draft: false
 tags:
 - Alzheimers & Dementia
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Milnrow
 - Rochdale
 contact:
