@@ -1,6 +1,8 @@
 ---
 title: World Health Organisation
 draft: false
+tags:
+- Health Worldwide
 areas:
 - Nationwide
 contact:

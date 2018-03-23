@@ -2,10 +2,10 @@
 title: Rochdale Council and CAB
 draft: false
 tags:
-- Help at Home
+- Welfare reform service
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:
@@ -16,4 +16,6 @@ contact:
 
 ### Information
 Welfare reform help & advice
+Universal Credit advice service expect
+May. 16th. 2018
 

@@ -2,10 +2,10 @@
 title: Rochdale Law
 draft: false
 tags:
-- Help at Home
+- Free Law Advice
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

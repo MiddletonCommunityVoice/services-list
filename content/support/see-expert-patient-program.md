@@ -1,9 +1,11 @@
 ---
 title: See Expert Patient Program
 draft: false
+tags:
+- Help with Long Term Conditions
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contacts:
   web_addresses:
@@ -11,3 +13,5 @@ contacts:
 
 ---
 
+### Information
+Helping people with long term conditions

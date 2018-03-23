@@ -1,9 +1,11 @@
 ---
 title: Rochdale Council
 draft: false
+tags:
+- Healthy Weight Team
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -14,3 +16,5 @@ contact:
   - http://www.rochdale.gov.uk/healthyweight
 ---
 
+### Information
+Working with Pennine Acute

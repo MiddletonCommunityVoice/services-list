@@ -1,9 +1,11 @@
 ---
 title: Pennine Acute Hospitals / Living Well
 draft: false
+tags:
+- Healthy Weight Team
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

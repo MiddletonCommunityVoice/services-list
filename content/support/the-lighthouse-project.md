@@ -1,9 +1,11 @@
 ---
 title: The Lighthouse Project
 draft: false
+tags:
+- Support Services
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,4 +20,5 @@ contact:
 Many activities for men and women.  Men in Sheds / Knit & Natter
 
 ### Opening Times
-* Mon - Fri 10am to 4pm   See timetable online at the website
+* Mon - Fri 10am to 4pm   See timetable at the
+their website. Updated every week.

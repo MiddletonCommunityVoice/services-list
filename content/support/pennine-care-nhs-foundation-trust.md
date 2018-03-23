@@ -1,17 +1,21 @@
 ---
 title: Pennine Care NHS Foundation Trust
 draft: false
+tags:
+- Healthy Minds & Health Visits
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
   - 225, Old Street, Ashton Under Lyne
   phone:
   - 0161 716 3000
-  - 01706 676 333
   web_addresses:
   - http://www.penninecare.nhs.uk
 ---
 
+### Information
+Lots of support services available.
+Also 01706 676 333
