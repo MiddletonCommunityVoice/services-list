@@ -5,8 +5,8 @@ tags:
 - Breast Cancer
 - Cancer
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

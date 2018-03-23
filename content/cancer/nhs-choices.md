@@ -6,8 +6,8 @@ tags:
 - Bowel Cancer
 - Breast Cancer
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Nationwide
 - Rochdale
 contact:
