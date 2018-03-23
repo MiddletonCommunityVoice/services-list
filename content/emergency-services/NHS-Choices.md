@@ -4,8 +4,8 @@ draft: false
 tags:
 - Emergency Health Help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   Address:

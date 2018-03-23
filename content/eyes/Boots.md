@@ -2,7 +2,7 @@
 title: Boots Middleton
 draft: false
 tags:
-- Eye tests
+- Opticians
 areas:
 - Middleton
 - Heywood

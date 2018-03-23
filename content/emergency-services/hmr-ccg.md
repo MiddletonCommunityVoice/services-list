@@ -4,8 +4,8 @@ draft: false
 tags:
 - GP Extra Hours Service
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   Address:

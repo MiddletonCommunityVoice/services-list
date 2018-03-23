@@ -4,8 +4,8 @@ draft: false
 tags:
 - Emergency GP Service
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

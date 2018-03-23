@@ -4,8 +4,8 @@ draft: false
 tags:
 - Eye tests for the DVLA
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

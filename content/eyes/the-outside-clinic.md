@@ -2,7 +2,7 @@
 title: The Outside Clinic
 draft: false
 tags:
-- Mobile eye tests
+- Mobile Optician
 areas:
 - Nationwide
 contact:

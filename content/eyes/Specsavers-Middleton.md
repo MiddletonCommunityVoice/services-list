@@ -2,10 +2,10 @@
 title: Specsavers Middleton
 draft: false
 tags:
-- Eye and hearing tests
+- Eye & hearing tests
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

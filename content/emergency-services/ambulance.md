@@ -4,8 +4,8 @@ draft: false
 tags:
 - Emergency Ambulance
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

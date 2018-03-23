@@ -4,8 +4,8 @@ draft: false
 tags:
 - Emergencies only. Life & Death
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

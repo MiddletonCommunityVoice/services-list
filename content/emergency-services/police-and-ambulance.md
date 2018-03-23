@@ -4,8 +4,8 @@ draft: false
 tags:
 - Non Emergencies
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:
