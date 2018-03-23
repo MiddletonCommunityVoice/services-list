@@ -1,6 +1,8 @@
 ---
 title: Bus Pass Renewals via TRANSPORT for GREATER MANCHESTER
 draft: false
+tags:
+- Bus passes
 areas:
 - Greater Manchester
 contact:
@@ -11,6 +13,7 @@ contact:
   - 0161 244 1050
   - 0161 244 1000
   web_addresses:
+  - https://www.tfgm.com/tickets-and-passes
   - http://www.tfgm.com
 ---
 

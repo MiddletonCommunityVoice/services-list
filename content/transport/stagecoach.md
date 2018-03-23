@@ -1,6 +1,8 @@
 ---
 title: Stagecoach
 draft: false
+tags:
+- Bus company
 areas:
 - Greater Manchester
 contact:

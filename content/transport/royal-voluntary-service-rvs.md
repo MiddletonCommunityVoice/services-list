@@ -2,10 +2,10 @@
 title: Royal Voluntary Service ( RVS )
 draft: false
 tags:
-- Health
+- Voluntary Drivers Service
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,7 +17,6 @@ contact:
 ---
 
 ### Information
-Middleton on 0774 710 1640
 
 ### Opening Times
 * Mon - Fri   9 - 5

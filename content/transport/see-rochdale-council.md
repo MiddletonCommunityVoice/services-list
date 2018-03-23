@@ -2,10 +2,10 @@
 title: See Rochdale Council
 draft: false
 tags:
-- Help at Home
+- Online Help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -13,9 +13,10 @@ contact:
   phone:
   - 01706 764 764
   web_addresses:
-  - http://www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk/library-services/Pages/default.aspx
+  - http://www.rochdale.gov.uk/
 ---
 
 ### Information
-Ask at your library or go online at Rochdale Council
+Ask at your library for help to access services or go online at Rochdale Council
 

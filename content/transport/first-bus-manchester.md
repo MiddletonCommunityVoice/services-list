@@ -2,7 +2,7 @@
 title: First Bus Manchester
 draft: false
 tags:
-- Bus Services
+- Bus Company
 areas:
 - Greater Manchester
 contact:

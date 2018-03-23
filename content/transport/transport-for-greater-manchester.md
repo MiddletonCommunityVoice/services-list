@@ -1,6 +1,8 @@
 ---
-title: Transport for Greater Manchester
+title: Transport for Greater Manchester ( TfGM )
 draft: false
+tags:
+- Information on travel
 areas:
 - Greater Manchester
 contact:

@@ -1,9 +1,11 @@
 ---
 title: Royal Voluntary Service
 draft: false
+tags:
+- Hospital discharge help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -13,6 +15,10 @@ contact:
   web_addresses:
   - http://www.royalvoluntaryservices.org.uk
 ---
+
+## Information
+Collection from hospital after discharge and escorted
+home to your front door
 
 ### Information
 Community Transport helping with hospital discharges
