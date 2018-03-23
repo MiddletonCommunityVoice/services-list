@@ -1,9 +1,11 @@
 ---
 title: CVS now operared by HMR Cirlce
 draft: false
+tags:
+- Voluntary Transport
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
