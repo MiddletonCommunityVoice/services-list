@@ -13,5 +13,5 @@ contact:
 ---
 
 ### Opening Times
-* Opens 10.00am till 3.00pm Monday, Tuesday, Thursday and Friday
+* Opens 10.00am til 3.00pm Monday, Tuesday, Thursday and Friday
 
