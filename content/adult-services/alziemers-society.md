@@ -1,11 +1,11 @@
 ---
-title: Alziemer's Society
+title: Alzhiemer's Society
 draft: false
 tags:
-- Help at Home
+- Befriending
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

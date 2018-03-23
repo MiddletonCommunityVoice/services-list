@@ -2,7 +2,7 @@
 title: Lesbian & Gay Bereavement Project
 draft: false
 tags:
-- LGBT
+- LGBT Bereavement
 areas:
 - Nationwide
 contact:

@@ -1,9 +1,11 @@
 ---
 title: Rochdale MIND
 draft: false
+tags:
+- Bereavement
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

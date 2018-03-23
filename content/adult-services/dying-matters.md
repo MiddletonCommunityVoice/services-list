@@ -1,6 +1,8 @@
 ---
 title: Dying Matters
 draft: false
+tags:
+- Bereavement
 areas:
 - Nationwide
 contact:

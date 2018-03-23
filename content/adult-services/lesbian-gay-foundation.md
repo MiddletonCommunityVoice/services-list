@@ -2,7 +2,7 @@
 title: LGBT Foundation
 draft: false
 tags:
-- LGBT
+- LGBT Bereavement
 areas:
 - Nationwide
 contact:
