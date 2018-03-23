@@ -2,7 +2,7 @@
 title: Burnside Community Centre
 draft: false
 tags:
-- Pathways 1-2-3
+- Pathways 1-2-1
 areas:
 - Middleton
 contact:
