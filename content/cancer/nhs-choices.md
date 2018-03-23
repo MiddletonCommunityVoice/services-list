@@ -12,8 +12,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Ashton-under-Lyne
-  - Salford
+  - Nationwide
   phone:
   - 111
   - 0161 716 3000
