@@ -1,9 +1,11 @@
 ---
 title: Rochdale Time Bank
 draft: false
+tags:
+- Volunteering
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:
@@ -13,5 +15,6 @@ contact:
 ---
 
 ### Information
-You volunteer your timeto teach someone. You then use this time for someone to teach you what you want to know
-
+You volunteer your time to teach someone. You bank 
+that time. When you're you use that time for someone 
+to teach you what you want to know

@@ -2,10 +2,10 @@
 title: Living Well
 draft: false
 tags:
-- Support
+- Volunteering & Support
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

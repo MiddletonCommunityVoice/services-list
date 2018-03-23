@@ -4,8 +4,8 @@ draft: false
 tags:
 - volunteering
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,6 +17,7 @@ contact:
 ---
 
 ### Information
+CLOSED January, 2018.
 Only the drivers service is operating until new companies are given the contracts
 
 ### Opening Times

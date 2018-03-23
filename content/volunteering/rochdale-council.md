@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Support
+- Volunteering & Support
 areas:
 - Heywood
 - Middleton
@@ -18,5 +18,5 @@ contact:
 
 ### Information
 volunteering
-Join the Community Champions  ( 01706 925 939 )
+Join the Community Champions. Now via Living Well
 

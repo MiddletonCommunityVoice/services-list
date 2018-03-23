@@ -2,7 +2,7 @@
 title: Riverside Housing Association
 draft: false
 tags:
-- Support
+- Volunteering & Support
 areas:
 - Riverside Tenants
 contact:
@@ -16,7 +16,7 @@ contact:
 ---
 
 ### Information
-volunteering.  Become a Community Champion.
+Volunteer to become a Community Champion.
 
 ### Opening Times
 * Customer Service Centre open 24hrs
