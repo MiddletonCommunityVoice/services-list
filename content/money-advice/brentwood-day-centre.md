@@ -1,6 +1,6 @@
 ---
 title: Brentwood Day Centre
-draft: True
+draft: False
 tags:
 - Money & Debt Advice
 areas:
@@ -13,10 +13,12 @@ contact:
   phone:
   - 0161 655 4062
   web_addresses:
-  - http://www.brentwoodmdc.org
+  
 ---
 
 ### Opening Times
-* Mon - Fri
-* Mornings Only for meals
+* Meals served only in the mornings.
+Open 9 til 2 Mon, Tue, Wed Fri.   9 til 1pm Thus
+Email   info@brentwoodmdc.org
+
 
