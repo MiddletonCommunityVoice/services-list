@@ -13,8 +13,7 @@ contact:
   phone:
   - 0161 655 4062
   web_addresses:
-  - https://www.homeless.org.uk/homeless-england/service/middleton-day-centre
-  - http://www.brentwoodmdc.org/
+  
 ---
 
 ### Opening Times
