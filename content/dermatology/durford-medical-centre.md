@@ -4,8 +4,8 @@ draft: false
 tags:
 - Dermatology
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,5 +18,5 @@ contact:
 ---
 
 ### Information
-Dermatology Clinic within Durnford Street on Wednesday's
-
+Dermatology Clinic within Durnford Street Medical 
+Centre, on Wednesday's

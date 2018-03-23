@@ -4,8 +4,8 @@ draft: false
 tags:
 - Wheelchair repairs & hire
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
