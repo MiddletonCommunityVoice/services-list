@@ -7,10 +7,11 @@ areas:
 - Middleton
 contact:
   addresses:
-  - also known as the Junction
+  - Grimshaw lane, Middleont
   Phone:
   - 0161 643 3036
   web_addresses:
+  - https://www.facebook.com/pages/Jumbo-Social-Centre/220417944993777
 
 ---
 

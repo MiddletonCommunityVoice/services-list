@@ -7,7 +7,7 @@ areas:
 - Middleton
 contact:
   addresses:
-  - Grimshaw Lane, Middleton
+  - Known as Jumbo Social Clud
   Phone:
   - 0161 643 3036
   web_addresses:
