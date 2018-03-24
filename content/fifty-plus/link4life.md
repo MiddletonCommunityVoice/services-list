@@ -4,8 +4,8 @@ draft: false
 tags:
 - Activities & Social
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -14,7 +14,8 @@ contact:
   - 0161 662 4000
   - 0161 662 4200
   web_addresses:
-  - http://www.link4life.org
   - http://www.link4life.org/middletonarena
+  - http://www.link4life.org
+  
 ---
 

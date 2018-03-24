@@ -2,23 +2,25 @@
 title: Heartline Club
 draft: false
 tags:
-- Social
+- Social Club
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
   - Middleton Arena, LCpl Joel Halliwell VC Way, Middleton
   phone:
-  - 0161 643 2942 / 0161 728 5060
+  - 0161 728 5060 / 0161 643 2942
   web_addresses:
-  - https://www.totalgiving.co.uk/charity/middleton-heartline
+  - http://www.middletonheartlineclub.co.uk
+  - http://www.link4life.org/centres/middleton-arena
 ---
 
 ### Information
-supported by HMR CCG & affiliated to British Heart Foundation
+supported by HMR CCG & affiliated to British Heart Foundation.
+Email  peter.down@gmail.com
 
 ### Opening Times
-* Wed & Fri 10 til 12 midday
+* Wed & Fri 10 til 12 midday at Middleton Arena
 

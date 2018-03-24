@@ -12,3 +12,5 @@ contact:
   - http://www.homeshare.org
 ---
 
+### Opening Times
+* Cut your costs by sharing your home with someone and also cut your loneliness

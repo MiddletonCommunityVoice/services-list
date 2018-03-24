@@ -4,8 +4,8 @@ draft: false
 tags:
 - 24hr Emergency Service
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
