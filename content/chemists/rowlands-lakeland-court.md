@@ -17,10 +17,11 @@ contact:
 ---
 
 ### Information
-Advice.   Order prescriptions online.
-Minor ailments service.
-Flu Jabs service.
-Needle Exchange.
+Order prescriptions by phone
+Advice & Minor ailments service.
+Flu Jabs service.    Needle Exchange.
+Collect a leaflet to see more services.
+
 
 ### Opening Hours
 9am to 6.15pm Mon to Fri  CLOSED 1pm til 2pm

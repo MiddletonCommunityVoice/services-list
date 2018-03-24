@@ -9,19 +9,18 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 50, Rochdale Road, Middleton
+  - 199, Kirkway, Alkrington, Middleton
   phone:
-  - 0161 643 8522
+  - 0161 643 5645
   web_addresses:
-  -
+  
 ---
 
 ### Information
 Diabetic testing.  Flu Jabs service.    
-Needle Exchange.
 Collect a leaflet to see more services.
 
 
 ### Opening Hours
-8.30am to 6pm Mon to Fri
-CLOSED Saturdays and Sundays
+9am to 6pm Mon to Fri
+9am to 5pm Sat.  CLOSED Sundays
