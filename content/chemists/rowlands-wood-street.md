@@ -20,5 +20,5 @@ contact:
 Service and advice
 
 ### Opening Hours
-9am to 6.30pm Mon to Fri
-9am to 1pm Sat.     CLOSED Sundays
+9am to 6.30pm Mon to Fri  /
+Sat. 9am to 1pm  /   CLOSED Sundays
