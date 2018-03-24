@@ -1,6 +1,6 @@
 ---
 title: Cameolord Pharmacy
-draft: True
+draft: False
 tags:
 - Chemist late opening
 areas:
@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 236 1445
   web_addresses:
-  
+
 ---
 
 ### Information
