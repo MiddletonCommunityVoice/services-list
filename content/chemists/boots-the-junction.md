@@ -1,20 +1,25 @@
 ---
-title: HMR CCG
+title: Boots the Chemist
 draft: True
 tags:
-- Cancer
+- Chemist
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Number One Riverside, Smith Street, Rochdale
+  - 350 to 352, Grimshaw Lane, Middleton Junction
   phone:
-  - 01706 652 853
+  - 0161 643 2817
   web_addresses:
-  - https://www.hmr.nhs.uk/index.php/your-health/breast-screening
+  -
 ---
 
 ### Information
-ONLINE ADVICE
+
+
+
+### Opening Hours
+9am to 6pm Mon to Fri
+CLOSED Saturdays and Sundays

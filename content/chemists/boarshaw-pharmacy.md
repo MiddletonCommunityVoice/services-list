@@ -1,20 +1,24 @@
 ---
-title: HMR CCG
+title: Boarshaw Pharmacy
 draft: True
 tags:
-- Cancer
+- Chemist
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Number One Riverside, Smith Street, Rochdale
+  - 221, Boarshaw Road, Middleton
   phone:
-  - 01706 652 853
+  - 0161 653 4333
   web_addresses:
-  - https://www.hmr.nhs.uk/index.php/your-health/breast-screening
+  - 
 ---
 
 ### Information
-ONLINE ADVICE
+
+
+### Opening Hours
+8.30am to 7pm Mon to Fri
+9am til 1pm Sat.      CLOSED Sundays
