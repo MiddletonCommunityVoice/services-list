@@ -4,8 +4,8 @@ draft: false
 tags:
 - Health help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

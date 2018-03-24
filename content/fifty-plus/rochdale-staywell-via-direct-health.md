@@ -4,14 +4,14 @@ draft: false
 tags:
 - Health help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
   - Talking Point, Huddersfield Rd, Scouthead, Saddleworth, Oldham
   phone:
-  - 01706 360008
+  - 01706 360 008
   web_addresses:
   - https://staywell.rochdale.gov.uk/web/portal/pages/home
 ---

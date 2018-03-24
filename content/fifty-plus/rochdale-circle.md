@@ -4,10 +4,10 @@ draft: false
 tags:
 - Activities & Social
 areas:
-- Heywood
 - Middleton
-- Nationwide
+- Heywood
 - Rochdale
+- Nationwide
 contact:
   addresses:
   - Number One, Riverside Smith Street,  Rochdale

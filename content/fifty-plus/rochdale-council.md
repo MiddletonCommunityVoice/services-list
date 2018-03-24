@@ -5,8 +5,8 @@ tags:
 - Adults at risk
 - Support
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
