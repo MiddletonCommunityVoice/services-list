@@ -19,10 +19,10 @@ contact:
   - Bury
   - London HQ
   phone:
+  - 07565 327 598
   - 01706 378 341
   - 01457 870 680
   - 0208 466 6139
-  - 07565 327598
   web_addresses:
   - http://www.buryu3a.org.uk 
   - http://www.u3a.org.uk
@@ -31,3 +31,5 @@ contact:
 
 ---
 
+### Information
+Many activities and socails plus days out

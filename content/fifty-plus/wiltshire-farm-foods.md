@@ -4,8 +4,8 @@ draft: false
 tags:
 - Meals on Wheels
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -20,5 +20,6 @@ contact:
 Order by phone or online. Foods delivered to your door every week
 
 ### Opening Times
-* Phones open 24hrs and online
+General phone line open 9am to 5pm Mon - Fri
+* Order by phone 24hrs a day or online
 

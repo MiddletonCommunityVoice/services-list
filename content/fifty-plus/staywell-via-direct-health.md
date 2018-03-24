@@ -2,10 +2,10 @@
 title: Staywell via Direct Health
 draft: false
 tags:
-- Health
+- Health help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
