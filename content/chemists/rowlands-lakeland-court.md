@@ -24,5 +24,5 @@ Collect a leaflet to see more services.
 
 
 ### Opening Hours
-9am to 6.15pm Mon to Fri / CLOSED 1pm til 2pm
+9am to 6.15pm Mon to Fri / CLOSED 1pm til 2pm  /
 9am to 1pm Sat.  /   CLOSED Sundays
