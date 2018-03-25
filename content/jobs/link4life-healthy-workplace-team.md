@@ -4,8 +4,8 @@ draft: false
 tags:
 - Help for employees
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   phone:

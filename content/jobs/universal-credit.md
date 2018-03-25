@@ -2,7 +2,7 @@
 title: Universal Credit
 draft: false
 tags:
-- Univeral credit and Jobs advice
+- Univeral credit & Job advice
 areas:
 - Nationwide
 contact:
@@ -15,5 +15,6 @@ contact:
 ---
 
 ### Information
-UNIVERSAL CREDIT  advice from government website
+UNIVERSAL CREDIT advice 
+DIRECT from the government website
 

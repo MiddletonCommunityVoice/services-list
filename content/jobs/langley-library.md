@@ -4,8 +4,8 @@ draft: false
 tags:
 - Mock Interview,Jobseekers & CVs
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,8 +18,9 @@ contact:
 
 ### Information
 One to One and group sessions available
-or group sessions on Family History, IT or Jobseekers
+on Family History, Computers or Jobseekers
+which can include CVs and a Mock Interview.
 
 ### Opening Times
-* Sessions Mon and Tue 10 - 12 midday
+* Sessions Mon and Tue
 

@@ -4,10 +4,10 @@ draft: false
 tags:
 - Work Clubs,Jobseekers & CVs
 areas:
-- across North Manchester
 - Middleton
 - Heywood
 - Rochdale
+- across North Manchester
 contact:
   addresses:
   - 2nd Floor Middleton Shopping Centre

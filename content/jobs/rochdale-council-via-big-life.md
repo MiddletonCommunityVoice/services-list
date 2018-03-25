@@ -4,8 +4,8 @@ draft: false
 tags:
 - Work Clubs by Community Champions
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
