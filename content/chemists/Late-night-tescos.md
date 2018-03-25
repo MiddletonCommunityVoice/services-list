@@ -2,7 +2,7 @@
 title: Tesco's late opening Pharmacy
 draft: False
 tags:
-- Chemist late opening
+- Chemist late night opening
 areas:
 - Middleton
 - Heywood
