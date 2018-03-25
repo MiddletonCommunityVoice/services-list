@@ -7,7 +7,7 @@ areas:
 - Middleton
 contact:
   addresses:
-  - Kirkway, Alkrington, Middleton
+  - Hardfield Road, Alkrington, Middleton
   phone:
   - 0161 655 7478 press 3
   web_addresses:

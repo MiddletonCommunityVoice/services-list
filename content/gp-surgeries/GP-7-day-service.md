@@ -4,8 +4,8 @@ draft: false
 tags:
 - Extra Hours GP Services
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,7 +18,7 @@ contact:
 ---
 
 ### Information
-Not a "Walk-in" service.  Book appointments via you GP
+Not a "Walk-in" service.  Book appointments via your GP or phone directly
 
 ### Opening Times
 * Mon - Fri 6.30pm - 9pm / Sat & bank hols 8am - 6pm / Sun 10am - 1pm
