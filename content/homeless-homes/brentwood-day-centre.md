@@ -18,5 +18,6 @@ contact:
 
 ### Opening Times
 * Meals served only in the mornings.
-Open 9 til 2 Mon, Tue, Wed Fri.   9 til 1pm Thus
+Mon, Tue, Wed, Fri  9 til 2  /  
+Thur 9 til 1pm
 Email   info@brentwoodmdc.org

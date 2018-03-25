@@ -1,5 +1,5 @@
 ---
-title: Shekter
+title: Shelter
 draft: false
 tags:
 - Homeless Help
@@ -18,6 +18,8 @@ contact:
 ---
 
 ### Opening Times
-* 8am til 8pm weekdays.    9am to 5pm weekends
-Helpline  0808 800 4444.   Chatline via website
+* 8am til 8pm weekdays.    
+9am to 5pm weekends
+Helpline  0808 800 4444.   
+Chatline via website
 EMERGENCY helpline  0808 1644 660
