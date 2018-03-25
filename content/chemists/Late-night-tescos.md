@@ -20,5 +20,5 @@ contact:
 
 
 ### Opening Hours
-OPEN 6am to 12 midnight Mon to Sat.
-11am to 5pm Sundays.
+6am to 12 midnight Mon to Sat.  /
+Sundays 11am to 5pm.
