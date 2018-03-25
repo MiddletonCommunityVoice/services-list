@@ -4,8 +4,8 @@ draft: false
 tags:
 - Physiotherapy
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

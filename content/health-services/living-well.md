@@ -4,8 +4,8 @@ draft: false
 tags:
 - Sexual Health
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,4 +18,5 @@ contact:
 
 ### Information
 Advice & Support
+Online directory
 

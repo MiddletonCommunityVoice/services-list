@@ -2,10 +2,10 @@
 title: Susan Pattison Therapy Services
 draft: false
 tags:
-- Physiotherapy
+- Physiotherapy & Neurological
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -13,7 +13,6 @@ contact:
   phone:
   - 0161 764 3799
   web_addresses:
-  - http://www.neurologicalphtsio.co.uk
   - http://www.sptherapyservices.co.uk/
 ---
 

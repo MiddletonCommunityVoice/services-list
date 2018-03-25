@@ -4,8 +4,8 @@ draft: false
 tags:
 - Expert Patient Program
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -20,8 +20,10 @@ contact:
 ---
 
 ### Information
-7 week course for people living with long term illness or their carers
-People at risk of falling at home.  Assessment for equipment and help
+7 week course for people living with a long term 
+illness or their carers
+People at risk of falling at home.  
+Assessment for equipment and help
 Woman under 20, midwifery services
 Advice & Support upto 20 years old
 

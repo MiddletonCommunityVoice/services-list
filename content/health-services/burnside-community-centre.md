@@ -4,8 +4,8 @@ draft: false
 tags:
 - Epilepsy
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
