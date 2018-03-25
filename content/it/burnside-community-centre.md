@@ -4,8 +4,8 @@ draft: false
 tags:
 - Computer Courses
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

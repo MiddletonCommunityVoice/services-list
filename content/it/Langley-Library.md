@@ -4,12 +4,12 @@ draft: false
 tags:
 - Individual IT tuition
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Langley Library, Windermere Road, Langley, Middleton
+  - Windermere Road, Langley, Middleton
   phone:
   - 0161 654 8911
   - 0300 303 8876
@@ -20,7 +20,7 @@ contact:
 ### Information
 All ages from children to pensioners
 Beginners to Silver Surfers
-Learn with your own equip.
+Learn with your own equipment
 Email: langley.library@rochdale.gov.uk
 Email: rochdale.gov.uk/libraries
 

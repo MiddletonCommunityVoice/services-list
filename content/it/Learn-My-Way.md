@@ -4,8 +4,8 @@ draft: false
 tags:
 - Learn IT online
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

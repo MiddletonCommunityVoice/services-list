@@ -4,31 +4,29 @@ draft: false
 tags:
 - Computer courses
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
-  - Alkrington Library, Kirkway, Alkrington, Middleton
-  - Junction Library, Grimshaw Lane, Middleton
-  - Langley Library, Windermere Road, Langley, Middleton
-  - Middleton Library,  Long Street, Middleton
+  - Middleton, Langley, Alkrington, Junction
   - Riverside One, Smith Street, Rochdale
   phone:
   - 0300 303 8876
   - 0161 654 8911
   - 01706 925 939
   web_addresses:
-  - langley.library@rochdale.gov.uk
-  - rochdale.gov.uk/libraries
-  - http://www.rochdale.gov.uk
+  - http://www.rochdale.gov.uk/library-services/local-libraries/Pages/default.aspx
+  - http://www.rochdale.gov.uk/libraries
 ---
 
 ### Information
 All ages
-Beginners
-Learn with your equip. Beginners to Silver Sufers
+From young beginners to Silver Surfers you're
+never too old to learn. It's easy when you know how.
+Learn with your laptop or tablet.
+Email  langley.library@rochdale.gov.uk
 
 ### Opening Times
-* Mon / Tue 10 - 12 at Langley Library
+* Mon / Tue at Langley Library
 

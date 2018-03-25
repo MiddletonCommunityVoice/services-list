@@ -2,10 +2,10 @@
 title: Lighthouse Project
 draft: false
 tags:
-- IT Courses & use for jobseekers
+- IT Courses & for jobseekers
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -18,6 +18,8 @@ contact:
 
 ### Information
 Computers available Mon to Fri
+Jobseekers access.
+Computer courses
 
 ### Opening Times
 * Mon to Fri  10am til 4pm
