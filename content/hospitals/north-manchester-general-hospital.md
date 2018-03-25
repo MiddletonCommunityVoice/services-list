@@ -2,8 +2,11 @@
 title: North Manchester General Hospital
 draft: false
 tags:
-- Hospital with A + E
+- Hospital with A & E
 areas:
+- Middleton
+- Heywood
+- Rochdale
 - Greater Manchester
 contact:
   addresses:

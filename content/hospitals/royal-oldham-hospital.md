@@ -2,15 +2,16 @@
 title: Royal Oldham Hospital
 draft: false
 tags:
-- Hospital + A & E
+- Hospital with A & E
 areas:
+- Middleton
+- Heywood
+- Rochdale
 - Oldham
 - Greater Manchester
 contact:
   addresses:
-  - Rochdale Road
-    Oldham
-    OL1 2JH
+  - Rochdale Road, Oldham. OL1 2JH
   phone:
   - 0161 624 0420
   web_addresses:
@@ -20,6 +21,7 @@ tags:
 - Maternity
 - A&E
 - Diabetes
+- Stroke
 ---
 
 ### Information

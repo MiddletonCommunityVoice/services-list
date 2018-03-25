@@ -2,8 +2,11 @@
 title: Rochdale Infirmary
 draft: false
 tags:
-- Hospital + Urgent Care Centre
+- Hospital & Urgent Care
 areas:
+- Middleton
+- Heywood
+- Rochdale
 - Greater Manchester
 contact:
   addresses:
