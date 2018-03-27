@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 236 1445
   web_addresses:
-
+  - http://www.cameolordpharmacy.co.uk/
 ---
 
 ### Information
