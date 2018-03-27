@@ -4,8 +4,8 @@ draft: false
 tags:
 - Mental Health
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

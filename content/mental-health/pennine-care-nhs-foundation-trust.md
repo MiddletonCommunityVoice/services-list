@@ -4,8 +4,8 @@ draft: false
 tags:
 - Alcohol,Drug, Mental Help
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

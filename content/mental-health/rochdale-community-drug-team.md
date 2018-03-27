@@ -1,6 +1,6 @@
 ---
 title: Rochdale Community Drug Team
-draft: True
+draft: False
 tags:
 - Mental Health
 areas:
@@ -13,6 +13,7 @@ contact:
   phone:
   - 01706 656 518
   web_addresses:
+  - https://staywell.rochdale.gov.uk/web/portal/pages/help/healthwellbeing/drugs
   - http://www.rochdale.gov.uk
 ---
 

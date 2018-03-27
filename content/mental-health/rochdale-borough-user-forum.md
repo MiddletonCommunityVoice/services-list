@@ -1,6 +1,6 @@
 ---
 title: Rochdale Borough User Forum
-draft: True
+draft: False
 tags:
 - Mental Health
 areas:
@@ -11,9 +11,10 @@ contact:
   addresses:
   - 142 Drake Street Rochdale
   phone:
+  - 01706 521 279
   - 01706 515 720 voices for all
   web_addresses:
-
+  -
 ---
 
 ### Information
