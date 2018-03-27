@@ -1,5 +1,5 @@
 ---
-title: Tesco's instore Pharamacy
+title: Tesco's instore Pharmacy
 draft: False
 tags:
 - Chemist
