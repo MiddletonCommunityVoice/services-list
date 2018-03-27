@@ -2,7 +2,7 @@
 title: Petrus
 draft: false
 tags:
-- Money Advice
+- Money Advice, Housing
 areas:
 - Middleton
 - Heywood

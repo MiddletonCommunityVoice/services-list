@@ -1,5 +1,5 @@
 ---
-title: RBH Rochdale Borughwide Housing
+title: RBH Rochdale Boroughwide Housing
 draft: false
 tags:
 - Money Advice
