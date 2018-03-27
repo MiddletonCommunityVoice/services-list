@@ -16,4 +16,5 @@ contact:
   - http://www.lighthouseproject.org.uk
 ---
 ### Information
-Impoving lifestyle, Meet up, Walking, Cooking, IT Sessions, Money Matters
+Impoving lifestyle, Meet up, Walking, Cooking, 
+IT Sessions, Money Matters

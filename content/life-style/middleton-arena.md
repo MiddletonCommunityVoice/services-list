@@ -4,8 +4,8 @@ draft: false
 tags:
 - Sport & Social
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

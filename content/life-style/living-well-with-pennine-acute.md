@@ -4,8 +4,8 @@ draft: false
 tags:
 - Healthy Lifestyles
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -17,4 +17,5 @@ contact:
 ---
 
 ### Information
-Impoving lifestyle, Stop smoking, Healthy Wieght, Staring exercises
+Impoving lifestyle, Stop smoking, Healthy Wieght, 
+Staring exercises

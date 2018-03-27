@@ -4,8 +4,8 @@ draft: false
 tags:
 - Healthy Weight Team
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:

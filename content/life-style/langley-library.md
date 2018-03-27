@@ -5,8 +5,8 @@ tags:
 - Family History Computers Jobseekers
 - Social
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -19,9 +19,9 @@ contact:
 ---
 
 ### Information
-One to One and group sessions available or group sessions
-on Family History,  IT or Jobseekers
+1 - 2 - 1 sessions or group sessions available.
+Family History, computers or Jobseekers
 
 ### Opening Times
-* Mon & Tues 10 - 12
+* Mon & Tues
 

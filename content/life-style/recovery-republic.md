@@ -2,10 +2,10 @@
 title: Recovery Republic
 draft: false
 tags:
-- Self improvement & wellbeing
+- Befriending, Counselling, Wellbeing
 areas:
-- Heywood
 - Middleton
+- Heywood
 - Rochdale
 contact:
   addresses:
@@ -16,3 +16,8 @@ contact:
   - http://recoveryrepublic.co.uk/
 ---
 
+### Information
+Lots of services. See website for more info
+
+### Opening Times
+* 

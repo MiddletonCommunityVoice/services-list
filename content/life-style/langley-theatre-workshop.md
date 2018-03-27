@@ -7,7 +7,7 @@ areas:
 - Middleton
 contact:
   addresses:
-  - Burnside & Demesne Community Centres,Langley,Middleton
+  - Burnside & Demesne Community Centres, Langley,Middleton
   phone:
   - 0161 643 0581
   web_addresses:
