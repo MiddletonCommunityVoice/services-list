@@ -19,7 +19,7 @@
 					<ul class="tags">
 						{{ range .Params.tags }}
 						<li class="tag">
-							<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+							<a class="button button-tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 						</li>
 						{{ end }}
 					</ul>

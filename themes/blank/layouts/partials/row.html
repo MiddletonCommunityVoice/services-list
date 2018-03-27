@@ -1,29 +1,33 @@
 <tr>
 	<td class="category">
+
 		{{ if .Params.Tags }}
-			{{ index .Params.Tags 0 }}
-		{{ end }}
+			{{ $ft := index .Params.Tags 0 }}
+			<a class="button button-tag" href="/tags/{{ urlize $ft }}">
+				{{ $ft }}
+			{{ end }}
+			</a>
 	</td>
 	<td>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		<strong>{{ .Title }}</strong>
 	</td>
 	<td>
 		{{ if .Params.contact.phone }}
-		<a href="tel:{{ index .Params.contact.phone 0 }}">
+		<a class="button button-outline" href="tel:{{ index .Params.contact.phone 0 }}">
 			{{ index .Params.contact.phone 0 }}
 		</a>
 		{{ end }}
 	</td>
 	<td>
 		{{ if .Params.contact.web_addresses }}
-		<a href="{{ index .Params.contact.web_addresses 0 }}">
-			{{ index .Params.contact.web_addresses 0 }}
+		<a class="button button-outline" target="_blank" href="{{ index .Params.contact.web_addresses 0 }}" title="{{ index .Params.contact.web_addresses 0 }}">
+			Open
 		</a>
 		{{ end }}
 	</td>
 	<td>
-		{{ if .Params.contact.addresses }}
-			{{ index .Params.contact.addresses 0 }}
-		{{ end }}
+		<a class="button" href="{{ .Permalink }}">
+			More Details&hellip;
+		</a>
 	</td>
 </tr>

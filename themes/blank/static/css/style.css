@@ -461,18 +461,26 @@ header {
   header h1.title {
     font-weight: bold; }
 
+.button-tag {
+  background-color: #f4e842;
+  border-color: #f4e842;
+  color: black;
+  font-size: xx-small;
+  padding: inherit 1rem; }
+  .button-tag a {
+    color: black; }
+  .button-tag:hover {
+    background-color: #ddcf0d;
+    border-color: #ddcf0d;
+    color: black; }
+
 .card {
   background-color: white;
   padding: 2rem 3rem;
   margin: 1.5rem;
-  overflow-x: auto;
-  border-radius: 10px;
-  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.15); }
+  overflow-x: auto; }
   .card.compact {
     padding: 1rem 2rem; }
-  .card tbody td.category {
-    font-weight: bold;
-    font-size: 80%; }
 
 .directory ul {
   list-style: none; }
@@ -489,16 +497,6 @@ ul.tags {
   list-style-type: none; }
   ul.tags li {
     display: inline; }
-  ul.tags .tag {
-    background-color: #f4e842;
-    padding: 0.5rem 0.6rem;
-    margin: 0rem 0.4rem;
-    font-weight: 450;
-    border-radius: 10px;
-    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.15); }
-    ul.tags .tag a {
-      color: #606c76;
-      text-align: center; }
 
 footer > .row {
   border-top: 1px solid #d1d1ae;
