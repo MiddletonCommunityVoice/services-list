@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-
+Bank holiday times vary. Check on the website
 
 ### Opening Hours
 OPEN 8am until 12 midnight every day.
