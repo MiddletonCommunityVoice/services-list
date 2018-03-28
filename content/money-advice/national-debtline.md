@@ -18,5 +18,6 @@ contact:
 Free advice & Webchat online. 24n hours
 
 ### Opening Times
-* Mon - Fri 9 - 8pm / Sat 9.30 - 1pm
+* Mon - Fri  9 - 8pm / 
+Sat 9.30 - 1pm
 

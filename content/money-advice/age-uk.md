@@ -24,10 +24,9 @@ contact:
 ### Information
 Free advice.  
 Email info@ageukoldham.org.uk
-Advice line open 8am to 7pm 365 days on 0800 055 6112
 Care & Sopport Line 0161 622 9333 / 9309
 
 ### Opening Times
-* 
-* 
+* Advice line open 8am to 7pm 365 days
+* on 0800 055 6112
 

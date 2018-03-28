@@ -26,5 +26,5 @@ Book an appointment at the Lighthouse Project or
 at Riverside Housing on 0345 111 0000 open 24hrs.
 
 ### Opening Times
-* Book an appoinment via Riverside Housing
+* 
 

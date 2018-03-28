@@ -6,8 +6,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rochdale
-contact:
+- Rochdalecontact:
   addresses:
   - 2nd Floor Middleton Shopping Centre
   phone:
@@ -16,3 +15,5 @@ contact:
   - http://www.lighthouseproject.org.uk
 ---
 
+### Information
+Open Mon to Fri 9.30 to 4.30

@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Windermere Rd Langley Middleton via Riverside Housing
+  - Windermere Rd, Middleton via Riverside Housing
   phone:
   - 0161 654 8911
   web_addresses:

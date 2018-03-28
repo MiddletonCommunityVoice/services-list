@@ -17,5 +17,5 @@ contact:
 ---
 
 ### Information
-Free advice. Book a local appointment in Middleton via Sure Start
-
+Free advice. Book a local appointment in Middleton 
+at Sure Start Centres or Middleton Library
