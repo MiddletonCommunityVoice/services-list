@@ -2,7 +2,7 @@
 title: Salford Royal Foundation Trust
 draft: false
 tags:
-- Hospital + A & E
+- Hospital with A & E
 areas:
 - Greater Manchester
 contact:

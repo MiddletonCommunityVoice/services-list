@@ -1,7 +1,7 @@
 ---
 title: Durford Medical Centre
 draft: false
-tags:
+tags:s
 - Dermatology
 areas:
 - Middleton
