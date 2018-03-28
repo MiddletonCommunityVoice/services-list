@@ -18,8 +18,22 @@ contact:
 ---
 
 ### Information
-Minor surgery. General eye tests and also hearing tests. Book online or phone the shop.
-If you need to notify the DVLA call  0300 790 6806.
+Eye & hearing tests. Book online or phone the shop.
+DVLA eye tests available at this shop.
+Free eye tests at your own home. Call 0800 198 1132.
+Services at the Middleton shop
+Adult eye tests
+Audiology services
+Cataract post-op care
+Children's eye tests
+Contact lens services
+DVLA optician
+Dry eye clinic
 
 ### Opening Times
-* Open every day. Different service each dat
+* Open every day.
+Mon / Tue / Thu / Fri  8.30am to 5.30pm
+Wed.  9.30am to 5.30pm
+Sat. 9am to 5pm
+Sun. 10am to 4pm
+
