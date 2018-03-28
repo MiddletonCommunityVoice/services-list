@@ -1,7 +1,7 @@
 ---
 title: Durford Medical Centre
 draft: false
-tags:s
+tags:
 - Dermatology
 areas:
 - Middleton
@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 654 6149
   web_addresses:
-  - http://www.durnfordm.@nhs.uk
+  - http://www.durnfordmc.nhs.uk
 
 ---
 
