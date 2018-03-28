@@ -4,7 +4,7 @@ draft: false
 tags:
 - Service Directory
 areas:
-- Midd;etpm
+- Middleton
 - Heywood
 - Rochdale
 contact:
