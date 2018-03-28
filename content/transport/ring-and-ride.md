@@ -17,7 +17,8 @@ contact:
 ---
 
 ### Information
-Enquiries 0845 688 4933.   Info 0161 244 1000
+Enquiries 0845 688 4933.   
+Info 0161 244 1000
 Bookings on 0161 200 6011
 Local mini bus service, door to door, for people
 who are disabled or have walking difficulties
