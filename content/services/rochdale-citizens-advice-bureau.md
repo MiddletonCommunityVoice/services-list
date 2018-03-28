@@ -18,7 +18,7 @@ contact:
 ---
 
 ### Information
-Ask for a local appointment in Middleton.
+Ask for a local appointment at Middleton Library
 
 ### Opening Times
 * Mon -Fri  9am - 4pm
