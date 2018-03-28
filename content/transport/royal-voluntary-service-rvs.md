@@ -9,8 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - in the Lighthouse Project, 
-  2nd Fl, Middleton Shopping Centre
+  - in the Lighthouse Project, 2nd Fl, Middleton Shopping Centre
   phone:
   - 0161 871 2011
   web_addresses:
