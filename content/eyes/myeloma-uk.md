@@ -13,6 +13,6 @@ contact:
 ---
 
 ### Information
-Myeloma.  Eye Degenerations, effects 30 to 40 year olds
-but also affects children
+Myeloma.  Eye Degenerations, effects 30 to 40 year
+olds but also affects children
 Also a group in Whitefield
