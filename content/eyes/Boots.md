@@ -15,7 +15,8 @@ contact:
   - 0345 125 3758
   web_addresses:
   - https://www.boots.com/stores/3454-manchester-middleton-opticians-m24-4el
-  - http://www.boots.com/opticians
+  
+
 ---
 
 ### Information
