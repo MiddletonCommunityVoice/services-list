@@ -13,8 +13,9 @@ contact:
   phone:
   - 0161 654 0440
   web_addresses:
-  - http://www.specsavers.co.uk/stores/middleton
-  - http://www.specsavers.co.uk
+  - https://www.specsavers.co.uk/stores/middleton
+
+
 ---
 
 ### Information
