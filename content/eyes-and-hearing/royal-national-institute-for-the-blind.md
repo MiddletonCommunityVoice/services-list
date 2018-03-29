@@ -1,5 +1,5 @@
 ---
-title: Royal National Institure for the Blind
+title: Royal National Institute for the Blind
 draft: false
 tags:
 - Directory of services
