@@ -2,7 +2,7 @@
 title: Specsavers Middleton
 draft: false
 tags:
-- Eye & hearing tests
+- DVLA Eye, Eye & hearing tests
 areas:
 - Middleton
 - Heywood
