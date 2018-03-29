@@ -1,4 +1,4 @@
 ---
-title: Eyes
+title: Eyes & Hearing
 ---
-# Eyes
+# Eyes & Hearing
