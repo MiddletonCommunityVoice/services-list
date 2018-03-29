@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Health advice & help
+- COPD
 areas:
 - Nationwide
 contact:

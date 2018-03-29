@@ -2,7 +2,7 @@
 title: Web MD via Boots
 draft: false
 tags:
-- Health advice online
+- COPD
 areas:
 - Nationwide
 contact:
