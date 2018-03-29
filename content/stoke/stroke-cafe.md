@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Hewyood, Rochdale & Bury
+  - Rochdale & Bury
   phone:
   - 01706 390 560
   web_addresses:
@@ -18,7 +18,10 @@ contact:
 ---
 
 ### Information
-Meetings every 2 weeks.
-2nd Tuesday each month.
-One month at Tochstone's Rochdale, the next month at
-The Fusiliers Bury 3.30 to 5pm
+Meetings every 2 weeks.  2nd Tuesday each month.
+One month at The Cafe in Touchstone's, 
+The Esplanade, Rochdale, 
+The next month at
+The Delicious, TheFusiliers Museum, Bury
+Meetings between 3.30 to 5pm
+Next meeting Tues, April. 11th in Bury
