@@ -11,7 +11,7 @@ contact:
   addresses:
   - The Mind Wellbeing  Centre  3 - 11 Drake St  Rochdale
   phone:
-  - 01706 752 341 John Swallow
+  - 01706 752 341
   web_addresses:
   - http://www.rochdalemind.org.uk/
 ---

@@ -12,6 +12,7 @@ contact:
   - 225, Old Street, Ashton Under Lyne
   phone:
   - 01706 676 333
+  - 01706 676 338
   web_addresses:
   - http://www.penninecare/nhs.uk
   - http://www.nhs.uk

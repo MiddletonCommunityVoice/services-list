@@ -9,7 +9,8 @@ contact:
   addresses:
   - Lineva House,  28 - 32, Milner Street, Warrington
   phone:
-  - '0800 068 41 41 /  01925 572 444'
+  - 0800 068 41 41
+  - 01925 572 444
   web_addresses:
   - http://www.kooth.com
 ---

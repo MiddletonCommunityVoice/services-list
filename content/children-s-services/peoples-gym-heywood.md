@@ -11,7 +11,7 @@ contact:
   addresses:
   - Star Work Wham Street  Heywood
   phone:
-  - 07907 056 211  Kieran Farrell
+  - 07907 056 211
   web_addresses:
   - http://www.thepeoplesgym.net
 ---
