@@ -1,19 +1,17 @@
 ---
-title: Healthy Young Minds ( fomerly CAHMS)
+title: Young Minds
 draft: false
 tags:
-- Healthy Young Minds
+- Young Minds
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   web_addresses:
-  - http://www.healthyyoungmindspennine.nhs.uk
-
+  - http://www.youngminds.org.uk
 ---
 
 ### Information
 Online help for children & young people
-Also on Twitter at @healthyYM
 
