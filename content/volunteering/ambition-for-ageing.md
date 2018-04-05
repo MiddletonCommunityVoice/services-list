@@ -39,6 +39,6 @@ To sign up as a volunteer please get in touch with our Ambition for Ageing team.
 Email:  
 
 JohnAitken@kyp.org.uk   or
-    khadija@kyp.org.uk/afa@kyp.org.uk
-   or  phone the number aboove
+    khadija@kyp.org.uk
+   or   phone the number above
 
