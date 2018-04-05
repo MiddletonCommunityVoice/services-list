@@ -42,7 +42,8 @@ Email:
 
 JohnAitken@kyp.org.uk   
 or . . . .
-khadija@kyp.org.uk
-or . . . .
+
+khadija@kyp.org.uk   or . . . .
+
 use the phone number above
 
