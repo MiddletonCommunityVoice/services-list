@@ -17,7 +17,7 @@ contact:
 ---
 
 ### Information
-Email; info@KYP.ORG.UK
+Email; info@kyp.org.uk
 
 Ambition for Ageing Rochdale is a national programme for people aged 50 and over. Working in three areas and managed by KYP we support older people and their communities to design and develop better facilities, activities and projects to reduce isolation and remain healthy and involved.
 
@@ -31,11 +31,13 @@ Volunteers from all backgrounds and ages are always welcomed, however volunteers
 Volunteer Ambassadors – Getting out and about in the community to speak to and build connections with older people, identify local assets and generate ideas for reducing social isolation.
 Volunteer Decision Makers – Get involved on our decision-making panels. Help us decide which investments and projects will benefit your communities.
 
-Look out for our volunteer ‘Drop-Ins’ at venues across West Middleton Smallbridge / Firgrove and Central Rochdale.
+Look out for our volunteer ‘Drop-Ins’ at venues across West Middleton / Smallbridge / Firgrove and Central Rochdale.
 
 All Ambition for Ageing Volunteers receive a full induction and training.
 
-To sign up as a volunteer please get in touch with our Ambition for Ageing team.
+To sign up as a volunteer please get in touch with 
+our Ambition for Ageing team.
+
 Email:  
 
 JohnAitken@kyp.org.uk   or
