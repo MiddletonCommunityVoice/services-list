@@ -40,7 +40,9 @@ our Ambition for Ageing team.
 
 Email:  
 
-JohnAitken@kyp.org.uk   or
+JohnAitken@kyp.org.uk   
+or   
     khadija@kyp.org.uk
-   or   phone the number above
+or     
+phone the number above
 
