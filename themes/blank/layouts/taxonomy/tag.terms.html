@@ -2,10 +2,18 @@
 	<main class="container">
 
 		<h1>Tags</h1>
-		{{ .Content }}
 
+		<ul class="tags">
 		{{ range .Data.Pages }}
-			{{ partial "summary.html" . }}
+
+			<li>
+				<span class="button button-tag">
+					<a href="{{ .Permalink }}">
+						{{ .Name }}
+					</a>
+				</span>
+			</li>
 		{{ end }}
+		</ul>
 	</main>
 {{ partial "footer.html" . }}

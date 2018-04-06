@@ -477,7 +477,6 @@ header {
 .card {
   background-color: white;
   padding: 2rem 3rem;
-  margin: 1.5rem;
   overflow-x: auto;
   border-radius: 5px; }
   .card dt {
@@ -485,15 +484,20 @@ header {
   .card dd, .card p, .card li, .card a {
     font-weight: 400; }
   .card.compact {
-    padding: 1rem 2rem; }
+    padding: 1rem 2rem;
+    margin: 1.5rem; }
     .card.compact a {
       font-weight: bolder; }
+  .card.contact {
+    margin-bottom: 1rem; }
 
 .directory ul {
   list-style: none; }
 
-.content h1 {
-  font-size: 4rem; }
+.content {
+  margin-left: 2rem; }
+  .content h1 {
+    font-size: 4rem; }
 
 .service ul {
   list-style: disc inside; }
