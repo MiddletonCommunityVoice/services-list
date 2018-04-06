@@ -23,8 +23,6 @@ $color-quinary: #e1e1e1 !default
 
 @import 'milligram'
 
-
-
 html
   background-color: $color-bg
 
@@ -41,7 +39,7 @@ header
   border-color: $color-yellow
   color: black
   font-size: xx-small
-  padding: inherit 1rem
+  padding: 0rem 1rem
 
   a
     color: black
@@ -56,9 +54,19 @@ header
   padding: 2rem 3rem
   margin: 1.5rem
   overflow-x: auto
+  border-radius: 5px
+
+  dt
+    font-weight: 500
+
+  dd,p,li,a
+    font-weight: 400
 
   &.compact
     padding: 1rem 2rem
+
+    a
+      font-weight: bolder
 
 
 // main directory listing on index
