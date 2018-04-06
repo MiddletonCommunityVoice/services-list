@@ -9,7 +9,9 @@
 			</a>
 	</td>
 	<td>
-		<strong>{{ .Title }}</strong>
+		<a href="{{ .Permalink }}">
+			<strong>{{ .Title }}</strong>
+		</a>
 	</td>
 	<td>
 		{{ if .Params.contact.phone }}
@@ -24,10 +26,5 @@
 			Website
 		</a>
 		{{ end }}
-	</td>
-	<td>
-		<a class="button" href="{{ .Permalink }}">
-			More Details&hellip;
-		</a>
 	</td>
 </tr>
