@@ -8,7 +8,7 @@ areas:
 contact:
   addresses:
   - Known as Jumbo Social Clud
-  Phone:
+  phone:
   - 0161 643 3036
   web_addresses:
 

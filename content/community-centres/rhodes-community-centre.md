@@ -8,9 +8,5 @@ areas:
 contact:
   addresses:
   - Kelvin Avenue, Rhodes, Middleton
-  Phone:
-  - Not known
-  web_addresses:
-  - Not known
 ---
 
