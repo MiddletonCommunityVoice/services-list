@@ -2,7 +2,7 @@
 title: Time 4 U
 draft: false
 tags:
-- Help for young mums
+- Help for new mums
 areas:
 - Middleton
 - Heywood
