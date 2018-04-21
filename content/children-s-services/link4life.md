@@ -2,7 +2,7 @@
 title: Link4Life
 draft: false
 tags:
-- Childrens Sport & Health
+- Childrens Sport
 areas:
 - HMiddleton
 - Heywood
