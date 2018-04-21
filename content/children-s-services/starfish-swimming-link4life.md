@@ -15,8 +15,7 @@ contact:
   - 0161 662 4200
   web_addresses:
   - https://link4life.org
-
-  ---
+---
 
 ### Information
 Swimming lessons for 3 year olds and above
