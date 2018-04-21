@@ -2,7 +2,7 @@
 title: Sure Start
 draft: false
 tags:
-- Child Services & help
+- Childrens Services
 areas:
 - Middleton
 - Heywood
@@ -21,5 +21,6 @@ contact:
 Event programme available from all Sure Start Centres in Middleton
 
 ### Opening Times
-* Mon - Fri 9 til 5pm with events during school holidays
+* Mon - Fri. Times vary depending on which centre
+you use. Extra events during school holidays 
 
