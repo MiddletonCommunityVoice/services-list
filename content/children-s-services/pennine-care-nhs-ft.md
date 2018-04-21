@@ -2,8 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Child Diabetes
-- Child Asthama
+- Infant Feeding
 areas:
 - Middleton
 - Heywood
@@ -12,14 +11,13 @@ contact:
   addresses:
   - 225, Old Street, Ashton Under Lyne
   phone:
-  - 01706 676 338
+  - 0161 716 5970
   web_addresses:
   - http://www.penninecare.nhs.uk
 ---
 
 ### Information
-Diabetes,  Asthama etc
+Infant Feeding Program
 
 ### Opening Times
-
 
