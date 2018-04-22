@@ -1,13 +1,12 @@
 ---
 title: Alkrington Health Centre
-draft: falses
+draft: false
 tags:
-- GP Services
 - Podiatry
-- Audiology
-- Physiotherapy
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Hardfield Road, Alkrington, Middleton
@@ -18,9 +17,7 @@ contact:
 ---
 
 ### Information
-Various services
+Chiropodist and Podiatist services
 
 ### Opening Times
-* Mon to Fri 8am to 6.30pm
-Closed Sat and Sun.
-2nd Thursday of each month open 8am to 1pm
+* Phone to book an appointment
