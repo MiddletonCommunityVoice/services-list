@@ -2,7 +2,7 @@
 title: Dementia UK
 draft: false
 tags:
-- Dementia help
+- Dementia
 areas:
 - Middleton
 - Heywood

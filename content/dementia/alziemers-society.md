@@ -2,7 +2,8 @@
 title: Alziemer's Society
 draft: false
 tags:
-- Alzheimers & Dementia
+- Dementia
+- Alzheimers
 areas:
 - Middleton
 - Heywood
