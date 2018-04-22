@@ -2,7 +2,7 @@
 title: Police, Fire, Ambulance
 draft: false
 tags:
-- Emergencies only. Life & Death
+- Emergencies only
 areas:
 - Middleton
 - Heywood
