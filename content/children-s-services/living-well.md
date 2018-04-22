@@ -2,7 +2,7 @@
 title: Living Well
 draft: false
 tags:
-- Sexual Health & Support
+- Sexual Health Support
 - Health
 areas:
 - Middleton
