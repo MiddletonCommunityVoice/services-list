@@ -1,8 +1,9 @@
 ---
-title: Boots Middleton
+title: Boots Opticians Middleton
 draft: false
 tags:
 - Opticians
+- Hearing Tests
 areas:
 - Middleton
 - Heywood
@@ -16,7 +17,6 @@ contact:
   web_addresses:
   - https://www.boots.com/stores/3454-manchester-middleton-opticians-m24-4el
   
-
 ---
 
 ### Information

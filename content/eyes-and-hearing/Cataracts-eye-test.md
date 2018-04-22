@@ -3,6 +3,8 @@ title: Specsavers, Middleton
 draft: false
 tags:
 - Cataract eye tests
+- Glaucoma Eye tests
+- Hearing tests
 areas:
 - Middleton
 - Heywood

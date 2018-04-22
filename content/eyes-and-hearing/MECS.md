@@ -2,6 +2,7 @@
 title: Specsavers Middleton
 draft: false
 tags:
+- MECS Eye services
 - Minor eye conditions
 areas:
 - Middleton

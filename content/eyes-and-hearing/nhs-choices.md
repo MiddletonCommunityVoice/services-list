@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Find opticians online & help
+- Find opticians online
 areas:
 - Nationwide
 contact:
