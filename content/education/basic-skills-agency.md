@@ -2,7 +2,8 @@
 title: Basic Skills Agency
 draft: false
 tags:
-- Learn Maths & English
+- Learn Maths
+- Learn English
 areas:
 - Nationwide
 - Heywood
