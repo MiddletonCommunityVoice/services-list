@@ -2,7 +2,7 @@
 title: BARDOC
 draft: false
 tags:
-- Emergency GP Service
+- Emergency Rochdale GP Service
 areas:
 - Middleton
 - Heywood
