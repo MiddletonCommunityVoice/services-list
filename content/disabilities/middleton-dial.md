@@ -2,7 +2,7 @@
 title: Middleton DIAL
 draft: false
 tags:
-- Wheelchair repairs & hire
+- Wheelchair repairs
 areas:
 - Middleton
 - Heywood
