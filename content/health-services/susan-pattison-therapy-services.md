@@ -2,7 +2,8 @@
 title: Susan Pattison Therapy Services
 draft: false
 tags:
-- Physiotherapy & Neurological
+- Physiotherapy
+- Neurological
 areas:
 - Middleton
 - Heywood
