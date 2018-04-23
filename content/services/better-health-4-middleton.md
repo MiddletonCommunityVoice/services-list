@@ -2,7 +2,7 @@
 title: Better Health 4 Middleton
 draft: false
 tags:
-- Services Directory
+- Directory of Services
 areas:
 - Middleton
 - Heywood

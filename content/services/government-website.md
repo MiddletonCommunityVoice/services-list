@@ -2,7 +2,7 @@
 title: Government website
 draft: false
 tags:
-- Services Directory
+- Directory of Services
 areas:
 - Nationwide
 contact:
@@ -14,4 +14,3 @@ contact:
 
 ### Information
 ONLINE DIRECTORY OF SERVVICES
-

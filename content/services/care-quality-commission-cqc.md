@@ -2,7 +2,7 @@
 title: Care Quality Commission    CQC
 draft: false
 tags:
-- Checks quality of NHS
+- Checks quality of health services
 areas:
 - Middleton
 - Heywood
@@ -13,4 +13,3 @@ contact:
   web_addresses:
   - http://www.cqc.org.uk
 ---
-
