@@ -2,7 +2,7 @@
 title: Rochdale Circle
 draft: false
 tags:
-- Activities & Social
+- Social Activities
 areas:
 - Middleton
 - Heywood

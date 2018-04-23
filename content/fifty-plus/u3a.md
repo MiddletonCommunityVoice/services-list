@@ -2,7 +2,7 @@
 title: U3A
 draft: false
 tags:
-- Social & days out
+- Social days out
 areas:
 - Middleton
 - Heywood
