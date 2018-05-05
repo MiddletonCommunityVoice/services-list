@@ -2,6 +2,7 @@
 title: Rochdale MIND
 draft: false
 tags:
+- Mental Health Help
 - Mental help directory
 areas:
 - Middleton
