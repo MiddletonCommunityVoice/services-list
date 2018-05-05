@@ -16,4 +16,4 @@ contact:
 
 ### Information
 For people who need help with their mental problems
-10am til 3pm  Mon, Tues, Thurs, Fri
+Open 10am til 3pm  Mon, Tues, Thurs, Fri

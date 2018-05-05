@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Mental Health directory
+- Mental Health Directory
 areas:
 - Nationwide
 contact:
