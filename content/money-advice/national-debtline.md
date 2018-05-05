@@ -2,12 +2,13 @@
 title: National Debtline
 draft: false
 tags:
-- Money & Debt Advice
+- Money Advice
+- Debt Advice
 areas:
 - Nationwide
 contact:
   addresses:
-  - 'HQ: Edgbaston, Birmingham'
+  - 'HQ in Edgbaston, Birmingham'
   phone:
   - '0808 808 4000'
   web_addresses:

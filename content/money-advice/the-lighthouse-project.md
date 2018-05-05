@@ -2,11 +2,13 @@
 title: The Lighthouse Project
 draft: false
 tags:
-- Money & Debt Advice
+- Money Advice 
+- Debt Advice
 areas:
 - Middleton
 - Heywood
-- Rochdalecontact:
+- Rochdale
+contact:
   addresses:
   - 2nd Floor Middleton Shopping Centre
   phone:

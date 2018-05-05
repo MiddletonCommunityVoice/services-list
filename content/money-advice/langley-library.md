@@ -2,7 +2,7 @@
 title: Langley Library
 draft: false
 tags:
-- Money & Debt Advice
+- Money Advice
 areas:
 - Middleton
 - Heywood

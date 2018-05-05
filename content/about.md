@@ -20,6 +20,6 @@ any errors or ommissions.  Nor do we endorse any of the services.
 
 If you find any errors or missing services we would be pleased to hear
 from you. You can contact us via [email](mailto:betterhealth4middleton@gmail.com), or send a
-text message on;y to 079 7070 8448.
+text message only to 079 7070 8448.
 
 **Calls to this number will not be answered and voicemails will not be acted upon**

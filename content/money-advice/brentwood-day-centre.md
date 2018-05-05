@@ -2,7 +2,9 @@
 title: Brentwood Day Centre
 draft: False
 tags:
-- Money & Debt Advice
+- Money Advice
+- Debt Advice
+- Housing Help
 areas:
 - Middleton
 - Heywood

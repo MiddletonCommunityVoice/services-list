@@ -2,7 +2,8 @@
 title: Rochdale Citizen's Advice Bureau
 draft: false
 tags:
-- Money & Debt Advice
+- Money Advice
+- Debt Advice
 areas:
 - Middleton
 - Heywood
@@ -18,4 +19,5 @@ contact:
 
 ### Information
 Free advice. Book a local appointment in Middleton 
-at Sure Start Centres or Middleton Library
+at Sure Start Centres or Middleton Library for a
+local interview in Middleton

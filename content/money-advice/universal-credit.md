@@ -2,7 +2,9 @@
 title: Universal Credit
 draft: false
 tags:
-- Money & Debt Advice
+- Universal Credit Help
+- Money Advice
+- Debt Advice
 areas:
 - Nationwide
 contact:

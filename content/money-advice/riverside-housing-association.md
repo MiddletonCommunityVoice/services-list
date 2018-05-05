@@ -2,7 +2,9 @@
 title: Riverside Housing Association
 draft: false
 tags:
-- Money & Debt Advice
+- Money Advice
+- Debt Advice
+- Housing
 areas:
 - Langley Tenants
 contact:
