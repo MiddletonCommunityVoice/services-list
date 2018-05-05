@@ -2,7 +2,8 @@
 title: Rochdale Community Drug Team
 draft: False
 tags:
-- Mental Health
+- Drug Addiciton Help
+- Mental Health Help
 areas:
 - Middleton
 - Heywood

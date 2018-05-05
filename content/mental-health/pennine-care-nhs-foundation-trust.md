@@ -2,7 +2,9 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Alcohol,Drug, Mental Help
+- Alcohol Addicition Help
+- Drug Addiciton Help 
+- Mental Health Help
 areas:
 - Middleton
 - Heywood
