@@ -2,7 +2,9 @@
 title: Mind Rochdale
 draft: false
 tags:
-- Suicide Help & Advice
+- Suicide Help
+- Mental Health Advice
+- Online directory
 areas:
 - Middleton
 - Heywood

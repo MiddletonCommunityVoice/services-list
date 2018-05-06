@@ -2,7 +2,8 @@
 title: Samaritans
 draft: false
 tags:
-- Suicide Help & Advice
+- Suicide Help
+- Mental Health Advice
 areas:
 - Middleton
 - Heywood

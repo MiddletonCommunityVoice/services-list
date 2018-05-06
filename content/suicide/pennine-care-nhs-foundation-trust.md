@@ -2,7 +2,10 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Suicide Help & Advice
+- Suicide Help 
+- Mental Health Advice
+- Online Directory
+- Hospital
 areas:
 - Middleton
 - Heywood

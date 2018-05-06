@@ -2,7 +2,7 @@
 title: Also see Mental Health
 draft: false
 tags:
-- Suicide Help & Advice
+-
 areas:
 - Middleton
 - Heywood

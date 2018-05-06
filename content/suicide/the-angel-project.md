@@ -2,7 +2,9 @@
 title: The Angel Project
 draft: false
 tags:
-- Mental Help & Advice
+- Mental Health Help
+- Drug Addiciton Advice
+- Alcohol Addiciton Advice
 areas:
 - Middleton
 contact:
