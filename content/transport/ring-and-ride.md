@@ -2,7 +2,7 @@
 title: Ring and Ride
 draft: false
 tags:
-- Bus Services
+- Bus Services / Local
 areas:
 - Greater Manchester
 contact:

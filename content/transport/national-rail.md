@@ -2,7 +2,7 @@
 title: National Rail Enquiries
 draft: false
 tags:
-- Rail Company
+- Rail Travel
 areas:
 - Nationwide
 contact:
