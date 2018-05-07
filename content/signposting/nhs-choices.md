@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Services Directory
+- Directory of Services
 areas:
 - Nationwide
 contact:
