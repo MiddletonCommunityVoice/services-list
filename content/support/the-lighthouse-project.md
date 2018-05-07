@@ -2,7 +2,7 @@
 title: The Lighthouse Project
 draft: false
 tags:
-- Support Services
+- Support Help Advice
 areas:
 - Middleton
 - Heywood
