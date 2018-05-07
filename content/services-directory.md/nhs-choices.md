@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Services Directory & help
+- Directory of Services
 areas:
 - Middleton
 - Heywood

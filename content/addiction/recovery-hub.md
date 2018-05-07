@@ -2,7 +2,8 @@
 title: Recovery Hub
 draft: false
 tags:
-- Drug & Alcohol
+- Drug Addiction
+- Alcohol Addiction
 - Addiction
 areas:
 - Middleton

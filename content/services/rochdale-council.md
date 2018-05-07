@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Service Directory
+- Directory of Services
 areas:
 - Middleton
 - Heywood

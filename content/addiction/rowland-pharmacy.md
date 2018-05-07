@@ -2,7 +2,7 @@
 title: Rowland Pharmacy
 draft: false
 tags:
-- Needle exchange
+- Drug Needle exchange
 - Drugs
 - Alcohol
 areas:

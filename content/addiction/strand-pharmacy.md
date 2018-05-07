@@ -2,7 +2,7 @@
 title: Strand Pharmacy
 draft: false
 tags:
-- Needle exchange
+- Drug Needle exchange
 - Drugs
 - Addiction
 areas:
