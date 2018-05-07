@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Sport Facilities
+- Sport Activities
 areas:
 - Middleton
 - Heywood
