@@ -2,7 +2,7 @@
 title: Stroke Association
 draft: False
 tags:
-- Stroke
+- Stroke help
 areas:
 - Middleton
 - Heywood
