@@ -2,7 +2,9 @@
 title: Rochdale Council
 draft: false
 tags:
-- Volunteering & Support
+- Volunteering
+- Support Services
+- Directory of Services
 areas:
 - Middleton
 - Heywood

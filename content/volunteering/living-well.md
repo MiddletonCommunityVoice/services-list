@@ -2,7 +2,8 @@
 title: Living Well
 draft: false
 tags:
-- Volunteering & Support
+- Volunteering
+- Support Services
 areas:
 - Middleton
 - Heywood

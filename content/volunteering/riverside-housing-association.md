@@ -2,7 +2,8 @@
 title: Riverside Housing Association
 draft: false
 tags:
-- Volunteering & Support
+- Volunteering
+- Support Services
 areas:
 - Riverside Tenants
 contact:
