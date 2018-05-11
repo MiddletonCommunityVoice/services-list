@@ -2,8 +2,8 @@
 title: Rochdale Health & Wellbeing
 draft: false
 tags:
-- Drugs Addiction
-- Alcohol Addiction
+- Drugs
+- Alcohol
 - Addiction
 areas:
 - Middleton

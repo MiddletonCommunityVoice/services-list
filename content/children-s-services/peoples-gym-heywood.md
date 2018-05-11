@@ -2,7 +2,9 @@
 title: People's Gym Heywood
 draft: false
 tags:
-- Child Boxing lessons
+- Boxing lessons
+- Fitness
+- Exercise
 areas:
 - Middleton
 - Heywood

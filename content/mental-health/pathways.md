@@ -2,8 +2,9 @@
 title: Pathways
 draft: false
 tags:
-- Alcohol Addiction Help
-- Drug Addicition Help
+- Alcohol
+- Drugs
+- Addiction
 areas:
 - Middleton
 - Heywood

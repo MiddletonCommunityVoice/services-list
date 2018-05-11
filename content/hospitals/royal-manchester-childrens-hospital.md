@@ -16,7 +16,7 @@ tags:
 - Critical Care
 - Burns Service
 - Metabolic Disorders
-- Complex Spinal
+- Spinal
 - Renal Transplant
 - Haematology
 - Oncology

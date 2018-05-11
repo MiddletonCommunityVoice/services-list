@@ -2,7 +2,8 @@
 title: BARDOC
 draft: false
 tags:
-- Emergency Rochdale GP Service
+- GP Service
+- out of hours
 areas:
 - Middleton
 - Heywood

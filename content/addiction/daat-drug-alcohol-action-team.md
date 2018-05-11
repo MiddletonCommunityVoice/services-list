@@ -2,8 +2,8 @@
 title: DAAT Drug Alcohol Action Team
 draft: false
 tags:
-- Drugs Addiction
-- Alcohol Addiction
+- Drugs
+- Alcohol
 - Addiction
 areas:
 - Middleton

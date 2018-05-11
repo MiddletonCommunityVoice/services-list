@@ -2,8 +2,8 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Child Diabetes
-- Child Asthama
+- Diabetes
+- Asthama
 areas:
 - Middleton
 - Heywood

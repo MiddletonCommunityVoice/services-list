@@ -3,6 +3,9 @@ title: Living Well with Pennine Acute
 draft: false
 tags:
 - Healthy Lifestyles
+- Fitness
+- Exercise
+- Smoking
 areas:
 - Middleton
 - Heywood
@@ -17,5 +20,4 @@ contact:
 ---
 
 ### Information
-Impoving lifestyle, Stop smoking, Healthy Wieght, 
-Staring exercises
+Impoving lifestyle, Stop smoking, Healthy Weight, Starting exercises
