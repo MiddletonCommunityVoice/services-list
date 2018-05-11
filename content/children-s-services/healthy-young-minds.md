@@ -1,5 +1,5 @@
 ---
-title: Healthy Young Minds ( fomerly CAHMS)
+title: Healthy Young Minds ( formerly CAHMS)
 draft: false
 tags:
 - Healthy Young Minds
