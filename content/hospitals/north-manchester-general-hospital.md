@@ -2,7 +2,11 @@
 title: North Manchester General Hospital
 draft: false
 tags:
-- Hospital with A & E
+- Hospital
+- Maternity
+- A&E
+- GoToDoc Service
+- GP Hub by referral
 areas:
 - Middleton
 - Heywood
@@ -15,10 +19,7 @@ contact:
   - 0161 795 4567
   web_addresses:
   - http://www.pat.nhs.uk/our-hospitals/north-manchester-general-hospital/
-tags:
-- Hospital
-- Maternity
-- A&E
+  
 ---
 
 ### Information
