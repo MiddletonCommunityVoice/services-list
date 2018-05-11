@@ -2,8 +2,6 @@ const options = {
   appId: '6CTZTIP7UD',
   apiKey: '2ac20de2c4e9354e3521a1db515f00c2',
   indexName: 'prod_BH4',
-  earchOnEmptyQuery: false,
-  /*
   searchFunction: function(helper) {
     let searchResults = document.getElementById("hits");
 
@@ -15,7 +13,6 @@ const options = {
     helper.search();
     searchResults.style.display = "inline";
   }
-  */
 };
 
 const search = instantsearch(options);
