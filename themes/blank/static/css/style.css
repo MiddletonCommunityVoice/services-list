@@ -514,4 +514,15 @@ footer > .row {
   padding-top: 2rem;
   margin-top: 4rem; }
 
+.search .ais-search-box {
+  max-width: 100%; }
+.search .ais-search-box--input {
+  background-color: white; }
+.search ul#hits {
+  list-style: none; }
+.search em {
+  background-color: #0074D9;
+  color: white;
+  font-style: normal; }
+
 /*# sourceMappingURL=style.css.map */

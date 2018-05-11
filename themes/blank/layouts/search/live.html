@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.7.4/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.7.4"></script>
+
+
+<div class="content search">
+
+  <div id="search-box">
+      <!-- SearchBox widget will appear here -->
+  </div>
+
+  <ul  id="hits">
+    <!-- Hits widget will appear here -->
+  </ul>
+
+</div>
+
+<script src="/javascripts/search.js"></script>
+
+
+{{ partial "footer.html" . }}
