@@ -2,7 +2,9 @@
 title: Burnside Community Centre
 draft: false
 tags:
-- Work Club,Jobseekers & CVs
+- Work Club
+- Jobseekers
+- CVs
 areas:
 - Middleton
 contact:

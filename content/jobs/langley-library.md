@@ -2,7 +2,9 @@
 title: Langley Library
 draft: false
 tags:
-- Mock Interview,Jobseekers & CVs
+- Mock interviews
+- Jobseekers
+- CVs
 areas:
 - Middleton
 - Heywood

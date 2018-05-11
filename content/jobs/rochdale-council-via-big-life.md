@@ -2,6 +2,7 @@
 title: Rochdale Council via Living Well
 draft: false
 tags:
+- Work Club
 - Work Clubs by Community Champions
 areas:
 - Middleton

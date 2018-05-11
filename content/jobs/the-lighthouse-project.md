@@ -2,7 +2,9 @@
 title: The Lighthouse Project
 draft: false
 tags:
-- Work Clubs,Jobseekers & CVs
+- Work Club
+- Jobseekers
+- CVs
 areas:
 - Middleton
 - Heywood

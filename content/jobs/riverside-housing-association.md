@@ -2,7 +2,8 @@
 title: Riverside Housing Association
 draft: false
 tags:
-- CVs & Jobs Help
+- CVs
+- Jobseekers
 areas:
 - Langley Tenants
 contact:
