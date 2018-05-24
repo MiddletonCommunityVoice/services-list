@@ -2,8 +2,8 @@
 title: CALM  campaign against living miserably
 draft: false
 tags:
-- suicide Help
-- Bereavment Help
+- Suicide
+- Bereavement
 areas:
 - Nationwide
 contact:

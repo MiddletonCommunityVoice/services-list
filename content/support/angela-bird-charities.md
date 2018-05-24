@@ -2,7 +2,7 @@
 title: Angela Bird Charities
 draft: false
 tags:
-- Bereavement help
+- Bereavement
 areas:
 - Middleton
 - Heywood
