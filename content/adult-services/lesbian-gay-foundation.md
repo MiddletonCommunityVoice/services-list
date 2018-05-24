@@ -2,7 +2,12 @@
 title: LGBT Foundation
 draft: false
 tags:
-- LGBT Bereavement
+- LGBT
+- Bereavement
+- Befriending
+- Drugs
+- Alcohol
+- Sexual Health
 areas:
 - Nationwide
 contact:
@@ -15,7 +20,7 @@ contact:
 ---
 
 ### Information
-Call in at Richmond St.  Mon - Fri   10 til 6pm
 
-### Opening Times
-* Phone Mon _ Fri  10 til 10
+* Call in at Richmond St. Mon-Fri 10am-6pm
+* Contact by phone Mon-Fri 9am-9pm, 10am-6pm on Saturdays
+* Get in touch by email at `helpline@lgbt.foundation`
