@@ -13,7 +13,7 @@ contact:
   addresses:
   - Featherstall Road North Oldham
   phone:
-  = 0161 602 8925
+  - 0161 602 8925
   - 0345 677 9522
   web_addresses:
   - https://www.tesco.com/store-locator/uk/?bid=2992
