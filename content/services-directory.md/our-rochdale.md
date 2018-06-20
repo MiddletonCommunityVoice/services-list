@@ -1,5 +1,5 @@
 ---
-title: Rochdale Family Services Directory
+title: OUR ROCHDALE
 draft: false
 tags:
 - Service Directory
@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 647 474
   web_addresses:
-  - https://rochdale.fsd.org.uk/
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
 ---
 
 ### Information
