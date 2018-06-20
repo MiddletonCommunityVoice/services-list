@@ -18,7 +18,7 @@ contact:
   - 01706 925 072
   - 01706 927 292
   web_addresses:
-  ~ https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=EcjSw10viws
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=EcjSw10viws
   - https://mycare.rochdale.gov.uk/web/portal/pages/help/servicedirectory/c/childrensdirectory
   - http://www.healthyyoungmindspennine.nhs.uk/thrive 
   
