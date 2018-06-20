@@ -1,5 +1,5 @@
 ---
-title: Tesco's Pharmcay Salford late opening
+title: Tesco's Pharmacy Salford late opening
 draft: False
 tags:
 - Chemist late opening
