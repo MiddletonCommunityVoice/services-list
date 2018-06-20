@@ -2,8 +2,8 @@
 title: Cameolord Pharmacy
 draft: False
 tags:
-- Chemist
-- late night opening
+- Chemist late openeing
+- late opening hours
 - out of hours
 areas:
 - Middleton

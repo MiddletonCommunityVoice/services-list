@@ -2,8 +2,8 @@
 title: Tesco's late opening Pharmacy
 draft: False
 tags:
-- Chemist
-- late night opening
+- Chemist late opening
+- late night opening hours
 - out of hours
 areas:
 - Middleton
@@ -24,7 +24,7 @@ Main store open
 Sundays 11am to 5pm.
 Bank holiday times vary. Check on the website
 
-### Opening Hours
+### Pharmacy Opening Hours
 Pharmacy open 6.30am to 10.30pm Mon to Fri  /
 Sat 6.30am til 10pm /  Sun 11am til 5pm
 Bank holiday times vary. Check on the website
