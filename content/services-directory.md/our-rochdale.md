@@ -1,5 +1,5 @@
 ---
-title: OUR ROCHDALE
+title: Our Rochdale
 draft: false
 tags:
 - Service Directory
@@ -11,7 +11,7 @@ contact:
   addresses:
   - Number One, Riverside, Smith St  Rochdale
   phone:
-  - 01706 647 474
+  - 01706 719900
   web_addresses:
   - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
 ---
