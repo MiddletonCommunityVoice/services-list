@@ -2,7 +2,7 @@
 title: Our Rochdale
 draft: false
 tags:
-- Service Directory
+- Childrens Services Directory
 areas:
 - Middleton
 - Heywood
@@ -13,11 +13,12 @@ contact:
   phone:
   - 01706 719900
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/services.page?
 ---
 
 ### Information
 ONLINE DIRECTORY OF FAMILY SERVICES
-If you don't find what you want, try another
-of the Rochdale directories.
+### Information
+Open Mon - Fri  8.45am - 4.45pm
+
 
