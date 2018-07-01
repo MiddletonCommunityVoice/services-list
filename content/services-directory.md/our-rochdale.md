@@ -13,7 +13,7 @@ contact:
   phone:
   - 01706 719900
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/services.page?
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?
 ---
 
 ### Information
