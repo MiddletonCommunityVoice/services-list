@@ -2,7 +2,7 @@
 title: Early Break
 draft: false
 tags:
-- Young people Mental help
+- Young peoples Mental help
 areas:
 - Middleton
 - Heywood

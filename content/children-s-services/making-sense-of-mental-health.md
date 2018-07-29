@@ -2,7 +2,7 @@
 title: Making sense of Mental Health
 draft: false
 tags:
-- Childrens Mental Health
+- Young Peoples Mental Help
 areas:
 - Middleton
 - Heywood

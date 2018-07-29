@@ -2,14 +2,14 @@
 title: "#Thrive"
 draft: false
 tags:
-- Mental Health help
+- Young Peoples Mental Help
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - phonr for help in Middleton
+  - phone for help in Middleton
   - Around the Corner Café, 48 - 50, Drake Street, Rochdale.
   - Drop-in centre at Drake Street Rochdale.
   phone:

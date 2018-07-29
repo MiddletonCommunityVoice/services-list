@@ -2,6 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
+- Long Term Illness Help
 - Diabetes
 - Asthama
 areas:
@@ -12,13 +13,15 @@ contact:
   addresses:
   - 225, Old Street, Ashton Under Lyne
   phone:
+  - 01706 676 333
   - 01706 676 338
   web_addresses:
   - http://www.penninecare.nhs.uk
 ---
 
 ### Information
-Diabetes,  Asthama etc
+Long Term Illness Help, Care and Advice
+Diabetes,  Asthama and other services
 
 ### Opening Times
 

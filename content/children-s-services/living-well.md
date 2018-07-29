@@ -2,8 +2,7 @@
 title: Living Well
 draft: false
 tags:
-- Sexual Health Support
-- Health
+- Sexual Health
 areas:
 - Middleton
 - Heywood

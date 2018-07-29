@@ -2,7 +2,7 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 tags:
-- Healthy exercise for the young
+- Healthy exercise
 areas:
 - Middleton
 - Heywood

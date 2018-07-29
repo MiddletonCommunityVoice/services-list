@@ -2,7 +2,7 @@
 title: National Bullying Helpline
 draft: false
 tags:
-- Bullying help for all
+- Bullying help
 areas:
 - Middleton
 - Heywood

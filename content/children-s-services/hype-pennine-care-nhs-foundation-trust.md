@@ -2,7 +2,7 @@
 title: HYPE / Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Mental Health for young people
+- Young peoples Mental Help
 areas:
 - Middleton
 - Heywood

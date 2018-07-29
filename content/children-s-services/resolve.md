@@ -3,7 +3,7 @@ title: Resolve
 draft: false
 tags:
 - Child emotional help
-- Mental Health
+- Young Peoples Mental Help
 areas:
 - Middleton
 - Heywood

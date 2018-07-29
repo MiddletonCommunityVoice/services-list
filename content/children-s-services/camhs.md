@@ -2,7 +2,7 @@
 title: CAMHS now Healthy Young Minds
 draft: false
 tags:
-- Mental health for young people
+- Young peoples Mental health
 areas:
 - Middleton
 - Heywood

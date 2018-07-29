@@ -17,5 +17,5 @@ contact:
 ---
 
 ### Information
-To follow
+Contact Middleton Arena
 

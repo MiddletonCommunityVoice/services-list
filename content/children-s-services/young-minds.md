@@ -2,7 +2,7 @@
 title: Young Minds
 draft: false
 tags:
-- Young Minds
+- Young Peoples Mental Help
 areas:
 - Middleton
 - Heywood
@@ -18,5 +18,5 @@ contact:
 ### Information
 Online help for children & young people
 Parents Helpine is 0808 802 5544 free for mobiles
-Opem Mon to Fri 9.30am to 4pm.
+Open Mon to Fri 9.30am to 4pm.
 

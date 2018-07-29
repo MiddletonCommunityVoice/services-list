@@ -1,5 +1,5 @@
 ---
-title: SEE your GP or look at the directory
+title: SEE your GP
 draft: false
 tags:
 - Councelling Services Directory

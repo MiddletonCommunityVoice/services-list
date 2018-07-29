@@ -11,11 +11,11 @@ contact:
   addresses:
   - Number One, Riverside Smith Street,  Rochdale
   phone:
-  - 0161 662 4000
+  - 01706 926 203
   web_addresses:
   - http://link4life.org/
 ---
 
 ### Information
 Disabled Sports 01706 926 203
-
+Contact Middleton Arena on 0161 662 4000
