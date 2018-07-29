@@ -6,8 +6,8 @@ tags:
 areas:
 - Nationwide
 contact:
-  - web_addresses:
-  - http://www.gov.uk
+  web_addresses:
+  -  http://www.gov.uk
 ---
 
 ### Information
