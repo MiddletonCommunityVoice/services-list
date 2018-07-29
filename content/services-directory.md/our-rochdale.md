@@ -2,7 +2,7 @@
 title: Our Rochdale
 draft: false
 tags:
-- Childrens Services Directory
+- Services Directory
 areas:
 - Middleton
 - Heywood
@@ -17,7 +17,11 @@ contact:
 ---
 
 ### Information
-ONLINE DIRECTORY OF FAMILY SERVICES
+ONLINE DIRECTORY OF SERVICES
+For Families
+For Children
+For Adults
+
 ### Information
 Open Mon - Fri  8.45am - 4.45pm
 

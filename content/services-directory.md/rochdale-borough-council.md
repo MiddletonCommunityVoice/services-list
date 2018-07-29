@@ -2,7 +2,7 @@
 title: Rochdale Borough Council
 draft: false
 tags:
-- Service Directory
+- Services Directory
 areas:
 - Middleton
 - Heywood
@@ -16,3 +16,11 @@ contact:
   - http://www.rochdale.gov.uk
 ---
 
+### Information
+Providing services and information
+across the boroughs of
+Heywood
+Middleton
+Rochdale
+Milnrow
+and Littleborough

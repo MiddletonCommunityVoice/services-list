@@ -2,7 +2,7 @@
 title: Rochdale & District MIND
 draft: false
 tags:
-- Service Directory
+- Services Directory
 areas:
 - Middleton
 - Heywood
@@ -19,6 +19,7 @@ contact:
 ### Information
 Phone for advice.  
 Also a good online directory of services
+for the boroughs of Heywood, Middleton & Rochdale
 
 ### Opening Times
 * Open Mon to Fri  9.30 - 4.30

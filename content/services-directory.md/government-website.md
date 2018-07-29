@@ -2,13 +2,11 @@
 title: Government website
 draft: false
 tags:
-- Directory of Services
+- Services Directory
 areas:
 - Nationwide
 contact:
-  phone:
-  -
-  web_addresses:
+  - web_addresses:
   - http://www.gov.uk
 ---
 

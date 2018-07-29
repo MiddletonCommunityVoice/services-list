@@ -18,5 +18,8 @@ contact:
 ---
 
 ### Information
-4 hospitals in Bury, Rochdale, Oldham & North 
-Manchester
+4 hospitals 
+in Bury, 
+Rochdale, 
+Oldham 
+& North Manchester
