@@ -15,5 +15,5 @@ contact:
 ---
 
 ### Information
-via NHS Choices website
+NHS Choices website
 
