@@ -9,11 +9,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Number One, Riverside, Smith St  Rochdale
+  - Number One, Riverside, Smith St  Rochdale. OL16 1XU
   phone:
   - 01706 719900
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=EcjSw10viws
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
 ---
 
 ### Information

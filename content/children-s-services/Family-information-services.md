@@ -1,5 +1,5 @@
 ---
-title: Our Rochdale
+title: Family Information Services
 draft: false
 tags:
 - Childrens Services
@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Number One Riverside, Smith Street, Rochdale
+  - Number One Riverside, Smith Street, Rochdale. OL16 1XU
   phone:
   - 01706 71 99 00
   
