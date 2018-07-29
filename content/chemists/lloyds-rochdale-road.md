@@ -3,6 +3,8 @@ title: Lloyds Pharmacy
 draft: False
 tags:
 - Chemist
+- Diabetic Tests
+- Flu jabs
 areas:
 - Middleton
 - Heywood
@@ -18,10 +20,9 @@ contact:
 
 ### Information
 Diabetic testing.  Flu Jabs service.    
-Needle Exchange.
 Collect a leaflet to see more services.
 
 
 ### Opening Hours
-8.30am to 6pm Mon to Fri
+Mon to Fri  8.30am to 6pm
 CLOSED Saturdays and Sundays

@@ -1,8 +1,9 @@
 ---
-title: Boots the Chemist
+title: Boots Chemist - The Junction
 draft: False
 tags:
 - Chemist
+- Minor Ailments Service
 areas:
 - Middleton
 - Heywood

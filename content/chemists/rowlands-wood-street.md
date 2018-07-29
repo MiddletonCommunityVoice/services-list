@@ -1,5 +1,5 @@
 ---
-title: Rowlands Pharmacy
+title: Rowlands Pharmacy - Wood Street
 draft: False
 tags:
 - Chemist
@@ -20,5 +20,6 @@ contact:
 Service and advice
 
 ### Opening Hours
-9am to 6.30pm Mon to Fri  /
-Sat. 9am to 1pm  /   CLOSED Sundays
+Mon to Fri  9am to 6.30pm Mon to Fri
+Sat. 9am to 1pm
+Sundays   CLOSED

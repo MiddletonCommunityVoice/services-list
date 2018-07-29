@@ -1,8 +1,11 @@
 ---
-title: Rowlands Pharmacy
+title: Rowlands Pharmacy - Lakeland Court
 draft: False
 tags:
-- Chemist & Needle Exchange
+- Chemist
+- Needle Exchange
+- Minor Ailments Service
+- Flu jabs
 areas:
 - Middleton
 - Heywood
@@ -24,5 +27,6 @@ Collect a leaflet to see more services.
 
 
 ### Opening Hours
-9am to 6.15pm Mon to Fri / CLOSED 1pm til 2pm  /
-Sat. 9am to 1pm  /   CLOSED Sundays
+Mon to Fri  9am to 1pm and 2pm til 6.15pm
+Sat. 9am to 1pm
+Sundays  CLOSED

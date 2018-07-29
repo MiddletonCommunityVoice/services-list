@@ -1,8 +1,10 @@
 ---
-title: Lloyds Pharmacy
+title: Lloyds Pharmacy Alkrington
 draft: False
 tags:
 - Chemist
+- Diabetic Testing
+- Flu Jabs
 areas:
 - Middleton
 - Heywood
@@ -22,5 +24,6 @@ Collect a leaflet to see more services.
 
 
 ### Opening Hours
-9am to 6pm Mon to Fri
-9am to 5pm Sat.  CLOSED Sundays
+Mon to Fri 9am to 6pm . . .
+Sat  9am to 5pm Sat . . .
+CLOSED Sundays

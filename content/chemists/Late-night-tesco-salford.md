@@ -3,8 +3,6 @@ title: Tesco's Pharmacy Salford late opening
 draft: False
 tags:
 - Chemist late opening
-- late night opening hours
-- out of hours
 areas:
 - Middleton
 - Heywood
@@ -25,6 +23,8 @@ Sundays 11am to 5pm.
 Bank holiday times vary. Check on the website
 
 ### Pharmacy Opening Hours
-Pharmacy open 6.30am to 10.30pm Mon to Fri  /
-Sat 6.30am til 10pm /  Sun 11am til 5pm
+Pharmacy open 
+Mon to Fri  6.30am to 10.30pm . . .
+Sat 6.30am til 10pm . . .
+Sun 11am til 5pm
 Bank holiday times vary. Check on the website

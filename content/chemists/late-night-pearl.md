@@ -3,8 +3,6 @@ title: Pearl Pharmacy Rochdale Late opening
 draft: False
 tags:
 - Chemist late openeing
-- late opening hours
-- out of hours
 areas:
 - Middleton
 - Heywood
@@ -25,4 +23,4 @@ Bank holiday times vary. Check on the website
 ### Pharmacy Opening Hours
 Mon - Fri 9am til 10.30pm. . .
 Sat 9am til Midnight. . .
-Saun 12 midday til 5.30pm
+Sun 12 midday til 5.30pm

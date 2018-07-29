@@ -1,5 +1,5 @@
 ---
-title: Tesco's instore Pharmacy
+title: Tesco's instore Pharmacy - Middleton
 draft: False
 tags:
 - Chemist
@@ -21,5 +21,5 @@ contact:
 Pharmacy service and advice
 
 ### Opening Times
-* 8am to 8pm Mon to Sat,
-10am to 4pm Sundays
+Mon to Sat  8am til 8pm
+Sundays  10am til 4pm

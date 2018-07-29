@@ -1,8 +1,9 @@
 ---
-title: Boots the Chemist
+title: Boots Chemist - Peterloo
 draft: False
 tags:
 - Chemist
+- Minor Ailments Service
 areas:
 - Middleton
 - Heywood
