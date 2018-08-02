@@ -2,7 +2,7 @@
 title: Yorkshire St Rochdale Late opening
 draft: False
 tags:
-- Chemist late openeing
+- Chemist late opening
 areas:
 - Middleton
 - Heywood

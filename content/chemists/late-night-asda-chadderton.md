@@ -2,7 +2,7 @@
 title: Asda Pharmacy Chadderton Late opening
 draft: False
 tags:
-- Chemist late openein
+- Chemist late opening
 areas:
 - Middleton
 - Heywood
