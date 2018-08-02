@@ -2,7 +2,7 @@
 title: Place2Be
 draft: false
 tags:
-- Young Peoples Mental Health Help
+- Young Peoples Mental Help
 - Mental Health Help for Parents
 - Mental Health Help for Schools
 areas:
