@@ -3,7 +3,7 @@ title: Adult Care Services
 draft: false
 tags:
 - Adult Care
-= learning disabilities
+- learning disabilities
 - Older people
 - Adult Safeguarding
 - Physical Disabilites
