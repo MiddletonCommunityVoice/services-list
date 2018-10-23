@@ -16,7 +16,7 @@ contact:
   phone:
   - 0300 303 8886
   web_addresses:
-  https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
   - http://www.rochdale.gov.uk/mycare
 
 ---
