@@ -1,26 +1,22 @@
 ---
-title: RBH  TBC
+title: RBH ( Rochdale Boroughwide Housing )
 draft: false
 tags:
-- Adult Care
-- learning disabilities
-- Older people
-- Adult Safeguarding
-- Physical Disabilites
-- Vulnerable adults
+- Housing
+- Sheltered Housing
 areas:
 - Middleton
 - Heywood
 - Rocdhale
 contact:
   phone:
-  - 0300 303 8886
+  -  0800 027 7769
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
+  - https://www.rbh.org.uk
 
 ---
 
 ### Information
-
-Based at Moving on, Hardfield Rd, Alkrington
+Based at Sandbrook House, Sandbrook Way, Rochdale.
+Lots of services.  Help for those living alone and in isolation
+Equipment to help in the home. 
