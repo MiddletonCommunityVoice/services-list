@@ -8,18 +8,18 @@ Welcome to this directory of services which is aimed at all
  residents of Middleton, young or old.
 
 This directory has been compiled from many 
-public sources available online and printed materials.
+public sources available online & from printed materials.
 
 Because lots of services come and go, and some just change
-their names, other services vary without any notice
+their names, other services vary without any notice,
 it is impossible to maintain 100% correct information.
 For this reason we cannot accept any responsibility or 
 liabiltity for any errors or ommissions.
-Nor do we endorse any of the services on this website/
+Nor do we endorse any of the services on this website.
 
 If you find any errors or missing services we would be pleased
 to hear from you. You can contact us via email to
- [email](mailto:betterhealth4middleton@gmail.com), or send a
+betterhealth4middleton@gmail.com, or send a
 text message only to 079 7070 8448.
 
 **Calls to this number will not be answered and voicemails will
