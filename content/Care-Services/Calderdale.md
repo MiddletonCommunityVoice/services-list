@@ -1,12 +1,10 @@
 ---
-title: Calderdale Home Care TBC
+title: Calderdale Home Care
 draft: false
 tags:
+Care at Home
 - Adult Care
-- learning disabilities
-- Older people
-- Adult Safeguarding
-- Physical Disabilites
+- People 18+
 - Vulnerable adults
 areas:
 - Middleton
@@ -14,13 +12,11 @@ areas:
 - Rocdhale
 contact:
   phone:
-  - 0300 303 8886
+  - 0161 637 0590
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
-
+  - https://www.homecare.co.uk/homecare/agency.cfm/id/65432225477
 ---
 
 ### Information
-
-Based at Moving on, Hardfield Rd, Alkrington
+Based on Long Street, Middleton
+Care services given in your own home.
