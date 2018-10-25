@@ -1,26 +1,25 @@
 ---
-title: Healthwatch  TBC
+title: Healthwatch Rochdale
 draft: false
 tags:
-- Adult Care
-- learning disabilities
-- Older people
-- Adult Safeguarding
-- Physical Disabilites
-- Vulnerable adults
+- Patient quality and complaints
 areas:
-- Middleton
 - Heywood
-- Rocdhale
+- Middleton
+- Rochdale
 contact:
+  addresses:
+  - Unique Enterprise Centre, Belfield Road, Rochdale
   phone:
-  - 0300 303 8886
+  - 01706 249 575
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
-
+  - http://www.healthwatchrochdale.org.uk
 ---
 
 ### Information
-
-Based at Moving on, Hardfield Rd, Alkrington
+Will take up patient complaints.  But these should be reported
+to the PALS service at hospitals.
+Also has powers to enter and view patient services at
+GP surgeries and Care Homes. Their inspections differ to
+those of the CQC.  The CQC look at the operational side of
+care homes.  Healthwatch look at services to patients.
