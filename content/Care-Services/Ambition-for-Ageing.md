@@ -1,26 +1,23 @@
 ---
-title: Ambition for Ageing  TBC
+title: Ambition for Ageing
 draft: false
 tags:
-- Adult Care
-- learning disabilities
 - Older people
-- Adult Safeguarding
-- Physical Disabilites
-- Vulnerable adults
 areas:
 - Middleton
 - Heywood
 - Rocdhale
 contact:
   phone:
-  - 0300 303 8886
+  - 01706 630 140
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
+  - https://www.ambitionforageing.org.uk/rochdale
 
 ---
 
 ### Information
 
-Based at Moving on, Hardfield Rd, Alkrington
+Based in Rochdale but covers all of the boroughs.
+Services for older people.  Learn how to use a computer.
+Learn your Family History.  Done be on your own feeling isolated
+Come for your dinner and a chat.
