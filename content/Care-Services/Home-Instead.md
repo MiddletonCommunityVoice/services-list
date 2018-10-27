@@ -3,6 +3,9 @@ title: Home Instead Senior Care
 draft: false
 tags:
 - Care at home
+- Companionship
+- Personal Care
+- Dementia Service
 areas:
 - Middleton
 - Heywood
@@ -17,4 +20,5 @@ contact:
 ---
 
 ### Information
-Based in Rochdale cover Heywood, Middleton & Rochdale
+Based in Rochdale cover Heywood, Middleton & Rochdale.
+Provides many care servicesin the community and at home.
