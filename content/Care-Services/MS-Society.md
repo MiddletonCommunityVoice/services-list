@@ -1,23 +1,22 @@
 ---
-title: MS Society  TBC
+title: MS Society Rochdale
 draft: false
 tags:
-- Adult Care
-- learning disabilities
-- Older people
-- Adult Safeguarding
-- Physical Disabilites
-- Vulnerable adults
+- MS advice
+- Monthly social meetings
+- equipment
+- adaptions
+- respite grants
 areas:
 - Middleton
 - Heywood
 - Rocdhale
 contact:
   phone:
-  - 0300 303 8886
+  - 07542 150 683
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
+  - https://www.mssociety.or.uk
+  - email rochdalemssociety@outlook.com
 
 ---
 
