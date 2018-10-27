@@ -1,26 +1,22 @@
 ---
-title: Possibilities  TBC
+title: Possibilities
 draft: false
 tags:
-- Adult Care
-- learning disabilities
-- Older people
-- Adult Safeguarding
-- Physical Disabilites
-- Vulnerable adults
+- Supported living
+- Community support
+- Adult care
 areas:
 - Middleton
 - Heywood
 - Rocdhale
 contact:
   phone:
-  - 0300 303 8886
+  - 01706 692 181
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
+  - https://www.possabilities.org.uk
 
 ---
 
 ### Information
 
-Based at Moving on, Hardfield Rd, Alkrington
+Based in Heywood. Operate Mon - Friday  9am to 5pm
