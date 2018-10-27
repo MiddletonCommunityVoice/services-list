@@ -13,8 +13,8 @@ areas:
 - Heywood
 - Rocdhale
 contact:
-  Address:
-  - H
+  addresses:
+  - Moving On, Hardfield Road, Alkrington
   phone:
   - 0300 303 8886
   web_addresses:
