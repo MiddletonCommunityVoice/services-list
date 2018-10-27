@@ -8,7 +8,7 @@ areas:
 - Heywood
 - Rocdhale
 contact:
-  addressess:
+  addresses:
   - Based at KYP, Belfield Road, Rochdale
   phone:
   - 01706 630 140
