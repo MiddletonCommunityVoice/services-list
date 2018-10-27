@@ -8,6 +8,8 @@ areas:
 - Heywood
 - Rocdhale
 contact:
+  addressess:
+  - Based at KYP, Belfield Road, Rochdale
   phone:
   - 01706 630 140
   web_addresses:
@@ -19,5 +21,6 @@ contact:
 
 Based in Rochdale but covers all of the boroughs.
 Services for older people.  Learn how to use a computer.
-Learn your Family History.  Done be on your own feeling isolated
-Come for your dinner and a chat.
+Learn your Family History.  Don't be on your own.
+Don't feel isolated
+Come for your dinner and have a chat.
