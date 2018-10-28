@@ -1,5 +1,5 @@
 ---
-title: HMR Clinical Commission Group
+title: HMR CCG
 draft: false
 tags:
 - Commissioning
@@ -18,6 +18,7 @@ contact:
   ---
 
 ### Information
+
 These groups control services across Rochdale
 Borough. The Governing Body meets every other
 month in Rochdale.
