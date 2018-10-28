@@ -20,7 +20,10 @@ contact:
 
 ### Information
 Many services for health and wellbeing.
+
 Reduced price entry for some.
+
 Enquiries via Middleton Arena.
+
 Operates at Bowlee Park Sports Centre and
 St Mary's football pitches.
