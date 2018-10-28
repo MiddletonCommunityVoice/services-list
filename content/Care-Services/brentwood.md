@@ -1,5 +1,5 @@
 ---
-title: Brentood Day Centre
+title: Brentwood Day Centre
 draft: false
 tags:
 - Homeless
