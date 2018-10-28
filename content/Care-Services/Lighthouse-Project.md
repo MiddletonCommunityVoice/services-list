@@ -6,11 +6,13 @@ tags:
 - Computer lessons
 - Meetups
 - Knit and Natter
+- Man in Sheds
 - Who let the dads out
 - Art classes
-- Walking locally
+- Walking Groups
 - Carers Coffe Break
 - Money Advice
+- Middleton Central Foodbank
 areas:
 - Middleton
 - Heywood
@@ -21,7 +23,7 @@ contact:
   phone:
   - 0161 643 1163
   web_addresses:
-  - https://www.lighthouseproject.org.uk
+  - http://www.lighthouseproject.org.uk
 
 ---
 
