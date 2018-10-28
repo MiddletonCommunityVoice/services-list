@@ -9,7 +9,7 @@ areas:
 - Rocdhale
 contact:
   addresses:
-  - Based at KYP, Belfield Road, Rochdale
+  - KYP building, Unique Enterprise Centre, Belfield Road, Rochdale
   phone:
   - 01706 630 140
   web_addresses:
