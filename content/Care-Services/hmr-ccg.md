@@ -1,5 +1,5 @@
 ---
-title: Heywood,Middleton & Rochdale Clinical Commission Group
+title: HMR Clinical Commission Group
 draft: false
 tags:
 - Commissioning
