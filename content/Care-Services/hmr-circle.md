@@ -5,6 +5,7 @@ tags:
 - Membership
 - Activities
 - Days out
+- older people
 areas:
 - Middleton
 - Heywood
