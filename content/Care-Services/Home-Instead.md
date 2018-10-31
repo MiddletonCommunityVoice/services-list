@@ -14,8 +14,7 @@ contact:
   addresses:
   - Jape One Business Centre, Dell Road, Shawclough,Rochdale
   phone:
-  - 01076 408 652
-  - 01706 249 100 24hr enquiry line
+  - 01706 249 100
   web_addresses:
   - https://www.homeinstead.co.uk/rochdale
 
