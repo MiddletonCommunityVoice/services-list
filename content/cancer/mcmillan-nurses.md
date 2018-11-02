@@ -2,7 +2,7 @@
 title: McMillan Nurses
 draft: False
 tags:
-- Cancer help services
+- Cancer Care
 areas:
 - Nationwide
 contact:
@@ -11,3 +11,6 @@ contact:
   web_addresses:
   - http://www.macmillan.org.uk/
 ---
+
+### Information
+Local office at North Manchester Hospital
