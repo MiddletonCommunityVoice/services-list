@@ -3,7 +3,6 @@ title: Cancer Care Services
 draft: false
 tags:
 - Cancer Care
-- one to one chats
 areas:
 - Middleton
 - Heywood
@@ -14,11 +13,12 @@ contact:
   phone:
   - 01706 517 982
   web_addresses:
-  - not known
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=35t-lGd4Qus
 
 ---
 
 ### Information
 
 Open Mon - Fri 8.30am - 4.30pm
-email  pah-trhmrcommunitycancercareservice@nhs.net
+
+email  pah-tr.hmrcommunitycancercareservice@nhs.net
