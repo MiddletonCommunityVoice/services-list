@@ -11,7 +11,7 @@ areas:
 - Rocdhale
 contact:
   addresses:
-  - 1 - 3, York Street, Heywood
+  - 1 - 5, York Street, Heywood
   phone:
   - 01706 368 088
   - 0800 652 8533
