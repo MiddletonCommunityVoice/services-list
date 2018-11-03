@@ -14,8 +14,9 @@ contact:
   - 1 - 3, York Street, Heywood
   phone:
   - 01706 368 088
+  - 0800 652 8533
   web_addresses:
-  - https://www.millercare.co.uk/heywood
+  - https://www.millercare.co.uk/millercare-heywood/
 
 ---
 
