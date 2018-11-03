@@ -27,7 +27,7 @@ Email: ROARreferrals@turning-point.co.uk
 
 Our services include:
 
-Group work sessions
+Group work sessions :
 Recovery worker support :
 Health and wellbeing services :
 Relapse prevention :
