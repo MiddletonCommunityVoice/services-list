@@ -1,5 +1,5 @@
 ---
-title: Our Rochdale
+title: Community Connectors and Our Rochdale
 draft: false
 tags:
 - Health help
@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Middleton Health Centre
+  - Community Connectors at Middleton Health Centre
   - Number One Riverside, Smith St  Rochdale. OL16 1XU
   phone:
   - 0330 ??? ???
@@ -19,13 +19,21 @@ contact:
 ---
 
 ### Information
-Help and advice :
-For Families :
-For Children:
-For Adults :
-ALSO ONLINE DIRECTORY OF SERVICES
+ONLINE DIRECTORY OF SERVICES
+Help and advice : For Families : 
+For Children: For Adults :
+
+Online 24 / 7, 365 days
+
+OR
 
 ### Information
+Phone the Community Connectors on 03
+
+Visit and talk to the Community Connectors
+
+Based at Middleton Health Centre.
+
 Normal Opening Mon - Fri  8.45am - 4.45pm
 
 
