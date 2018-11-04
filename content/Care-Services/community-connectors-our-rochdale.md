@@ -10,7 +10,7 @@ areas:
 contact:
   addresses:
   - Community Connectors at Middleton Health Centre
-  - Number One Riverside, Smith St  Rochdale. OL16 1XU
+  - Directory at Number One Riverside, Smith St  Rochdale. OL16 1XU
   phone:
   - 0330 ??? ???
   - 01706 719900
@@ -20,6 +20,7 @@ contact:
 
 ### Information
 ONLINE DIRECTORY OF SERVICES
+
 Help and advice : For Families : 
 For Children: For Adults :
 
@@ -28,7 +29,7 @@ Online 24 / 7, 365 days
 OR
 
 ### Information
-Phone the Community Connectors on 03
+Phone the Community Connectors 03-------- ?
 
 Visit and talk to the Community Connectors
 
