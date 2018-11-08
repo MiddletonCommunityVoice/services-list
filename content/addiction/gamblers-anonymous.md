@@ -18,5 +18,7 @@ contact:
 ---
 
 ### Information
-Also in Bury and Oldham.       Online chatroom service
+Also available in Bury and Oldham.
+
+Online chatroom service
 
