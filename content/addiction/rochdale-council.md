@@ -2,8 +2,10 @@
 title: Rochdale Council
 draft: false
 tags:
-- Drug, Alcohol, Smoking
-- Addiction
+- Addictions
+- Drugs
+- Alcohol
+- Stop Smoking
 areas:
 - Middleton
 - Heywood

@@ -2,8 +2,8 @@
 title: Stay Safe
 draft: false
 tags:
-- Drug Addiction
-- Addiction
+- Addictions
+- Drugs
 areas:
 - Middleton
 - Heywood

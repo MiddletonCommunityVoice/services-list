@@ -4,7 +4,6 @@ draft: false
 tags:
 - Needle exchange
 - Drugs
-- Addiction
 areas:
 - Middleton
 - Heywood

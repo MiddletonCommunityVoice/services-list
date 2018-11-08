@@ -4,7 +4,6 @@ draft: false
 tags:
 - Needle exchange
 - Drugs
-- Alcohol
 areas:
 - Middleton
 - Heywood

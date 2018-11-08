@@ -2,9 +2,10 @@
 title: Rochdale Health & Wellbeing
 draft: false
 tags:
+- Addictions
 - Drugs
 - Alcohol
-- Addiction
+- Stop Smoking
 areas:
 - Middleton
 - Heywood
