@@ -3,7 +3,6 @@ title: Rowland Pharmacy
 draft: false
 tags:
 - Needle exchange
-- Drugs
 areas:
 - Middleton
 - Heywood
