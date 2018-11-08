@@ -2,9 +2,8 @@
 title: Gamblers Anonymous
 draft: false
 tags:
-- Gambling addiction
+- Addictions
 - Money
-- Addiction
 areas:
 - Middleton
 - Heywood

@@ -2,8 +2,7 @@
 title: FRANK  see DAAT
 draft: false
 tags:
-- Drug addiction
-- Addiciton
+- Addictions
 areas:
 - Nationwide
 contact:
