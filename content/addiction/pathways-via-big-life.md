@@ -2,8 +2,7 @@
 title: Pathways via Big Life
 draft: false
 tags:
-- Drug Addiction
-- Addiciton
+- Addictions
 areas:
 - Middleton
 - Heywood

@@ -3,7 +3,7 @@ title: Living Well supported by others
 draft: false
 tags:
 - Stop Smoking
-- Addiction
+- Addictions
 areas:
 - Middleton
 - Heywood

@@ -2,8 +2,8 @@
 title: Narcotics Anonymous
 draft: false
 tags:
-- Drug Addiction
-- Addiction
+- Addictions
+- Drugs
 areas:
 - Nationwide
 contact:
