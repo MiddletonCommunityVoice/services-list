@@ -2,8 +2,7 @@
 title: Early Break 4U18
 draft: false
 tags:
-- Drug Addiction under 18
-- Addiction
+- Addictions under 18
 areas:
 - Middleton
 - Heywood

@@ -2,8 +2,7 @@
 title: Early Break Holding Family Project
 draft: false
 tags:
-- Drug Addiction under 18
-- Addiction
+- Addictions
 areas:
 - Middleton
 - Heywood

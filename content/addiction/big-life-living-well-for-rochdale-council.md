@@ -3,7 +3,7 @@ title: Big Life / Living Well for Rochdale Council
 draft: false
 tags:
 - Stop Smoking
-- Addiction
+- Addictions
 areas:
 - Middleton
 - Heywood

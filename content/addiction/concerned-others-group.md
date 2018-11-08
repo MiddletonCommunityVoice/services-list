@@ -2,8 +2,8 @@
 title: Concerned Others Group
 draft: false
 tags:
+- Addictions
 - Drug Addiction
-- Drugs
 areas:
 - Middleton
 - Heywood
