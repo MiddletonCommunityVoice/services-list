@@ -4,7 +4,7 @@ draft: false
 tags:
 - Alzheimers
 - Dementia
-- Memory Cafes
+- Memory Cafe
 areas:
 - Middleton
 - Heywood
