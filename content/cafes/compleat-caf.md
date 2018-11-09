@@ -2,7 +2,7 @@
 title: Compleat Café
 draft: false
 tags:
-- Community Cafe & Mental Help
+- Mental Health Cafe
 areas:
 - Middleton
 contact:

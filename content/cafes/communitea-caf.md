@@ -2,7 +2,7 @@
 title: CommuniTea Café
 draft: false
 tags:
-- Community Cafe & Mental Help
+- Mental Health cafe
 areas:
 - Rochdale
 contact:
