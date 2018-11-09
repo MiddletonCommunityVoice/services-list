@@ -2,7 +2,9 @@
 title: Recovery Republic
 draft: false
 tags:
-- Befriending, Counselling, Wellbeing
+- Befriending
+- Counselling
+- Wellbeing
 areas:
 - Middleton
 - Heywood
