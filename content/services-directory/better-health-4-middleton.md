@@ -10,16 +10,14 @@ areas:
 contact:
   web_addresses:
   - http://www.betterhealth4.org.uk
-  - Email_address:
-  - betterhealth4middleton@gmail.com
   
 ---
 
 ### Information
-ONLINE Directory of Services aimed at residents
-living in Middleton.
 
-Paper copy at The Lighthouse Project to help you 
-find the services you need.
+An online Directory of Services aimed at residents living in Middleton.
 
-Email betterhealth4middleton.org.uk
+You can find a paper copy at The Lighthouse Project to help
+you find the services you need.
+
+Email [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com)

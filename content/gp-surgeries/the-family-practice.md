@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 643 4459
   web_addresses:
-  - waiting for BARDOC
+  # - waiting for BARDOC
 ---
 
