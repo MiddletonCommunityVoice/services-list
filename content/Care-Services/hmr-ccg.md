@@ -2,6 +2,7 @@
 title: HMR CCG
 draft: false
 tags:
+- Governing Body
 - Commissioning
 areas:
 - Middleton

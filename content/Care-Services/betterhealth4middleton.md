@@ -2,7 +2,7 @@
 title: Better Health 4 Middleton
 draft: false
 tags:
-- Directory of Service
+- Directory
 - Signposting
 areas:
 - Middleton

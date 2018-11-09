@@ -2,9 +2,9 @@
 title: Living Well  Rochdale
 draft: false
 tags:
-- Wellbeing services
+- Wellbeing
 - health trainers
-- directory of services
+- directory
 - carers coffee break
 areas:
 - Middleton

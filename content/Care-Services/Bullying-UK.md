@@ -2,7 +2,7 @@
 title: Bullying UK
 draft: false
 tags:
-- Child Bullying
+- Bullying
 areas:
 - Nationwide
 contact:

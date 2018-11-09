@@ -3,7 +3,7 @@ title: Link 4 Life
 draft: false
 tags:
 - Wellbeing Service
-- Sport services
+- Sport
 areas:
 - Middleton
 - Heywood

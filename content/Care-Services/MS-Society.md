@@ -2,8 +2,8 @@
 title: MS Society Rochdale
 draft: false
 tags:
-- MS advice
-- Monthly social meetings
+- MS help
+- Socials
 - equipment
 - adaptions
 - respite grants

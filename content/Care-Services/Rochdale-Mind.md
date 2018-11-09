@@ -3,8 +3,8 @@ title: Rochdale Mind
 draft: false
 tags:
 - Adult Care
-- Directory of services
-- Wellbeing Services
+- Directory
+- Wellbeing
 - Councelling
 - Advocacy
 - Dementia

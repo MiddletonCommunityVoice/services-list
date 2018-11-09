@@ -2,8 +2,8 @@
 title: Falls Prevention Team
 draft: false
 tags:
-- Adult Care
 - Falls Team
+- Adult Care
 areas:
 - Middleton
 - Heywood
