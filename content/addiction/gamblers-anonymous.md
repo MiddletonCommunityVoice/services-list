@@ -2,8 +2,8 @@
 title: Gamblers Anonymous
 draft: false
 tags:
-- Addictions
 - Gambling
+- Addictions
 areas:
 - Middleton
 - Heywood

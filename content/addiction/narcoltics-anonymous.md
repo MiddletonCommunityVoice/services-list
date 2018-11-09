@@ -2,8 +2,8 @@
 title: Narcoltics Anonymous
 draft: false
 tags:
-- Addictions
 - Drugs
+- Addictions
 areas:
 - Middleton
 - Heywood
