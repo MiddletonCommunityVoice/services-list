@@ -9,9 +9,9 @@ areas:
 - Rochdale
 contact:
  addresses:
-  - Number One Riverside, Smith St Rochdale
+  - Number One Riverside, Smith St, Rochdale
   - Middleton Libraries
-  - Sure Start Centre Windermere Rd Langley Middleton
+  - Sure Start Centre, Windermere Rd, Langley, Middleton
   phone:
   - 0300 303 8876
   web_addresses:
@@ -22,4 +22,3 @@ contact:
 Ask at a library or go online at Rochdale Council.
 Sure Start Centres can phone CAB to book a local
 appointemt for you.
-
