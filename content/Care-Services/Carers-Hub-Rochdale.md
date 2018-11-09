@@ -7,7 +7,7 @@ tags:
 - Advocacy
 - Councelling
 - Sitting in Service
-- Carers Help and Chat line
+- Carers Chat line
 - Short Breaks Service
 - Care Worker Support
 areas:

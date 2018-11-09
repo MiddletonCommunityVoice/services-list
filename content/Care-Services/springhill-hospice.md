@@ -2,9 +2,9 @@
 title: Springhill Hospice
 draft: false
 tags:
+- Hospice
 - End of Life
 - Thinking ahead
-- Hospice
 areas:
 - Middleton
 - Heywood

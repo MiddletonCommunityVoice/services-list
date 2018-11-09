@@ -2,8 +2,8 @@
 title: HMR Circle
 draft: false
 tags:
-- Membership
 - Activities
+- Lifestyle
 - Days out
 - older people
 areas:

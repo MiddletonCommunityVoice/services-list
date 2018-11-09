@@ -2,11 +2,11 @@
 title: Lighthouse Project
 draft: false
 tags:
-- Jobseekers
+- Community Centre
 - Computer lessons
 - Meetups
 - Knit and Natter
-- Man in Sheds
+- Men in Sheds
 - Who let the dads out
 - Art classes
 - Walking Groups

@@ -3,10 +3,10 @@ title: Brentwood Day Centre
 draft: false
 tags:
 - Homeless
-- Housing Advice
-- Benefits Advice
+- Housing
+- Benefits
 - Free meals
-- Mental Health Help
+- Mental Health
 areas:
 - Middleton
 - Heywood

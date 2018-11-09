@@ -4,7 +4,8 @@ draft: false
 tags:
 - Mobility service
 - Physical Disabilites
-- Home equipment
+- Equipment
+- Adaptions
 areas:
 - Middleton
 - Heywood

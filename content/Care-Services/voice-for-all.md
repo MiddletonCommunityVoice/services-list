@@ -2,7 +2,8 @@
 title: Voices for all
 draft: false
 tags:
-- Mental Health and Wellbeing
+- Mental Health
+- Wellbeing
 - Support Groups
 areas:
 - Middleton

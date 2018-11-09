@@ -2,11 +2,11 @@
 title: Thinking Ahead
 draft: false
 tags:
-- Drug and Alcohol Abuse
-- Money worries
-- Work Stree
-- Difficulty sleeping
-- Feeling low
+- Addictions
+- Money
+- Work Stress
+- Sleeping problems
+- Depression
 areas:
 - Middleton
 - Heywood

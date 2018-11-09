@@ -2,7 +2,7 @@
 title: Parkinsons
 draft: false
 tags:
-- Parkinsons help
+- Parkinsons
 areas:
 - Middleton
 - Heywood

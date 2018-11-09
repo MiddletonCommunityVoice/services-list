@@ -2,7 +2,7 @@
 title: Advocacy Together Hub
 draft: false
 tags:
-- Mental Health Help
+- Advocacy
 areas:
 - Middleton
 - Heywood
