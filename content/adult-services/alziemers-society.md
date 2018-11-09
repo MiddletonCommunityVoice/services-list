@@ -3,6 +3,7 @@ title: Alzhiemer's Society
 draft: false
 tags:
 - Befriending
+- Alzheimers
 areas:
 - Middleton
 - Heywood
