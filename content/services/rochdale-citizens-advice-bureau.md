@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Middleton Library,  Long Street, Middleton
+  - Middleton Libraries
   - 104 - 106 Drake Street Rochdale. Not a drop in service
   phone:
   - 0300 330 1153

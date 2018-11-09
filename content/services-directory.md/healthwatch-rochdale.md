@@ -2,8 +2,9 @@
 title: Healthwatch Rochdale
 draft: false
 tags:
+- Directory
+- Services Quality
 - Patient complaints
-- Services Directory
 areas:
 - Middleton
 - Heywood

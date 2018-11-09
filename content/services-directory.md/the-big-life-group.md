@@ -2,7 +2,7 @@
 title: Living Well / Big Life Group
 draft: false
 tags:
-- Services Directory
+- Directory
 areas:
 - Middleton
 - Heywood
@@ -17,12 +17,9 @@ contact:
 ---
 
 ### Information
-Many services across
-Heywood
-Middleton
-Rochdale
-Milnrow
+Many services across :
+
+Heywood, Middleton, Rochdale Milnrow
 and Littleborough
 
 Also, look at their online directory
-

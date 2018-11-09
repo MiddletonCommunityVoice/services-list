@@ -2,7 +2,7 @@
 title: Rochdale Social Service
 draft: false
 tags:
-- Services Directory
+- Directory
 areas:
 - Middleton
 - Heywood
@@ -17,6 +17,7 @@ contact:
 ---
 
 ### Information
-Phone for advice.  
-Also look at the new directory OUR ROCHDALE
+Phone for advice.
+
+Also an ONLINE directory at OUR ROCHDALE
 for the boroughs of Heywood, Middleton & Rochdale

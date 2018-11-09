@@ -2,7 +2,7 @@
 title: Care Quality Commission    CQC
 draft: false
 tags:
-- Checks quality of health services
+- Health Service quality
 areas:
 - Middleton
 - Heywood

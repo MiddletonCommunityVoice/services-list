@@ -2,7 +2,7 @@
 title: Rochdale & District MIND
 draft: false
 tags:
-- Services Directory
+- Directory
 areas:
 - Middleton
 - Heywood
@@ -17,7 +17,8 @@ contact:
 ---
 
 ### Information
-Phone for advice.  
+Phone for advice.
+
 Also a good online directory of services
 for the boroughs of Heywood, Middleton & Rochdale
 

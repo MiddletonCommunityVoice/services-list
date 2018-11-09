@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Directory of Services
+- Directory
 areas:
 - Middleton
 - Heywood
@@ -18,4 +18,7 @@ contact:
 
 ### Information
 Online directory of services or phone for help.
+
 More than one directory to search.
+
+Latest directory at  ourrochdale.gov.uk

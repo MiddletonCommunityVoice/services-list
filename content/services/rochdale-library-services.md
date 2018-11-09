@@ -8,6 +8,10 @@ areas:
 - Heywood
 - Rochdale
 contact:
+ addresses:
+  - Number One Riverside, Smith St Rochdale
+  - Middleton Libraries
+  - Sure Start Centre Windermere Rd Langley Middleton
   phone:
   - 0300 303 8876
   web_addresses:

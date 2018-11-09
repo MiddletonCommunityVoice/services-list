@@ -2,7 +2,7 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 tags:
-- Health service provider
+- Health service
 areas:
 - Middleton
 - Heywood
@@ -18,8 +18,6 @@ contact:
 ---
 
 ### Information
-4 hospitals 
-in Bury, 
-Rochdale, 
-Oldham 
-& North Manchester
+4 hospitals :
+
+in Bury,  Rochdale,  Oldham   & North Manchester

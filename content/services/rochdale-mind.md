@@ -2,7 +2,7 @@
 title: Rochdale MIND
 draft: false
 tags:
-- Directory of Services
+- Directory
 areas:
 - Middleton
 - Heywood

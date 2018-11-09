@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Long Street, Middleton
+  - Middleton Libraries
   phone:
   - 01706 927 101
   web_addresses:

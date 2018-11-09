@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Services Directory
+- Directory
 areas:
 - Middleton
 - Heywood
@@ -16,6 +16,10 @@ contact:
 
 ### Information
 NHS Choices website has lots of information
+
 Find a Doctor, Surgery, Dentist, Hospital
-Find informaton on your health
-Need urgent help.  NHS Choices can call an ambulance for you
+
+Health information.
+
+Need urgent help. Phone NHS Choices 111 for help.
+If needed, they will call for an ambulance for you.

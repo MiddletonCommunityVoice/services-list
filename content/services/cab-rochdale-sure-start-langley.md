@@ -8,6 +8,7 @@ areas:
 contact:
   addresses:
   - Sure Start, Windermere Road, Langley, Middleton
+  - Middleton Libraries
   phone:
   - 0161 653 9526
   web_addresses:

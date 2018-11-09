@@ -2,14 +2,14 @@
 title: Rochdale Borough Council
 draft: false
 tags:
-- Services Directory
+- Directory
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Number One, Riverside, Smith St  Rochdale
+  - Number One Riverside, Smith St  Rochdale
   phone:
   - 01706 647 474
   web_addresses:
@@ -18,9 +18,7 @@ contact:
 
 ### Information
 Providing services and information
-across the boroughs of
-Heywood
-Middleton
-Rochdale
-Milnrow
-and Littleborough
+across the boroughs of Rochdale :
+Bamford, Heywood, Littleborough, Middleton, Milnrow,
+Newhey, Norden, Smallbridge, Smithybridge, Rochdale & 
+Wardle.

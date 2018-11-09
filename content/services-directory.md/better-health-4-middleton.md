@@ -2,7 +2,7 @@
 title: Better Health 4 Middleton
 draft: false
 tags:
-- Services Directory
+- Directory
 areas:
 - Middleton
 - Heywood
@@ -16,7 +16,10 @@ contact:
 ---
 
 ### Information
-ONLINE Directory of Services. 
+ONLINE Directory of Services aimed at residents
+living in Middleton.
+
 Paper copy at The Lighthouse Project to help you 
 find the services you need.
+
 Email betterhealth4middleton.org.uk
