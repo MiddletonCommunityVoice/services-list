@@ -1,4 +1,4 @@
 ---
-title: IT
+title: Information Technology
 ---
-# IT
+# Information Technology

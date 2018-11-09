@@ -9,8 +9,10 @@ contact:
   phone:
   - 0207 092 6108
   web_addresses:
-  - http://www.manchester.services@scope.org.uk
+  - https://www.disabilitymatters.org.uk/
+  # - http://www.manchester.services@scope.org.uk
 ---
 
 ### Information
+
 Lots of advice and help advice.
