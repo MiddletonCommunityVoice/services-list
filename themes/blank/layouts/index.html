@@ -1,6 +1,13 @@
 {{ partial "header.html" . }}
 <main class="container">
 
+	<div class="card disclaimer">
+		{{ range where .Data.Pages "Title" "Disclaimer" }}
+			{{ .Content }}
+		{{ end }}
+	</div>
+
+
 	<div class="directory">
 		{{ range .Site.Sections }}
 
