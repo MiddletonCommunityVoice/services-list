@@ -2,8 +2,8 @@
 title: Mencap
 draft: false
 tags:
-- Mental Health Help
-- Learning Disabilities Help
+- Mental Health
+- Learning Disabilities
 areas:
 - Nationwide
 contact:

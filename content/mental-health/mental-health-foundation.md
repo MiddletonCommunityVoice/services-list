@@ -2,7 +2,7 @@
 title: Mental Health Foundation
 draft: false
 tags:
-- Mental Health Help Online
+- Online Mental Health
 areas:
 - Nationwide
 contact:

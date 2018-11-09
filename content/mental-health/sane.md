@@ -2,8 +2,9 @@
 title: Sane
 draft: false
 tags:
-- Suicide Help
-- Self Harm Help
+- Suicide
+- Self Harm
+- Mental Health
 areas:
 - Nationwide
 contact:

@@ -2,8 +2,8 @@
 title: Samaritans
 draft: false
 tags:
-- Suicide Help
-- Mental Help
+- Suicide
+- Mental Health
 areas:
 - Nationwide
 contact:

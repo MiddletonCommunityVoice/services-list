@@ -2,7 +2,7 @@
 title: MIND Rochdale & District
 draft: false
 tags:
-- Mental Health Help
+- Mental Health
 areas:
 - Middleton
 - Heywood

@@ -2,7 +2,8 @@
 title: Papyrus
 draft: false
 tags:
-- Suicide Prevention
+- Suicide
+- Mental Health
 areas:
 - Nationwide
 contact:

@@ -2,7 +2,7 @@
 title: Rethink
 draft: false
 tags:
-- Mental Health Help
+- Mental Health
 areas:
 - Nationwide
 contact:

@@ -2,7 +2,7 @@
 title: Young Minds
 draft: false
 tags:
-- Mental Health Support
+- Mental Health
 areas:
 - Nationwide
 contact:
