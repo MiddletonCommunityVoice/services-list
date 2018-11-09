@@ -8,7 +8,7 @@ areas:
 - Heywood
 - Rochdale
 contact:
- addresses:
+  addresses:
   - Number One Riverside, Smith St, Rochdale
   - Middleton Libraries
   - Sure Start Centre, Windermere Rd, Langley, Middleton
