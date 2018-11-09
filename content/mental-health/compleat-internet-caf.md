@@ -2,7 +2,7 @@
 title: Compleat Internet Café
 draft: false
 tags:
-- Mental Health help Cafe
+- Memory Cafe
 areas:
 - Middleton
 contact:
