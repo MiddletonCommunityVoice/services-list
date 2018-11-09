@@ -3,7 +3,7 @@ title: RBH Rochdale Boroughwide Housing
 draft: false
 tags:
 - Money Advice
-- Housing Help
+- Housing
 areas:
 - Middleton
 - Heywood

@@ -2,8 +2,8 @@
 title: Financial Inclusion Champions
 draft: false
 tags:
-- Money Advice
-- Debt Advice
+- Money advice
+- Debt advice
 areas:
 - Middleton
 - Heywood

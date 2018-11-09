@@ -2,8 +2,8 @@
 title: Anchor Housing
 draft: false
 tags:
-- Money Advice
 - Housing
+- Money Advice
 areas:
 - Nationwide
 contact:

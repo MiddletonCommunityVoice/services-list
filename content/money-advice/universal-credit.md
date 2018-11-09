@@ -2,7 +2,8 @@
 title: Universal Credit
 draft: false
 tags:
-- Universal Credit Help
+- Universal Credit
+- Benefits
 - Money Advice
 - Debt Advice
 areas:

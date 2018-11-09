@@ -2,8 +2,8 @@
 title: Crisis
 draft: false
 tags:
-- Money Advice
-- Debt Advice
+- Money advice
+- Debt advice
 areas:
 - Nationwide
 contact:
