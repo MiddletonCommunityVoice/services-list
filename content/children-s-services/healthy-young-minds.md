@@ -2,7 +2,7 @@
 title: Healthy Young Minds ( formerly CAHMS)
 draft: false
 tags:
-- Under 18 Mental Help
+- Under 18 Mental Health
 areas:
 - Middleton
 - Heywood
