@@ -2,7 +2,7 @@
 title: Mind-ed
 draft: false
 tags:
-- Childrens emotional Help
+- Childrens emotions
 areas:
 - Middleton
 - Heywood

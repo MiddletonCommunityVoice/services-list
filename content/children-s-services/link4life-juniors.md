@@ -2,7 +2,7 @@
 title: Link4life Junior Skills
 draft: false
 tags:
-- Junior Skills Program
+- Junior Skills
 areas:
 - Middleton
 - Heywood

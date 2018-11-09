@@ -2,7 +2,7 @@
 title: Papyrus
 draft: false
 tags:
-- Young Peoples Mental Help
+- Under 18 Mental Health
 areas:
 - Nationwide
 contact:

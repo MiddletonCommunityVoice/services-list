@@ -2,9 +2,9 @@
 title: Place2Be
 draft: false
 tags:
-- Young Peoples Mental Help
-- Mental Health Help for Parents
-- Mental Health Help for Schools
+- Under 18 Mental Health
+- Help for Parents
+- Help for Schools
 areas:
 - Middleton
 - Heywood

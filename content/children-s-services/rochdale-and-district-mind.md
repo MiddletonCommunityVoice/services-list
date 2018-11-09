@@ -2,7 +2,7 @@
 title: Rochdale and District Mind
 draft: false
 tags:
-- Young Peoples Mental Help
+- Under 18 Mental Health
 areas:
 - Middleton
 - Heywood

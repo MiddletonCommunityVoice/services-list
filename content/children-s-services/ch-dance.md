@@ -3,7 +3,7 @@ title: CH Dance
 draft: false
 tags:
 - Dance Classes
-- Social Activities
+- Activities
 areas:
 - Middleton
 - Heywwood

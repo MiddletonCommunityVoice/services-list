@@ -2,8 +2,7 @@
 title: HYPe (Healthy Young People)
 draft: false
 tags:
-- Young peoples Mental Help
-- Mental Health
+- Under 18 Mental Health
 areas:
 - Middleton
 - Heywood

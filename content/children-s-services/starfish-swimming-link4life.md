@@ -2,7 +2,7 @@
 title: Starfish Swimming Link4Life
 draft: false
 tags:
-- swimming for 3 years plus
+- swimming 3+ years
 areas:
 - Middleton
 - Heywood

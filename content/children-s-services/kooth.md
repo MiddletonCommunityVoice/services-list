@@ -2,7 +2,7 @@
 title: Kooth
 draft: false
 tags:
-- Young peoples Mental Help
+- Under 18 Mental Health
 areas:
 - Nationwide
 contact:

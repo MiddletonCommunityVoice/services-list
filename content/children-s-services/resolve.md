@@ -2,8 +2,8 @@
 title: Resolve
 draft: false
 tags:
-- Child emotional help
-- Young Peoples Mental Help
+- Childrens emotions
+- Under 18 Mental Health
 areas:
 - Middleton
 - Heywood

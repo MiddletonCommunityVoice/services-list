@@ -2,7 +2,7 @@
 title: Net Mums
 draft: false
 tags:
-- Young mums help
+- Young mums
 areas:
 - Middleton
 - Heywood

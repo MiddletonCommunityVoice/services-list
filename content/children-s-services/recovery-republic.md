@@ -2,7 +2,7 @@
 title: Recovery Republic
 draft: false
 tags:
-- Childrens emotional Help
+- Childrens emotions
 areas:
 - Middleton
 - Heywood

@@ -2,7 +2,7 @@
 title: People's Gym Heywood
 draft: false
 tags:
-- Boxing lessons
+- Boxing
 - Fitness
 - Exercise
 areas:

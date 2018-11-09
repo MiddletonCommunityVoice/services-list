@@ -2,7 +2,7 @@
 title: SEE your GP
 draft: false
 tags:
-- Councelling Services Directory
+- Councelling
 areas:
 - Nationwide
 contact:

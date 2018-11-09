@@ -2,7 +2,7 @@
 title: Family Information Services
 draft: false
 tags:
-- Childrens Services
+- Directory
 areas:
 - Middleton
 - Heywood

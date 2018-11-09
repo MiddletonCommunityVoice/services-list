@@ -2,7 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Long Term Illness Help
+- Long Term Illness
 - Diabetes
 - Asthama
 areas:
