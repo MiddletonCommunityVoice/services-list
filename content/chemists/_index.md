@@ -1,4 +1,4 @@
 ---
-title: CHemists
+title: Chemists
 ---
 # Chemists
