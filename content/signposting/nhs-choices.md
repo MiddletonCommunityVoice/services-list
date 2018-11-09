@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Directory of Services
+- Directory
 areas:
 - Nationwide
 contact:
@@ -14,3 +14,12 @@ contact:
   - http://www.nhs.uk
 ---
 
+### Information
+NHS Choices website has lots of information
+
+Find a Doctor, Surgery, Dentist, Hospital
+
+Health information.
+
+Need urgent help. Phone NHS Choices 111 for help.
+If needed, they will call for an ambulance for you.

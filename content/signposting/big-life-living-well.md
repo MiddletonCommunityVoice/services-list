@@ -2,7 +2,8 @@
 title: Living Well / Big Life
 draft: false
 tags:
-- Support Services
+- Directory
+- Wellbeing
 areas:
 - Middleton
 - Heywood
