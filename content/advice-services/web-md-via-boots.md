@@ -15,5 +15,8 @@ contact:
 ---
 
 ### Opening Times
+ONLINE information 24hrs 365 days
+
+Store open
 * Mon - Fri 8.30 - 7pm / Sat 8.45 - 5pm
 

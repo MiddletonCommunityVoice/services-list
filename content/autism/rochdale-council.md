@@ -2,7 +2,6 @@
 title: Rochdale Council
 draft: false
 tags:
-- Autism Signposting
 - Autism
 areas:
 - Middleton
