@@ -2,8 +2,8 @@
 title: BARDOC
 draft: false
 tags:
-- GP Service
-- out of hours
+- GPs out of hours
+- GP extra hours
 areas:
 - Middleton
 - Heywood

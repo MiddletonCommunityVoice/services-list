@@ -2,7 +2,7 @@
 title: Manchester GP Hub extra Hours
 draft: false
 tags:
-- GP hub Extra Hours, Manchester
+- Manchester GP hub Extra Hours
 areas:
 - Middleton
 - Heywood

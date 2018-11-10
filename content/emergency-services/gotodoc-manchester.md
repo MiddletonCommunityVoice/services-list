@@ -2,7 +2,7 @@
 title: GoToDoc Manchester
 draft: false
 tags:
-- Emergency Manchester GP Service
+- Manchester GPs out of hours
 areas:
 - Middleton
 - Heywood

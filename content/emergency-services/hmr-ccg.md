@@ -2,7 +2,7 @@
 title: GP Rochdale extra Hours Service
 draft: false
 tags:
-- GP Hub Extra Hours, Rochdale
+- Rochdale GP Hub Extra Hours
 areas:
 - Middleton
 - Heywood
