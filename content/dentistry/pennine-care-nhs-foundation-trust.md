@@ -2,7 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Emergency Dentist
+- Emergency Dentistry
 areas:
 - Middleton
 - Heywood

@@ -2,7 +2,7 @@
 title: Link4Life
 draft: false
 tags:
-- Disablity activities
+- Activities
 areas:
 - Middleton
 - Heywood
