@@ -3,6 +3,8 @@ title: The Lighthouse Project
 draft: false
 tags:
 - Talking English
+- Learn Italian
+- Learn Spanish
 areas:
 - Middleton
 - Heywood
