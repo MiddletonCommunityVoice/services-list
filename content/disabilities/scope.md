@@ -2,8 +2,7 @@
 title: Scope
 draft: false
 tags:
-- Disablity help
-- Disability Advice
+- Disablity
 areas:
 - Nationwide
 contact:

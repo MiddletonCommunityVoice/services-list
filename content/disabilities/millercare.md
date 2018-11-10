@@ -2,7 +2,7 @@
 title: Millercare
 draft: false
 tags:
-- Wheelchairs
+- Mobility Equipment
 contact:
   addresses:
   - 69 - 87 Bolton Road, Bury

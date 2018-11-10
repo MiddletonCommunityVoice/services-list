@@ -2,7 +2,7 @@
 title: Mencap
 draft: false
 tags:
-- Learning Disabilities Help
+- Learning Disabilities
 areas:
 - Nationwide
 contact:

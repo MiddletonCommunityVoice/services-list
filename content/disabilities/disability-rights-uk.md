@@ -2,7 +2,7 @@
 title: Disability Rights UK
 draft: false
 tags:
-- Disablity help & advice
+- Disablity
 areas:
 - Nationwide
 contact:

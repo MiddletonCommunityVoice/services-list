@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Diabetes advice
+- Diabetes
 areas:
 - Nationwide
 contact:
