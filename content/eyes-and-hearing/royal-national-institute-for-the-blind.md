@@ -2,7 +2,7 @@
 title: Royal National Institute for the Blind
 draft: false
 tags:
-- Directory of services
+- Directory
 areas:
 - Middleton
 - Heywood
