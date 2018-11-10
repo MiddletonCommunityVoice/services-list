@@ -15,5 +15,7 @@ contact:
 ---
 
 ### Information
-Housebound, over 60, mobile services in your home  0800 85 44 77
+Housebound, over 60, 
+
+mobile services in your home  0800 85 44 77
 
