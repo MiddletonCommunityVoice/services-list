@@ -3,26 +3,30 @@ title: Nesi Professionals
 tags:
 - Care at Home
 - Adult Care
-- Older people
+- End of Life
 areas:
 - Middleton
 - Heywood
 - Rocdhale
 contact:
   addresses:
-  - Ela Mill Bus. Complex, Suite 7, Cork St, Bury
+  - Ela Mill Business Complex, Suite 7, Cork St, Bury
   phone:
   - 0161 974 3430
+  = 0738 805 2667 
   web_addresses:
-  - www.mesiprofessionals.com
+  - www.nesiprofessionals.com
 
 ---
 
 ### Information
 
-Day to day personal care :
-Private care :
-Overnoght care :
-Companionship :
-Live-in care
-Other care services available
+Email  admin@nesiprofessionals.com
+
+Nesi Professionals offers Social Care, 
+*Live-in-care , 
+*Hospital to home care , 
+*Night Care, 
+*Complex Care, 
+*End of Life/ Palliative. 
+*We also offer staffing solutions.
