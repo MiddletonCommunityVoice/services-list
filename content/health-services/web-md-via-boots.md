@@ -15,7 +15,7 @@ contact:
 ---
 
 ### Information
-WebMD is an online information service. Best advice should be from your GP first.
+WebMD is an online information service.  *Best advice should be from your GP first.
 
 ### Opening Times
 * Mon - Fri 8.30am - 7pm / 
