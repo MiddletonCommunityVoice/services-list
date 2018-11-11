@@ -2,7 +2,7 @@
 title: GP Out of Hours ( BARDOC )
 draft: false
 tags:
-- Emergeny GP services
+- Emergeny GP's
 areas:
 - Middleton
 - Heywood
@@ -17,7 +17,13 @@ contact:
 ---
 
 ### Information
-Emergency GP outside normal working hours.  Try GP 7 day service first.  Then 111 before trying this service.  IF it's really urgent dial 999
+Emergency GP, outside normal working hours.  
+
+Try GP extra hours service first.  
+
+Then 111 before trying this service.  
+
+IF it's really urgent dial 999
 
 ### Opening Times
 * 24 hours per day for emergencies

@@ -1,5 +1,5 @@
 ---
-title: Clough Street Surgery
+title: The Hive Surgery ( ex Clought St. )
 draft: false
 tags:
 - GP Services
@@ -14,3 +14,12 @@ contact:
   - http://www.drstocktonandthompson.co.uk
 ---
 
+### Information
+Various services
+
+### Opening Times
+* Mon to Fri 8am to 6.30pm
+
+Closed Sat and Sun.
+
+Rochdale Health Alliance
