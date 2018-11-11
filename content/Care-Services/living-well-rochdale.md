@@ -5,7 +5,7 @@ tags:
 - Wellbeing
 - health trainers
 - directory
-- carers coffee break
+- carers coffee break club
 areas:
 - Middleton
 - Heywood
