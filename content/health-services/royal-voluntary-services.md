@@ -1,24 +1,26 @@
 ---
-title: Royal Voluntary Services
+title: Royal Voluntary Service ( RVS )
 draft: false
 tags:
-- Hospital Discharge service
+- Hosptial discharge
+- Volunteer Drivers
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - within the Lighthouse Project, 2nd Fl, Middleton Shopping Centre
+  - Rochdale and Cardiff
   phone:
-  - 0161 871 2011
+  - 0161 871 2011 Transport
+  - 0845 608 0122 Head office
   web_addresses:
-  - http://www.royalvoluntaryservices.org.uk
+  - http://www.royalvoluntaryservice.org.uk
 ---
 
-### Information
-Middleton on 0774 710 1640
-
 ### Opening Times
-* Mon - Fri   9am - 5pm
+Transport 9am to 9pm everyday
+
+* Head office Mon - Fri 8am - 6pm
+
 

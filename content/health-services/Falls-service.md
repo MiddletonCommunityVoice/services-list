@@ -1,8 +1,8 @@
 ---
-title: Falls Service by Pennine Care
+title: Falls Team by Pennine Care
 draft: false
 tags:
-- Falls Service
+- Falls team
 areas:
 - Middleton
 - Heywood
