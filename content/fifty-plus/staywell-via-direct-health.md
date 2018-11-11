@@ -2,7 +2,7 @@
 title: Staywell via Direct Health
 draft: false
 tags:
-- Health help
+- Care Services
 areas:
 - Middleton
 - Heywood

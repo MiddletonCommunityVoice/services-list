@@ -2,14 +2,14 @@
 title: Social Services
 draft: false
 tags:
-- Help at Home
+- Directory
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Rochdale Council, Number One, Riverside, Smith Street, Rochdale
+  - Rochdale Council, Number One Riverside, Smith Street, Rochdale
   web_addresses:
   - http://www.rochdale.gov.uk/social-care-and-support
 ---

@@ -17,9 +17,8 @@ contact:
 ---
 
 ### Information
-Order by phone or online. Foods delivered to your door every week
+Order by phone Mon to Fri 9am to 5pm.
 
-### Opening Times
-General phone line open 9am to 5pm Mon - Fri
-* Order by phone 24hrs a day or online
+or online 24 hours a day 
 
+Foods delivered to your door every week
