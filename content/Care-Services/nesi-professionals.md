@@ -23,7 +23,10 @@ contact:
 
 Email  admin@nesiprofessionals.com
 
-Nesi Professionals offers Social Care, 
+Nesi Professionals offers 
+
+*Social Care
+
 *Live-in-care
 
 *Hospital to home care
@@ -34,4 +37,4 @@ Nesi Professionals offers Social Care,
 
 *End of Life/ Palliative
 
-*We also offer staffing solutions.
+We also offer staffing solutions.
