@@ -10,10 +10,10 @@ areas:
 - Rocdhale
 contact:
   addresses:
-  - Ela Mill Business Complex, Suite 7, Cork St, Bury
+  - Ela Mill, Business Complex, Suite 7, Cork St, Bury
   phone:
   - 0161 974 3430
-  = 0738 805 2667 
+  - 0738 805 2667 
   web_addresses:
   - www.nesiprofessionals.com
 
