@@ -2,7 +2,7 @@
 title: Jenny's Home Help
 draft: false
 tags:
-- Help at Home
+- Care at Home
 areas:
 - Middleton
 contact:

@@ -2,7 +2,7 @@
 title: Homeshare UK
 draft: false
 tags:
-- Share your home
+- Home Share
 areas:
 - Nationwide
 contact:

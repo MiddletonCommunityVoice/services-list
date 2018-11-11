@@ -2,7 +2,8 @@
 title: Demesne Community Centre
 draft: false
 tags:
-- Social Activities
+- Activities
+- Meals
 areas:
 - Middleton
 contact:

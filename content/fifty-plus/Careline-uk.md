@@ -2,7 +2,7 @@
 title: Careline UK
 draft: false
 tags:
-- 24hr Emergency Service
+- Fall alarm
 areas:
 - Middleton
 - Heywood
@@ -22,8 +22,12 @@ contact:
 ---
 
 ### Information
-24hr Emergency service via your own home phone. If you fall and need help this is the services for you.
+24hr Emergency service via your home phone. 
+
+If you fall and need help this is the services for you.
 
 ### Opening Times
 * Office enquiries 9 - 5pm Mon - Fri
+
+email craeline@rochdale.gov.uk
 

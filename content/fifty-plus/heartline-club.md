@@ -2,7 +2,7 @@
 title: Heartline Club
 draft: false
 tags:
-- Social Club
+- Social
 areas:
 - Middleton
 - Heywood
