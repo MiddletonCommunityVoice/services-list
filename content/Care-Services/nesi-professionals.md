@@ -15,7 +15,7 @@ contact:
   - 0161 974 3430
   - 0738 805 2667 
   web_addresses:
-  - www.nesiprofessionals.com
+  - https://www.nesiprofessionals.com
 
 ---
 
@@ -24,9 +24,14 @@ contact:
 Email  admin@nesiprofessionals.com
 
 Nesi Professionals offers Social Care, 
-*Live-in-care , 
-*Hospital to home care , 
-*Night Care, 
-*Complex Care, 
-*End of Life/ Palliative. 
+*Live-in-care
+
+*Hospital to home care
+
+*Night Care
+
+*Complex Care
+
+*End of Life/ Palliative
+
 *We also offer staffing solutions.
