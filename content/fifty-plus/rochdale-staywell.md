@@ -2,7 +2,7 @@
 title: Rochdale Staywell
 draft: false
 tags:
-- Health help
+- Care for adults
 areas:
 - Middleton
 - Heywood
@@ -13,6 +13,8 @@ contact:
   phone:
   - 0300 303 8875
   - 0300 303 8886
+  web_addresses:
+  - https://staywell.rochdale.gov.uk/web/portal/pages/home
 ---
 
 ### Opening Times

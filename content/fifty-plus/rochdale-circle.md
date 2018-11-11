@@ -1,8 +1,8 @@
 ---
-title: Rochdale Circle
+title: HMR Circle, Rochdale
 draft: false
 tags:
-- Social Activities
+- Activities
 areas:
 - Middleton
 - Heywood
