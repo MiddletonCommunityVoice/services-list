@@ -1,5 +1,5 @@
 ---
-title: The Family Practice
+title: The Strand ( Family Practice )
 draft: false
 tags:
 - GP Services
@@ -14,3 +14,12 @@ contact:
   # - waiting for BARDOC
 ---
 
+### Information
+Various services
+
+### Opening Times
+* Mon to Fri 8am to 6.30pm
+
+Closed Sat and Sun.
+
+Operated by BARDOC

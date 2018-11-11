@@ -14,3 +14,12 @@ contact:
   - http://www.peterloomc.co.uk
 ---
 
+### Information
+Various services
+
+### Opening Times
+* Mon to Fri 8am to 6.30pm
+
+Closed Sat and Sun.
+
+Rochdale Health Alliance
