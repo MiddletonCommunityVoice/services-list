@@ -15,7 +15,7 @@ contact:
 ---
 
 ### Information
-Various services including Dermotology clinic
+Many NHS services & non NHS services *including Dermatology clinic
 
 ### Opening Times
 * Mon to Fri 8am to 6.30pm
