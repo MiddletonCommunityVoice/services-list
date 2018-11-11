@@ -19,7 +19,7 @@ contact:
 ### Information
 Emergency GP, outside normal working hours.  
 
-Try GP extra hours service first.  
+Try GP 7 days extra hours service first.  
 
 Then 111 before trying this service.  
 
