@@ -10,7 +10,7 @@ tags:
 - Who let the dads out
 - Art classes
 - Walking Groups
-- Carers Coffe Break
+- Carers Coffee Break Club
 - Money Advice
 - Middleton Central Foodbank
 areas:
