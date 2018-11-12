@@ -3,7 +3,6 @@ title: The Lighthouse Project
 draft: false
 tags:
 - Money Advice 
-- Debt Advice
 areas:
 - Middleton
 - Heywood

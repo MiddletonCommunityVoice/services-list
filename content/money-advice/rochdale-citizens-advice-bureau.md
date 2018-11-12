@@ -3,7 +3,6 @@ title: Rochdale Citizen's Advice Bureau
 draft: false
 tags:
 - Money Advice
-- Debt Advice
 areas:
 - Middleton
 - Heywood

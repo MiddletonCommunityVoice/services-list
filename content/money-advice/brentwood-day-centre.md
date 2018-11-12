@@ -4,7 +4,6 @@ draft: False
 tags:
 - Addictions
 - Money advice
-- Debt advice
 - Housing
 areas:
 - Middleton

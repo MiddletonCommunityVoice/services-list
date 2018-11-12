@@ -3,7 +3,6 @@ title: Manchester Credit Union
 draft: false
 tags:
 - Money Advice
-- Debt Advice
 areas:
 - Middleton
 - Heywood
