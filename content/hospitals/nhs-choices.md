@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Find a Hospital
+- Directory
 areas:
 - Nationwide
 contact:

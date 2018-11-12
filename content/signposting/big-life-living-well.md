@@ -4,6 +4,7 @@ draft: false
 tags:
 - Directory
 - Wellbeing
+- Health Trainers
 areas:
 - Middleton
 - Heywood
@@ -19,3 +20,5 @@ contact:
   - http://www.livingwellrochdale.com
 ---
 
+### Information
+Sports activities

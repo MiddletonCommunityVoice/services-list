@@ -4,8 +4,6 @@ draft: false
 tags:
 - Adult Care
 - learning disabilities
-- Older people
-- Adult Safeguarding
 - Physical Disabilites
 - Vulnerable adults
 areas:

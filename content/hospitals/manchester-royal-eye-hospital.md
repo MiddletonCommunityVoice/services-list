@@ -2,7 +2,7 @@
 title: Manchester Royal Eye Hospital
 draft: false
 tags:
-- Emergency Eye Hospital
+- Eye Hospital
 areas:
 - Greater Manchester
 contact:
