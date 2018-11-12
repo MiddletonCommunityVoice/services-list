@@ -2,7 +2,7 @@
 title: Pennine Acute Hospitals / Living Well
 draft: false
 tags:
-- Healthy Weight Team
+- Healthy Weight
 areas:
 - Middleton
 - Heywood
