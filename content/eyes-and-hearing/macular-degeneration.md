@@ -2,7 +2,7 @@
 title: Specsavers Middleton
 draft: false
 tags:
-- Macular eye degreneration
+- Macular eye degeneration
 areas:
 - Middleton
 - Heywood
