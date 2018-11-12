@@ -2,7 +2,7 @@
 title: See Expert Patient Program
 draft: false
 tags:
-- Help with Long Term Conditions
+- Long Term Conditions
 areas:
 - Middleton
 - Heywood

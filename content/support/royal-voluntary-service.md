@@ -2,7 +2,7 @@
 title: Royal Voluntary Service
 draft: false
 tags:
-- Voluntary Drivers Service
+- Voluntary Drivers
 areas:
 - Middleton
 - Heywood

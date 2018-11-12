@@ -2,7 +2,7 @@
 title: Living Well Rochdale
 draft: false
 tags:
-- Support Help Advice
+- Activities
 areas:
 - Middleton
 - Heywood

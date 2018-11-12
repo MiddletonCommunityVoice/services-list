@@ -2,7 +2,7 @@
 title: Rochdale Council and CAB
 draft: false
 tags:
-- Welfare reform service
+- Welfare reform
 areas:
 - Middleton
 - Heywood

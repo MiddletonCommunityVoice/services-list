@@ -2,7 +2,9 @@
 title: The Lighthouse Project
 draft: false
 tags:
-- Support Help Advice
+- Money advice
+- activities
+- Community Centres
 areas:
 - Middleton
 - Heywood

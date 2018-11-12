@@ -2,7 +2,7 @@
 title: Citizens Advice Bureau
 draft: false
 tags:
-- Support Help Advice
+- Citizens Advice
 areas:
 - Middleton
 - Heywood

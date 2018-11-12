@@ -2,7 +2,7 @@
 title: Pathways in partnership Pennine
 draft: false
 tags:
-- Drugs Help Advice
+- Drugs
 areas:
 - Middleton
 - Heywood

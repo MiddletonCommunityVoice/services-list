@@ -2,7 +2,8 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Healthy Minds or Health Visits
+- Healthy Minds
+- Health Visits
 areas:
 - Middleton
 - Heywood

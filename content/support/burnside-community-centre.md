@@ -2,7 +2,7 @@
 title: Burnside Community Centre
 draft: false
 tags:
-- Support Help Advice
+- Activities
 areas:
 - Middleton
 contact:
