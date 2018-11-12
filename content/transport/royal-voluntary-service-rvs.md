@@ -2,7 +2,7 @@
 title: Royal Voluntary Service ( RVS )
 draft: false
 tags:
-- Voluntary Drivers Service
+- Voluntary Transport
 areas:
 - Middleton
 - Heywood

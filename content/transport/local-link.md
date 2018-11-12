@@ -2,7 +2,7 @@
 title: Local Link
 draft: false
 tags:
-- Bus service / local
+- Local Mini Bus
 areas:
 - Middleton
 - Heywood
