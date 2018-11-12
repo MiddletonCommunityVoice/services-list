@@ -5,7 +5,7 @@ tags:
 - Adult Care
 - Directory
 - Wellbeing
-- Councelling
+- Counselling
 - Advocacy
 - Dementia
 areas:

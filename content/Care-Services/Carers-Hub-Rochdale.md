@@ -7,7 +7,7 @@ tags:
 - Advocacy
 - Counselling
 - Sitting in Service
-- Chat line
+- Chatline
 - Short Breaks Service
 - Care Worker Support
 areas:
