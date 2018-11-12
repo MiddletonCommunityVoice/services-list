@@ -8,7 +8,7 @@ tags:
 - Knit and Natter
 - Men in Sheds
 - Who let the dads out
-- Art classes
+- Art
 - Walking Groups
 - Carers Coffee Break Club
 - Money Advice
