@@ -13,7 +13,7 @@ contact:
   - GM Travel Shops
   phone:
   - 0161 244 1000
-  = 0161 244 1050 renewals
+  - 0161 244 1050 renewals
   web_addresses:
   - http://www.tfgm.com
   - - https://www.tfgm.com/tickets-and-passes
