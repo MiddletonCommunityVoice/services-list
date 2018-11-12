@@ -2,7 +2,7 @@
 title: Link 4 Life
 draft: false
 tags:
-- Wellbeing Service
+- Wellbeing Services
 - Sport
 areas:
 - Middleton
