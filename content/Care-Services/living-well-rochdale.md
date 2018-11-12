@@ -2,7 +2,7 @@
 title: Living Well  Rochdale
 draft: false
 tags:
-- Wellbeing Services
+- Wellbeing
 - health trainers
 - directory
 - carers coffee break club

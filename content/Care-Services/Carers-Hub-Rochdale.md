@@ -5,9 +5,9 @@ tags:
 - Adult Care
 - Young Carers
 - Advocacy
-- Councelling
+- Counselling
 - Sitting in Service
-- Carers Chat line
+- Chat line
 - Short Breaks Service
 - Care Worker Support
 areas:
