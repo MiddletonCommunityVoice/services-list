@@ -2,8 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Adults at risk
-- Support
+- Adult Care
 areas:
 - Middleton
 - Heywood
