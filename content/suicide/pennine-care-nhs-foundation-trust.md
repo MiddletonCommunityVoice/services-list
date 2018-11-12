@@ -2,9 +2,9 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Suicide Help 
-- Mental Health Advice
-- Online Directory
+- Suicide
+- Mental Health
+- Directory
 - Hospital
 areas:
 - Middleton

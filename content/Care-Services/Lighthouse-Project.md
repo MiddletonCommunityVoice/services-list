@@ -2,7 +2,7 @@
 title: Lighthouse Project
 draft: false
 tags:
-- Community Centre
+- Community Centres
 - Computer lessons
 - Meetups
 - Knit and Natter

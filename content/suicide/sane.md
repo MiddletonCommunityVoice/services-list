@@ -2,8 +2,8 @@
 title: Sane
 draft: false
 tags:
-- Suicide Help
-- Mental Health Advice
+- Suicide
+- Mental Health
 areas:
 - Nationwide
 contact:
