@@ -2,7 +2,8 @@
 title: Status4All
 draft: false
 tags:
-- Gardening & Social
+- Gardening
+- Social
 areas:
 - Middleton
 contact:

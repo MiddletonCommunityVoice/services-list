@@ -2,7 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Healthy Lifestyles
+- Wellbeing
 areas:
 - Middleton
 - Heywood

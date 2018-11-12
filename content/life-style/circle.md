@@ -2,7 +2,8 @@
 title: HMR Circle
 draft: false
 tags:
-- Activities & Volunteering
+- Activities
+- Volunteering
 contact:
   Address:
   - Lock 50 Oldham Road Rochdale

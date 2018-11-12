@@ -2,7 +2,8 @@
 title: Middleton Arena
 draft: false
 tags:
-- Sport & Social
+- Sport
+- Social
 areas:
 - Middleton
 - Heywood

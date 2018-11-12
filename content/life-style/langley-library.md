@@ -2,8 +2,9 @@
 title: Langley Library
 draft: false
 tags:
-- Family History Computers Jobseekers
-- Social
+- Family History
+- Computers
+- Jobseekers
 areas:
 - Middleton
 - Heywood

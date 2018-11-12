@@ -2,7 +2,7 @@
 title: CH Dance
 draft: false
 tags:
-- Dance Classes
+- Dance
 contact:
   addresses:
   - See the website

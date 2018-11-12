@@ -2,7 +2,8 @@
 title: Link4Life
 draft: false
 tags:
-- Activities & Social
+- Activities
+- Social
 areas:
 - Middleton
 - Heywood

@@ -2,7 +2,7 @@
 title: Living Well with Pennine Acute
 draft: false
 tags:
-- Healthy Lifestyles
+- Wellbeing
 - Fitness
 - Exercise
 - Smoking

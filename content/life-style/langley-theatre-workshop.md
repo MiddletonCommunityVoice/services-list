@@ -2,7 +2,8 @@
 title: Langley Theatre Workshop
 draft: false
 tags:
-- Art & Dance Classes
+- Dance
+- Art
 areas:
 - Middleton
 contact:
