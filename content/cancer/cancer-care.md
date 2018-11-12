@@ -2,7 +2,7 @@
 title: Cancer Care Services
 draft: false
 tags:
-- Cancer Care
+- Cancer
 areas:
 - Middleton
 - Heywood
