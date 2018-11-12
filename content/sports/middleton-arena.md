@@ -2,7 +2,8 @@
 title: Middleton Arena
 draft: False
 tags:
-- Sports Activities
+- Sports
+- Activities
 areas:
 - Middleton
 - Heywood

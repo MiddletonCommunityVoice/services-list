@@ -2,7 +2,8 @@
 title: Link4Life
 draft: false
 tags:
-- Activities Provider
+- Sports
+- Activities
 areas:
 - Middleton
 - Heywood

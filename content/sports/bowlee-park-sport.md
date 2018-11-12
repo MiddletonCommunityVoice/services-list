@@ -2,7 +2,7 @@
 title: Bowlee Park Sports Hall
 draft: False
 tags:
-- Sports Activities
+- Sports
 areas:
 - Middleton
 - Heywood

@@ -2,7 +2,7 @@
 title: Stroke Club
 draft: False
 tags:
-- Stroke Club
+- Stroke
 areas:
 - Middleton
 - Heywood

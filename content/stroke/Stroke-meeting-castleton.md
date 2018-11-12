@@ -2,7 +2,7 @@
 title: Stroke Meetings Castleton
 draft: False
 tags:
-- Stroke help
+- Stroke
 areas:
 - Middleton
 - Heywood
