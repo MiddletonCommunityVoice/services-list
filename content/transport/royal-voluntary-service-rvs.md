@@ -9,15 +9,19 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - in the Lighthouse Project, 2nd Fl, Middleton Shopping Centre
+  - Rochdale
   phone:
   - 0161 871 2011
   web_addresses:
   - http://www.royalvoluntaryservices.org.uk
 ---
 
-### Information
-
 ### Opening Times
-* Mon - Fri   9 - 5
+* Mon - Fri   9 til 5
 
+## Information
+Collection from hospital after discharge and escorted
+home to your front door
+
+### Information
+Community Transport helping with hospital discharges
