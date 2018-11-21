@@ -3,6 +3,10 @@ title: Ambition for Ageing
 draft: false
 tags:
 - Volunteering
+- Older People
+- Fifty Plus
+- Social
+- Care Services
 areas:
 - Middleton
 - Heywood
@@ -31,8 +35,6 @@ Volunteers from all backgrounds and ages are always welcomed, however volunteers
 Volunteer Ambassadors – Getting out and about in the community to speak to and build connections with older people, identify local assets and generate ideas for reducing social isolation.
 Volunteer Decision Makers – Get involved on our decision-making panels. Help us decide which investments and projects will benefit your communities.
 
-Look out for our volunteer ‘Drop-Ins’ at venues across West Middleton / Smallbridge / Firgrove and Central Rochdale.
-
 All Ambition for Ageing Volunteers receive a full induction and training.
 
 To sign up as a volunteer please get in touch with 
@@ -46,5 +48,5 @@ or . . . . .
 khadija@kyp.org.uk   
 or . . . . .
 
-use the phone number above
+phone 01706 630 140
 

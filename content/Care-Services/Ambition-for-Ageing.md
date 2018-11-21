@@ -3,6 +3,9 @@ title: Ambition for Ageing
 draft: false
 tags:
 - Older people
+- Fifty Plus
+- Social
+- Volunteering
 areas:
 - Middleton
 - Heywood
