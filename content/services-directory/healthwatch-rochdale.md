@@ -23,7 +23,7 @@ Healthwatch Rochdale is the independent consumer champion for children, young pe
 
 We work to ensure consumer's views about services are represented both locally and nationally
 
-We focus on local voices being able tp influence the delivery and design of local services
+We focus on local voices being able to influence the delivery and design of local services
 
 We have statutory powers that enable local people to influence health and social car services
 
