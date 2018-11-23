@@ -21,7 +21,7 @@ contact:
 ### Information
 Healthwatch Rochdale is the independent consumer champion for children, young people and adults who use health and social care services in the borough.
 
-We work to ensure consumer's views about services are presented both locally and nationally
+We work to ensure consumer's views about services are represented both locally and nationally
 
 We focus on local voices being able tp influence the delivery and design of local services
 
