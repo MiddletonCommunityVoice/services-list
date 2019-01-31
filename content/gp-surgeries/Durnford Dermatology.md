@@ -1,5 +1,5 @@
 ---
-title: Durford Dermatology Clinic
+title: Durnford Dermatology Clinic
 draft: false
 tags:
 - Dermatology

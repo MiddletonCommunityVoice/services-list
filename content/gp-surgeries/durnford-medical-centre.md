@@ -1,5 +1,5 @@
 ---
-title: Durford Medical Centre
+title: Durnford Medical Centre
 draft: false
 tags:
 - GP Services

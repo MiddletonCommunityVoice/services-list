@@ -1,5 +1,5 @@
 ---
-title: The Hive Surgery ( ex Clought St. )
+title: The Hive Surgery ( ex Clough St. )
 draft: false
 tags:
 - GP Services
