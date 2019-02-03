@@ -21,5 +21,19 @@ contact:
 * Mon - Fri 9am til 4.30pm
 Email  karen.lever@rochdale.gov.uk
 
+### Information
+Moving On offers a variety of support & activities for
+all adults who have physical / sensory impairment,
+acquired brain injuries, long term health conditions
+and mental associated with disability.
+
+* Improving
+* Learning & maintaining life skills in computers
+** Work Skills
+** Arts & Crafts
+** Confidence Building
+** Improving Social Networks
+** Accessing Public Transport 
+
 
 
