@@ -29,6 +29,7 @@ and mental associated with disability.
 
 ### Information
 Improving. Learning & maintaining life skills in:-
+
 * Computers
 * Work Skills
 * Arts & Crafts
