@@ -1,5 +1,5 @@
 ---
-title: Jumbo Comunity Centre and Library
+title: Jumbo Community Centre and Library
 draft: false
 tags:
 - Community Centres
