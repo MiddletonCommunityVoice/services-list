@@ -13,8 +13,8 @@ contact:
   phone:
   - 01706 927 340
   web_addresses:
-  - http://www.movingonservice@rochdale.gov.uk
-
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=BNhrQ2SiIgI
+  
 ---
 
 ### Opening Times
