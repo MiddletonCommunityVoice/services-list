@@ -33,10 +33,13 @@ Phone the Community Connectors 0300 303 0360
 
 Email : community.connectors@rochdale.gov.uk
 
-Visit and talk to the Community Connectors
+Drop-in and talk to the Community Connectors
 
-Based at Middleton Health Centre.
+in Middleton Health Centre.
 
-Normal Opening Mon - Fri  8.45am - 4.45pm
+* Drop-in sessions 
+
+* Tue 8.30 - 12.30
+* and Fridays  1pm - 5.30pm
 
 
