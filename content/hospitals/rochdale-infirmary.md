@@ -42,8 +42,9 @@ outpatient clinics and a new eye unit.
 
 | Department/Ward                           | Telephone Number             |
 | ----------------                          | ----------------             |
-| Eye Ward                                  | 01706 90 1766                |
-| Urgent Care Centre                        | 01706 51 7000                |
+| Eye Ward                                  | 01706 901 765                |
+| Eye Clinic                                  | 01706 901 757                |
+| Urgent Care Centre                        | 01706 517 000                |
 | Clinical Assessment Unit                  | 01706 51 7514, 01706 51 7515 |
 | Day Surgery Reception                     | 01706 51 7133                |
 | Endoscopy Appointments                    | 01706 51 7547                |
