@@ -4,7 +4,7 @@ draft: false
 tags:
 - Directory
 - Services Quality
-- Patient complaints
+- Complaints
 areas:
 - Middleton
 - Heywood
