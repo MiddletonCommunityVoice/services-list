@@ -11,7 +11,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Unique Enterprise Centre, Belfield Road, Rochdale
+  - 104, 106, Drake Street, Rochdale
   phone:
   - 01706 249 575
   web_addresses:
