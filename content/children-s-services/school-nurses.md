@@ -2,7 +2,7 @@
 title: School Nurses
 draft: false
 tags:
-- School Nurses
+- School-Nurses
 areas:
 - Middleton
 - Heywood
