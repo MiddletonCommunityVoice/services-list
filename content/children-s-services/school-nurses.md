@@ -18,6 +18,7 @@ contact:
 ---
 
 ### Information
-Working with children and young people 5 to 19
+School Nurses work with children and young people
+between the ages of 5 to 19 years old
 
 Also look at OUR ROCHDALE website
