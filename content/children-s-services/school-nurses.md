@@ -11,7 +11,7 @@ contact:
   addresses:
   - Brook House, Oldham Road, Middleton M24 1AY
   phone:
-  - 0161 716 5990
+  - 0161 716 5970
   web_addresses:
   - https://www.penninecare.nhs.uk/media/497058/5711-school-nursing-map-update-v2.pdf
   - http://www.pcn-tr.middletonSHT@nhs.net
