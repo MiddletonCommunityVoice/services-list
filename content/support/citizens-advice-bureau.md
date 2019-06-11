@@ -11,22 +11,23 @@ areas:
 - Bury
 contact:
   addresses:
-  - Middleton Library, Long St Middleton
+  - Phones at the libraries to book an appointment
+  - 104 / 106 Drake Street, Rochdale
   phone:
-  - 0300 330 1153
-  - 03444 889 662
-  - 0161 627 8333
+  - 0300 330 9073 option 3
   web_addresses:
-  - http://www.burycab.org.uk
-  - http://www.oldhamcab.org.uk
-  - http://www.zendesk.com/customer-portal
+  - https://www.casort.org online advice
+  - https://www.oldhamcab.org.uk online advice
 ---
 
 ### Information
 Customer service
-You can book an appointment for a local meeting. Ask at Sure Start and Libraries.
+You can book a local appointment by using the phones
+at the libraries & some Sure Start Centres.
 
 ### Opening Times
 * Mon - Fri  9.30 til 3.30
-* 
+* Lots of advice online.  Use the computers at the
+* libraries.  Ask the staff if you need help with
+* computers or phones
 
