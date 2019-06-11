@@ -23,4 +23,4 @@ walks to suit you.
 * Walks every Friday morning
 
 * Operated jointly by Living Well, Rochdale and
-* The Lighthouse Project
+The Lighthouse Project

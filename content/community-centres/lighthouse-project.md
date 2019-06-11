@@ -2,18 +2,18 @@
 title: Lighthouse Project
 draft: false
 tags:
-- Community Centre
+- Community Centres
 - Computer lessons
 - Meetups
 - Knit and Natter
-- Men in Sheds.  Woodwork
+- Men in Sheds
 - Who let the dads out
-- Art.  Water colours and Oils
+- Art
 - Walking Groups
-- Carers Meet Ups.  Carers can meet other carers.
+- Carers Meet Ups
 - Money Advice
 - Middleton Central Foodbank
-- The Pantry.  Food help.
+- The Pantry
 areas:
 - Middleton
 - Heywood
@@ -33,6 +33,8 @@ Easy wheelchair access from the rooftop car park
 or via the lift on the mall
 
 Open Mon - Fri  9.30am to 4.30pm
+
+Lots of activities
 
 Meeting rooms available
 
