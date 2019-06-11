@@ -2,17 +2,18 @@
 title: Lighthouse Project
 draft: false
 tags:
-- Community Centres
+- Community Centre
 - Computer lessons
 - Meetups
 - Knit and Natter
-- Men in Sheds
+- Men in Sheds.  Woodwork
 - Who let the dads out
-- Art
+- Art.  Water colours and Oils
 - Walking Groups
-- Carers Coffee Break Club
+- Carers Meet Ups.  Carers can meet other carers.
 - Money Advice
 - Middleton Central Foodbank
+- The Pantry.  Food help.
 areas:
 - Middleton
 - Heywood
