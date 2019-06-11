@@ -11,7 +11,7 @@ areas:
 - Bury
 contact:
   addresses:
-  - Phones at the libraries to book an appointment
+  - Use phones at libraries to book an appointment
   - 104 / 106 Drake Street, Rochdale
   phone:
   - 0300 330 9073 option 3
@@ -21,7 +21,7 @@ contact:
 ---
 
 ### Information
-Customer service
+
 You can book a local appointment by using the phones
 at the libraries & some Sure Start Centres.
 
