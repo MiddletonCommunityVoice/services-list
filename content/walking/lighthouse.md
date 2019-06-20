@@ -2,7 +2,7 @@
 title: Lighthouse Walking Group
 draft: false
 tags:
-- Walking
+- Walking Groups
 areas:
 - Middleton
 - Heywood
