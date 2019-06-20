@@ -3,14 +3,14 @@ title: Royal Voluntary Service ( RVS )
 draft: false
 tags:
 - Hosptial discharge
-- Volunteer Drivers
+- Voluntary Drivers
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Rochdale and Cardiff
+  - Manchester
   phone:
   - 0161 871 2011 Transport
   - 0845 608 0122 Head office

@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - within the Lighthouse, 2nd Fl. Middleton Shopping Centre
+  - Manchester
   phone:
   - 0161 871 2011
   web_addresses:
@@ -17,4 +17,4 @@ contact:
 ---
 
 ### Information
-Volunteer Drivers helping with hospital discharges
+Voluntary Drivers helping with hospital discharges
