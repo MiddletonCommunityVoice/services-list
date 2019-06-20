@@ -14,9 +14,8 @@ contact:
   phone:
   - 01706 751 190
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/results.page?qt=volunteering&term=&sorttype=relevance
-  - https://www.livingwellrochdale.com
-
+  - http://www.riverside.org.uk
+  
 ---
 
 ### Information
