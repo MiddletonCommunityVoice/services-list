@@ -23,6 +23,7 @@ contact:
 Email:  livingwellhmr@gmail.com
 
 volunteering
+
 Join the Community Champions. Now via Living Well
 
 Our team can work with you to make changes to your
