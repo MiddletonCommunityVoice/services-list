@@ -3,13 +3,14 @@ title: RVS ( Royal Voluntary Service )
 draft: false
 tags:
 - Volunteering
+- Volunteer Drivers
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Within the Lighthouse Project, 2nd Middleton Shopping Centre
+  - Manchester
   - Castlemere Community Centre, Tweedale St  Rochdale
   phone:
   - 0161 871 2011
