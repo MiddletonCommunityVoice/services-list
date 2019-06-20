@@ -1,5 +1,5 @@
 ---
-title: Rochdale Council
+title: Rochdale Council via Living Well
 draft: false
 tags:
 - Volunteering
@@ -14,10 +14,16 @@ contact:
   phone:
   - 01706 751 190
   web-addresses:
-  - http://www.livingwellrochdale.com
+  - https://www.livingwellrochdale.com
 ---
 
 ### Information
+
+Email:  livingwellhmr@gmail.com
+
 volunteering
 Join the Community Champions. Now via Living Well
 
+Our team can work with you to make changes to your
+ health and wellbeing, and we work right across the
+  borough of Rochdale in various easy to get to venues.
