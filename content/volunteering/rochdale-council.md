@@ -14,7 +14,7 @@ contact:
   phone:
   - 01706 751 190
   web_addresses:
-  - http://www.riverside.org.uk
+  - https://www.livingwellrochdale.com
   
 ---
 
