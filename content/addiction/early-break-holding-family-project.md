@@ -2,7 +2,7 @@
 title: Early Break Holding Family Project
 draft: false
 tags:
-- Addictions
+- Addiction
 areas:
 - Middleton
 - Heywood

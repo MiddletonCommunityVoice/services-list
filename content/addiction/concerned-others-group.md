@@ -2,7 +2,7 @@
 title: Concerned Others Group
 draft: false
 tags:
-- Addictions
+- Addiction
 - Drugs
 areas:
 - Middleton

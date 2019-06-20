@@ -2,7 +2,7 @@
 title: Rochdale Health & Wellbeing
 draft: false
 tags:
-- Addictions
+- Addiction
 - Drugs
 - Alcohol
 - Stop Smoking

@@ -2,7 +2,7 @@
 title: Stay Safe
 draft: false
 tags:
-- Addictions
+- Addiction
 - Drugs
 areas:
 - Middleton

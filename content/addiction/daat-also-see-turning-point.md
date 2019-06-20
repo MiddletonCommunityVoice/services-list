@@ -1,9 +1,9 @@
 ---
-title: DAAT now replaced by Turning Point
+title: DAAT replaced by Turning Point
 draft: false
 tags:
 - Drugs
-- Addictions
+- Addiction
 areas:
 - Middleton
 - Heywood

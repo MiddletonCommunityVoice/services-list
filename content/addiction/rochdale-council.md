@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Addictions
+- Addiction
 - Drugs
 - Alcohol
 - Stop Smoking

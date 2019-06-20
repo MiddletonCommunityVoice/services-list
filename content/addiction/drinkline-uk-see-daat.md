@@ -2,8 +2,7 @@
 title: Drinkline UK see DAAT
 draft: false
 tags:
-- Drinking
-- Addictions
+- Addiction
 areas:
 - Nationwide
 contact:

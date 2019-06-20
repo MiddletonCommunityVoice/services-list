@@ -3,7 +3,7 @@ title: Community Maternity Service
 draft: false
 tags:
 - Stop Smoking
-- Addictions
+- Addiction
 areas:
 - Middleton
 - Heywood

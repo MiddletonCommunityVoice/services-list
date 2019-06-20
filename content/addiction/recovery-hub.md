@@ -2,8 +2,7 @@
 title: Recovery Hub
 draft: false
 tags:
-- Addictions
-- Alcohol
+- Addiction
 areas:
 - Middleton
 - Heywood

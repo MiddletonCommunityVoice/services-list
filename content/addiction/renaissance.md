@@ -2,7 +2,7 @@
 title: Renaissance
 draft: false
 tags:
-- Addictions
+- Addiction
 areas:
 - Middleton
 - Heywood
