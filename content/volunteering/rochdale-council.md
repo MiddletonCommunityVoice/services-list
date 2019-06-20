@@ -13,9 +13,10 @@ contact:
   - operated by Living Well, Lock 50, Oldham Road, Rochdale
   phone:
   - 01706 751 190
-  web-addresses:
+  web_addresses:
   - https://www.ourrochdale.org.uk/kb5/rochdale/directory/results.page?qt=volunteering&term=&sorttype=relevance
   - https://www.livingwellrochdale.com
+
 ---
 
 ### Information
