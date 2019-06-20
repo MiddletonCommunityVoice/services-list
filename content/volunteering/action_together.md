@@ -13,15 +13,16 @@ contact:
   addresses:
   - 104, 106, Drake Street, Rochdale
   phone:
-  - 01706 339 2345
+  - 0161 339 2345
   web_addresses:
   - https://www.actiontogether.org.uk/
 ---
 
 ### Information
-Email; 
+Email; info@actiontogether.org.uk
 
 About us
+
 People have the power to change the places they live and the things they care about. 
 
 At Action Together we know that people can make things
