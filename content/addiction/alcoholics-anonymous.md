@@ -3,6 +3,7 @@ title: Alcoholics Anonymous
 draft: false
 tags:
 - Addiction
+- Alcohol
 areas:
 - Nationwide
 contact:
