@@ -2,6 +2,8 @@
 title: Also see Mental Health
 draft: false
 tags:
+- suicide
+- Mental Health
 areas:
 - Middleton
 - Heywood

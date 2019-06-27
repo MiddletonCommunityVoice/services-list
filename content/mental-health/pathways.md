@@ -2,7 +2,7 @@
 title: Pathways
 draft: false
 tags:
-- Addictions
+- Addiction
 - Alcohol
 - Drugs
 areas:
