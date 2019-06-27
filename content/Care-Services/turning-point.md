@@ -2,7 +2,7 @@
 title: Turning Point Rochdale ( ROAR )
 draft: false
 tags:
-- Addictions
+- Addiction
 - Drugs
 - Alcohol
 areas:
