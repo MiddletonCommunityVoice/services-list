@@ -2,7 +2,7 @@
 title: Brentwood Day Centre
 draft: False
 tags:
-- Addictions
+- Addiction
 - Money advice
 - Housing
 areas:
