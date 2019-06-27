@@ -2,7 +2,7 @@
 title: Living Well
 draft: false
 tags:
-- Carers Coffee Break Club
+- Carers Meet Up
 areas:
 - Middleton
 contact:
