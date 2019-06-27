@@ -2,7 +2,7 @@
 title: Moving On Centre
 draft: false
 tags:
-- Adult services
+- Adult Care
 areas:
 - Middleton
 - Heywood
