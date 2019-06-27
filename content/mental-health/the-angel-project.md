@@ -2,7 +2,7 @@
 title: The Angel Project
 draft: true
 tags:
-- Addictions
+- Addiction
 - Drugs
 - Mental Health
 - Alcohol

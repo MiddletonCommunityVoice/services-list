@@ -2,7 +2,7 @@
 title: Rochdale Community Drug Team
 draft: False
 tags:
-- Addictions
+- Addiction
 - Drugs
 - Mental Health
 areas:

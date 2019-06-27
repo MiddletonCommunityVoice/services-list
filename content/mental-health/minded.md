@@ -2,7 +2,7 @@
 title: MindEd
 draft: false
 tags:
-- Mental Health for young people
+- Young Peoples Mental Health
 areas:
 - Nationwide
 contact:
