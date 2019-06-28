@@ -17,10 +17,22 @@ contact:
 
 ---
 
-### Information
+### Opening Times
+* Mon - Fri 9am til 4.30pm
+* Email  karen.lever@rochdale.gov.uk
 
-The Moving on Centre, Hardfield Rd, Alkrington
-is a self funding centre run by Hope, a charitable
-organisation.
-The centre is open to all who have various needs
-and difficulties
+### Information
+Moving On offers a variety of support & activities for
+all adults who have physical / sensory impairment,
+acquired brain injuries, long term health conditions
+and mental associated with disability.
+
+### Information
+Improving. Learning & maintaining life skills in:-
+
+* Computers
+* Work Skills
+* Arts & Crafts
+* Confidence Building
+* Improving Social Networks
+* Accessing Public Transport 

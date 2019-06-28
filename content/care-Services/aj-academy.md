@@ -1,5 +1,5 @@
 ---
-title: AJ's Academy
+title: AJs Academy
 draft: false
 tags:
 - Adult care
@@ -7,6 +7,7 @@ areas:
 - Middleton
 - Heywood
 - Rocdhale
+- Manchester
 contact:
   addresses:
   - 839, Moston Lane, Manchester M40 5RT
