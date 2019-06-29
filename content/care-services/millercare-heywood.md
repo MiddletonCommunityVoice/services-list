@@ -9,7 +9,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - 1 - 5, York Street, Heywood

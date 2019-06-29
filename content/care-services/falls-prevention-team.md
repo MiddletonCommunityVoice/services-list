@@ -9,7 +9,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   phone:
   - 01706 676 419

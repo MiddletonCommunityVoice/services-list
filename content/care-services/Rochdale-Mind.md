@@ -11,7 +11,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   phone:
   - 0800 107 0729

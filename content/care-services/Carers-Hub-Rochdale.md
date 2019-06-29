@@ -13,7 +13,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   phone:
   - 0345 0138 208

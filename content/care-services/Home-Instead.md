@@ -9,7 +9,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - Jape One Business Centre, Dell Road, Shawclough,Rochdale

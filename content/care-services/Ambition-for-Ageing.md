@@ -9,7 +9,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - KYP building, Unique Enterprise Centre, Belfield Road, Rochdale

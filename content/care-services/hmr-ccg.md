@@ -7,7 +7,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - Number One Riverside, Smith Street, Rochdale

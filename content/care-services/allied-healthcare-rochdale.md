@@ -10,7 +10,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - First Floor Blue Pitts Mill Queensway Castleton Rochdale

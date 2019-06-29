@@ -8,7 +8,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - 11 - 14, St Chads Court Rochdale

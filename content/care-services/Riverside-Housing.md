@@ -9,7 +9,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   phone:
   - 0345 111 0000

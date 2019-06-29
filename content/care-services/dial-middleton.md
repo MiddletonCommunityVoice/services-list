@@ -7,7 +7,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - Inside The Lighthouse Project, Middleton Shopping Centre

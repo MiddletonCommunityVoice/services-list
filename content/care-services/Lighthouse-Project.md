@@ -17,7 +17,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - 2nd floor, Middleton Shopping Centre

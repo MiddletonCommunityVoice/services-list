@@ -6,7 +6,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 - Manchester
 contact:
   addresses:

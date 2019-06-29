@@ -6,7 +6,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - Rochdale Infirmary, Whitehall Street, Rochdale

@@ -6,7 +6,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - Moving On, Hardfield Road, Alkrington

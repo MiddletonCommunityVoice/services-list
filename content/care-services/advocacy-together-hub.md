@@ -6,7 +6,7 @@ tags:
 areas:
 - Middleton
 - Heywood
-- Rocdhale
+- Rochdale
 contact:
   addresses:
   - Castlemere Community Centre, Tweedale St Rochdale
