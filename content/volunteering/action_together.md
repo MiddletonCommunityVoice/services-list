@@ -3,6 +3,7 @@ title: Action Together Rochdale
 draft: false
 tags:
 - Volunteering
+- Seed funding
 areas:
 - Middleton
 - Heywood
