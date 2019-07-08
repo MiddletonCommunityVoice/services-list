@@ -2,7 +2,6 @@
 title: Making Space
 draft: false
 tags:
-- Befriending
 - Dementia
 - Community Service
 - Older people
