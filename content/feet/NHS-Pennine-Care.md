@@ -24,8 +24,7 @@ Get a form from your GP. . . .
 Send the referal form and then
 phone them 5 days later for an appointment.
 
-###
-DON'T FORGET TO PHONE THEM.
+### DON'T FORGET TO PHONE THEM.
 
 ### Opening Times
 * Not known
