@@ -21,8 +21,11 @@ contact:
 Chiropodist and Podiatist services  Self referal
 system. . . . 
 Get a form from your GP. . . .
-Sned the form and then call their number 5 days later
-for an appointment.
+Send the referal form and then
+phone them 5 days later for an appointment.
+
+###
+DON'T FORGET TO PHONE THEM.
 
 ### Opening Times
 * Not known
