@@ -12,7 +12,7 @@ contact:
   phone:
   - 0161 653 5511
   web_addresses:
-  - http://www.middlrtonfootclinic.co.uk
+  - http://www.middletonfootclinic.co.uk
 ---
 
 ### Information
