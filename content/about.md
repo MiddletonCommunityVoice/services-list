@@ -4,12 +4,13 @@ title: Disclaimer
 
 # Dislaimer
 
-Before using our directory, please note our next
+** Before using our directory, please note our next
 monthly meeting is Wednesday. Dec. 11th. 2019 at the
 Lighthouse Project from 10am til 12 midday and features
 The Northern Care Alliance on local hospitals and a
 local working GP about their services.
-.
+
+
 Welcome to this directory of services which is aimed
 at all residents of Middleton, young or old.
 
