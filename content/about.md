@@ -4,11 +4,8 @@ title: Disclaimer
 
 # Dislaimer
 
-** Before using our directory, please note our next
-monthly meeting is Wednesday. Dec. 11th. 2019 at the
-Lighthouse Project from 10am til 12 midday and features
-The Northern Care Alliance on local hospitals and a
-local working GP about their services.
+** WE ALL WISH ALL OF YOU A VERY HAPPY CHRISTMAS AND
+A MERRY NEW YEAR, AND GOOD LUCK FOR 2020.
 
 
 Welcome to this directory of services which is aimed
