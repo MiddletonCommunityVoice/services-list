@@ -2,7 +2,7 @@
 title: D R Physiotherapy
 draft: false
 tags:
-- Physio
+- Physiotherapy
 - Acupuncture
 - Sports Massage
 areas:

@@ -2,7 +2,7 @@
 title: Total Physiotherapy
 draft: false
 tags:
-- Physio Therapy
+- Physiotherapy
 - Back Pain
 - Acupuncture
 areas:
