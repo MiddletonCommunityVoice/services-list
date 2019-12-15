@@ -2,7 +2,7 @@
 title: David Roberts Physiotherapy
 draft: false
 tags:
-- Physios Therapy
+- Physio Therapy
 - Back Pain
 areas:
 - Middleton
