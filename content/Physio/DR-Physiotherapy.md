@@ -19,5 +19,5 @@ contact:
 ---
 
 ### Information
-To book a local appointment 
+Book a local appointment online or phone 
 
