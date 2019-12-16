@@ -11,13 +11,14 @@ areas:
 - Heywood
 - Rochdale
 contact:
-  Addresses:
+  addresses:
   - Town Lane, Mobberley
   - Broadoak Chiro[ractic, The Sides Medical Centre,Moorside Road, Swinton.   M27 0EW
   phone:
   - 0161 850 1073
   web_addresses:
   - https://lymmchiropractic.co.uk
+
 ---
 
 ### Techniques and Treatments
