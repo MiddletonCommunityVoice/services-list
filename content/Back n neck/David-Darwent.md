@@ -12,7 +12,7 @@ areas:
 - Rochdale
 contact:
   Addresses:
-  - Mobberley
+  - Town Lane, Mobberley
   - Broadoak Chiro[ractic, The Sides Medical Centre,Moorside Road, Swinton.   M27 0EW
   phone:
   - 0161 850 1073
