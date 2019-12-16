@@ -12,9 +12,10 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Town Lane, Mobberley
-  - Broadoak Chiro[ractic, The Sides Medical Centre,Moorside Road, Swinton.   M27 0EW
+  - Core Wellbeing, The Old Bank, 87 Town Lane, Mobberley  WA16 7HH
+  - Broadoak Chiropractic, The Sides Medical Centre,Moorside Road, Swinton.   M27 0EW
   phone:
+  - 01565 873402
   - 0161 850 1073
   web_addresses:
   - https://lymmchiropractic.co.uk
