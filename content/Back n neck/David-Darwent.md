@@ -19,6 +19,7 @@ contact:
   - 0161 850 1073
   web_addresses:
   - https://lymmchiropractic.co.uk
+  - https://www.core-wellbeing.co.uk/
 
 ---
 
