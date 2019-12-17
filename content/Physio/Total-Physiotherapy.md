@@ -4,6 +4,7 @@ draft: false
 tags:
 - Physiotherapy
 - Back Pain
+- Neck Pain
 - Acupuncture
 areas:
 - Middleton
