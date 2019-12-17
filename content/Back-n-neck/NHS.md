@@ -13,7 +13,6 @@ contact:
   phone:
   - 0161
   - 111
-
   web_addresses:
   - https://www.nhs.uk/
 ---

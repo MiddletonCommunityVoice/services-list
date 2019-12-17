@@ -4,7 +4,7 @@ draft: false
 tags:
 - Physiotherapy
 - Acupuncture
-- Sports Massage
+- Sports Injuries
 areas:
 - Middleton
 - Heywood

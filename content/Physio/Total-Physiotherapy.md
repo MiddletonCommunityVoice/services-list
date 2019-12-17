@@ -26,3 +26,5 @@ Open
 *Fri 7am til 6pm*
 *Sat 8am til 12 midday
 
+*NHS paid work
+
