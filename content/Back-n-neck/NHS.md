@@ -2,16 +2,15 @@
 title: NHS
 draft: false
 tags:
+- Phyiostherapy
 - Back Pain
 - Neck Pain
-- Physiotherapy
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   phone:
-  - 0161
   - 111
   web_addresses:
   - https://www.nhs.uk/
