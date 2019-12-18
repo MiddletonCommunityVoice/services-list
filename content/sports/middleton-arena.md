@@ -2,7 +2,7 @@
 title: Middleton Arena
 draft: False
 tags:
-- Sports
+- Sport
 - Activities
 areas:
 - Middleton

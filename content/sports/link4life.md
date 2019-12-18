@@ -2,7 +2,7 @@
 title: Link4Life
 draft: false
 tags:
-- Sports
+- Sport
 - Activities
 areas:
 - Middleton
