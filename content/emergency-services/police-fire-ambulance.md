@@ -9,6 +9,6 @@ areas:
 - Rochdale
 contact:
   phone:
-  - '999' Urgenet, life and death calls
+  - '999'
 ---
 

@@ -9,6 +9,6 @@ areas:
 - Rochdale
 contact:
   phone:
-  - '101' if not life and death, but urgent
+  - '101'
 ---
 
