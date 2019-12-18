@@ -3,7 +3,7 @@ title: MS Society Rochdale
 draft: false
 tags:
 - MS help
-- Socials
+- Social
 - equipment
 - adaptions
 - respite grants
