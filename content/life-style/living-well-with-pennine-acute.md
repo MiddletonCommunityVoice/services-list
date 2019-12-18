@@ -5,7 +5,7 @@ tags:
 - Wellbeing
 - Fitness
 - Exercise
-- Smoking
+- Stop Smoking
 areas:
 - Middleton
 - Heywood
