@@ -4,7 +4,7 @@ draft: false
 tags:
 - Travel Information
 - Travel Passes
-- Renewals
+- Travel Renewals
 areas:
 - Greater Manchester
 contact:
