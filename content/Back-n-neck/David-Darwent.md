@@ -33,15 +33,16 @@ Proprioceptive and Kinesiology assessment are ideally placed for assessing the b
 Exercises are an important part of the healing process; an exercise programme will be given as well as postural and ergonomic advice. This advice will be given to aid recovery and maintain good health.
 
 ### What We Treat
-• Back Pain
-• Back pain in pregnancy
-• Neck pain and whiplash injury
-• Headaches and Migraines
-• Shoulder, arm and wrist problems.
-• Hip, knee and ankle complaints
-• Sports injuries
-• Repetitive strain injury
-• Arthritis symptoms
-• Foot problems
-• Carpal Tunnel Syndrome
-• Some visceral problems respond well such as IBS , colic, heartburn, reflux and asthma.
+- Back Pain
+- Back pain in pregnancy
+- Neck pain and whiplash injury
+- Headaches and Migraines
+- Shoulder, arm and wrist problems.
+- Hip, knee and ankle complaints
+- Sports injuries
+- Repetitive strain injury
+ Arthritis symptoms
+- Foot problems
+- Carpal Tunnel Syndrome
+- Some visceral problems respond well such as IBS , 
+colic, heartburn, reflux and asthma.

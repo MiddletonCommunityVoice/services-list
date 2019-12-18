@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   Address:
-  - City Health (GTD) 2nd floor, Boots Chemist, 32, Markey Street, Manchester.
+  - City Health (GTD) 2nd floor, Boots Chemist, 32, Market Street, Manchester.
   phone:
   - 0161 839 6227
 

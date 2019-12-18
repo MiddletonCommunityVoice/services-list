@@ -11,7 +11,8 @@ contact:
   Address:
   - Walk-in-Centre next to A & E, North Manchester General Hospital
   phone:
-  - 0161
+  - 111
+  - 0161 624 0420
 
 ---
 ### Information
