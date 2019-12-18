@@ -2,7 +2,7 @@
 title: NHS
 draft: false
 tags:
-- Phyiostherapy
+- Physiotherapy
 - Back Pain
 - Neck Pain
 areas:
