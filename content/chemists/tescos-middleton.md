@@ -21,5 +21,5 @@ contact:
 Pharmacy service and advice
 
 ### Opening Times
-Mon to Sat  8am til 8pm
-Sundays  10am til 4pm
+- Mon to Sat  8am til 8pm
+- Sundays  10am til 4pm
