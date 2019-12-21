@@ -25,8 +25,8 @@ Bank holiday times vary. Check on the website
 
 ### Pharmacy Opening Hours
 Pharmacy open
--Mon 8am til 11pm. . .
--Tue - Fri 7am til 11. . .
--Sat 7am til 10pm
--Sun 11am til 5pm
--Bank holiday times vary. Check on the website
+- Mon 8am til 11pm. . .
+- Tue - Fri 7am til 11. . .
+- Sat 7am til 10pm
+- Sun 11am til 5pm
+- Bank holiday times vary. Check on the website

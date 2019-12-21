@@ -41,7 +41,7 @@ Exercises are an important part of the healing process; an exercise programme wi
 - Hip, knee and ankle complaints
 - Sports injuries
 - Repetitive strain injury
- Arthritis symptoms
+- Arthritis symptoms
 - Foot problems
 - Carpal Tunnel Syndrome
 - Some visceral problems respond well such as IBS , 
