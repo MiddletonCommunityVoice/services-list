@@ -23,7 +23,7 @@ contact:
 - Bank holiday times vary. Check on the website
 
 ### Pharmacy Opening Hours
-Pharmacy open
+- Pharmacy open
 - Mon  to Sat 6am til 10pm
 - Sun 10am til 4pm
 - Bank holiday times vary. Check on the website
