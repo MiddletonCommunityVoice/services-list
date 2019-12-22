@@ -23,8 +23,8 @@ Various services
 ### Opening Times
 * Mon to Fri 8am to 6.30pm
 
-Closed Sat and Sun.
+- Closed Sat and Sun.
 
-2nd Thursday of each month open 8am to 1pm
+- 2nd Thursday of each month open 8am to 1pm
 
 Rochdale Health Alliance
