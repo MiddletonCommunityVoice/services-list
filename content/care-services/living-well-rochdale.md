@@ -5,7 +5,6 @@ tags:
 - Wellbeing
 - health trainers
 - directory
-- carers Meet Up
 areas:
 - Middleton
 - Heywood

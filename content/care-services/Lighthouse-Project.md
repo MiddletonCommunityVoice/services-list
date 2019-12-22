@@ -10,7 +10,6 @@ tags:
 - Who let the dads out
 - Art
 - Walking Groups
-- Carers Meet Ups
 - Money Advice
 - Middleton Central Foodbank
 - The Pantry

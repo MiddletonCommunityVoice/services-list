@@ -1,5 +1,5 @@
 ---
-title: Carers Hub Rochdale
+title: Rochdale Carers Hub
 draft: false
 tags:
 - Adult Care
