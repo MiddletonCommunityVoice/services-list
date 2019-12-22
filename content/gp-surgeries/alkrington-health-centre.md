@@ -21,10 +21,15 @@ contact:
 Various services
 
 ### Opening Times
-* Mon to Fri 8am to 6.30pm
+*Mon to Fri 8am to 6.30pm*
+*Closed Sat and Sun*
+*2nd Thursday of each month open 8am to 1pm*
 
-- Closed Sat and Sun.
+## Out of hours Services
+- Use the 7 day access service.
+- See 7 day access in this directory
+- Dial 111 for advice
+- Via BARDOC
+- Use Walk in Centres
 
-- 2nd Thursday of each month open 8am to 1pm
-
-Rochdale Health Alliance
+Member of Rochdale Health Alliance

@@ -17,13 +17,11 @@ contact:
 ---
 
 ### Information
-Emergency GP, outside normal working hours.  
+- Emergency GP, outside normal working hours.  
+- Try GP 7 days access hubs first.  
+- Then 111 before trying this service.  
 
-Try GP 7 days extra hours service first.  
-
-Then 111 before trying this service.  
-
-IF it's really urgent dial 999
+## IF it's life and death urgent dial 999
 
 ### Opening Times
-* 24 hours per day for emergencies
+*24 hours per day for emergencies*
