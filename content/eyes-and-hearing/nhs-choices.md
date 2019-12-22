@@ -2,7 +2,8 @@
 title: NHS Choices
 draft: false
 tags:
-- Find opticians
+- Opticians
+- Hearing
 areas:
 - Nationwide
 contact:

@@ -3,7 +3,7 @@ title: Middleton DIAL
 draft: false
 tags:
 - Wheelchair hire
-- Equipment hire
+- Home Adaptions
 areas:
 - Middleton
 - Heywood
@@ -18,7 +18,9 @@ contact:
 ---
 
 ### Information
-Wheelchair hire and repair
+- Wheelchair hire and repair
+- Home Adaptions like Zimmer Frames
+- Perching Stools
 
 ### Opening Times
 * Tue /Wed/ Fri 11am - 1.30pm

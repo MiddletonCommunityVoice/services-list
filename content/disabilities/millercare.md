@@ -3,6 +3,7 @@ title: Millercare
 draft: false
 tags:
 - Mobility Equipment
+- Home Adaptions
 contact:
   addresses:
   - 69 - 87 Bolton Road, Bury
@@ -13,6 +14,10 @@ contact:
 ---
 
 ### Information
-Wheelchair sales
+- Wheelchair sales
+- Home Adaptions
+- Beds
+- Zimmers Frames
+- and lots more
 Branches in Bury and Rochdale
 
