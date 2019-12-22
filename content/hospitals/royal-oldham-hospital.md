@@ -18,7 +18,6 @@ contact:
 tags:
 - Hospital with A & E
 - Maternity
-- A&E
 - Diabetes
 - Stroke
 ---

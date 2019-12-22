@@ -15,7 +15,6 @@ tags:
 - Maternity Hospital
 - Genomic Medicine
 - Gynaecology
-- Maternity
 - Newborn Intensive Care
 - Sexual Assault Referral Centre
 

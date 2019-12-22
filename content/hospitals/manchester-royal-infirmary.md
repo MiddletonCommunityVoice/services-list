@@ -13,7 +13,6 @@ contact:
   - http://www.cmft.nhs.uk/royal-infirmary
 tags:
 - Hospital with A & E
-- A&E
 - Urology
 - Orthopaedic
 - Cardiac Surgery
