@@ -18,9 +18,9 @@ contact:
   phone:
   - 0161 763 8292
   Web Addresses:
-  http://bardoc.co.uk/7-day-access-service/
-  http://www.gpcareservices.co.uk/7-day-access
-  https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=zEHJYgZHh8Q
+  - http://bardoc.co.uk/7-day-access-service/
+  - http://www.gpcareservices.co.uk/7-day-access
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=zEHJYgZHh8Q
 
 ---
 
