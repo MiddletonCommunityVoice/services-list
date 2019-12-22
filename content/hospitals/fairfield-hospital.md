@@ -2,7 +2,6 @@
 title: Fairfield Hospital
 draft: false
 tags:
-- Hospital with A & E
 areas:
 - Middleton
 - Heywood
@@ -18,7 +17,7 @@ contact:
   web_addresses:
   - http://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
-- Hospital
+- Hospital with A & E
 - A&E
 - Neurology
 ---
