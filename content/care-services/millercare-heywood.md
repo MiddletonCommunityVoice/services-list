@@ -4,8 +4,7 @@ draft: false
 tags:
 - Mobility service
 - Physical Disabilites
-- Equipment
-- Adaptions
+- Home Adaptions
 areas:
 - Middleton
 - Heywood
@@ -23,8 +22,8 @@ contact:
 
 ### Information
 
-Open Mon - Fri  9am to 5pm :
-Sat  10am to 4pm.
+- Open Mon - Fri  9am to 5pm :
+- Sat  10am to 4pm.
 
 Email heywood@millercare.co.uk
 

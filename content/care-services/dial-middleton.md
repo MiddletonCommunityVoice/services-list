@@ -3,7 +3,8 @@ title: Dial Middleton
 draft: false
 tags:
 - Wheelchair Hire
-- Equipment Hire
+- Home Adaptions
+- Physical Disabilities
 areas:
 - Middleton
 - Heywood
@@ -20,6 +21,11 @@ contact:
 
 ### Information
 
-Open Tue, Wed, Fri   11am til 1.30pm
+- Open Tue, Wed, Fri   11am til 1.30pm
 
-Short term wheelchair & equipment hire.
+- Short term wheelchair & adaptions hire
+
+- Wheelchairs
+- Adaptions
+- Zimmer Frame Walkers 3 and 4 wheel
+- Perching Stools

@@ -4,8 +4,7 @@ draft: false
 tags:
 - MS help
 - Social
-- equipment
-- adaptions
+- Home Adaptions
 - respite grants
 areas:
 - Middleton
