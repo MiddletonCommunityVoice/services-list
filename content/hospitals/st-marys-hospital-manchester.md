@@ -12,7 +12,7 @@ contact:
   web_addresses:
   - http://www.cmft.nhs.uk/saint-marys
 tags:
-- Maternity Hospital
+- Maternity
 - Genomic Medicine
 - Gynaecology
 - Newborn Intensive Care
