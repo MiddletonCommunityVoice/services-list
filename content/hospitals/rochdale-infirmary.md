@@ -2,7 +2,6 @@
 title: Rochdale Infirmary
 draft: false
 tags:
-- Hospital with Urgent Care Centre
 areas:
 - Middleton
 - Heywood
