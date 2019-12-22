@@ -3,6 +3,8 @@ title: Manchester Royal Eye Hospital
 draft: false
 tags:
 - Eye Hospital
+- Eye Surgery
+- Diabetic Eye Tests
 areas:
 - Greater Manchester
 contact:
@@ -12,9 +14,6 @@ contact:
   - 0161 276 1234
   web_addresses:
   - http://www.cmft.nhs.uk/royal-eye
-tags:
-  - Hospital
-  - Eye Surgery
 ---
 
 ### Information

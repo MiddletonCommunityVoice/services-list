@@ -2,7 +2,7 @@
 title: Rochdale Infirmary
 draft: false
 tags:
-- Hospital & Urgent Care
+- Hospital with Urgent Care Centre
 areas:
 - Middleton
 - Heywood
@@ -21,7 +21,8 @@ tags:
   - Urgent Care Centre
   - Rheumatology
   - Antenatal Services
-  - Eye Unit
+  - Eye Surgery
+  - Diabetic Eye Tests
 ---
 
 ### Information
