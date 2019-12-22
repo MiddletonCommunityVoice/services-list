@@ -3,7 +3,7 @@ title: BARDOC
 draft: false
 tags:
 - GPs out of hours
-- GP extra hours
+- GP 7 day access hub
 areas:
 - Middleton
 - Heywood
