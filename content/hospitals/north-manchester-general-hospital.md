@@ -2,9 +2,9 @@
 title: North Manchester General Hospital
 draft: false
 tags:
-- Hospital
+- Hospital with A & E
+- Walk in Centre
 - Maternity
-- A&E
 - GoToDoc Service
 - GP Hub by referral
 areas:

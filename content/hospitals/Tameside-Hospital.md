@@ -2,7 +2,6 @@
 title: Tameside & Glossop Integrated NHS Foundation Trust
 draft: false
 tags:
-- Hospital with A & E
 areas:
 - Greater Manchester
 - Glossop
@@ -14,8 +13,7 @@ contact:
   web_addresses:
   - https://www.tamesidehospital.nhs.uk/
 tags:
-- Hospital
-- A&E
+- Hospital with A & E
 - Neurology
 - Neurosurgery
 - Nephrology

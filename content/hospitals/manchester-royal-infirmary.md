@@ -2,7 +2,6 @@
 title: Manchester Royal Infirmary
 draft: false
 tags:
-- Hospital with A & E
 areas:
 - Greater Manchester
 contact:
@@ -13,7 +12,7 @@ contact:
   web_addresses:
   - http://www.cmft.nhs.uk/royal-infirmary
 tags:
-- Hospital
+- Hospital with A & E
 - A&E
 - Urology
 - Orthopaedic

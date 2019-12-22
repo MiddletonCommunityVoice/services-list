@@ -2,7 +2,6 @@
 title: Royal Oldham Hospital
 draft: false
 tags:
-- Hospital with A & E
 areas:
 - Middleton
 - Heywood
@@ -17,7 +16,7 @@ contact:
   web_addresses:
   - http://www.pat.nhs.uk/our-hospitals/the-royal-oldham-hospital/
 tags:
-- Hospital
+- Hospital with A & E
 - Maternity
 - A&E
 - Diabetes

@@ -2,7 +2,7 @@
 title: Manchester Royal Eye Hospital
 draft: false
 tags:
-- Eye Hospital
+- Emergency Eye Hospital
 - Eye Surgery
 - Diabetic Eye Tests
 areas:
