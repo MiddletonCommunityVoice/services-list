@@ -1,8 +1,8 @@
 ---
-title: GP 7 day extra hours Hubs
+title: GP 7 day Access Hubs
 draft: false
 tags:
-- GP Extra Hours
+- GP 7 day Access Hubs
 areas:
 - Middleton
 - Heywood
@@ -18,11 +18,11 @@ contact:
 ---
 
 ### Information
-Not a "Walk-in" service.  Book appointments via your GP or phone directly
+Not a "Walk-in" service  
+
+Book appointments via your GP or phone directly
 
 ### Opening Times
-* Mon - Fri 6.30pm - 9pm
-
-Sat & bank hols 8am - 6pm 
-
-Sun 10am - 1pm
+- Mon - Fri 6.30pm - 9pm
+- Sat & bank hols 8am - 6pm
+- Sun 10am - 1pm
