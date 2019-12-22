@@ -18,8 +18,8 @@ contact:
 Various services
 
 ### Opening Times
-* Mon to Fri 8am to 6.30pm
+*Mon to Fri 8am to 6.30pm*
 
-Closed Sat and Sun.
+*Closed Sat and Sun*
 
 Operated by BARDOC

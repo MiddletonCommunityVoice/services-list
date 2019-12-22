@@ -19,9 +19,9 @@ contact:
 ### Information
 - Emergency GP, outside normal working hours.  
 - Try GP 7 days access hubs first.  
-- Then 111 before trying this service.  
+- Then 111 before trying this service
 
-## Dail 999 in a life and death urgent dial 999
+**DIAL 999 in life and death emergency**
 
 ### Opening Times
 *24 hours per day for emergencies*
