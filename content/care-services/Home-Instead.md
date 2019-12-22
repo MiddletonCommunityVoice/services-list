@@ -21,5 +21,5 @@ contact:
 ---
 
 ### Information
-Based in Rochdale covering Heywood, Middleton & Rochdale.
-Provides many care services in the community and at home.
+- Based in Rochdale covering Heywood, Middleton & Rochdale.
+- Provides many care services in the community and at home.
