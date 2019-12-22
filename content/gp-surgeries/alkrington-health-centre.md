@@ -22,7 +22,9 @@ Various services
 
 ### Opening Times
 *Mon to Fri 8am to 6.30pm*
+
 *Closed Sat and Sun*
+
 *2nd Thursday of each month open 8am to 1pm*
 
 ## Out of hours Services
@@ -31,5 +33,6 @@ Various services
 - Dial 111 for advice
 - Via BARDOC
 - Use Walk in Centres
+**DIAL 999 in life and death emergency
 
 Member of Rochdale Health Alliance
