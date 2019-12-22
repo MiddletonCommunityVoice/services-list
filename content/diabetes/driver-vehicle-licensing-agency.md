@@ -7,7 +7,7 @@ areas:
 - Nationwide
 contact:
   addresses:
-  - Swansea
+  - Use Specsavers Middleton
   phone:
   - 0300 790 6801
   web_addresses:
