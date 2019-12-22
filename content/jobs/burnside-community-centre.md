@@ -4,7 +4,7 @@ draft: false
 tags:
 - Work Club
 - Jobseekers
-- CVs
+- CV
 areas:
 - Middleton
 contact:

@@ -4,7 +4,7 @@ draft: false
 tags:
 - Mock interviews
 - Jobseekers
-- CVs
+- CV
 areas:
 - Middleton
 - Heywood
