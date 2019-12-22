@@ -3,6 +3,8 @@ title: GP 7 day Access Hubs
 draft: false
 tags:
 - GP 7 day Access Hubs
+- GP Services
+- Nurses Services
 areas:
 - Middleton
 - Heywood
@@ -15,6 +17,11 @@ contact:
   - Pennine Surgery, Littleborough Health Centre
   phone:
   - 0161 763 8292
+  Web Addresses:
+  http://bardoc.co.uk/7-day-access-service/
+  http://www.gpcareservices.co.uk/7-day-access
+  https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=zEHJYgZHh8Q
+
 ---
 
 ### Information

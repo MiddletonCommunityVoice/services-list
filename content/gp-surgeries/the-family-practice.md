@@ -3,6 +3,7 @@ title: The Strand ( Family Practice )
 draft: false
 tags:
 - GP Services
+- Nurses Services
 areas:
 - Middleton
 contact:
@@ -11,15 +12,24 @@ contact:
   phone:
   - 0161 643 4459
   web_addresses:
-  # - waiting for BARDOC
+  - https://www.strandmcandfamilypractice.co.uk/
 ---
 
 ### Information
 Various services
 
 ### Opening Times
-*Mon to Fri 8am to 6.30pm*
+*Mon to Fri 8.30am to 6pm*
 
 *Closed Sat and Sun*
+
+*CLOSED 2nd Thursday every month for staff training*
+
+## Out of Hours
+- Try 111 for advice
+- See 7 day access hub on this directory for details
+- See Walk in Centres
+
+**DIAL 999 in life and death emergency**
 
 Operated by BARDOC

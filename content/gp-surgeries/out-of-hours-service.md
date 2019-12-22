@@ -3,6 +3,8 @@ title: GP Out of Hours ( BARDOC )
 draft: false
 tags:
 - Emergeny GP's
+- Nurses Services
+- Walk in Centre
 areas:
 - Middleton
 - Heywood

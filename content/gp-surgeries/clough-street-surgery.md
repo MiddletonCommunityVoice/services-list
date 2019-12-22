@@ -3,6 +3,7 @@ title: The Hive Surgery ( ex Clough St. )
 draft: false
 tags:
 - GP Services
+- Nurses Services
 areas:
 - Middleton
 contact:

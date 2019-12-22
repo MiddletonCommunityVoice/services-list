@@ -3,6 +3,7 @@ title: Windermere Road Surgery
 draft: false
 tags:
 - GP Services
+- Nurses Services
 areas:
 - Middleton
 contact:
