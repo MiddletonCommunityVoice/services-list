@@ -18,10 +18,10 @@ contact:
 Various services
 
 ### Opening Times
-* Mon to Fri 8am to 6.30pm
-- Closed Sat and Sun.
+*Mon to Fri 8am to 6.30pm*
+*Closed Sat and Sun*
 
-* Out of hours Services*
+## Out of hours Services
 - 7 day access Mon to Fri 6.30pm to 9pm
 - 7 day access Sat  8am to 6pm
 - 7 day access Sun 10am til 1pm
