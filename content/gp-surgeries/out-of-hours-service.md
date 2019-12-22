@@ -21,7 +21,7 @@ contact:
 - Try GP 7 days access hubs first.  
 - Then 111 before trying this service.  
 
-## IF it's life and death urgent dial 999
+## Dail 999 in a life and death urgent dial 999
 
 ### Opening Times
 *24 hours per day for emergencies*

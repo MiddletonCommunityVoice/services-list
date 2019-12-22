@@ -18,7 +18,7 @@ contact:
 ---
 
 ### Information
-Not a "Walk-in" service  
+**Not a "Walk-in" service**  
 
 Book appointments via your GP or phone directly
 
