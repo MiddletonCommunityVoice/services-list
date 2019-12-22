@@ -16,7 +16,7 @@ contact:
   web_addresses:
   - http://www.pat.nhs.uk/our-hospitals/rochdale-infirmary/
 tags:
-  - Hopsital with Urgent Care Centre
+  - Hospital with Urgent Care Centre
   - Rheumatology
   - Antenatal Services
   - Eye Surgery

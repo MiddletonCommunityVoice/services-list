@@ -2,7 +2,6 @@
 title: St Mary's Hospital   Manchester
 draft: false
 tags:
-- Maternity Hospital
 areas:
 - Greater Manchester
 contact:
@@ -13,7 +12,7 @@ contact:
   web_addresses:
   - http://www.cmft.nhs.uk/saint-marys
 tags:
-- Hospital
+- Maternity Hospital
 - Genomic Medicine
 - Gynaecology
 - Maternity

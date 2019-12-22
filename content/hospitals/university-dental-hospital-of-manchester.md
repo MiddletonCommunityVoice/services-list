@@ -2,7 +2,6 @@
 title: University Dental Hospital of Manchester
 draft: false
 tags:
-- Emergency Dental Hospital
 areas:
 - Greater Manchester
 contact:
@@ -12,7 +11,7 @@ contact:
   - 0161 275 6666
   - 0161 393 7730
 tags:
-- Hospital
+- Emergency Dental Hospital
 - Oral Medicine
 - Oral Surgery
 - Orthadontics

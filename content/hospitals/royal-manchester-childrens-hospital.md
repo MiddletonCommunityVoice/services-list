@@ -2,7 +2,6 @@
 title: Royal Manchester Children's Hospital
 draft: false
 tags:
-- Childrens Hospital
 areas:
 - Greater Manchester
 contact:
@@ -11,7 +10,7 @@ contact:
   phone:
   - 0161 276 1234
 tags:
-- Hospital
+- Childrens Hospital
 - Paediatric Emergency Department
 - Critical Care
 - Burns Service
