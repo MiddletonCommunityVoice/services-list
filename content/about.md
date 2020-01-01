@@ -4,9 +4,9 @@ title: Disclaimer
 
 ## WE ALL WISH YOU A VERY HAPPY NEW YEAR,
 ## AND GOOD LUCK FOR 2020.
-
-
-
+.
+.
+.
 # DISCLAIMER.
 WELCOME to this directory of services which is aimed
 at all residents of Middleton, young or old. Can be
