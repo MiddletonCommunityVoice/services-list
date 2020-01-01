@@ -3,7 +3,8 @@ title: Disclaimer
 ---
 
 ## WE ALL WISH YOU A VERY HAPPY NEW YEAR,
-AND GOOD LUCK FOR 2020
+## AND GOOD LUCK FOR 2020
+
 
 # DISCLAIMER
 WELCOME to this directory of services which is aimed
