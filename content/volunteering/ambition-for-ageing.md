@@ -5,8 +5,6 @@ tags:
 - Volunteering
 - Older People
 - Fifty Plus
-- Social
-- Care Services
 areas:
 - Middleton
 - Heywood
