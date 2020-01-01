@@ -4,7 +4,7 @@ title: Disclaimer
 
 # Dislaimer
 
-**WE ALL WISH YOU A VERY HAPPY NEW YEAR, AND GOOD LUCK FOR 2020**
+## WE ALL WISH YOU A VERY HAPPY NEW YEAR, AND GOOD LUCK FOR 2020
 
 
 WELCOME to this directory of services which is aimed
