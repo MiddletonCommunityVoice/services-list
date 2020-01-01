@@ -10,11 +10,12 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Oldham
 contact:
   addresses:
   - Chadderton Chiropractic Clinic, 681 Middleton Road, Chadderton OL9 9SN
-  - Prestwich
-  - Whitefield
+  - Also Prestwich
+  - And Whitefield
   phone:
   - 0333 600 65 65
   web_addresses:
@@ -56,11 +57,11 @@ Adam Wilkey Chiropractor has the whole region covered.
 - Foot problems
 
 ### Pay as you go fees
-- concultation . . . . £50
+- consultation . . . . £50
 - Treatment . . . . . £34
 
 ### Opening Hours
-- Mon / Tue / Fri 8.45am to 12 midday and 2pm to 6.15p.
+- Mon / Tue / Fri 8.45am to 12 midday and 2pm to 6.15pm.
 - Thur 8.45am to 12 midday
 
 ### Booking Online
