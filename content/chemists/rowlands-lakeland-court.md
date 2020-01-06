@@ -20,13 +20,14 @@ contact:
 ---
 
 ### Information
-Order prescriptions by phone   
-Advice & Minor ailments service.   
-Flu Jabs service.    Needle Exchange.   
-Collect a leaflet to see more services.
+* Order prescriptions by phone   
+* Advice & Minor ailments service.   
+* Flu Jabs service.    
+* Needle Exchange.   
+* Collect a leaflet to see more services.
 
 
 ### Opening Hours
-Mon to Fri  9am to 1pm and 2pm til 6.15pm
-Sat. 9am to 1pm
-Sundays  CLOSED
+* Mon to Fri  9am to 1pm and 2pm til 6.15pm
+* Sat. 9am to 1pm
+* Sundays  CLOSED
