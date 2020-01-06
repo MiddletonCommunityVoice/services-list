@@ -20,6 +20,6 @@ contact:
 Service and advice
 
 ### Opening Hours
-Mon to Fri  9am to 6.30pm Mon to Fri
-Sat. 9am to 1pm
-Sundays   CLOSED
+* Mon to Fri  9am to 6.30pm Mon to Fri
+* Sat. 9am to 1pm
+* Sundays   CLOSED
