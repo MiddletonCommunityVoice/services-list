@@ -9,7 +9,9 @@ areas:
 - Rochdale
 contact:
   Addresses:
-  - Walk-in-Centre next to A & E at North Manchester General Hospital
+  - Walk-in-Centre 
+  - next to A & E 
+  - North Manchester General Hospital
   phone:
   - 0161 624 0420
   web_addresses:

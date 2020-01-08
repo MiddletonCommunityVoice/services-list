@@ -19,8 +19,7 @@ contact:
 ---
 ### Information
 **WALK-IN-CENTRE**   
-- Is a short walk from   
-Prestwich Tram stop and bus stops.
+- Is a short walk from Prestwich Tram stop and bus stops.
 
 - The Centre is opperated by Pennine Care
 - Open Mon to Sat from 12 midday til 8pm
