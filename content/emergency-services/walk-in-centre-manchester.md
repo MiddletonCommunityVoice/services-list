@@ -22,8 +22,8 @@ contact:
 
 ---
 ### Information
-**WALK-IN-CENTRE**   2nd floor inside Boots
-the Chemist on Market Street, Manchester.
+**WALK-IN-CENTRE**   
+- 2nd floor inside Boots the Chemist on Market Street, Manchester.
 
 * The Centre is operated by GoToDoc.
 * Open from 8am to 8pm daily.

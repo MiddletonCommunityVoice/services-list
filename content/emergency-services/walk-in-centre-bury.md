@@ -9,7 +9,9 @@ areas:
 - Rochdale
 contact:
   Addresses:
-  - Moorgate Primary Care Centre, Derby Way, Bury
+  - Moorgate Primary Care Centre, 
+  - Derby Way, 
+  - Bury
   phone:
   - 0161 447 9820
   - 111
@@ -18,8 +20,8 @@ contact:
 
 ---
 ### Information
-**WALK-IN-CENTRE**   1st floor in the Moorgate
-Primary Care Centre, Opposite M & S.
+**WALK-IN-CENTRE**   
+- 1st floor in the Moorgate Primary Care Centre, Opposite M & S.
 
 * The Centre is opperated by Pennine Care
 * Open from 7am til 3pm daily.

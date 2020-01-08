@@ -8,16 +8,26 @@ areas:
 - Heywood
 - Rochdale
 contact:
-  Address:
-  - Middleton Health Centre, 1st floor Middleton Shopping Centre
+  Addresses:
+  - Middleton Health Centre, 
+  - 1st floor 
+  - Middleton Shopping Centre
   phone:
   - 0161 763 8292
+  web_addressed:
+  - http://bardoc.co.uk/7-day-access-service/
+  - http://www.gpcareservices.co.uk/7-day-access
 ---
 ### Information
-See the GP 7 Day Access appointments phone line above. 
-*Mon - Fri 6.30pm to 9pm
-*Saturday 8am to 6pm  Sunday 10am to 1pm
-*NOT A WALK-IN-CENTRE*  By appointment only
+Operated by BARDOC and GP Care Services.
+
+Phone the GP 7 Day Access appointments phone line above. 
+
+* Mon - Fri 6.30pm to 9pm
+* Saturday 8am to 6pm  
+* Sunday 10am to 1pm
+
+**NOT A WALK-IN-CENTRE**  By appointment only
 
 Your GP needs to refer you or another health
 professional.

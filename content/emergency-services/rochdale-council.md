@@ -13,6 +13,8 @@ contact:
   - Number One Riverside, Smith Street, Rochdale
   phone:
   - 0300 303 8875
+  web_addresses:
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
 ---
 
 ### Information
