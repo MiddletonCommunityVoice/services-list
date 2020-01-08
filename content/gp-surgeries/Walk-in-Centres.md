@@ -3,20 +3,21 @@ title: Walk in Centres
 draft: false
 tags:
 - Walk in Centre
-- GP Services
+- GP 7 day Access Hubs
 - Nurses Services
 areas:
 - Middleton
 - Heywood
 - Rochdale
 - Bury
+- Manchester
 contact:
   addresses:
   - See Emergency Services in this directory
   - Moorgate Primary Care Centre, Derby Way, Bury
   - Prestwich Med Centre, Fairfax Rd, Prestwich
   - North Manchester General Hospital
-  - Boots Manchester
+  - And others.
   phone:
   - 0161 447 9820
   - 0161 763 4242
@@ -31,7 +32,7 @@ contact:
 *Hours vary depending on which centre you use*
 
 ## Other Out of hours Services
-- Use the 7 day access service.
+- Use the GP 7 day access service.
 - See 7 day access in this directory
 - Dial 111 for advice
 - Via BARDOC
