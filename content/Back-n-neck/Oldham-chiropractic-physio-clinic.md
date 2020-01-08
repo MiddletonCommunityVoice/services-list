@@ -35,10 +35,10 @@ The friendly, welcoming Oldham Chiropractic and Physiotherapy Clinic team is ava
 
 We see people of all ages who are experiencing a broad range of needs. Some of the common ailments we come across include low back pain, neck pain, headaches, sports injuries and leg- and arm pains. If after a thorough consultation we determine that we cannot help you, we will use our extensive network of professional contacts to find the appropriate practitioner for you.
 
-* We now have available on site X-ray facilities for
+We now have available on site X-ray facilities for
 your convenience.
 
-* Tour our site, check out our patient reviews and get
+Tour our site, check out our patient reviews and get
 to know our team. We welcome you to contact our
 chiropractors Oldham to book an appointment!
 
