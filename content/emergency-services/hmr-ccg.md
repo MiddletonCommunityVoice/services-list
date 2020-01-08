@@ -1,5 +1,5 @@
 ---
-title: GP 7 day Access Service
+title: Rochdale GP 7 day Access Service
 draft: false
 tags:
 - Rochdale GP 7 Day Access
@@ -14,7 +14,7 @@ contact:
   - Middleton Shopping Centre
   phone:
   - 0161 763 8292
-  web_addressed:
+  web_addresses:
   - http://bardoc.co.uk/7-day-access-service/
   - http://www.gpcareservices.co.uk/7-day-access
 ---
