@@ -2,8 +2,8 @@
 title: GP Out of Hours ( BARDOC )
 draft: false
 tags:
-- GP 7 day Access Hubs
-- Nurses Services
+- Emergency GP
+- GP 7 day Access Hub
 - Walk in Centre
 areas:
 - Middleton
@@ -11,7 +11,9 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Moorgate Primary Care Centre, 22 Derby Way, Bury
+  - Based at
+  - Moorgate Primary Care Centre, 
+  - 22 Derby Way, Bury
   phone:
   - 0161 763 4242
   - 111
@@ -20,10 +22,11 @@ contact:
 ---
 
 ### Information
-- Emergency GP, outside normal working hours.  
-- Try GP 7 days access hubs first.  
-- Then 111 before trying this service
-- Walk in Centres
+*Emergency GP, outside normal working hours* 
+*Use for emergenies where patients can't get to the GP surgery* 
+- Try GP 7 days access hubs  
+- Try 111
+- Try Walk in Centres
 
 **DIAL 999 in life and death emergency**
 

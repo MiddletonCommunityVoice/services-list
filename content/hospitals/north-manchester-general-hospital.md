@@ -6,7 +6,7 @@ tags:
 - Walk in Centre
 - Maternity
 - GoToDoc Service
-- GP Hub by referral
+- GP 7 day Access Hub
 areas:
 - Middleton
 - Heywood
