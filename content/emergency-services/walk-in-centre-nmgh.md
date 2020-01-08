@@ -17,7 +17,8 @@ contact:
 
 ---
 ### Information
-**WALK-IN-CENTRE**  has it's own entrance at the side of the hospital, next to A & E.
+**WALK-IN-CENTRE**  
+- has it's own entrance at the side of the hospital, next to A & E.
 
 * The Centre is operate daily.
 * Open from 8am to 8pm

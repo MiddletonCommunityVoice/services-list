@@ -22,5 +22,6 @@ contact:
 ---
 ### Information
 **WALK-IN-CENTRE** 
+
 * The Centre is open ever day.
 * Open from 8am to 8pm
