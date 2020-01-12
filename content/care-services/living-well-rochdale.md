@@ -2,6 +2,7 @@
 title: Living Well  Rochdale
 draft: false
 tags:
+- Fibromyalgia
 - Wellbeing
 - health trainers
 - directory
@@ -24,5 +25,4 @@ Many health and wellbeing servicee.
 
 See Service Guide on their website.
 
-Carers Coffee Break. A meetup for carers to give them
-a few minutes break, advice and avoid respite care
+New group at the Lighthouse for sufferers of Fibromyalgia on Monday's.

@@ -1,8 +1,8 @@
 ---
 title: Living Well
-draft: true
+draft: false
 tags:
-- Fybromialia
+- Fibromyalgia
 areas:
 - Middleton
 - Heywood
