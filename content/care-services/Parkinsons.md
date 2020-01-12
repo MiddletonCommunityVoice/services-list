@@ -32,7 +32,7 @@ Nationwide and local
 
 Another motor symptom Parkinson’s disease patients tend to notice is a change in their voice. Changes in volume are common in the early stages, whereas speaking fast, crowding words, and stuttering are more prevalent in advanced stages of this disease.
 
-### Non=Motor Symptoms of Parkinson's
+### Non - Motor Symptoms of Parkinson's
 
 Parkinson’s symptoms that don’t involve movement and are therefore sometimes missed, include:
 
