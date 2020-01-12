@@ -20,11 +20,7 @@ contact:
 ---
 
 ### Information
-Office  2 Silver Street, Bury
-
-Contact Alison Jennings
-
-Email  alisonjennings37@talktalk.net
+Nationwide and local
 
 ### New Information
  Here's an initiative to help raise awareness on new ways to help those suffering from Parkinson’s Disease.
