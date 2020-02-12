@@ -3,7 +3,7 @@ title: Disclaimer
 ---
 
 ### IT'S TIME TO MEET YOU, THE PUBLIC. 
-### THE NEXT MEETING WILL BE TUESDAY, 10th, MARCH, starts at 2pm at:-
+### THE NEXT MEETING WILL BE TUESDAY, 10th, MARCH, starts 2pm at:-
 # ALKRINGTON COMMUNITY CENTRE
 #### next to Alkrington Health Centre, Hardfield Road.
 .
