@@ -2,7 +2,9 @@
 title: Disclaimer
 ---
 
-### OUR NEXT MONTHLY MEETING WILL BE ON TUESDAY, 11th,FEBRUARY, starting at 2pm @ THE LIGHTHOUSE PROJECT, 2nd Floor, MIDDLETON SHOPPING CENTRE
+### IT'S TIME TO MEET YOU, THE PUBLCI. THE NEXT MEETING WILL BE TUESDAY, 10th, MARCH, starTS at 2pm @
+## ALKRINGTON COMMUNITY CENTRE
+### next to Alkrington Health Centre, Hardfield Road.
 .
 .
 .
