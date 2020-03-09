@@ -15,7 +15,7 @@ contact:
   phone:
   - 01706 474 647
   web_addresses:
-  - http://www.rochdale.ogov.uk
+  - http://www.rochdale.gov.uk
 ---
 
 ### Events across the Borough of Rochdale
