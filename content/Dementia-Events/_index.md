@@ -1,4 +1,4 @@
 ---
-title: Dementia-Events
+title: Dementia Events
 ---
-# Dementia-Events
+# Dementia Events
