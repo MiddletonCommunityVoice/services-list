@@ -13,15 +13,17 @@ contact:
   addresses:
   - Number One Riverside Smith Street Rochdale
   phone:
-  - 01706 474 647
+  - 01706 444 444
   web_addresses:
   - http://www.rochdale.gov.uk
 ---
 
 ### Events across the Borough of Rochdale
 
-March, 20th : Number One Riverside @ 11am
+March : Number One Riverside, Rochdale
 
-April, 20th : The Lighthouse, Middleton Shopping Centre @ 11am
+April : Rochdale Carers Hub @ The Lighthouse in Middleton
 
-May, 20th : Heywood Civic Centre @ 11am 
+May : Rochdale Mind Cafe in Middleton
+
+June : The Cafe in Milnrow
