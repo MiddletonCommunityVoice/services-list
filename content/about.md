@@ -1,11 +1,10 @@
 ---
 title: Disclaimer
 ---
-
-### IT'S TIME TO MEET YOU, THE PUBLIC. 
-### THE NEXT MEETING WILL BE TUESDAY, 10th, MARCH, starts 2pm at:-
-# ALKRINGTON COMMUNITY CENTRE
-#### next to Alkrington Health Centre, Hardfield Road.
+ 
+### THE NEXT MEETING WILL BE TUESDAY, 14th, APRIL, starting at 2pm in the:-
+# LIGHTHOUSE PROJECT
+#### 2nd floor, Middleton Shopping centre.
 .
 .
 # DISCLAIMER.
