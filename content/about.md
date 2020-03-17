@@ -4,8 +4,8 @@ title: Disclaimer
  
 ### THE NEXT MEETING WILL BE TUESDAY, 14th, APRIL, starting at 2pm in the:-
 # LIGHTHOUSE PROJECT
-#### 2nd floor, Middleton Shopping centre.
-.
+#### 2nd floor, Middleton Shopping centre
+##### next to Iceland and the YMCA shops
 .
 # DISCLAIMER.
 WELCOME to this directory of services which is aimed
