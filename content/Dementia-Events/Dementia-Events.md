@@ -2,9 +2,7 @@
 title: Dementia Events across Rochdale Borough
 draft: false
 tags:
-- Dementia
-- Alzheimers
-- Parkinsons
+- Trial Tag
 areas:
 - Middleton
 - Heywood
