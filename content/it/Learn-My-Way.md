@@ -2,7 +2,7 @@
 title: Learn My Way
 draft: false
 tags:
-- Learn IT online
+- Computer Courses
 areas:
 - Middleton
 - Heywood

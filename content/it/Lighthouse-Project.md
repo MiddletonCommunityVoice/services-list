@@ -2,7 +2,7 @@
 title: Lighthouse Project
 draft: false
 tags:
-- IT Courses & for jobseekers
+- Computer Courses
 areas:
 - Middleton
 - Heywood

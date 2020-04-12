@@ -2,7 +2,7 @@
 title: Langley Library
 draft: false
 tags:
-- Individual IT tuition
+- Computer Courses
 areas:
 - Middleton
 - Heywood
