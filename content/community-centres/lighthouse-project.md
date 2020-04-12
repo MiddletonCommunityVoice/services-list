@@ -27,7 +27,7 @@ contact:
 
 ---
 
-## Information
+# Information
 Easy wheelchair access from the rooftop car park
 or via the lift on the mall
 
