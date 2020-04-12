@@ -19,5 +19,5 @@ contact:
 ---
 
 ### Information
-*Get a self referral forms from your GP Surgery
+*Get self referral forms from your GP Surgery
 or download a copy from the website.
