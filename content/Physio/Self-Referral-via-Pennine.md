@@ -15,8 +15,9 @@ contact:
   phone:
   - 0161 716 5888
   web_addresses:
-  - https://physiodirect.penninecare.nhs.uk/refferals
+  - https://physiodirect.penninecare.nhs.uk
 ---
 
 ### Information
 *Get a self referral forms from your GP Surgery
+or download a copy from the website.
