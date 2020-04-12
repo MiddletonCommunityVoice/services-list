@@ -2,7 +2,7 @@
 title: Lighthouse Project
 draft: false
 tags:
-- jobseekers help
+- jobseekers
 areas:
 - Middleton
 - Heywood
