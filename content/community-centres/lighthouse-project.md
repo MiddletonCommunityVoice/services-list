@@ -3,7 +3,7 @@ title: Lighthouse Project
 draft: false
 tags:
 - Community Centres
-- Computer lessons
+- Computer Courses
 - Meetups
 - Knit and Natter
 - Men in Sheds

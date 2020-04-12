@@ -1,5 +1,5 @@
 ---
-title: Dementia Events across Rochdale Borough
+title: Dementia Events Demonstration Page
 draft: false
 tags:
 - Trial Tag
@@ -16,9 +16,7 @@ contact:
   - http://www.rochdale.gov.uk
 ---
 
-### Events across the Borough of Rochdale
-
-March : Number One Riverside, Rochdale
+## Events across the Borough of Rochdale
 
 April : Rochdale Carers Hub @ The Lighthouse in Middleton
 
