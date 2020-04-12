@@ -16,6 +16,7 @@ contact:
   - http://www.rochdale.gov.uk
 ---
 
+# For demonstration purposes only
 ## Events across the Borough of Rochdale
 
 April : Rochdale Carers Hub @ The Lighthouse in Middleton
