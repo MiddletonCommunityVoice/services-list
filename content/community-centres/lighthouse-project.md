@@ -27,7 +27,7 @@ contact:
 
 ---
 
-### Information
+## Information
 Easy wheelchair access from the rooftop car park
 or via the lift on the mall
 
@@ -35,6 +35,6 @@ Open Mon - Fri  9.30am to 4.30pm
 
 Lots of activities
 
-Meeting rooms available
+Several meeting rooms available
 
 
