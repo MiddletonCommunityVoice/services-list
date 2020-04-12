@@ -4,7 +4,6 @@ draft: false
 tags:
 - Wellbeing
 - Fitness
-- Exercise
 - Stop Smoking
 areas:
 - Middleton

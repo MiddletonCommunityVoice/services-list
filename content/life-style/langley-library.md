@@ -3,7 +3,7 @@ title: Langley Library
 draft: false
 tags:
 - Family History
-- Computers
+- Computer Courses
 - Jobseekers
 areas:
 - Middleton
