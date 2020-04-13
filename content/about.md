@@ -1,10 +1,11 @@
 ---
 title: Disclaimer
 ---
- 
-# KEEP SAFE UNTIL OUR MONTHLY MEETINGS RESTART.
-.
-# DISCLAIMER.
+
+# KEEP SAFE UNTIL OUR MONTHLY MEETINGS RESTART
+
+## DISCLAIMER
+
 This directory of services is aimed
 at residents of Middleton, young or old. It can be
 used by people outside Middleton as many services
@@ -23,7 +24,8 @@ If you find any errors or missing services we would be
 pleased to hear from you. Please send an email to
 [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com), or send a
 TEXT message only to 0797 070 8448.
+
 **TEXT MESSAGES ONLY. Calls to this number will not be
 answered and voicemails will not be acted upon**
 
-## Please scroll down to access our directory. 
+**Please scroll down to access our directory.**
