@@ -4,7 +4,7 @@ draft: false
 tags:
 - Adult Care
 - learning disabilities
-- Physical Disabilites
+- Physical Disabilities
 - Vulnerable adults
 areas:
 - Middleton

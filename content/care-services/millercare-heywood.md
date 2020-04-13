@@ -3,7 +3,7 @@ title: Millercare Heywood
 draft: false
 tags:
 - Mobility service
-- Physical Disabilites
+- Physical Disabilities
 - Home Adaptions
 areas:
 - Middleton
