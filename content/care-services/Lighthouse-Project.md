@@ -3,7 +3,7 @@ title: Lighthouse Project
 draft: false
 tags:
 - Community Centres
-- Computer lessons
+- Computer Courses
 - Meetups
 - Knit and Natter
 - Men in Sheds
@@ -31,8 +31,10 @@ contact:
 Easy wheelchair access from the rooftop car park
 or via the lift on the mall
 
-Open Mon - Fri  9.30am to 4.30pm
+** Open Mon - Fri  9.30am to 4.30pm **
 
 Lots of activities
 
-Meeting rooms available
+*Meeting rooms available for hire.*
+Different sizes to fit from 2 to 120 people
+in various layouts
