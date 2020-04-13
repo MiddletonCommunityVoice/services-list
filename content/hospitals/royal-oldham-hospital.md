@@ -19,7 +19,7 @@ tags:
 - Hospital with A & E
 - Maternity
 - Diabetes
-- Stroke emergenies
+- Stroke emergencies
 ---
 
 ### Information
