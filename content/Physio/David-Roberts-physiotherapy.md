@@ -14,6 +14,5 @@ contact:
   - 0161 653 5853
   web_addresses:
   - http://www.davidrobertsphysio.co.uk
-
 ---
 
