@@ -26,7 +26,7 @@ Various services
 *CLOSED 2nd Thursday every month for staff training*
 
 ## Out of Hours
-- Try 111 for advice
+- Try 111 for help and advice
 - See 7 day access hub on this directory for details
 - See Walk in Centres
 

@@ -3,7 +3,7 @@ title: Walk in Centres
 draft: false
 tags:
 - Walk in Centre
-- GP 7 day Access Hubs
+- GP 7 day Access Hub
 - Nurses Services
 areas:
 - Middleton
@@ -17,6 +17,7 @@ contact:
   - Moorgate Primary Care Centre, Derby Way, Bury
   - Prestwich Med Centre, Fairfax Rd, Prestwich
   - North Manchester General Hospital
+  - Oldham, next to the bus station
   - And others.
   phone:
   - 0161 447 9820
@@ -34,7 +35,7 @@ contact:
 ## Other Out of hours Services
 - Use the GP 7 day access service.
 - See 7 day access in this directory
-- Dial 111 for advice
+- Dial 111 for help and advice
 - Via BARDOC
 
 **DIAL 999 in life and death emergency**

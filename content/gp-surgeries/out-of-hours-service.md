@@ -31,4 +31,4 @@ contact:
 **DIAL 999 in life and death emergency**
 
 ### Opening Times
-*Not all services operate 24 hours a day*
+**Not all services operate 24 hours a day**

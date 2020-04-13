@@ -9,8 +9,10 @@ areas:
 - Rochdale
 contact:
   Addresses:
-  - Middleton Health Centre, 
-  - 1st floor 
+  - Middleton Health Centre, 1st floor , 
+  - MIddleton Shopping Centre
+
+  - also in Heywood, Rochdale & Littleborough
   - Middleton Shopping Centre
   phone:
   - 0161 763 8292
@@ -23,6 +25,7 @@ Operated by BARDOC and GP Care Services.
 
 Phone the GP 7 Day Access appointments phone line above. 
 
+### Opening hours
 * Mon - Fri 6.30pm to 9pm
 * Saturday 8am to 6pm  
 * Sunday 10am to 1pm
