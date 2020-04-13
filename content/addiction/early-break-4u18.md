@@ -2,7 +2,7 @@
 title: Early Break 4U18
 draft: false
 tags:
-- Under 18 mental help
+- Under 18 mental health
 areas:
 - Middleton
 - Heywood
