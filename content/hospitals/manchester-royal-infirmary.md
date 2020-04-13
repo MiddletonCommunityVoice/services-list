@@ -14,7 +14,7 @@ contact:
 tags:
 - Hospital with A & E
 - Urology
-- Orthopaedic
+- Orthopaedics
 - Cardiac Surgery
 ---
 
