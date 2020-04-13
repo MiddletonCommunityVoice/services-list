@@ -2,7 +2,7 @@
 title: Stroke Association
 draft: False
 tags:
-- Stroke
+- Stroke help
 areas:
 - Middleton
 - Heywood
@@ -19,4 +19,5 @@ contact:
 ### Information
 Help for people and families following a stroke.  
 GP referals to Middleton Arena to help you 
-get back on your feetincluding activities for disabled and .
+get back on your feet including activities for
+disabled and rehabilitation
