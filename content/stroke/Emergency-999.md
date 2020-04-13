@@ -2,7 +2,7 @@
 title: Emergency 999
 draft: False
 tags:
-- Stroke Emergency
+- Stroke Emergencies
 areas:
 - Middleton
 - Heywood

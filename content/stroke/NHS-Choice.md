@@ -2,7 +2,7 @@
 title: NHS Choice
 draft: False
 tags:
-- Stroke Emergency
+- Stroke Emergencies
 areas:
 - Middleton
 - Heywood
