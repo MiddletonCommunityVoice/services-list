@@ -4,7 +4,6 @@ draft: false
 tags:
 - Hospice
 - End of Life
-- Thinking ahead
 areas:
 - Middleton
 - Heywood
