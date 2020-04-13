@@ -2,7 +2,7 @@
 title: Stroke Carers & Support
 draft: True
 tags:
-- Stroke
+- Stroke help
 areas:
 - Middleton
 - Heywood
