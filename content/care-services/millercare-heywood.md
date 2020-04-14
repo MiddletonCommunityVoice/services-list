@@ -2,7 +2,7 @@
 title: Millercare Heywood
 draft: false
 tags:
-- Mobility service
+- Mobility Equipment
 - Physical Disabilities
 - Home Adaptions
 areas:
