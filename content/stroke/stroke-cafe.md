@@ -2,7 +2,7 @@
 title: Headway Stroke Cafe
 draft: False
 tags:
-- Stroke Cafe
+- Stroke Cafe.
 areas:
 - Middleton
 - Heywood
