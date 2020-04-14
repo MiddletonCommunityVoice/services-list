@@ -2,7 +2,7 @@
 title: See Expert Patient Program
 draft: false
 tags:
-- Long Term Health
+- Long Term Illness
 areas:
 - Middleton
 - Heywood
