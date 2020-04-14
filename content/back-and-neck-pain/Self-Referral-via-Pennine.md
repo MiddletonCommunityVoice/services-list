@@ -2,6 +2,7 @@
 title: Self Referral via Pennine Care
 draft: false
 tags:
+- Pain Management
 - Physiotherapy
 - Back Pain
 - Neck Pain
