@@ -2,7 +2,7 @@
 title: Wiltshire Farm Foods
 draft: false
 tags:
-- Meals on Wheels
+- Meals
 areas:
 - Middleton
 - Heywood
