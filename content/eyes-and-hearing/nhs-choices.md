@@ -3,7 +3,7 @@ title: NHS Choices
 draft: false
 tags:
 - Opticians
-- Hearing test
+- Hearing tests
 areas:
 - Nationwide
 contact:
