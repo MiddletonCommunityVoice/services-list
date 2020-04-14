@@ -3,7 +3,7 @@ title: Specsavers Middleton
 draft: false
 tags:
 - Opticians
-- Hearing
+- Hearing Tests
 - DVLA Eye Tests
 areas:
 - Middleton
