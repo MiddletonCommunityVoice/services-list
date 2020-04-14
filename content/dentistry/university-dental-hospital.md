@@ -2,7 +2,7 @@
 title: University Dental Hospital
 draft: false
 tags:
-- Dental Hospital
+- Emergency Dentistry
 areas:
 - Greater Manchester
 contact:

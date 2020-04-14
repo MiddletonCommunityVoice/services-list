@@ -11,7 +11,7 @@ contact:
   - 0161 275 6666
   - 0161 393 7730
 tags:
-- Emergency Dental Hospital
+- Emergency Dentistry
 - Oral Medicine
 - Oral Surgery
 - Orthadontics
