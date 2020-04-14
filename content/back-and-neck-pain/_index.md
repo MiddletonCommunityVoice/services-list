@@ -1,5 +1,5 @@
 ---
-title: Back and neck
+title: Back and neck pain
 ---
 
-# Back and Neck
+# Back and Neck pain

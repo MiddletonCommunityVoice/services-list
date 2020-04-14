@@ -1,5 +1,5 @@
 ---
-title: See Hospitals
+title: Referral via your GP
 draft: false
 tags:
 - Pain Management
