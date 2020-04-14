@@ -4,7 +4,7 @@ draft: false
 tags:
 - Housing
 - Sheltered Housing
-- Job help
+- Jobseekers
 - Money Advice
 areas:
 - Middleton
