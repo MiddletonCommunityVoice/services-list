@@ -2,14 +2,9 @@
 title: Disclaimer
 ---
 
-# KEEP SAFE UNTIL OUR MONTHLY MEETINGS RESTART
+# KEEP YOUR DISTANCE FROM OTHERS TO STOP THE VIRUS SPREADING.
 
 ## DISCLAIMER
-
-This directory of services is aimed
-at residents of Middleton, young or old. It can be
-used by people outside Middleton as many services
-are provided by organisations outisde Middleton.
 
 This directory has been compiled from many 
 public sources available online & from printed
