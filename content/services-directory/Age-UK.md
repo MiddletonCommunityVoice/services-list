@@ -2,6 +2,7 @@
 title: Age UK
 draft: True
 tags:
+- Directory
 - Support
 areas:
 - Oldham
