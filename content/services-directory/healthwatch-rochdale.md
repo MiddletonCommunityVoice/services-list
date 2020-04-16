@@ -3,7 +3,6 @@ title: Healthwatch Rochdale
 draft: false
 tags:
 - Directory
-- Services Quality
 - Complaints
 areas:
 - Middleton
