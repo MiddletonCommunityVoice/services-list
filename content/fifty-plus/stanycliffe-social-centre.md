@@ -3,6 +3,7 @@ title: Stanycliffe Social Centre
 draft: false
 tags:
 - Activities
+- Meals
 areas:
 - Middleton
 contact:

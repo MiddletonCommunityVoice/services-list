@@ -2,7 +2,7 @@
 title: Rochdale Staywell via Direct Health
 draft: false
 tags:
-- Care for adults
+- Adult Care
 areas:
 - Middleton
 - Heywood

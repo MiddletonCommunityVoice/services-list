@@ -2,7 +2,7 @@
 title: JM Mobile Care
 draft: false
 tags:
-- Care at Home
+- Adult Care
 areas:
 - North Manchester towns
 contact:

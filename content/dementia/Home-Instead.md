@@ -3,9 +3,8 @@ title: Home Instead Senior Care
 draft: false
 tags:
 - Dementia
-- Care at home
+- Adult Care
 - Companionship
-- Personal Care
 areas:
 - Middleton
 - Heywood

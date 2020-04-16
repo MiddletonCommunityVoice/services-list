@@ -3,6 +3,7 @@ title: Social Services
 draft: false
 tags:
 - Directory
+- Adult Care
 areas:
 - Middleton
 - Heywood
