@@ -2,7 +2,8 @@
 title: Care Quality Commission    CQC
 draft: false
 tags:
-- Health Service quality
+- Complaints
+- Directory
 areas:
 - Middleton
 - Heywood

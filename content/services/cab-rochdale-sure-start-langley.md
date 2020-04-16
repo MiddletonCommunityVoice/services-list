@@ -1,14 +1,16 @@
 ---
-title: CAB Rochdale @ Sure Start Langley
+title: CAB Langley Library @ Sure Start Langley
 draft: false
 tags:
 - Citizens Advice
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - Sure Start, Windermere Road, Langley, Middleton
-  - Middleton Libraries
+  - Langley Libraries
   phone:
   - 0161 653 9526
   web_addresses:
