@@ -462,13 +462,13 @@ Werneth House Building - Multidisciplinary Education
  Centre - off Fountain Street - opposite Accident and 
  Emergency Department.
 
-Voluntary Services Department - Tel: 0161 922 5334
+Voluntary Services Department - Tel: 0161 922 5334  
 entrance on the left.
 
-W.R.V.S. Coffee Shop - Tel: 0161 922 55424
+W.R.V.S. Coffee Shop - Tel: 0161 922 55424  
 Hartshead Building North - Ground Floor - main 
 entrance turn left.
 
-Workshops - Tel: 0161 922 6018
+Workshops - Tel: 0161 922 6018  
 Building to the right of the Portland Building - rear
  entrance - off Mossley Road/Mellor Road.
