@@ -56,19 +56,17 @@ expect all of our staff to demonstrate and these are:
 
 ## Visiting Times
 *Visiting times for our medical wards are 11am until
- 8pm everyday.
+ 8pm everyday.*
 
 Our surgical wards have a rest period during the day
  between 1pm and 3pm. This allows our patients to get
   extra rest and help with recovery. 
 
-What is a surgical ward?
-
+What is a surgical ward?  
 If somebody has had or is waiting for surgery 
 (operation), the are likely to be on a surgical ward. 
 
-What's a medical ward?
-
+What's a medical ward?  
 A medical ward is where the patient has not had or is
  unlikely to have surgery. 
 
@@ -189,7 +187,7 @@ Ward 30 - Adult Medicine - 0161 922 6065 / 6064
 Charlesworth Building - 4th Floor- entrance to the 
 front of the building - take lift or stairs.
 
-Ward 31 - Adult Medicine - 0161 922 6182 / 6183
+Ward 31 - Adult Medicine - 0161 922 6182 / 6183  
 Charlesworth Building - 5th Floor- entrance to the
  front of the building - take lift or stairs.
 
@@ -276,7 +274,8 @@ Charlesworth Building -1st Floor -entrance at the
 front of the building - take stairs or lift to 2nd 
 Floor on Ward 27.
  
- TPAS - 0161 922 4190   Charlesworth Building - Opposite Car Parking Office.
+ TPAS - 0161 922 4190  
+ Charlesworth Building - Opposite Car Parking Office.
 
 Womens Health Unit - 0161 922 6201  
 Hartshead Building North -1st Floor -take the stairs
@@ -336,7 +335,8 @@ Estates and Technical Services Department - 016
  922 6012
 
 Maintenance Workshops Facilities Department - 
- 0161 922 6611    Consort House
+ 0161 922 6611  
+ Consort House
 
 Finance Department - 0161 922 6033 / 6035  
 Mellor House, 2nd Floor – Mellor Road entrance
@@ -349,7 +349,7 @@ Hartshead Building South - Main entrance reception
  area.
 
 Library - 0161 922 6662  
-Website: http://www.tamesidehospital.nhs.uk/our-services/non-clinical_services/Knowledge_Library_Services
+Website: http://www.tamesidehospital.nhs.uk/our-services/non-clinical_services/Knowledge_Library_Services  
 Off Fountain Street - within Wernerth House building -
 ground floor.
 
@@ -369,8 +369,8 @@ entrance - along hospital corridor - second on the
 left (Green Suite) - snack bar on the right.
 
 Language Interpretation Patient Service (LIPS)
- - 0161 922 5150   Base Accommodation - Off 
- Darnton  Road.
+ - 0161 922 5150  
+ Base Accommodation - Off  Darnton  Road.
 
 Macmillan Breast Care Team - 0161 922 4089  
 Ladysmith Building – Day Services Unit.
