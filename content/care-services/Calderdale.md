@@ -2,7 +2,7 @@
 title: Calderdale Home Care
 draft: false
 tags:
-- Care at Home
+- Adult Care
 - 18+
 areas:
 - Middleton

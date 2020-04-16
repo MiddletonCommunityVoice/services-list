@@ -1,7 +1,6 @@
 ---
 title: Nesi Professionals
 tags:
-- Care at Home
 - Adult Care
 - End of Life
 areas:

@@ -2,9 +2,8 @@
 title: Home Instead Senior Care
 draft: false
 tags:
-- Care at home
+- Adult Care
 - Companionship
-- Personal Care
 - Dementia
 areas:
 - Middleton
