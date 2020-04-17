@@ -106,7 +106,6 @@ Lower Ground Floor – Ladysmith Building.
 
 Adult Medicine Out Patients Reception - 0161 922
  5328  
-
 Ladysmith Building - Ground Floor -main entrance turn
  right.
 
@@ -146,7 +145,7 @@ Hartshead Building - 1st Floor - main entrance - take
  stairs or lift to 1st floor - along link corridor on
  the left after Restaurant.
 
-Intensive Care Unit (ITU) - 0161 922 6062  
+**Intensive Care Unit (ITU)** - 0161 922 6062  
 Hartshead Building North -1st Floor - take the stairs
  or lift to the 1st floor above Main Entrance.
 
@@ -363,7 +362,7 @@ Werneth House.
 IT Department - 0161 922 6969  
 Portland Building - Ground Floor.
 
-League of Friends Snack Bar  
+**League of Friends Snack Bar**  
 Hartshead Building North - Ground Floor - main 
 entrance - along hospital corridor - second on the 
 left (Green Suite) - snack bar on the right.
@@ -428,8 +427,7 @@ area - turn right.
 
 Physiotherapy Department - 0161 922 6991   for all
  appointment enquiries and   
-0161 922 6313 for all other enquiries.
-
+0161 922 6313 for all other enquiries.  
 Hartshead Building North - Ground Floor - main 
 entrance - along hospital corridor - Green Suite - 
 reception of the left.
@@ -475,7 +473,7 @@ Werneth House Building - Multidisciplinary Education
 Voluntary Services Department - 0161 922 5334  
 entrance on the left.
 
-W.R.V.S. Coffee Shop - 0161 922 55424  
+W.R.V.S. Coffee Shop - 0161 922 5424  
 Hartshead Building North - Ground Floor - main 
 entrance turn left.
 
