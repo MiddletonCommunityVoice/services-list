@@ -21,6 +21,7 @@ tags:
 - Immunology
 - Intensive Care
 - Pain Management
+- PALS
 - Urology
 - Cardiololgy
 - Diabetes
@@ -81,7 +82,7 @@ personal’ notice board at the entrance to each ward.
 | Outpatient Appointments                               | 0161 20 64100                      | Hope Building, Level 1           |                               | 16/06/2016   |
 | Outpatient Appointments - Minicom                     | 0161 20 65494                      | Hope Building, Level 1           |                               | 16/06/2016   |
 | Pain Reception                                        | 0161 20 64002                      | Irving Building, Level 0         |                               | 16/06/2016   |
-| PALS                                                  | 0161 20 62003                      | Hope Building                    |                               | 16/06/2016   |
+| PALS                                                  | 0161 206 2003                      | Hope Building                    |                               | 16/06/2016   |
 | Pathology Specimen Reception                          | 0161 20 60175                      | Turnberg Building, Level 2       |                               | 16/06/2016   |
 | Photobiology OPD Reception                            | 0161 20 64081                      | Barnes Building, Level 0         |                               | 16/06/2016   |
 | Physiotherapy Reception                               | 0161 20 65328                      | Irving Building, Level 0         |                               | 16/06/2016   |
