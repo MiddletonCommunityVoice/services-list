@@ -96,7 +96,7 @@ Trauma unit - 0161 922 6613
 
 Xray Department - 0161 922 6426
 
-## Ward Information
+## Ward Information  
 **Accident and Emergency Department** - 0161 922 6248  
 Hartshead Building North - Off Mossley Road - On 
 Fountain Street.
@@ -113,7 +113,7 @@ Ladysmith Building - Ground Floor -main entrance turn
  922 6314  
 Hartshead Building South -Ground Floor, main entrance, turn left, reception on right.
 
-**Clinic C (Cardiology Unit)** - 0161 922 6860  
+**Clinic C** (Cardiology Unit) - 0161 922 6860  
 Hartshead Building South -Ground Floor - turn left
  then right or use self check in.
 
@@ -145,7 +145,7 @@ Hartshead Building - 1st Floor - main entrance - take
  stairs or lift to 1st floor - along link corridor on
  the left after Restaurant.
 
-**Intensive Care Unit (ITU)** - 0161 922 6062  
+**Intensive Care Unit** (ITU) - 0161 922 6062  
 Hartshead Building North -1st Floor - take the stairs
  or lift to the 1st floor above Main Entrance.
 
@@ -161,7 +161,7 @@ Hartshead Building North- Lower Ground Floor- Main
 entrance - take stairs or lift - turn left, clinic on
  the right.
 
-**O**ral Surgery/Orthodontic Department** - 0161 922
+**Oral Surgery/Orthodontic Department** - 0161 922
  6383  
 Hartshead Building North - Ground Floor - main 
 entrance - first entrance on right - reception in 
@@ -230,7 +230,7 @@ the lift or the stairs - turn left along the corridor.
 Ladysmith Building - Ground Floor -adjacent to ward 45.
 
 ## Women and Childrens
-Ante Natal Ward & Assessment Unit - 0161 922 6175  
+**Ante Natal Ward & Assessment Unit** - 0161 922 6175  
 Charlesworth Building - Ground Floor - entrance to 
 rear of the building, turn right opposite Security
 Control.
@@ -273,10 +273,10 @@ Charlesworth Building -1st Floor -entrance at the
 front of the building - take stairs or lift to 2nd 
 Floor on Ward 27.
  
- TPAS - 0161 922 4190  
+ **TPAS** - 0161 922 4190  
  Charlesworth Building - Opposite Car Parking Office.
 
-Womens Health Unit - 0161 922 6201  
+**Womens Health Unit** - 0161 922 6201  
 Hartshead Building North -1st Floor -take the stairs
  or lift to the 1st floor above Main Entrance – Red 
  Suite.
@@ -285,13 +285,13 @@ Ward 27 - Maternity - 0161 922 6181 / 6180
 Charlesworth Building - 1st Floor - main entrance - 
 take lift or stairs - press intercom for access.
 
-## Other Departments
+## Other Departments  
 **Bereavement Office** - 0161 922 5192  
 **Mortuary** – rear entrance, Chapel of Rest.
 
 **Cancer Clinical Nurse Specialists (CNS)**  Advance
  Nurse Practioner (ANP)
-
+ 
 **Acute Oncology ANP** - 0161 922 4089
 
 **Colorectal CNS** - 0161 922 6722
