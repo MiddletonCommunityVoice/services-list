@@ -16,6 +16,8 @@ tags:
 - Urology
 - Orthopaedics
 - Cardiac Surgery
+- PALS
+- Complaints
 ---
 
 # Information
@@ -89,3 +91,4 @@ restrictions for that ward.
 | Ward 44 - Haematology                           | 0161 276 4093                               |
 | Ward 45 - Acute Medicine                        | 0161 276 3618                               |
 | Ward 46 - Acute Medicine                        | 0161 901 4634                               |
+PALS - 0161 276 8686  

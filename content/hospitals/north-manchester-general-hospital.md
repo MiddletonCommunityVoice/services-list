@@ -7,6 +7,8 @@ tags:
 - Maternity
 - GoToDoc Service
 - GP 7 day Access Hub
+- PALS
+- Complaints
 areas:
 - Middleton
 - Heywood
@@ -78,3 +80,5 @@ combat infection or obstruct meal times.
 | Children's In-Patient Ward                      | 0161 625 8273                               |
 | Children's Day Surgery Ward                     | 0161 625 8117                               |
 | Endoscopy                                       | 0161 720 2835, 0161 604 5264, 0161 604 5265 |
+PALS - 0161 604 5897  
+North Manchester General Hospital - The PALS Office is located at the Main Entrance to the hospital. Follow signs for Way Out, Main Entrance. Level 0.

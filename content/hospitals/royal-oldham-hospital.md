@@ -12,7 +12,8 @@ contact:
   addresses:
   - Rochdale Road, Oldham. OL1 2JH
   phone:
-  - 0161 624 0420
+  - 0161 624 0420 Main
+  - 0161 604 5897  PALS
   web_addresses:
   - http://www.pat.nhs.uk/our-hospitals/the-royal-oldham-hospital/
 tags:
@@ -20,6 +21,8 @@ tags:
 - Maternity
 - Diabetes
 - Stroke emergencies
+- PALS
+- Complaints
 ---
 
 ### Information
@@ -33,13 +36,14 @@ in North Manchester.
 ### Opening Times
 * 24 hour service
 
-#### Open Visiting Hours
-
-The Royal Oldham Hospital's visiting policy is now *open*. Visitors are allowed
-access throughout the day providing their visit adheres to the [visitor's
+### Open Visiting Hours  
+The Royal Oldham Hospital's visiting policy is now
+ *open*. Visitors are allowed
+access throughout the day providing their visit
+ adheres to the [visitor's
 code](http://www.pat.nhs.uk/patients-and-visitors/Bedside%20booklet.PDF), which
-places limits on the number of visitors per patient in order to combat
-infection or obstruct meal times.
+places limits on the number of visitors per patient in
+ order to combat infection or obstruct meal times.
 
 ## Direct Ward Numbers
 
@@ -93,3 +97,7 @@ infection or obstruct meal times.
 | Northside (Mental Health)          | 0161 627 8026, 0161 627 8030 |
 | Rowan Ward (Elderly Mental Health) | 0161 627 8032                |
 | Southside (Mental Health)          | 0161 627 8036                |
+PALS - 0161 604 5897  
+The Royal Oldham Hospital PALS Office is located at
+ the Main Entrance to the hospital. Follow signs for
+  Way Out, Main Entrance. Level 0.

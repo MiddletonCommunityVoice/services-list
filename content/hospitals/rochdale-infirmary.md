@@ -21,6 +21,8 @@ tags:
   - Antenatal Services
   - Eye Surgery
   - Diabetic Eye Tests
+  - PALS
+  - Complaints
 ---
 
 ### Information
@@ -68,4 +70,7 @@ outpatient clinics and a new eye unit.
 | Hollingworth Ward (Mental Health) | 01706 75 4371    |
 | Moorside Ward (Mental Health)     | 01706 75 4367    |
 | Psychiatric Unit Reception        | 01706 75 4302    |
-
+PALS - 0161 604 5897  
+Rochdale Infirmary - The PALS Office is located at the
+ Main Entrance to the hospital. Follow signs for Way 
+ Out, Main Entrance. Level B.

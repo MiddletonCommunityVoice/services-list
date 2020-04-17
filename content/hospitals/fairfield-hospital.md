@@ -19,6 +19,8 @@ contact:
 tags:
 - Hospital with A & E
 - Neurology
+- PALS
+- Complaints
 ---
 
 ### Information
@@ -61,3 +63,8 @@ services transferred to Fairfield.
 | Ward 26 Ramsbottom Unit (Pennine Care)         | 0161 918 8501                |
 | Ward 27 North Ward (Pennine Care)              | 0161 716 1077                |
 | Ward 28 South Ward (Pennine Care)              | 0161 716 1070                |
+PALS - 0161 604 5897  
+Fairfield General Hospital - The PALS Office is
+ located at the Main Entrance to the hospital. Follow
+  signs for Way Out, Main Entrance. Ground Floor, Red
+   Zone.
