@@ -2,8 +2,9 @@
 title: Middleton Health Centre
 draft: false
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
+- GP 7 day Access Hub
 areas:
 - Middleton
 contact:

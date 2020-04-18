@@ -2,7 +2,7 @@
 title: Alkrington Health Centre
 draft: falses
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
 - Podiatry
 - Audiology

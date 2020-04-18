@@ -2,7 +2,7 @@
 title: Rochdale Road Medical Centre
 draft: false
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
 areas:
 - Middleton

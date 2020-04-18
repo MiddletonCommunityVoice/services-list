@@ -2,7 +2,7 @@
 title: Junction Surgery
 draft: false
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
 areas:
 - Middleton

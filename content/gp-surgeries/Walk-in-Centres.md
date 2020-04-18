@@ -33,9 +33,11 @@ contact:
 *Hours vary depending on which centre you use*
 
 ## Other Out of hours Services
-- Use the GP 7 day access service.
-- See 7 day access in this directory
+- Use the GP 7 day access service  
+See 7 day access in this directory
+
 - Dial 111 for help and advice
-- Via BARDOC
+
+- or Via BARDOC and GP Care Services
 
 **DIAL 999 in life and death emergency**

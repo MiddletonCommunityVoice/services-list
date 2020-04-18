@@ -2,8 +2,9 @@
 title: Peterloo Medical Centre
 draft: false
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
+- Pharmacy
 areas:
 - Middleton
 contact:

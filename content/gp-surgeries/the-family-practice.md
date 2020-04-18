@@ -2,7 +2,7 @@
 title: The Strand ( Family Practice )
 draft: false
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
 areas:
 - Middleton

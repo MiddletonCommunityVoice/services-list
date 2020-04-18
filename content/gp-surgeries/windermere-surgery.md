@@ -2,7 +2,7 @@
 title: Windermere Road Surgery
 draft: false
 tags:
-- GP Services
+- GP Surgery
 - Nurses Services
 areas:
 - Middleton
