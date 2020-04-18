@@ -2,9 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Cancer
-- Bowel Cancer
-- Breast Cancer
+- Cancer Treatments and help
 areas:
 - Middleton
 - Heywood

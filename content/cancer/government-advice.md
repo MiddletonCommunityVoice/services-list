@@ -2,7 +2,7 @@
 title: Government advice
 draft: false
 tags:
-- Cancer
+- Cancer Treatments
 areas:
 - Nationwide
 contact:

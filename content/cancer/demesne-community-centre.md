@@ -3,7 +3,6 @@ title: Demesne Community Centre
 draft: false
 tags:
 - Breast Cancer
-- Cancer
 areas:
 - Middleton
 contact:

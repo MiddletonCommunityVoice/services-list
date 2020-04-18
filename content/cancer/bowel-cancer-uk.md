@@ -2,8 +2,7 @@
 title: Bowel Cancer UK
 draft: false
 tags:
-- Bowel Cancer
-- Cancer
+- Cancer Treatments and help
 areas:
 - Middleton
 - Heywood

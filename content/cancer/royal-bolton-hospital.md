@@ -2,8 +2,7 @@
 title: Royal Bolton Hospital
 draft: false
 tags:
-- Breast Cancer
-- Cancer
+- Cancer Treatments and help
 areas:
 - Middleton
 - Heywood

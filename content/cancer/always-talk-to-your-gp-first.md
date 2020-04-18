@@ -2,8 +2,7 @@
 title: Always talk to your GP first
 draft: false
 tags:
-- Bowel Cancer
-- Cancer
+- Cancer Treatments and help
 areas:
 - Nationwide
 contact:
