@@ -2,7 +2,7 @@
 title: Shifa via Rochdale Mind
 draft: true
 tags:
-- Dementia Family Link
+- Dementia
 areas:
 - Middleton
 - Heywood
