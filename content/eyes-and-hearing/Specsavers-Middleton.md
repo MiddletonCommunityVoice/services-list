@@ -28,16 +28,18 @@ contact:
 ---
 
 ### Information
-- Eye & hearing tests
-- Book online or phone the shop
-- DVLA eye tests available
-- Free eye tests at your own home. Call 0800 198 1132
-- Adult eye tests
-- Audiology services
-- Cataract post-op care
-- Children's eye tests
-- Contact lens services 
-- Dry eye clinic /
+* Eye & hearing tests
+* Book online or phone the shop
+* DVLA eye tests available
+* Free eye tests at your own home. Call 0800 198 1132
+* Adult eye tests
+* Audiology services
+* Cataract post-op care
+* Children's eye tests
+* Contact lens services 
+* Dry eye clinic
+* Minor Eye Conditions treatment
+* Lots of eye diseases treated
 
 ### Opening Times
 * Open every day.
