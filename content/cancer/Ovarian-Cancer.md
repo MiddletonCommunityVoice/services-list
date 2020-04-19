@@ -16,7 +16,7 @@ contact:
   - 2. 0800 008 7054
   - 3. Online service
   web_addresses:
-  - 0.  
+  -             
   - 1. http://www.ovarian.org.uk
   - 2. http://www.ovacome.org.uk
   - 3. http://ocam.org.uk/further-resources
