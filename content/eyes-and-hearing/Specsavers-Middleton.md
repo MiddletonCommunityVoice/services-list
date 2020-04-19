@@ -2,9 +2,16 @@
 title: Specsavers Middleton
 draft: false
 tags:
-- Opticians
-- Hearing Tests
+- Various Eye and Hearing tests
+- Cataract eye tests
+- Diabetic eye tests
 - DVLA Eye Tests
+- Statgardts Disease
+- Sorby's Dystrophy
+- MECS Eye services
+- Minor eye conditions
+- Macular Eye Degeneration
+- Glaucoma eye tests
 areas:
 - Middleton
 - Heywood
