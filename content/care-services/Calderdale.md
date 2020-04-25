@@ -3,7 +3,6 @@ title: Calderdale Home Care
 draft: false
 tags:
 - Adult Care
-- 18+
 areas:
 - Middleton
 - Heywood
