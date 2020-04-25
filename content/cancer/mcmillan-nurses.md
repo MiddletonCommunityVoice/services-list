@@ -2,7 +2,7 @@
 title: McMillan Nurses
 draft: False
 tags:
-- Cancer Treayments and help
+- Cancer Treatments and help
 areas:
 - Nationwide
 contact:
