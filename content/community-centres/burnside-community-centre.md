@@ -3,6 +3,8 @@ title: Burnside Community Centre
 draft: false
 tags:
 - Community Centres
+- Childrens Services
+- Councelling
 areas:
 - Langley Middleton
 contact:
