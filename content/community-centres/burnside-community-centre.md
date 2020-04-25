@@ -4,7 +4,7 @@ draft: false
 tags:
 - Community Centres
 - Childrens Services
-- Councelling
+- Counselling
 areas:
 - Langley Middleton
 contact:
