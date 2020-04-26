@@ -22,7 +22,10 @@ contact:
 ---
 ### Information
 Trams operated by Tranport for Greater Manchester  
-**Restricted tram services due to the Coronavirus**
+
+### Restricted tram services due to the Coronavirus
+
+**Nearest tram stop, Bowker Vale**  
 
 1. Bury - Manchester - Altrincham
 2. Rochdale - Oldham - Manchester - Chorlton - East Didsbury
