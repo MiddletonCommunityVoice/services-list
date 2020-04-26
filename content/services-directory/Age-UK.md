@@ -6,6 +6,8 @@ tags:
 - Support
 areas:
 - Oldham
+- Manchester
+- Salford
 contact:
   addresses:
   - 298a Broadway Chadderton Oldham

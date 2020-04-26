@@ -2,7 +2,7 @@
 title: NHS Carers Direct Helpline
 draft: false
 tags:
-- Carers Information
+- Directory
 areas:
 - Middleton
 - Heywood

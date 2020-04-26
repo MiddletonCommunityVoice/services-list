@@ -2,7 +2,7 @@
 title: Pennine Acute NHS Hospital Trust
 draft: false
 tags:
-- Health service
+- Health services
 areas:
 - Middleton
 - Heywood

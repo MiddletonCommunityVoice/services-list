@@ -2,7 +2,7 @@
 title: Pennine Care NHS Foundation Trust
 draft: false
 tags:
-- Health service
+- Health services
 areas:
 - Middleton
 - Heywood
