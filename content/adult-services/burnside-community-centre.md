@@ -3,7 +3,6 @@ title: Burnside Community Centre
 draft: false
 tags:
 - counselling
-- Community Centre
 areas:
 - Middleton
 contact:
