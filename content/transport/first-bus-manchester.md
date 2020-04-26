@@ -4,7 +4,7 @@ draft: false
 tags:
 - Bus Company
 areas:
-- Greater Manchester
+- North East Greater Manchester
 contact:
   addresses:
   - West Street  Oldham
@@ -14,6 +14,10 @@ contact:
   - http://www.firstgroup.com/greater-manchester
 ---
 ### Information
-Find out when your bus is due. Don't stand out in the cold and wet. Use Next Bus.
-Buy and use bus tickets on your smartphone.
-Online information on Facebook and Twitter 
+Use NEXT BUS to find out when your bus is due.  
+Buy and use bus tickets on your smartphone.  
+Online information on Facebook and Twitter
+
+Operate bus services based at Oldham.
+1. routes 58, 58, 412, 419
+2. route 415 operated by Stagecoach
