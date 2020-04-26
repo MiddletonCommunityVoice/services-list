@@ -3,7 +3,7 @@ title: Thinking Ahead
 draft: false
 tags:
 - Addiction
-- Money
+- Money Advice
 - Work Stress
 - Sleeping problems
 - Depression
