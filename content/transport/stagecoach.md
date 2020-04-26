@@ -13,4 +13,6 @@ contact:
   web_addresses:
   - http://www.stagecoachbus.com
 ---
+Go online to find when your next bus is due.  
 
+Operate buses,  112, 118. 156, 415
