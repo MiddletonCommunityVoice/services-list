@@ -3,14 +3,15 @@ title: Rochdale Council
 draft: false
 tags:
 - Disablity
+- directory
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  Middleton Library, Long street, Middleton
-  Number One Riverside, Smith Street, Rochdale
+  - Middleton Library, Long street, Middleton
+  - Number One Riverside, Smith Street, Rochdale
   phone:
   - 01706 647474 Riverside
   - 01706 924797 Town Hall
