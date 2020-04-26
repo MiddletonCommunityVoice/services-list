@@ -27,8 +27,8 @@ Trams operated by Tranport for Greater Manchester
 
 **Nearest tram stop, Bowker Vale**  
 
-1. Bury - Manchester - Altrincham
-2. Rochdale - Oldham - Manchester - Chorlton - East Didsbury
-3. Ashton - Manchester - Media City - Eccles
-4. Manchester Victoria - Manchester Airport
-5. Cornbrook - Trafford Centre
+1. Bury - Manchester - Altrincham  
+2. Rochdale - Oldham - Manchester - Chorlton - East Didsbury  
+3. Ashton - Manchester - Media City - Eccles  
+4. Manchester Victoria - Manchester Airport  
+5. Cornbrook - Trafford Centre  
