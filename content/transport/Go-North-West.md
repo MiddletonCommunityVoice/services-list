@@ -7,11 +7,11 @@ areas:
 - North Manchester
 contact:
   addresses:
-  - Boyer Street, Cheetham Hill, Manchester
+  - Queens Road, Boyer Street, Cheetham Hill, Manchester
   phone:
-  - 0161 000 0000
+  - 0330 123 4121
   web_addresses:
-  - 
+  - https://www.gonorthwest.co.uk/contact-us/
 ---
 ### Information
 Download their app to find out when your bus is due.  

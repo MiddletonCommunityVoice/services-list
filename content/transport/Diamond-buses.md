@@ -7,11 +7,11 @@ areas:
 - North West Greater Manchester
 contact:
   addresses:
-  - Bolton
+  - Weston Street, Bolton
   phone:
-  - 0161 000 0000
+  -  01204 937 535
   web_addresses:
-  - 
+  - https://www.diamondbuses.com/north-west/contact-us/
 ---
 ### Information
 Use TRACKER to find out when your bus is due.  
