@@ -3,7 +3,7 @@ title: Healthwatch Rochdale
 draft: false
 tags:
 - Directory
-- NHS Quality Quality
+- NHS Quality Checker
 - Complaints
 areas:
 - Heywood
