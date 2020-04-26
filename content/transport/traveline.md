@@ -2,7 +2,7 @@
 title: Traveline
 draft: false
 tags:
-- Train Travel
+- Rail Travel
 areas:
 - Nationwide
 contact:
