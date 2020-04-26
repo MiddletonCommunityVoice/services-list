@@ -5,7 +5,7 @@ tags:
 - Suicide
 - Mental Health
 - Directory
-- Hospital
+- Health Services
 areas:
 - Middleton
 - Heywood
