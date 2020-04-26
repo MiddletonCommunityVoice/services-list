@@ -3,6 +3,7 @@ title: CQC  (Care Quality Commission)
 draft: false
 tags:
 - NHS Quality checker
+- Directory
 - Complaints
 areas:
 - Nationwide
