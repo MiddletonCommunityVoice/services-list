@@ -25,7 +25,7 @@ tags:
 - PALS
 - Complaints
 - Urology
-- Cardiololgy
+- Heart Surgery
 - Diabetes
 - Dementia
 - Spinal
