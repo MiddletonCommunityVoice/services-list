@@ -19,6 +19,7 @@ contact:
 
 ### Information
 Online Family Services Directory
+**NOW TRANSFERRED TO OUR ROCHDALE;CONNECTING YOU
 
 ### Opening Times
 * Mon - Fri  8.45am to 4.45pm
