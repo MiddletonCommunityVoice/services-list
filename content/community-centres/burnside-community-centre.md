@@ -5,6 +5,7 @@ tags:
 - Community Centres
 - Childrens Services
 - Counselling
+- Activities
 areas:
 - Langley Middleton
 contact:
