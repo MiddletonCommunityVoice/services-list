@@ -16,7 +16,7 @@ contact:
   - 0161 716 5918
   - 01706 676 460
   - 01706 837 193
-  web_address:
+  web_addresses:
   - http://www.lighthouseproject.org.uk/activities/courses/expert-patient-programme/
 
 ---
