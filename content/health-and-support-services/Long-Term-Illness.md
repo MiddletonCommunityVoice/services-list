@@ -8,7 +8,7 @@ areas:
 - Heywood
 - Rochdale
 contacts:
-  Phone Numbers:
+  Phone:
   - 0161 655 1454 or 01706 676315
   - 0161 716 5918
   - 01706 676 460
