@@ -2,6 +2,7 @@
 title: Link4Life
 draft: false
 tags:
+- Walking Groups
 - Sport
 - Activities
 areas:
