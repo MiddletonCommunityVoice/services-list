@@ -7,14 +7,16 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
-contacts:
+contact:
+  Addresses:
+  - The Lighthouse Project, 2nd floor, Middleton Shopping Centre
   Phone:
   - 0161 643 1163
   - 0161 655 1454 or 01706 676315
   - 0161 716 5918
   - 01706 676 460
   - 01706 837 193
-  web_addresses:
+  web_address:
   - http://www.lighthouseproject.org.uk/activities/courses/expert-patient-programme/
 
 ---
