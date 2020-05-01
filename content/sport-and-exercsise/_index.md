@@ -1,4 +1,4 @@
 ---
-title: Sport andExercise
+title: Sport and Exercise
 ---
 # Sport and Exercise
