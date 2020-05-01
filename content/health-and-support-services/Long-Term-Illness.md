@@ -9,12 +9,13 @@ areas:
 - Rochdale
 contacts:
   Phone:
+  - 0161 643 1163
   - 0161 655 1454 or 01706 676315
   - 0161 716 5918
   - 01706 676 460
   - 01706 837 193
   web_addresses:
-  - https://www.penninecare.nhs.uk/news-and-events/news/2016/03/breaking-the-symptom-cycle-with-the-expert-patient-programme/
+  - http://www.lighthouseproject.org.uk/activities/courses/expert-patient-programme/
 
 ---
 
