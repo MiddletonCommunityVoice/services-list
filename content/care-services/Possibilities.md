@@ -3,7 +3,6 @@ title: Possibilities
 draft: false
 tags:
 - Supported living
-- Community support
 - Adult care
 areas:
 - Middleton
