@@ -4,6 +4,9 @@ draft: false
 tags:
 - Supported living
 - Adult care
+- Short Breaks Service
+- Respite
+- Day Care
 areas:
 - Middleton
 - Heywood
