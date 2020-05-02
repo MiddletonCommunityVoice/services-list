@@ -3,6 +3,7 @@ title: AJs Academy
 draft: false
 tags:
 - Adult care
+- Day Care
 areas:
 - Middleton
 - Heywood
