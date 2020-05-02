@@ -2,9 +2,9 @@
 title: Making Space
 draft: false
 tags:
+- Supported Living
 - Dementia
-- Community Service
-- Older people
+- Mental Health
 areas:
 - Middleton
 - Heywood
