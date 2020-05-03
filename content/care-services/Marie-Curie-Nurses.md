@@ -2,8 +2,12 @@
 title: Marie Curie Nurses
 draft: False
 tags:
-- Cancer Treatments and help
+- Nurses Services
+- End of Life
 areas:
+- Middleton
+- Heywood
+- Rochdale
 - Nationwide
 contact:
   phone:
