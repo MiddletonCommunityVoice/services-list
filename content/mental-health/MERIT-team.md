@@ -20,7 +20,7 @@ contact:
 ### Information
 **Open Mon - Fri 9am - 5pm**
 
-**Referral methods**
+**Referral methods**  
 1. GP
 2. Health professional
 3. Social care professional
