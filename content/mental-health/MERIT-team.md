@@ -21,9 +21,9 @@ contact:
 **Open Mon - Fri 9am - 5pm**
 
 **Referral methods**  
-1. GP
-2. Health professional
-3. Social care professional
+1. GP  
+2. Health professional  
+3. Social care professional  
 **ALL referrals via the Older People Single Point of Entry**
 
 Nationwide and local
