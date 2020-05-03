@@ -20,20 +20,13 @@ contact:
 ---
 
 # PALS and complaints  
-PALS ( Patient and Advice Liason Services )
-Can answer questions about where to find help and 
+**PALS ( Patient and Advice Liason Services )**  
+PALS National phone 0800 121 4430  
+PALS have a local office at each hospital,  
+in some cases it's own phone number. So you should look at the hospital you need. 
+PALS can answer questions about where to find help and 
 advice.  
-It can also handle complaints about services at 
+They also handle complaints about services at 
 hospitals.  
 Whether it's about poor services or other complaints 
 PALS can be very useful.  
-Each hospital has it's own PALS office and in some 
-cases it's own phone number. So you should look at the 
-hospital you need. 
-There is a national number, but it's likely that 
- you'll be told to phone the hospital in question.
- The national number is 0800 121 4430 a freephone. 
-
-
-
-
