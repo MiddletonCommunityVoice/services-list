@@ -7,11 +7,15 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Bury
+- Manchester
 contact:
   Addresses:
+  - see Dementia page
   - 2 Silver Street, Bury. Contact Alison Jennings.  Email  alisonjennings37@talktalk.net
   phone:
   - 0808 800 0303
+  - see info below
   - 01204 363061
   web_addresses:
   - https://localsupport.parkinsons.org.uk/provider/rochdale-branch
@@ -20,9 +24,17 @@ contact:
 ---
 
 ### Information
-Nationwide and local
+Nationwide Phone 0808 8000 303  
+and local adviser  0345 225 3741
 
-Also see Dementia in this directory
+Rochdale meeting at Castleton Community Centre first Thursday of each month  1 til 3pm.  
+Contact Clare Root on 0344 225 3611 or  
+send an email to croot@parkinsons.org.uk
+
+Local Manchester meeting first friday of every month 12 til 2pm  
+9, Victoria Ave East, Blackley.  M9 6HW
+
+Meetings in Oldham and Bury. Contact Clare Root.
 
 ### New Information
  Here's an initiative to help raise awareness on new ways to help those suffering from Parkinson’s Disease.
@@ -52,3 +64,6 @@ Parkinson’s symptoms that don’t involve movement and are therefore sometimes
 - Lightheadedness
 - Reduced libido
 - Slower blinking and dry eyes
+
+
+
