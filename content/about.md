@@ -18,8 +18,8 @@ services on this website.
 
 If you find any errors or missing services we would be
 pleased to hear from you. Please send an email to
-[betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com), or send a
-**ONLY TEXT messages to 0797 070 8448.**  
+[betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com), or send a  
+**TEXT MESSAGE ONLY to 0797 070 8448.**  
 Calls to this number will not be answered and 
 voicemails will not be acted upon
 
