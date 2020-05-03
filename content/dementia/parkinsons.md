@@ -12,7 +12,7 @@ areas:
 - Manchester
 contact:
   addresses:
-  - Rochdale and Bury
+  - Manchester, Rochdale and Bury
   phone:
   - 0161 724 7718
   web_addresses:
