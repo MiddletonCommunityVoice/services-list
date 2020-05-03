@@ -5,7 +5,7 @@ tags:
 - Activities
 - Lifestyle
 - Days out
-- older people
+- Befriending
 areas:
 - Middleton
 - Heywood
