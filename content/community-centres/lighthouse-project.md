@@ -3,6 +3,9 @@ title: Lighthouse Project
 draft: false
 tags:
 - Community Centres
+- Middleton Central Foodbank
+- The Pantry
+- Money Advice
 - Computer Courses
 - Meetups
 - Knit and Natter
@@ -10,9 +13,6 @@ tags:
 - Who let the dads out
 - Art
 - Walking Groups
-- Money Advice
-- Middleton Central Foodbank
-- The Pantry
 areas:
 - Middleton
 - Heywood
