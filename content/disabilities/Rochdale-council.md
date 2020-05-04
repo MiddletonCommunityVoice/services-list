@@ -2,7 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
-- Disablity
+- Disability
 - directory
 areas:
 - Middleton

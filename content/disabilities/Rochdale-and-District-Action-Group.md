@@ -2,7 +2,7 @@
 title: RADDAG Rochdale & District Action Group
 draft: false
 tags:
-- Disablity
+- Disability
 areas:
 - Middleton
 - Heywood
