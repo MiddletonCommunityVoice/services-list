@@ -2,6 +2,8 @@
 title: Royal National Institute for the Blind
 draft: false
 tags:
+- Blind and Partial Sighted
+- Disability
 - Directory
 areas:
 - Middleton
@@ -17,6 +19,8 @@ contact:
 ---
 
 ### Information
-Helpline
-A directory of services within Rochdale Area
+Helpline  
+**A large helpful directory of services**
+
+Also look at the Disability directory on this website
 
