@@ -21,8 +21,8 @@ pleased to hear from you. Please send an email to
 [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com), or send a  
 **TEXT MESSAGE ONLY to 0797 070 8448.**  
 Calls to this number will not be answered and 
-voicemails will not be acted upon
+voicemails will not be acted upon.
 
-You can use and  A to Z search by use the tags. Type in yiur browser  www.betterhealth4.org.uk/tags
+You can use an A to Z search by use the tags. Type in your browser  www.betterhealth4.org.uk/tags
 
 ## Please scroll down to access our directory.
