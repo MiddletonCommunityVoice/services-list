@@ -9,13 +9,15 @@ contact:
   Addresses:
   - Based at Abraham Moss, Crescent Road, Manchesyet
   phone:
-  - 0161 
+  -  0161 234 3950
   web_addresses:
+  - https://www.breakthrough-uk.co.uk/
   - https://tfgm.com/accessibility
 ---
 
 ### Information
-Lots of advice and help advice.
+This group is orgainised by Breakthrough UK  
+### Breakthrough UK is a Manchester based disabled people’s organisation. We are led by disabled people and we support other disabled people to work and live independently.
 
 **Disability Design Reference Group (DDRG)**  
 As a large-scale public provider, Transport for Greater Manchester (TfGM) must, by law, anticipate the requirements of disabled people, and make reasonable adjustments so that they can use our services. To help us do this most effectively, we set up the Disability Design Reference Group (DDRG) in 2008 to embed accessibility into everything we do.
