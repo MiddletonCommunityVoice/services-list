@@ -23,6 +23,6 @@ pleased to hear from you. Please send an email to
 Calls to this number will not be answered and 
 voicemails will not be acted upon.
 
-You can use an A to Z search by use the tags. Type in your browser  www.betterhealth4.org.uk/tags
+You can use an A to Z search by use the tags. Type in your browser  [https://www.betterhealth4.org.uk/tags]
 
 ## Please scroll down to access our directory.
