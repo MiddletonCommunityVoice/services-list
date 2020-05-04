@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  -  Newgate, Rochdale OL16 1AW : off St. Mary's Gate
+  - Newgate, off St. Mary's Gate, Rochdale OL16 1AW
   phone:
   - 01706 715 624
   web_addresses:
