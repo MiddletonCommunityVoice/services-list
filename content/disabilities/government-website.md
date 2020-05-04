@@ -2,7 +2,7 @@
 title: Government Website
 draft: false
 tags:
-- Disablity
+- Disability
 areas:
 - Nationwide
 contact:

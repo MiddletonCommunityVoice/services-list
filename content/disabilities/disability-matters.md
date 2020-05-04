@@ -2,7 +2,7 @@
 title: Disability Matters
 draft: false
 tags:
-- E learning for Disabled
+- Disability learning
 areas:
 - Nationwide
 contact:
