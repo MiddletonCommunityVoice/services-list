@@ -1,8 +1,9 @@
 --
-title: Blind Welfare Society Heywood
+title: The Heywood Blind Welfare Society
 draft: True
 tags:
-- Blind
+- Blind & Partial sighted
+- Disablity
 areas:
 - Middleton
 - Heywood
@@ -13,12 +14,12 @@ contact:
   phone:
   -  01706 369 382
   web_addresses:
-  - https://www.sightlinedirectory.org.uk/Listings
+  - 
   
 ---
 
 ### Organisation details
-
-
+Social and Welfare group for persons with any kind of sight problems.  
+email  mpursall@tiscali.co.uk
 ### Opening Times
-
+Not known

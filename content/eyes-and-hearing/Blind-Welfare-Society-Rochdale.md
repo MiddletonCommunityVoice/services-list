@@ -2,7 +2,8 @@
 title: Blind Welfare Society Rochdale
 draft: True
 tags:
-- Blind
+- Blind & Partial Sighted
+- Disability
 areas:
 - Middleton
 - Heywood
