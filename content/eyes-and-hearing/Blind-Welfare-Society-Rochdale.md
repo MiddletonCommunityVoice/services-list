@@ -1,6 +1,6 @@
 ---
 title: Blind Welfare Society Rochdale
-draft: True
+draft: False
 tags:
 - Blind & Partial Sighted
 - Disability
@@ -17,6 +17,7 @@ contact:
   - https://www.sightlinedirectory.org.uk/Listings/Details/2977/rochdale-and-district-blind-welfare-society
   
 ---
+**Also see the DISABILITY section**
 
 ### Organisation details
 A social club for the Blind and Partially Sighted in the Rochdale Area. Every Tuesday there is a social event, with an Artist/singer with dancing/sing along held at the centre. There are around six outings a year, including a coach trip out with a meal.
