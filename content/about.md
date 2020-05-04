@@ -23,4 +23,6 @@ pleased to hear from you. Please send an email to
 Calls to this number will not be answered and 
 voicemails will not be acted upon
 
+[betterhealth4.org.uk/tags](mailto:betterhealth4middleton@gmail.com)
+
 ## Please scroll down to access our directory.
