@@ -2,7 +2,7 @@
 title: Blind Welfare Society Rochdale
 draft: False
 tags:
-- Blind and Partial Sighted
+- Blind or Partial Sighted
 - Disability
 areas:
 - Middleton

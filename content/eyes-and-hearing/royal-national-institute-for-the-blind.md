@@ -2,7 +2,7 @@
 title: Royal National Institute for the Blind
 draft: false
 tags:
-- Blind and Partial Sighted
+- Blind or Partial Sighted
 - Disability
 - Directory
 areas:
