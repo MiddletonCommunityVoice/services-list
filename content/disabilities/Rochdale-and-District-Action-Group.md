@@ -21,7 +21,7 @@ Phone number is also the TEXT number.
 Email info@raddag.org  
 Can be found on Facebook and Twitter.
 
-**Rochdale and District Disability Action Group (RADDAG)**   
+### ( RADDAG ) Rochdale and District Disability Action Group  
 has been established for over 30 years and registered 
 as a charity and company limited by guarantee in 2006.
 
