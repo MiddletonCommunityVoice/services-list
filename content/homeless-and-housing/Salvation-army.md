@@ -1,5 +1,5 @@
 ---
-title: Salvation Army
+title: Salvation Army Rochdale
 draft: False
 tags:
 - Homeless Help
