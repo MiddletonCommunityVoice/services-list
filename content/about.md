@@ -23,6 +23,6 @@ pleased to hear from you. Please send an email to
 Calls to this number will not be answered and 
 voicemails will not be acted upon
 
-https://wwwbetterhealth4.org.uk/tag
+betterhealth4.org.uk/tag
 
 ## Please scroll down to access our directory.
