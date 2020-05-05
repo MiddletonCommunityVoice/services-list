@@ -2,7 +2,9 @@
 title: Rochdale Infirmary Eye Department
 draft: false
 tags:
-Emergency Eye Hospital
+- Emergency Eye Hospital
+- PALS
+- Complaints
 areas:
 - Middleton
 - Heywood
@@ -16,9 +18,7 @@ contact:
   - 0161 624 0420
   web_addresses:
   - https://www.nhs.uk/Services/hospitals/Services/Service/DefaultView.aspx?id=287586
-tags:
-  - PALS
-  - Complaints
+  
 ---
 
 ### Information
