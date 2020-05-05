@@ -9,7 +9,7 @@ contact:
   - Oxford Road, Hathersage Road. Manchester
   phone:
   - 0161 276 1234
-  web addresses:
+  web_addresses:
   - https://mft.nhs.uk/rmch/
 tags:
 - Childrens Services
