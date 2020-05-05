@@ -4,7 +4,7 @@ draft: false
 tags:
 - Disability
 - directory
-areas:s
+areas:
 - Middleton
 - Heywood
 - Rochdale
