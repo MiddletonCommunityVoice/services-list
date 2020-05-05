@@ -22,7 +22,7 @@ tags:
 ---
 
 ### Information
-Children Hospital
+Children Hospital with Emergency Department
 
 ## Visiting Times
 
