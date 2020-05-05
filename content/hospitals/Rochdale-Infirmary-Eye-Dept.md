@@ -18,11 +18,11 @@ contact:
   - 0161 624 0420
   web_addresses:
   - https://www.nhs.uk/Services/hospitals/Services/Service/DefaultView.aspx?id=287586
-  
+
 ---
 
 ### Information
-**Treatments and services offered at the Ophthalmology department**
+**Treatments and services offered at the Ophthalmology department**  
 - Cornea  
 - Diabetic Medical Retina  
 - External Eye Disease  
