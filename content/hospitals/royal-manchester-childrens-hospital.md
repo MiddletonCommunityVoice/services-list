@@ -9,6 +9,8 @@ contact:
   - Oxford Road, Hathersage Road. Manchester
   phone:
   - 0161 276 1234
+  web addresses:
+  - https://mft.nhs.uk/rmch/
 tags:
 - Childrens Services
 - Paediatric Emergency Department
@@ -22,27 +24,33 @@ tags:
 ---
 
 ### Information
-Children Hospital with Emergency Department
+Children Hospital with Emergency Department  
+**Emergency Department closes at 10pm**
 
-## Visiting Times
+## Visiting Times  
+**The wards now have set visiting times.**    
+These times being from 1.00 pm to 5.00 pm, and then 
+from 6.00 pm to 8.00 pm.
 
-The wards now have set visiting times.
+Parents/carers have opening visiting hours and access 
+to the ward but should your child have visitors please 
+keep the number of people round a bed space to 
+a maximum of two parents plus an additional two 
+people, (adults or children), therefore there is 
+never more than four people around your child's bed at 
+any one time.
 
-These times being from 1.00 pm to 5.00 pm, and then from 6.00 pm to 8.00 pm.
-
-Parents/carers have opening visiting hours and access to the ward but should
-your child have visitors please keep the number of people round a bed space to
-a maximum of two parents plus an additional two people, (adults or children),
-therefore there is never more than four people around your child's bed at any
-one time.
-
-During the hours of 12.00 pm and 1.00 pm, and 5.00 pm and 6.00 pm, the ward has
-'protected meal times.' Any visitors arriving during this time will be asked to
+During the hours of 12.00 pm and 1.00 pm, and 5.00 pm and 6.00 pm, the ward has 'protected meal times.' 
+Any visitors arriving during this time will be asked to
 return once this period is over.
 
-There are different visiting arrangments in Critical Care which covers the
-Paediatric Intensive Care Unit, Paediatric High Dependency Unit and Burns
-Service. Please ask your child's nurse for more information.
+There are different visiting arrangments in Critical 
+Care which covers  
+Paediatric Intensive Care Unit,  
+Paediatric High Dependency Unit  
+and  
+Burns Service.  
+Please ask your child's nurse for more information.
 
 ### Direct Ward Numbers
 
