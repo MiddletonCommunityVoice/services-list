@@ -10,7 +10,7 @@ contact:
   phone:
   - 0161 393 7730
   - 0161 275 6666
-  Web_Addresses:
+  web_addresses:
   - https://mft.nhs.uk/dental/
 tags:
 - Emergency Dentistry
