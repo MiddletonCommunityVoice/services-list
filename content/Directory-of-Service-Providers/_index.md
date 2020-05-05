@@ -1,5 +1,5 @@
 ---
-title: Directory of Services
+title: Directory of Service Providers
 ---
 
-# Directories of Services
+# Directories of Service Providers
