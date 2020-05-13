@@ -25,7 +25,8 @@ tags:
 
 ### Information
 Children Hospital with Emergency Department  
-**Emergency Department closes at 10pm**
+**Emergency Department closes at 10pm**  
+Childrens /Paediatric Emergency and A & E Department phone number is  0161 701 9101
 
 ## Visiting Times  
 **The wards now have set visiting times.**    
