@@ -10,8 +10,9 @@ contact:
   - Inside Langley Clinic, Borrowdale Road, Middleton, Manchester. M24 5QG
   phone:
   - 0161 655 1334
+  - 0161 716 2832
   web_addresses:
-  - Not known
+  - https://www.dhsdp.co.uk/langley-clinic-team.html
 ---
 
 ## opening times
