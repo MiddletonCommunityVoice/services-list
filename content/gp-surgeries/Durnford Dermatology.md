@@ -3,6 +3,7 @@ title: Durnford Dermatology Clinic
 draft: false
 tags:
 - Dermatology
+- Clinic
 areas:
 - Middleton
 contact:
