@@ -20,7 +20,7 @@ contact:
 Various services
 
 ### Opening Times
-*Mon to Fri 8am to 6.30pm*  
+Mon to Fri 8am to 6.30pm  
 *Closed Sat and Sun*
 
 **When We Are Closed**  
@@ -31,7 +31,8 @@ weekends and bank holidays
 **Call BARDOC on 0161 763 8292.**  
 
 For any other time please simply   
-**call 111** free of charge on landline or mobile.
+**call 111** 
+free of charge on landline or mobile.
 
 Out-of-hours services are generally busy so please think carefully before asking to see a doctor and only do so if you genuinely cannot wait until the surgery re-opens.
 
