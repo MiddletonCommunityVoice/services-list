@@ -26,6 +26,7 @@ Phone for help, advice and appointment.
 - Fri. 8am to 5.30pm  
 - Sat. 9am to 5pm
 
-Also,  **DHS Dental Practice** has a surgery here.  
+**DHS Dental Practice** has a surgery here.  
 Phone 0161 655 1334 for an appointment.  
-*For more information see Dentistry*
+*For more information see Dentistry*  
+For out of hours see Denistry
