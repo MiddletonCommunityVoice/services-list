@@ -1,5 +1,5 @@
 ---
-title: Directory ( other )
+title: Directories ( other )
 ---
 
 # Directories - other
