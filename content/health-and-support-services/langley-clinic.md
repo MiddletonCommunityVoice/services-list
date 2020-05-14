@@ -4,6 +4,7 @@ draft: false
 tags:
 - Clinic
 - Dentist
+- Sexual Health
 areas:
 - Middleton
 contact:
