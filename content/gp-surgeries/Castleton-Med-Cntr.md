@@ -11,7 +11,7 @@ contact:
   addresses:
   - 2 Elizabeth Street Castleton Rochdale. OL11 3HY
   phone:
-  -  01706 658905
+  - 01706 658905
   web_addresses:
   - https://www.castletonhealthcentre.co.uk/
 ---
@@ -21,7 +21,8 @@ Various services
 
 ### Opening Times
 Mon to Fri 8am to 6.30pm  
-*Closed Sat and Sun*
+
+Closed Sat and Sun
 
 **When We Are Closed**  
 If you feel you need to speak to or see a doctor whilst we are closed and it cannot wait until we re-open then please contact  
