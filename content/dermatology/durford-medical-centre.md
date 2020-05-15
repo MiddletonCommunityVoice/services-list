@@ -1,8 +1,9 @@
 ---
-title: Durford Medical Centre
+title: Durford Medical Centre, Dermatology
 draft: false
 tags:
 - Dermatology
+- Clinic
 areas:
 - Middleton
 - Heywood
