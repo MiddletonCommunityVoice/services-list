@@ -19,4 +19,4 @@ contact:
 Dermatology clinic operates at Durnford Medical Centre
 
 ### Opening Times
-* By GP referal
+**By GP referal**

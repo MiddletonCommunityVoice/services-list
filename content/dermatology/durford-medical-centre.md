@@ -1,5 +1,5 @@
 ---
-title: Durford Medical Centre, Dermatology
+title: Durford Dermatology Clinic
 draft: false
 tags:
 - Dermatology
@@ -20,4 +20,6 @@ contact:
 
 ### Information
 Dermatology Clinic within Durnford Street Medical 
-Centre, on Wednesday's
+Centre, on Wednesday's  
+
+**BY   GP referal**
