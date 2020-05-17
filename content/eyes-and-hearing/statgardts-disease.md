@@ -9,31 +9,14 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Unit G 15  Middleton Shopping Centre
+  - See the RNIB website
   phone:
-  - 0161 654 0440
+  - 0303 123 9999
   web_addresses:
-  - https://www.specsavers.co.uk/stores/middleton
-
+  - - https://www.rnib.org.uk/eye-health/eye-conditions/
 
 ---
 
 ### Information
-Eye & hearing tests / Book online or phone the shop /
-DVLA eye tests available at this shop /
-Free eye tests at your own home. Call 0800 198 1132 /
-Services at the Middleton shop
-Adult eye tests /
-Audiology services /
-Cataract post-op care /
-Children's eye tests /
-Contact lens services /
-DVLA optician / 
-Dry eye clinic /
-
-### Opening Times
-* Open every day.
-Mon , Tue , Thu , Fri , 8.30am to 5.30pm /
-Wed.  9.30am to 5.30pm /
-Sat. 9am to 5pm /
-Sun. 10am to 4pm
+Eye disease information available online 24 hours a day
+at the RNIB website.
