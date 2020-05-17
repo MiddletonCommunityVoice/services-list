@@ -2,18 +2,19 @@
 title: Best's Disease
 draft: false
 tags:
-- Bests Disease
+- Best's Disease
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - See Macular Eye Disease
+  - See Eye Diseases on the RNIB website
   phone:
+  - 0303 123 9999 
   - 111
   web_addresses:
-  - http://www.nhs.uk
+  - https://www.rnib.org.uk/eye-health/eye-conditions/best-disease-vitelliform-macular-degeneration
   
 
 ---
@@ -22,5 +23,6 @@ contact:
 See you GP first.  Online advice at NHS Choices.
 
 ### Opening Times
-* NHS Choice online 24 hours-a-day
+- NHS Choice online 24 hours-a-day  
+- RNIB online
 
