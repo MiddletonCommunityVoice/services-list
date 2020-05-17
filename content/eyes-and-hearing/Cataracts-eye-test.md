@@ -1,17 +1,15 @@
 ---
-title: Specsavers, Middleton
+title: Cataracts Eye Tests
 draft: false
 tags:
 - Cataract eye tests
-- Glaucoma Eye tests
-- Hearing tests
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Unit G15 Middleton Shopping Centre
+  - Specsavers, Unit G15 Middleton Shopping Centre
   phone:
   - 0161 654 0440
   web_addresses:
