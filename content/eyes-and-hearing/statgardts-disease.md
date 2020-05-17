@@ -13,7 +13,7 @@ contact:
   phone:
   - 0303 123 9999
   web_addresses:
-  - - https://www.rnib.org.uk/eye-health/eye-conditions/
+  - https://www.rnib.org.uk/eye-health/eye-conditions/stargardt-disease
 
 ---
 
