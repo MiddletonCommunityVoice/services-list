@@ -2,7 +2,6 @@
 title: Specsavers Middleton
 draft: false
 tags:
-- Diabetic eye tests
 - DVLA Eye tests
 areas:
 - Middleton
