@@ -2,7 +2,7 @@
 title: Specsavers Middleton
 draft: false
 tags:
-- Various Eye and Hearing tests
+- Eye and Hearing tests
 - Cataract eye tests
 - Diabetic eye tests
 - DVLA Eye Tests
