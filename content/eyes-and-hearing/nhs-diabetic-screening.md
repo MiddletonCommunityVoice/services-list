@@ -1,5 +1,5 @@
 ---
-title: NHS Diabetic Eye Screening via Aria
+title: NHS Diabetic Eye Screening
 draft: false
 tags:
 - Diabetic eye tests
