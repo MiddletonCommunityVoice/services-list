@@ -1,5 +1,5 @@
 ---
-title: Specsavers Middleton
+title: Macular Eye Tests
 draft: false
 tags:
 - Macular eye degeneration
@@ -9,7 +9,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Unit G15 Middleton Shopping Centre
+  - Specsavers, Unit G15 Middleton Shopping Centre
   phone:
   - 0161 654 0440
   web_addresses:
