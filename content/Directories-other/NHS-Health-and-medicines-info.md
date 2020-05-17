@@ -2,8 +2,6 @@
 title: NHS Health and Medicine Info
 draft: false
 tags:
-- Medicines Info
-- Health Help
 - Directory
 areas:
 - Nationwide
