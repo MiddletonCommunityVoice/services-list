@@ -2,7 +2,7 @@
 title: NHS Choices
 draft: false
 tags:
-- Various Eye and Hearing tests
+- Eye and Hearing tests
 areas:
 - Nationwide
 contact:
