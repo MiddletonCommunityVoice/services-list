@@ -20,9 +20,7 @@ contact:
 ---
 
 ### Information
-See you GP first.  Online advice at NHS Choices.
-
-### Opening Times
-- NHS Choice online 24 hours-a-day  
+- See you GP first.  
+- Online advice at NHS Choices. 
 - RNIB online
 
