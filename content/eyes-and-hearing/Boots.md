@@ -2,7 +2,7 @@
 title: Boots Opticians Middleton
 draft: false
 tags:
-- Various Eye and Hearing Tests
+- Eye and Hearing Tests
 areas:
 - Middleton
 - Heywood
