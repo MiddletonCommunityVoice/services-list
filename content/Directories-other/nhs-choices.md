@@ -11,7 +11,7 @@ contact:
   phone:
   - 111
   web_addresses:
-  - http://www.nhs.uk
+  - https://www.nhs.uk/service-search
 ---
 
 ### Information
