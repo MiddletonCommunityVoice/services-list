@@ -11,14 +11,15 @@ contact:
   addresses:
   - See RNIB website
   phone:
-  - 0303 123 9999
+  - 0300 3030 111
   web_addresses:
-  - https://www.rnib.org.uk/eye-health/eye-conditions/
+  - https://www.macularsociety.org/sorsby-fundus-dystrophy?gclid=EAIaIQobChMI5MPxo9e66QIVEWHmCh0lfw9cEAAYASAAEgK7y_D_BwE
 
 
 ---
 
 ### Information
-Eye disease information available online 24 hours a day
-at the RNIB website.
+Eye disease information available online 24 hours a day  
+Emails to help@macularsociety.org
+
 
