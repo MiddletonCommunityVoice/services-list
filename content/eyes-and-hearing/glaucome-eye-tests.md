@@ -1,7 +1,7 @@
 ---
 title: Glaucoma Eye Tests
 draft: false
-tags:3
+tags:
 - Glaucoma eye tests
 areas:
 - Middleton
