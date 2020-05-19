@@ -3,7 +3,6 @@ title: BARDOC
 draft: false
 tags:
 - GPs out of hours
-- GP 7 day access hub
 areas:
 - Middleton
 - Heywood
@@ -16,5 +15,8 @@ contact:
 ---
 
 ### Information
-SEE THE HUBS IN PART ONE OF THIS LIST
+ALSO SEE THE GP 7 day access  
+and  
+Walk in Centres  
+on this list
 
