@@ -3,8 +3,6 @@ title: GP Out of Hours ( BARDOC )
 draft: false
 tags:
 - Emergency GP
-- GP 7 day Access Hub
-- Walk in Centre
 areas:
 - Middleton
 - Heywood
