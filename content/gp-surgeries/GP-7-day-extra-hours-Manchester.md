@@ -1,5 +1,5 @@
 ---
-title: Manchester GP Hub extra Hours
+title: GP Hub extra Hours Manchester
 draft: false
 tags:
 - GP 7 day Extra Hours Hub
@@ -8,8 +8,8 @@ areas:
 - Middleton
 contact:
   Addresses:
-  - Across Manchester See list online or phone your GP
   - North Manchester General Hospital
+  - Across Manchester See list online or phone your GP
   phone:
   - 0161 907 6178 GP referral line
   - 0161 720 2216

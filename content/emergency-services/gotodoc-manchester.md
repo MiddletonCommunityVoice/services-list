@@ -2,6 +2,7 @@
 title: GoToDoc Manchester
 draft: false
 tags:
+- Emergency GP
 - GPs out of hours
 areas:
 - Manchester

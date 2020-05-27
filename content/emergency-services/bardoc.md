@@ -2,6 +2,7 @@
 title: BARDOC
 draft: false
 tags:
+- Emergency GP
 - GPs out of hours
 areas:
 - Middleton
