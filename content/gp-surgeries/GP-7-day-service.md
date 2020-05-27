@@ -1,5 +1,5 @@
 ---
-title: Rochdale GP 7 day Access Hubs
+title: GP 7 day Access Hubs Rochdale
 draft: false
 tags:
 - GP 7 day Extra Hours Hub
