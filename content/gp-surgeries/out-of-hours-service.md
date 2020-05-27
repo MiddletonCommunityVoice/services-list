@@ -3,6 +3,7 @@ title: GP Out of Hours ( BARDOC )
 draft: false
 tags:
 - Emergency GP
+- GP out of hours
 areas:
 - Middleton
 - Heywood
