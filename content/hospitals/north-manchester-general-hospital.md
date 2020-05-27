@@ -6,7 +6,6 @@ tags:
 - Walk in Centre
 - Maternity
 - GoToDoc Service
-- GP 7 day Access Hub
 - PALS
 - Complaints
 areas:

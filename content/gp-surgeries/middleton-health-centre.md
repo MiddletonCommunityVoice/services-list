@@ -4,7 +4,6 @@ draft: false
 tags:
 - GP Surgery
 - Nurses Services
-- GP 7 day Access Hub
 areas:
 - Middleton
 contact:
