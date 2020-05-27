@@ -2,11 +2,10 @@
 title: GoToDoc Manchester
 draft: false
 tags:
-- Manchester GPs out of hours
+- GPs out of hours
 areas:
+- Manchester
 - Middleton
-- Heywood
-- Rochdale
 contact:
   Address:
   - North Manchester General Hospital
