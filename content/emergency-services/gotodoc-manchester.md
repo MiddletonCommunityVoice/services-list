@@ -3,7 +3,7 @@ title: GoToDoc Manchester
 draft: false
 tags:
 - Emergency GP
-- GPs out of hours
+- GP out of hours
 areas:
 - Manchester
 - Middleton
