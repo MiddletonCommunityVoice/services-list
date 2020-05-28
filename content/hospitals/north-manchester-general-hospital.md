@@ -5,7 +5,7 @@ tags:
 - Hospital with A & E
 - Walk in Centre
 - Maternity
-- GoToDoc Service
+- GP out of hours
 - PALS
 - Complaints
 areas:
