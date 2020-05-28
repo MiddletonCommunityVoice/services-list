@@ -4,14 +4,13 @@ draft: false
 tags:
 - Walk in Centre
 areas:
+- Bury
 - Middleton
 - Heywood
 - Rochdale
 contact:
   Addresses:
-  - Moorgate Primary Care Centre, 
-  - Derby Way, 
-  - Bury
+  - Moorgate Primary Care Centre, Derby Way, Bury
   phone:
   - 0161 447 9820
   - 111
