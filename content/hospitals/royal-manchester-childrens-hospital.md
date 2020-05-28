@@ -13,7 +13,7 @@ contact:
   - https://mft.nhs.uk/rmch/
 tags:
 - Childrens Services
-- Paediatric Emergency Department
+- Children's Emergency Department
 - Critical Care
 - Burns Service
 - Metabolic Disorders
