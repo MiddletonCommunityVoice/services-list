@@ -4,6 +4,7 @@ draft: false
 tags:
 - Walk in Centre
 areas:
+- Bury
 - Middleton
 - Heywood
 - Rochdale
@@ -18,8 +19,8 @@ contact:
 
 ---
 ### Information
-**WALK-IN-CENTRE**   
-- Is a short walk from Prestwich Tram stop and bus stops.
+**WALK-IN-CENTRE**  
+A short walk from Prestwich Tram stop and bus stops.
 
 - The Centre is opperated by Pennine Care
 - Open Mon to Sat from 12 midday til 8pm
