@@ -17,7 +17,7 @@ tags:
 - Oral Medicine
 - Oral Surgery
 - Orthadontics
-- Paediatric Dentistry
+- Children's Dentistry
 - Restorative Dentistry
 ---
 
