@@ -4,14 +4,13 @@ draft: false
 tags:
 - Walk in Centre
 areas:
+- Manchester
 - Middleton
 - Heywood
 - Rochdale
 contact:
   Addresses:
-  - Walk-in-Centre 
-  - next to A & E 
-  - North Manchester General Hospital
+  - Walk-in-Centre, next to A & E, North Manchester General Hospital
   phone:
   - 0161 624 0420
   web_addresses:
