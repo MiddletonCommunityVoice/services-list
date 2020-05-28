@@ -10,6 +10,7 @@ areas:
 contact:
   Address:
   - North Manchester General Hospital
+  - And many other locations
   phone:
   - 0161 336 5958
   - 0161 624 0420
