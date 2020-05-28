@@ -9,6 +9,9 @@ areas:
 - Heywood
 - Rochdale
 contact:
+  Addresses:
+  - Based at Moorgate Primary Care, Derby Way, Bury
+  - Covers all of Bury and Rochdale Boroughs
   phone:
   - 0161 763 4242
   web_addresses:
