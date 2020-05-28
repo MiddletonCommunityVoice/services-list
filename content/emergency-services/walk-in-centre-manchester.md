@@ -4,6 +4,7 @@ draft: false
 tags:
 - Walk in Centre
 areas:
+- Manchester
 - Middleton
 - Heywood
 - Rochdale
@@ -21,5 +22,5 @@ contact:
 ### Information
 **WALK-IN-CENTRE**   
 2nd floor inside Boots the Chemist on Market Street, Manchester.  
-**Open from 8am to 8pm daily.**
+**Open from 8am to 8pm daily.**  
 * The Centre is operated by GoToDoc.
