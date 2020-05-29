@@ -10,7 +10,8 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Walk-in-Centre, Lindley House Health Centre, Integrated Care Centre, New Radlciffe Street,
+  - Walk-in-Centre, Lindley House Health Centre,
+  Integrated Care Centre, New Radlciffe Street,
   Oldham OL1 1NL  
   - Next to the Civic Centre & Bus Station
   phone:
