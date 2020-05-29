@@ -10,8 +10,8 @@ areas:
 - Rochdale
 contact:
   Addresses:
-  - Walk-in-Centre, Lindley House Health Centre,
-  Integrated Care Centre, New Radlciffe Street,
+  - Walk-in-Centre, Lindley House Health Centre 
+  Integrated Care Centre, New Radlciffe Street 
   Oldham OL1 1NL  
   phone:
   - 0161 785 7520
