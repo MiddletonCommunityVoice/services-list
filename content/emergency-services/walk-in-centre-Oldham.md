@@ -4,14 +4,14 @@ draft: false
 tags:
 - Walk in Centre
 areas:
-- Middleton
 - Oldham
+- Middleton
 - Heywood
 - Rochdale
 contact:
-  Addresses:
+  addresses:
   - Walk-in-Centre, Lindley House Health Centre, Integrated Care Centre, New Radlciffe Street,
-  Oldham OL1 1NL   
+  Oldham OL1 1NL  
   - Next to the Civic Centre & Bus Station
   phone:
   - 0161 785 7520
@@ -19,6 +19,7 @@ contact:
   - https://www.nhs.uk/service-search/other-services/UrgentCare/UrgentCareFinder?Location
 
 ---
+
 ### Information
 **WALK-IN-CENTRE** 
 
