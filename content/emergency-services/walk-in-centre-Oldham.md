@@ -9,7 +9,7 @@ areas:
 - Heywood
 - Rochdale
 contact:
-  addresses:
+  Addresses:
   - Walk-in-Centre, Lindley House Health Centre,
   Integrated Care Centre, New Radlciffe Street,
   Oldham OL1 1NL  
