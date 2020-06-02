@@ -9,6 +9,6 @@ areas:
 - Rochdale
 contact:
   phone:
-  - 999 / 111 / 112
+  - 999 / 112 / 111
 ---
 
