@@ -1,9 +1,8 @@
 ---
-title: Rochdale Council
+title: Rochdale Council Social Services
 draft: false
 tags:
 - Emergency Social Services
-- Social Services
 areas:
 - Middleton
 - Heywood
