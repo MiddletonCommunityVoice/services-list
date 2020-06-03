@@ -13,7 +13,6 @@ contact:
   - 0161 856 8701 Middleton
   - 0161 872 5050 Head Office
   web_addresses:
-  - 
   - https://www.gmp.police.uk/
 ---
 
