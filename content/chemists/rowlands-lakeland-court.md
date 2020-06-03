@@ -3,7 +3,6 @@ title: Rowlands Pharmacy - Lakeland Court
 draft: False
 tags:
 - Chemist
-- Needle Exchange
 - Minor Ailments Service
 - Flu jabs
 areas:
