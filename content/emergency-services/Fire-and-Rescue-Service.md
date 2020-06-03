@@ -2,7 +2,7 @@
 title: Fire and Rescue services
 draft: false
 tags:
-- Fire and Rescuc
+- Fire and Rescue
 areas:
 - Middleton
 - Heywood
