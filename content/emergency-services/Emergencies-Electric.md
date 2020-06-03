@@ -2,7 +2,7 @@
 title: Emergencies Electricity - North West
 draft: false
 tags:
-- Emergencies Electric
+- Emergency_Electric
 areas:
 - Middleton
 - Heywood

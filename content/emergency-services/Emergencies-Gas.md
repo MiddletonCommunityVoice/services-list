@@ -1,14 +1,14 @@
 ---
-title: Emergencies Gas - National
+title: Emergencies - Gas - Nationwide
 draft: false
 tags:
-- Emergencies Gas
+- Emergency_Gas
 areas:
 - Middleton
 - Heywood
 - Rochdale
 - North West
-- National
+- Nationwide
 contact:
   Addresses:
   - Covers all gas companies nationally

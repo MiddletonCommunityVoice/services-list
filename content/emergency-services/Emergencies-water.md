@@ -1,8 +1,8 @@
 ---
-title: Emergencies Water - United Utitlies
+title: Emergency Water - United Utitlies
 draft: false
 tags:
-- Emergencies Water
+- Emergency_Water
 areas:
 - Middleton
 - Heywood
