@@ -21,9 +21,11 @@ contact:
 ### NOT A NEEDLE EXCHANGE FOR DRUG USERS.  
 
 **DIABETICS.** RETURN YOUR FULL YELLOW NEEDLES BOXES  
-to Alkrington Health Centre or Springvale.  
+to Alkrington Health Centre    
 - 0161 271 3030 Option 2  
-- 0161 655 7478 Option 2
+- 0161 655 7478 Option 2  
+
+### OR
 
 **Springvale** will only accept boxes from  
 individuals  and will  **NOT** accept commercial /
