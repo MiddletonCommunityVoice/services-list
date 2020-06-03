@@ -12,6 +12,7 @@ contact:
   - 2, Piccadilly Place, Manchester
   - GM Travel Shops
   phone:
+  - 0161 228 7811 Enquiries
   - 0161 244 1000
   - 0161 244 1050 renewals
   web_addresses:
