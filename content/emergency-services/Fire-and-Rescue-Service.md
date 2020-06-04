@@ -18,8 +18,10 @@ contact:
   - https://manchesterfire.gov.uk/
 ---
 
-### Information  
-Both community fire stations serve Middleton
+### Calls are being diverted due to the virus.
+
+#### Information  
+Both community fire stations serve Middleton and Heywood.  
 
 ### Emergecies only call 999
 
