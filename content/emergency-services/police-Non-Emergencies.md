@@ -1,5 +1,5 @@
 ---
-title: Police   non emergency
+title: Police  Middleton and Heywood Neighbourhood
 draft: false
 tags:
 - Police
@@ -16,9 +16,16 @@ contact:
   - https://www.gmp.police.uk/
 ---
 
+## Local neighbourhood teams voice mail line only.  
+**Leave a message for the team**  
+DO NOT REPOER CRIMES ON THIS LINE.
+
+*To report crimes and make enquiries phone the head office phone number above.
+
 ### Information
 Numbers above are for general enquiries  
-**ONLY for emergencies dial 999**  
+
+**Dial 999 only for emergencies**  
 
 ### Crime Stoppers 0800 555 111
 
