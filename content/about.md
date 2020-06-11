@@ -2,10 +2,10 @@
 title: Disclaimer
 ---
 
-# PLEASE KEEP YOUR DISTANCE. 
-### HELP TO STOP SPREADING THE VIRUS.
+## VIRUS TESTING COMES TO ROCHDALE TOWN HALL.  
+## ROCHDALE INFIRMARY RESTARTS CANCER CARE.
 
-## DISCLAIMER
+### DISCLAIMER
 
 This directory has been compiled from many 
 public sources available online & from printed
@@ -23,7 +23,7 @@ pleased to hear from you. Please send an email to
 Calls to this number will not be answered and 
 voicemails will not be acted upon.
 
-You can use an A to Z search by using the tags. Click on this hyperlink  [https://www.betterhealth4.org.uk/tags]
+You can use an A to Z search by using the Tags. Click on this link  [https://www.betterhealth4.org.uk/tags] to get directly to the Tags page.
 
 # OR 
 ## scroll down to access our directory.
