@@ -10,7 +10,7 @@ contact:
   addresses:
   - 1st Floor, Middleton Shopping Centre
   phone:
-  - 0161 655 7434
+  - 0161 271 3010
   web_addresses:
   - http://www.middletonhealthcentre.org.uk
 ---
