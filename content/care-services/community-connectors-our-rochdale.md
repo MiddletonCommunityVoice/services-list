@@ -16,19 +16,15 @@ contact:
   - 0300 303 0360
   - 01706 719900  ( HO )
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=h5tcU3GCSKs
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=8cNdUHEsph8
+
 ---
 
 ### Information
-ONLINE DIRECTORY OF SERVICES
+HEALTH HELP BY THE COMMUNITY CONNECTORS
 
 Help and advice : For Families : 
-For Children: For Adults :
-
-Online 24 / 7, 365 days
-
-OR
+For Children: For AdultS
 
 ### Information
 Phone the Community Connectors 0300 303 0360
