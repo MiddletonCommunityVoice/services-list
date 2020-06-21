@@ -3,6 +3,7 @@ title: Community Connectors and Our Rochdale
 draft: false
 tags:
 - Health help
+- community connectors
 areas:
 - Middleton
 - Heywood
