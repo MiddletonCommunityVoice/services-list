@@ -14,8 +14,7 @@ areas:
 contact:
   addresses:
   - Chadderton Chiropractic Clinic, 681 Middleton Road, Chadderton OL9 9SN
-  - Also Prestwich
-  - And Whitefield
+  - Also at Whitefield
   phone:
   - 0333 600 65 65
   web_addresses:
@@ -61,8 +60,16 @@ Adam Wilkey Chiropractor has the whole region covered.
 - Treatment . . . . . £34
 
 ### Opening Hours
-- Mon / Tue / Fri 8.45am to 12 midday and 2pm to 6.15pm.
-- Thur 8.45am to 12 midday
+- Mon and Thu:-  
+8.40am to 12.40pm and 2pm to 6.20pm.  
+- Tue:-  
+8.40am to 12.40pm and 2pm to 6.40pm  
+- Fri:-  
+8.40am to 1pm    
+- Sat:-  
+9am to 12.20pm
 
-### Booking Online
+Different hours operate at Whitefield.
+
+### Book Online at:-
 https://adamwilkeychiropractor.com/booking/bookings/create-step1
