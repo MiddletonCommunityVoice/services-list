@@ -14,7 +14,6 @@ areas:
 contact:
   addresses:
   - Chadderton Chiropractic Clinic, 681 Middleton Road, Chadderton OL9 9SN
-  - Also at Whitefield
   phone:
   - 0333 600 65 65
   web_addresses:
