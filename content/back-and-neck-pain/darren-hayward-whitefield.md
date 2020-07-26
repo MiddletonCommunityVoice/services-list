@@ -2,7 +2,7 @@
 title: Darren Hayward
 draft: false
 tags:
-- Ostepath
+- Osteopath
 - Back Pain
 - Neck Pain
 - Sports Injuries
