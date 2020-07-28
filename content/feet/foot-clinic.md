@@ -8,7 +8,7 @@ areas:
 - Middleton
 contact:
   addresses:
-  - 30 - 32, Long Street, Middleton M24 6UQ
+  - 133, Oldham Road, Middleton M24 2LD
   phone:
   - 0161 653 5511
   web_addresses:
