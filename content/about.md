@@ -3,7 +3,7 @@ title: Disclaimer
 ---
 
 ## CORONAVIRUS TESTING STATION ON MIDDLETON ARENA CAR PARK.
-** Think you may have the virus ?  Call 119  
+* Think you may have the virus ?  Call 119  
 
 ## DISCLAIMER
 
