@@ -2,7 +2,7 @@
 title: Kooth
 draft: false
 tags:
-- Under 18 Mental Health
+- Under 25 Mental Health
 areas:
 - Nationwide
 contact:
