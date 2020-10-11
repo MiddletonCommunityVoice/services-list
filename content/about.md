@@ -2,8 +2,7 @@
 title: Disclaimer
 ---
 
-## CORONAVIRUS TESTING STATION ON MIDDLETON ARENA CAR PARK.
-### Think you may have the virus ?  Call 119  
+## FOR CORONAVIRUS TESTING  Call 119  
 
 ## DISCLAIMER
 
@@ -26,4 +25,4 @@ voicemails will not be acted upon.
 You can use an A to Z search by using the Tags. Click on this link  [https://www.betterhealth4.org.uk/tags] to get directly to the Tags page.
 
 # OR 
-## scroll down to access our directory.
+## scroll down to access our directory by category.
