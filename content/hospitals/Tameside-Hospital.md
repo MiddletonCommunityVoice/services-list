@@ -2,6 +2,7 @@
 title: Tameside & Glossop Integrated NHS Foundation Trust
 draft: false
 tags:
+- A & E
 areas:
 - Greater Manchester
 - Glossop
