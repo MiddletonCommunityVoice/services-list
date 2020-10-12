@@ -2,6 +2,7 @@
 title: Fairfield Hospital
 draft: false
 tags:
+- A & E
 areas:
 - Middleton
 - Heywood
