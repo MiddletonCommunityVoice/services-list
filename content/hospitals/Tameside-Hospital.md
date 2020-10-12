@@ -2,7 +2,6 @@
 title: Tameside & Glossop Integrated NHS Foundation Trust
 draft: false
 tags:
-- A and E
 areas:
 - Greater Manchester
 - Glossop
@@ -31,6 +30,7 @@ tags:
 - Dementia
 - Spinal
 - Dietetic
+- A and E
 ---
 
 ## Information
