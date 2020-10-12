@@ -2,6 +2,7 @@
 title: North Manchester General Hospital
 draft: false
 tags:
+- A & E
 - Hospital with A & E
 - Walk in Centre
 - Maternity
