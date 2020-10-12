@@ -2,7 +2,6 @@
 title: Fairfield Hospital
 draft: false
 tags:
-- A & E
 areas:
 - Middleton
 - Heywood
@@ -22,6 +21,7 @@ tags:
 - Neurology
 - PALS
 - Complaints
+- A and E
 ---
 
 ### Information
