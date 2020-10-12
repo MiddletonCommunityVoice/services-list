@@ -2,7 +2,6 @@
 title: Royal Oldham Hospital
 draft: false
 tags:
-- A & E
 areas:
 - Middleton
 - Heywood
@@ -24,6 +23,7 @@ tags:
 - Stroke emergencies
 - PALS
 - Complaints
+- A and E
 ---
 
 ### Information
