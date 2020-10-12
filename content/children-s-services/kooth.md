@@ -15,13 +15,14 @@ contact:
   - http://www.kooth.com
 ---
 
-### Information
+### Information  
 # Your online mental wellbeing community  
-# Our community is here to support you through anything. Big or small.  
+
+## Our community is here to support you through anything BIG or small.  
 **Get urgent support from a crisis service**    
 Free, safe and anonymous support
 
-**Watch our Kooth video**
+**Watch our Kooth video**  
 
 Helpline for children & young adultd 11 to 25  
 * 11-16 (Secondary School)  
