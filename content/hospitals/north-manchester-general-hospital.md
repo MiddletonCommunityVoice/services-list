@@ -2,13 +2,13 @@
 title: North Manchester General Hospital
 draft: false
 tags:
-- A & E
 - Hospital with A & E
 - Walk in Centre
 - Maternity
 - GP out of hours
 - PALS
 - Complaints
+- A and E
 areas:
 - Middleton
 - Heywood
