@@ -15,7 +15,7 @@ contact:
   - 0161 764 6081
   - 0161 624 0420
   web_addresses:
-  - http://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
+  - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
 - Hospital with A & E
 - A and E
