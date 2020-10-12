@@ -18,10 +18,11 @@ contact:
   - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
 - Hospital with A & E
-- A and E
 - Neurology
 - PALS
 - Complaints
+- A and E Dept
+
 ---
 
 ### Information
