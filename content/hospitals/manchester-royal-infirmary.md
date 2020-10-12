@@ -2,7 +2,6 @@
 title: Manchester Royal Infirmary
 draft: false
 tags:
-- A & E
 areas:
 - Greater Manchester
 contact:
@@ -19,7 +18,7 @@ tags:
 - Heart Surgery
 - PALS
 - Complaints
----
+- A and E
 
 # Information
 Hospital with A & E
