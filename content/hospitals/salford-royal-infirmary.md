@@ -2,7 +2,6 @@
 title: Salford Royal Foundation Trust
 draft: false
 tags:
-- A & E
 areas:
 - Greater Manchester
 contact:
@@ -30,6 +29,7 @@ tags:
 - Dementia
 - Spinal
 - Dietetic
+- A and E
 ---
 
 ### Information
