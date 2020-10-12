@@ -2,6 +2,7 @@
 title: Manchester Royal Infirmary
 draft: false
 tags:
+- A & E
 areas:
 - Greater Manchester
 contact:
@@ -10,7 +11,7 @@ contact:
   phone:
   - 0161 276 1234
   web_addresses:
-  - http://www.cmft.nhs.uk/royal-infirmary
+  - https://www.cmft.nhs.uk/royal-infirmary
 tags:
 - Hospital with A & E
 - Urology
@@ -50,7 +51,7 @@ restrictions for that ward.
 | Cardiac Surgery Unit                            | 0161 276 4142                               |
 | CAPD                                            | 0161 276 5741                               |
 | Coronary Care Unit (Ward 35)                    | 0161 276 4499                               |
-| Vascular (Ward 7)                               | 0161 701 7230, 0161 276 4055, 0161 701 7567 |
+| Vascular (Ward 7)                               | 0161 701 7230,0161 276 4055, 0161 701 7567 |
 | Critical Care                                   | 0161 276 4166                               |
 | Ear, Nose and Throat Outpatients                | 0161 276 8634                               |
 | Elective Treatment Centre Pre-Operative         | 0161 276 3624                               |
