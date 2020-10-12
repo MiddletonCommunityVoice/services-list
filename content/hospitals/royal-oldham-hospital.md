@@ -2,6 +2,7 @@
 title: Royal Oldham Hospital
 draft: false
 tags:
+- A & E
 areas:
 - Middleton
 - Heywood
