@@ -19,6 +19,7 @@ tags:
 - PALS
 - Complaints
 - A and E
+---
 
 # Information
 Hospital with A & E
