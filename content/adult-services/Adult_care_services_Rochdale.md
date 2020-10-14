@@ -27,10 +27,11 @@ Email -  adult.care@rochdale.gov.uk
 
 * All types of services available.  Various skills.
 * Services avaialble across all of Rochdale Borough.
-* This can inlcude help from the Community Connectors
+
+This can inlcude help from the Community Connectors
 and in crisis the Place Team.
 
-* Careline Phone
-* Ramps and handrails to your front door.
+Careline Phone  
+Ramps and handrails to your front door.
 
 Why not give them a call and ask ?
