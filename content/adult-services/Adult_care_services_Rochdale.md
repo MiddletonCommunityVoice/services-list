@@ -19,17 +19,18 @@ contact:
 ---
 
 ### Opening Hours
-- 8.30am to 4.45pm  Mon - Fri  0300 303 8886  
-- Emergency Duty Team out of hours  
-including bank holidays   0300 303 8875
+- 8.30am to 4.45pm  Mon - Fri    0300 303 8886  
+- Emergency Duty Team out of hours  including bank holidays   0300 303 8875
 
 Email -  adult.care@rochdale.gov.uk
 ### Information
 
-All types of services available.
-Services avaialble across all of Rochdale Borough.  
-This can inlcude help from the Community Connectors
+* All types of services available.  Various skills.  
+* Services avaialble across all of Rochdale Borough.  
+ *This can inlcude help from the Community Connectors
 and in crisis the Place Team.
 
-You may need a Careline Phone or a ramp tp your front 
-door.  Give them a call and ask.
+* Careline Phone  
+* Ramps and handrails to your front door.  
+
+Why not give them a call and ask ?
