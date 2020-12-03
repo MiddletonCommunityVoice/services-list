@@ -14,8 +14,8 @@ contact:
   phone:
   - 0161 716 2844
   web_addresses:
-  - http://www.healthyyoungmindspennine.nhs.uk/Thrive 
-  - https://twitter.com/hashtag/thrive
+  - https://healthyyoungmindspennine.nhs.uk/thrive/
+  - https://en-gb.facebook.com/ThriveHMR/
 ---
 
 ### Opening Times
