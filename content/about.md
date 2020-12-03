@@ -1,8 +1,8 @@
 ---
 title: Disclaimer
 ---
-
 ## FOR CORONAVIRUS TESTING  Call 119  
+Please socially distance and keep everyone safe.
 
 ## DISCLAIMER
 
@@ -24,5 +24,5 @@ voicemails will not be acted upon.
 
 You can use an A to Z search by using the Tags. Click on this link  [https://www.betterhealth4.org.uk/tags] to get directly to the Tags page.
 
-# OR 
+## OR 
 ## scroll down to access our directory by category.
