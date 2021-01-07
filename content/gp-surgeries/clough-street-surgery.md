@@ -4,6 +4,7 @@ draft: false
 tags:
 - GP Surgery
 - Nurses Services
+- Walk in Centres
 areas:
 - Middleton
 contact:
@@ -12,7 +13,7 @@ contact:
   phone:
   - 0161 654 4103
   web_addresses:
-  - http://www.drstocktonandthompson.co.uk
+  - https://www.thehivehealthcentre.co.uk/
 ---
 
 ### Information
