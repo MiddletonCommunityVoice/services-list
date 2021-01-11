@@ -1,21 +1,21 @@
 ---
-title: GP Hub extra Hours Manchester
+title: Manchester Extened Access Service
 draft: false
 tags:
-- GP 7 day Extra Hours Hub
+- GP 7 day Extra Hours Hubs
 areas:
 - Manchester
 - Middleton
 contact:
   Addresses:
   - North Manchester General Hospital
-  - Across Manchester See list online or phone your GP
+  - Conran Street
+  - Cheetham Hill
+  - Across Manchester See list online or ask your GP
   phone:
-  - 0161 907 6178 GP referral line
-  - 0161 720 2216
+  - ask your GP for an appointment
   web_addresses:
-  - https://www.mhcc.nhs.uk/whenyouneedus/
-  - https://www.gmhsc.org.uk/moregphours/
+  - https://manchesterpcp.co.uk/services.php
 ---
 ### Information
 **For Middleton residents with a Manchester GP**  
@@ -23,8 +23,7 @@ contact:
 - **No self referrals.**
 - You have to be referred by your GP or other health professionals.  
 - GP Hub at North Manchester General Hospital  
-- Open 7 days, 8am to 9pm with the last referral
-taken at 6pm.  
+- Times vary depending on which hub you use.
 
 ### THIS IS NOT A WALK-IN-CENTRE  
 **THERE IS A WALK-IN-CENTRE NEXT DOOR TO  A & E.**  
