@@ -10,7 +10,7 @@ contact:
   phone:
   - 0161 276 1234
   web_addresses:
-  - http://www.cmft.nhs.uk/saint-marys
+  - http://www.mft.nhs.uk/saint-marys
 tags:
 - Maternity
 - Genomic Medicine
