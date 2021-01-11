@@ -26,6 +26,8 @@ contact:
 
 ### Information
 
+*Hospital Map  https://www.pat.nhs.uk/Getting%20Here/North%20Manchester%20Map%20and%20A-Z%20Directory.pdf
+
 North Manchester General Hospital is a large NHS hospital located in Crumpsall
 in the north of the English city of Manchester. It is operated as part of the
 Pennine Acute Hospitals NHS Trust. There is an accident and emergency unit,
