@@ -10,7 +10,7 @@ contact:
   phone:
   - 0161 276 1234
   web_addresses:
-  - https://www.cmft.nhs.uk/royal-infirmary
+  - https://mft.nhs.uk/mri/
 tags:
 - Hospital with A & E
 - Urology
@@ -22,7 +22,9 @@ tags:
 ---
 
 # Information
-Hospital with A & E
+Hospital with A & E  
+
+* Hospital Map  https://mft.nhs.uk/app/uploads/2020/02/internal-with-title-Jan-20-V2.pdf
 
 ## Opening Times
 * 24 hour service
