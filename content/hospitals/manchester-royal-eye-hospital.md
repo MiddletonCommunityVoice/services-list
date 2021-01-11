@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 276 1234
   web_addresses:
-  - http://www.cmft.nhs.uk/royal-eye
+  - http://www.mft.nhs.uk/royal-eye
 ---
 
 ### Information
@@ -38,5 +38,5 @@ ward/department first.
 | Acute Referral Unit  | 0161 276 5583    |
 | Eye Emergency Centre | 0161 276 5597    |
 | Retinal Unit         | 0161 276 5514    |
-| Ward 54              | 0161 276 5600    |
+| Ward 54 Private Ctr  | 0161 701 2714    |
 | Ward 55              | 0161 276 5512    |
