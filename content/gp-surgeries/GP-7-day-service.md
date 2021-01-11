@@ -2,7 +2,7 @@
 title: GP 7 day Access Hubs Rochdale
 draft: false
 tags:
-- GP 7 day Extra Hours Hub
+- GP 7 day Extra Hours Hubs
 - Nurses Services
 areas:
 - Middleton
