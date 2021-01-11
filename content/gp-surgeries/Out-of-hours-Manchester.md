@@ -12,11 +12,10 @@ contact:
   - North Manchester General Hospital
   - Also a Walk in Centre here too.
   phone:
-  - 0161 336 5958
-  - 0161 624 0420 
   - 111
+  - referalls via your GP
   web_addresses:
-   - http://www.gtdhealthcare.co.uk/practice/north-manchester
+   - https://www.gtdhealthcare.co.uk/patient-services
 
 ---
 
