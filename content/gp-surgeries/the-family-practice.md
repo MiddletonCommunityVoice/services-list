@@ -12,7 +12,7 @@ contact:
   phone:
   - 0161 643 4459
   web_addresses:
-  - https://www.strandmcandfamilypractice.co.uk/
+  - https://www.thestrandandfamilypractice.co.uk
 ---
 
 ### Information
