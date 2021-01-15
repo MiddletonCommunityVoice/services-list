@@ -14,7 +14,7 @@ contact:
   phone:
   - 0161 643 5645
   web_addresses:
-  
+  - https://www.nhs.uk/Services/pharmacies/Overview/DefaultView.aspx?id=5381
 ---
 
 ### Information
@@ -23,6 +23,6 @@ Collect a leaflet to see more services.
 
 
 ### Opening Hours
-Mon to Fri 9am to 6pm . . .
-Sat  9am to 5pm Sat . . .
+- Mon to Fri 9am to 6pm  
+- Sat  9am to 3pm Sat  
 CLOSED Sundays
