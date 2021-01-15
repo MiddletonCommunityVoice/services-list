@@ -1,5 +1,5 @@
 ---
-title: Tesco's Pharmacy Blackley open til 10pm
+title: Tesco's Pharmacy Blackley Late Night
 draft: False
 tags:
 - Chemist late opening
@@ -17,13 +17,11 @@ contact:
 ---
 
 ### Information
-- Main store open 
-- Mon to Sat 6am til 12 midnight
-- Sundays 10am to 4pm.
-- Bank holiday times vary. Check on the website
 
 ### Pharmacy Opening Hours
 - Pharmacy open
-- Mon  to Sat 6am til 10pm
+- Mon 7.30 to 10pm 
+- Tue to Fri 6am til 10pm
+- Saturday 8.30am to 10pm
 - Sun 10am til 4pm
 - Bank holiday times vary. Check on the website
