@@ -2,7 +2,7 @@
 title: Walk in Centre, Oldham
 draft: false
 tags:
-- Walk in Centre
+- Walk in Centres
 areas:
 - Oldham
 - Middleton
