@@ -3,7 +3,7 @@ title: North Manchester General Hospital
 draft: false
 tags:
 - Hospital with A & E
-- Walk in Centre
+- Walk in Centres
 - Maternity
 - GP out of hours
 - PALS
