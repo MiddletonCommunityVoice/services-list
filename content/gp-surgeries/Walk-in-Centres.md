@@ -21,8 +21,6 @@ contact:
   - And others. See our Emergency Services
   phone:
   - 111
-  web_addresses:
-  - look at emergency services
 ---
 
 ### Information
