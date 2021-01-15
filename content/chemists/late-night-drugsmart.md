@@ -2,7 +2,7 @@
 title: Drugsmart Pharmacy Late opening
 draft: False
 tags:
-- Chemist late opening
+- Chemist
 areas:
 - Middleton
 - Heywood
@@ -20,5 +20,6 @@ contact:
 Bank holiday times vary. Check on the website
 
 ### Pharmacy Opening Hours
-Mon - Sat 7am til 10.30pm. . .
-Sun 8.30am til 5pm
+Mon - Fri 8.30am til 7.30pm  
+Saturday 9am til 3pm
+Sun   CLOSED
