@@ -13,8 +13,6 @@ areas:
 contact:
   phone:
   - Contact each hospital
-  web_addresses:
-  - Contact each hospital
   addresses:
   - See each hospital in this directory for address.
 ---
