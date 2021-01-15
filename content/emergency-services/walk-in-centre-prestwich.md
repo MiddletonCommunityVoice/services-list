@@ -2,7 +2,7 @@
 title: Walk in Centre, Prestwich
 draft: false
 tags:
-- Walk in Centre
+- Walk in Centres
 areas:
 - Bury
 - Middleton
