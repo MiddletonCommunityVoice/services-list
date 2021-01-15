@@ -1,5 +1,5 @@
 ---
-title: Drugsmart Pharmacy Late opening
+title: Drugsmart Pharmacy
 draft: False
 tags:
 - Chemist
