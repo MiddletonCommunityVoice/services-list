@@ -2,7 +2,7 @@
 title: Walk in Centre, Manchester
 draft: false
 tags:
-- Walk in Centre
+- Walk in Centres
 areas:
 - Manchester
 - Middleton
@@ -13,7 +13,6 @@ contact:
   - City Health (GTD), 2nd floor, Boots Chemist, 32, Market Street, Manchester.
   - Also at North Manchester General Hospital
   phone:
-  - 0161 839 6227
   - 111 
   web_addresses:
   - https://www.gtdhealthcare.co.uk/cityhealthcentre
