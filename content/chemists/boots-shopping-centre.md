@@ -13,11 +13,11 @@ contact:
   phone:
   - 0161 643 2101
   web_addresses:
-  -
+  - https://www.boots.com/stores/1188-manchester-middleton-m24-4el
 ---
 
 ### Information
-
+Inside the shopping centre
 
 ### Opening Hours
 8.30am to 5.30pm Mon to Sat
