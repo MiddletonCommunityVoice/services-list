@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 654 8534
   web_addresses:
-  - 
+  - https://www.medicspot.co.uk/pharmacies/bowness-pharmacy-middleton
 ---
 
 ### Information
