@@ -15,7 +15,7 @@ contact:
   phone:
   - 0161 785 7520
   web_addresses:
-  - https://www.nhs.uk/service-search/other-services/UrgentCare/UrgentCareFinder?Location
+  - https://www.gtdhealthcare.co.uk/lindleymedicalpracticewalkincentre
 
 ---
 
