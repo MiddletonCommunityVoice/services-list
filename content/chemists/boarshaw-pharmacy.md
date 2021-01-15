@@ -9,11 +9,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 221, Boarshaw Road, Middleton
+  - Stone Pharmacy, 221, Boarshaw Road, Middleton
   phone:
   - 0161 653 4333
   web_addresses:
-  - 
+  - https://www.nhs.uk/services/Pharmacies/Overview/DefaultView.aspx?id=10303
 ---
 
 ### Information
