@@ -17,10 +17,6 @@ contact:
 ---
 
 ### Information
-Main store open 
-6am to 12 midnight Mon to Sat.  /
-Sundays 11am to 5pm.
-Bank holiday times vary. Check on the website
 
 ### Pharmacy Opening Hours
 Pharmacy open 
