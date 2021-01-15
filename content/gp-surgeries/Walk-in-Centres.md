@@ -6,10 +6,11 @@ tags:
 - Nurses Services
 areas:
 - Middleton
+- Oldham
+- Manchester
 - Heywood
 - Rochdale
 - Bury
-- Manchester
 contact:
   addresses:
   - Bury and Prestwich closed. Call 111
@@ -17,7 +18,7 @@ contact:
   - City Centre, 2nd fl, Boots Market St.
   - The MRI
   - Oldham, next to the bus station
-  - And others.
+  - And others. See our Emergency Services
   phone:
   - 111
   web_addresses:
