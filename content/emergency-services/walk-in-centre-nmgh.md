@@ -2,7 +2,7 @@
 title: Walk in Centre, North Manchester General Hospital
 draft: false
 tags:
-- Walk in Centre
+- Walk in Centres
 areas:
 - Manchester
 - Middleton
