@@ -13,7 +13,7 @@ contact:
   phone:
   - 0161 643 2384
   web_addresses:
-  -
+  - https://www.nhs.uk/Services/pharmacies/Overview/DefaultView.aspx?id=10252
 ---
 
 ### Information
