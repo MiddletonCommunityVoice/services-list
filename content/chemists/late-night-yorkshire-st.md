@@ -3,6 +3,7 @@ title: Yorkshire St Rochdale Late opening
 draft: False
 tags:
 - Chemist late opening
+- Minor Ailments
 areas:
 - Middleton
 - Heywood
@@ -20,6 +21,6 @@ contact:
 Bank holiday times vary. Check on the website
 
 ### Opening Hours
-Mon - Fri 8am til 11.30pm. . .
-Sat 8am til 10pm. . .
-Sun 11.30am til 8pm
+- Mon - Fri 8am til 11.30pm  
+- Sat 8am til 10pm  
+- Sun 11.30am til 8pm
