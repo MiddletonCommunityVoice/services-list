@@ -13,13 +13,13 @@ contact:
   phone:
   - 0161 643 4812
   web_addresses:
-  - http://www.rowlandspharmacy.co.uk/pharmacy/?event=rowlands.pharmacyfront.pharmacy.search&postcode=Middleton
+  - https://www.nhs.uk/Services/pharmacies/Overview/DefaultView.aspx?id=7764
 ---
 
 ### Information
 Service and advice
 
 ### Opening Hours
-* Mon to Fri  9am to 6.30pm Mon to Fri
-* Sat. 9am to 1pm
+* Mon to Fri  9am to 5.30pm
+* Sat. 9am to 12 midday
 * Sundays   CLOSED
