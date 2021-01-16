@@ -3,6 +3,8 @@ title: Milnrow Café Social Group
 draft: false
 tags:
 - Memory Cafe
+- Dementia
+- Alzheimers
 areas:
 - Milnrow, Rochdale
 contact:
