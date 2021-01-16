@@ -2,20 +2,23 @@
 title: Turning Point Rochdale ( ROAR )
 draft: false
 tags:
+- Learning Disabilities
 - Addiction
 - Drugs
 - Alcohol
+- Mental Health
 areas:
 - Middleton
 - Heywood
 - Rochdale
+- Manchester
 contact:
   addresses:
   - 11 - 14, St Chads Court Rochdale
   phone:
   - 0300 555 0234
   web_addresses:
-  - http://wellbeing.turning-point.co.uk/rochdale-and-oldham/hubs/rochdale-hub/
+  - https://www.turning-point.co.uk/rochdale-and-oldham/hubs/rochdale-hub/
 
 ---
 
