@@ -3,6 +3,10 @@ title: Renaissance
 draft: false
 tags:
 - Addiction
+- Smoking
+- Drugs
+- Alcohol
+
 areas:
 - Middleton
 - Heywood
