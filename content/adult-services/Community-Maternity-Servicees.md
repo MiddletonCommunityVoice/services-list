@@ -15,7 +15,7 @@ contact:
   phone:
   - 01706 517 223
   web_addresses:
-  - https://rochdale.fsd.org.uk/
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=tL78yq3qgks
 ---
 
 ### Information
