@@ -7,10 +7,11 @@ areas:
 - Nationwide
 contact:
   phone:
-  - '111'
+  - 111
   web_addresses:
-  - http://www.nhs.uk
+  - https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/symptoms/
 ---
 
 ### Information
-SEE YOUR GP first. A to Z online informations via the NHS
+SEE YOUR GP first.  
+A to Z online informations via the NHS Choices
