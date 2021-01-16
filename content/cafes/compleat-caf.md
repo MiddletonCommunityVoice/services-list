@@ -3,6 +3,7 @@ title: Compleat Café
 draft: false
 tags:
 - Memory Cafe
+- Mental Health
 areas:
 - Middleton
 - Rochdale
