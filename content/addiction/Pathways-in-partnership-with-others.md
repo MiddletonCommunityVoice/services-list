@@ -3,7 +3,7 @@ title: Pathways in partnership with others
 draft: false
 tags:
 - Drugs
-- Additction
+- Addiction
 areas:
 - Middleton
 - Heywood
