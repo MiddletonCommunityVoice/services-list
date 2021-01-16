@@ -2,6 +2,8 @@
 title: Recovery Republic
 draft: false
 tags:
+- drugs
+- Alcohol
 - Money Advice
 - addiction
 areas:
