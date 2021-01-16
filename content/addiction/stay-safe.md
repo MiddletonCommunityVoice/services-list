@@ -4,6 +4,7 @@ draft: false
 tags:
 - Addiction
 - Drugs
+- Alcohol
 areas:
 - Middleton
 - Heywood
