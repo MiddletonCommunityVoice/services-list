@@ -11,14 +11,13 @@ contact:
   addresses:
   - Rochdale Infirmary, Whitehall Street, Rochdale
   phone:
-  - 01706 517 982
+  - 0161 624 0420
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=35t-lGd4Qus
+  - https://www.nhs.uk/search/results?q=cancer&page=1
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/results.page?qt=cancer+care&term=&sorttype=relevance
 
 ---
 
 ### Information
 
 Open Mon - Fri 8.30am - 4.30pm
-
-email  pah-tr.hmrcommunitycancercareservice@nhs.net
