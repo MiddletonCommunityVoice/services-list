@@ -14,8 +14,6 @@ contact:
   phone:
   - 01706 647474
   - 0300 303 8886
-  web_addresses:
-  - 
   
 ---
 
