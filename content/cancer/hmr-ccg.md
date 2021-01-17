@@ -13,7 +13,6 @@ contact:
   phone:
   - 01706 652 853
   web_addresses:
-  - https://www.hmr.nhs.uk/index.php/your-health/breast-screening
 ---
 
 ### Information
