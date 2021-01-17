@@ -11,6 +11,5 @@ contact:
   phone:
   - 0161 653 2902
   web_addresses:
-  - https://www.demesnecommunitycentre.org.uk/
 ---
 
