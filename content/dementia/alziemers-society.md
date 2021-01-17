@@ -32,8 +32,8 @@ also 07718 115 700.   For carers only
 Contact Mike Tomkinson 07582 954 228
 
 ### Opening Times
-* 1.30 - 3pm Last Wed each month
-* 1.30 - 3.30 2nd Wed each month
-* 2nd Wed 1.30 to 3.30pm
-* 1st Tue each month 1.30 to 330
+* 1.30 - 3pm Last Wed each month at D'Oivera  
+* 1.30 - 3.30 2nd Wed each month ar Rochdale  
+* 2nd Wed 1.30 to 3.30pm  at Milnrow  
+* 1st Tue each month 1.30 to 330 at Rochdale
 
