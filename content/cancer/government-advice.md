@@ -9,7 +9,7 @@ contact:
   phone:
   - 111
   web_addresses:
-  - https://www.gov.uk/government/collections/breast-screening-professional-guidance
+  - https://www.nhs.uk/conditions/cancer/
 ---
 
 ### Information
