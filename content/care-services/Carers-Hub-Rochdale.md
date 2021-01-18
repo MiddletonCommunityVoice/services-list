@@ -19,6 +19,7 @@ contact:
   - 0345 0138 208
   - 0330 022 5447 chatline
   web_addresses:
+  - https://www.n-compass.org.uk/our-services/carers/rochdale-carers-hub
   - http://www.ncompassnorthwest.co.uk
 
 ---
