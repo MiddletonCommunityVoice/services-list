@@ -12,15 +12,14 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Moving On, Hardfield Road, Alkrington
+  - Lock 50, Oldham Road, Rochdale OL16 5RD
   phone:
   - 0300 303 8886
   web_addresses:
-  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/home.page
-  - http://www.rochdale.gov.uk/mycare
+  - https://www.ourrochdale.org.uk/kb5/rochdale/directory/adult.page?adultchannel=0
 
 ---
 
 ### Information
 
-Based at Moving on, Hardfield Rd, Alkrington
+Based at Lock 50 in Rochdale. Also has an office in Middleton.
