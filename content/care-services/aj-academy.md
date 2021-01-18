@@ -21,7 +21,7 @@ contact:
 
 ### Information
 
-Based on Moston Lane, Cain Bar, Manchester, but covers all of Heywood.Middleton & Rochdale too.
+Based on Moston Lane, Chain Bar, Manchester, but covers all of Heywood.Middleton & Rochdale too.
 Operates in a similar way to the Moving on Centre in
 Alkrington.
 
