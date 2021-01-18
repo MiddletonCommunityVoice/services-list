@@ -1,6 +1,6 @@
 ---
 title: Allied Healthcare Rochdale
-draft: true
+draft: false
 tags:
 - Adult Care
 - child care
@@ -13,11 +13,11 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - First Floor Blue Pitts Mill Queensway Castleton Rochdale
+  - First Floor, Blue Pits Mill, Queensway Castleton Rochdale OL11 2YW
   phone:
-  - 0800 542 3403
+  - 01706 713445
   web_addresses:
-  - https://www.homecare.co.uk/homecare/agency.cfm/id/65432198511
+  - https://www.homecare.co.uk/homecare/agency.cfm/id/65432186424
 
 ---
 
