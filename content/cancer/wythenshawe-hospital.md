@@ -11,6 +11,6 @@ contact:
   phone:
   - 0161 291 4444
   web_addresses:
-  - https://www.uhsm.nhs.uk/services/specialist/breast-services/screening/
+  - https://mft.nhs.uk/wythenshawe/services/cancer-services/
 ---
 
