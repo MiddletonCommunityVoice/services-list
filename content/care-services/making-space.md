@@ -9,20 +9,22 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Oldham
+- Bury
 contact:
   addresses:
-  - Howards Place, St Mary's Gate, Rochdale
+  - 36 Howards Place, St Mary's Gate, Rochdale OL16 1DX
   phone:
   - 01706 572 453
   - 01706 572 452 Helpline
   web_addresses:
-  - https://www.makingspace.co.uk/services/centres/rochdale-befriending
+  - https://www.makingspace.co.uk
 
 ---
 
 ### Information
 
 Help line  open Mon - Fri 9am - 6pm
-01706 572 452
+01706 352 711
 
-Email  rochdalebefriending@makingspace.co.uk
+Email  enquiries@makingspace.co.uk
