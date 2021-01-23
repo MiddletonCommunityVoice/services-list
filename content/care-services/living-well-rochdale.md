@@ -5,7 +5,6 @@ tags:
 - Fibromyalgia
 - Wellbeing
 - health trainers
-- directory
 areas:
 - Middleton
 - Heywood
