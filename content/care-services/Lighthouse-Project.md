@@ -13,6 +13,7 @@ tags:
 - Money Advice
 - Middleton Central Foodbank
 - The Pantry
+- Room Hire
 areas:
 - Middleton
 - Heywood
@@ -26,6 +27,8 @@ contact:
   - http://www.lighthouseproject.org.uk
 
 ---
+
+## only Foodbank & The Pantry open due to the virus
 
 ### Information
 Easy wheelchair access from the rooftop car park
