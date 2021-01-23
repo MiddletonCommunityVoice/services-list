@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Riverside One, Smith Street, Rochdale
+  - Number One Riverside, Smith Street, Rochdale
   phone:
   - 0161 662 4000
   web_addresses:
@@ -19,7 +19,7 @@ contact:
 ---
 
 ### Information
-Many services for health and wellbeing.
+Many services for health and wellbeing across the boroughs
 
 Reduced price entry for some.
 
@@ -27,3 +27,5 @@ Enquiries via Middleton Arena.
 
 Operates at Bowlee Park Sports Centre and
 St Mary's football pitches.
+
+In Heywood, Rochdale and Littleborough
