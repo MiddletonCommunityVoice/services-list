@@ -11,12 +11,11 @@ areas:
 - Manchester
 contact:
   Addresses:
-  - see Dementia page
-  - 2 Silver Street, Bury. Contact Alison Jennings.  Email  alisonjennings37@talktalk.net
+  - Castleton Community Centre, Rochdale.  
+  - Email croot@parkinsons.org.uk
   phone:
+  - 0344 225 6311
   - 0808 800 0303
-  - see info below
-  - 01204 363061
   web_addresses:
   - https://localsupport.parkinsons.org.uk/provider/rochdale-branch
   - https://www.parkinsons.org.uk
@@ -25,7 +24,7 @@ contact:
 
 ### Information
 Nationwide Phone 0808 8000 303  
-and local adviser  0345 225 3741
+and local adviser  0345 225 6311
 
 Rochdale meeting at Castleton Community Centre first Thursday of each month  1 til 3pm.  
 Contact Clare Root on 0344 225 3611 or  
