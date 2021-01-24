@@ -17,7 +17,7 @@ contact:
 
 ---
 
-### Opening Times
+### Opening Times. CLOSED DUE TO THE VIRUS.
 * Mon - Fri 9am til 4.30pm
 * Email  karen.lever@rochdale.gov.uk
 
