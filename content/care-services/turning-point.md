@@ -9,19 +9,21 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Oldham
 contact:
   addresses:
-  - 11 - 14, St Chads Court Rochdale
+  - ROAR, 11 - 14, St Chads Court Rochdale OL16 1QU
   phone:
   - 0300 555 0234
   web_addresses:
-  - http://wellbeing.turning-point.co.uk/rochdale-and-oldham/hubs/rochdale-hub/
+  - https://www.turning-point.co.uk/home.html
 
 ---
 
-### Information
+### Opening times:
+11am to 3pm  Mon. to Fri.
 
-Hours vary.  Call for an appointment
+Call for an appointment
 
 Email: ROARreferrals@turning-point.co.uk
 
