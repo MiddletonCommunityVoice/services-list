@@ -1,6 +1,6 @@
 ---
 title: Woodclough Day Centre
-draft: true
+draft: false
 tags:
 - Dementia Day care
 - alzheimer's
@@ -12,6 +12,7 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - CLOSED
   - 142, Wood Street, Middleton
   phone:
   - 0161 653 5149
@@ -21,7 +22,7 @@ contact:
 ---
 
 ### Information
-
+### THIS CENTRE HAS CLOSED FOR GOOD
 Open Mon - Fri 8.30am to 4.30pm
 Email woodclough@possibilities.org.uk
 
