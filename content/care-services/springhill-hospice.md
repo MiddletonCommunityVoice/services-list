@@ -4,6 +4,7 @@ draft: false
 tags:
 - Hospice
 - End of Life
+- Dementia
 areas:
 - Middleton
 - Heywood
