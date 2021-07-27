@@ -15,7 +15,7 @@ contact:
   addresses:
   - Chadderton Chiropractic Clinic, 681 Middleton Road, Chadderton OL9 9SN
   phone:
-  - 0333 600 65 65
+  - 0161 624 2106
   web_addresses:
   - https://adamwilkeychiropractor.com/
 
