@@ -20,6 +20,7 @@ contact:
 
 ### Information  
 Run by Independent Choices Greater Manchester  
+- open Mon -Fri  10am to 4pm    
 
 - Lots of help for those suffering from abuse.
 - Phone if you know someone who needs help
