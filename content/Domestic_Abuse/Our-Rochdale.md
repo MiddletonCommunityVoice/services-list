@@ -1,5 +1,5 @@
 ---
-title: Domestic Abuse
+title: Our Rochdale - Various Services
 draft: false
 tags:
 - Domestic Abuse
@@ -21,6 +21,6 @@ contact:
 
 ### Information
 
-See the list of main Domestic Abuse services
-available, local and national.  
-Also for Women, Men and Children.
+Listing several Domestic Abuse services  
+Local and national.  
+For Women, Men and Children.
