@@ -29,7 +29,7 @@ Run by Independent Choices Greater Manchester
 
 - Also on Facebook Instagram and Twitter
 
-About this service  
+### About this service  
 
 We are a Greater Manchester-based professional organisation, with over 40 years of experience supporting, advising and working with victims of domestic abuse & violence in Greater Manchester.  
 
