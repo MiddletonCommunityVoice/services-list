@@ -2,8 +2,9 @@
 title: Disclaimer
 ---
 # THIS DIRECTORY IS ALWAYS BEING UPDATED.  
-### OUR NEXT MONTHLY MEETING IS TUESDAY 16th NOVEMBER  
-### STARTING AT 10am IN THE LIGHTHOUSE in MIDDLETON SHOPPING CENTRE OR ON ZOOM
+### OUR NEXT MONTHLY MEETING IS TUESDAY 18th JAMUARY,2022  
+### STARTING AT 12 MIDDAY IN THE LIGHTHOUSE PROJECT,  
+### MIDDLETON SHOPPING CENTRE AND ON ZOOM
 
 ## DISCLAIMER
 This directory has been compiled from many 
@@ -15,7 +16,7 @@ cannot accept any responsibility or liabiltity for any
 errors or ommissions. Nor do we endorse any of the
 services.
 
-If you find any errors or missing, Please send an email to
+If you find any errors, Please send an email to
 [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com),  
 or send a 
 **TEXT MESSAGE ONLY to 0797 070 8448.**   
