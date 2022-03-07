@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 104, 106, Drake Street, Rochdale
+  - The Old Post Office, The Esplanade, Rochdale
   phone:
   - 01706 249 575
   web_addresses:
