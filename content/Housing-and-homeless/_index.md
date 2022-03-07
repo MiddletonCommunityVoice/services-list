@@ -1,4 +1,4 @@
 ---
-title: Homeless and housing
+title: Housing and Homeless
 ---
 # Housing and Homeless
