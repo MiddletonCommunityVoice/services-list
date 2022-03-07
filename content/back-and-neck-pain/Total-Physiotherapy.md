@@ -5,7 +5,7 @@ tags:
 - Physiotherapy
 - Back Pain
 - Neck Pain
-- Acupunctures
+- Acupuncture
 areas:
 - Middleton
 - Heywood
