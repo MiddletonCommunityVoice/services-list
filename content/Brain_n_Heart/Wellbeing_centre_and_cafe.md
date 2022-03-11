@@ -9,6 +9,7 @@ tags:
 - Sleeping Problems
 - Realaxtion Help
 - Mindfullness
+- Directory
 areas:
 - Middleton
 - Heywood
