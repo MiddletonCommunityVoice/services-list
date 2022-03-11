@@ -9,8 +9,8 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 14a to 16 Wood Street, Middleton
   - Nye Bevan House, Maclure Rd. Rochdale opposite Rochdale Train Station and also the tram stop
+  - 14a to 16 Wood Street, Middleton
   phone:
   - 0161 653 5278
   - 01706 648 562
