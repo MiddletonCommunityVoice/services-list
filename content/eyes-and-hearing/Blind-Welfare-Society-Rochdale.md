@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  -  20 High Barn Cl, Rochdale OL11 3PN
+  -  Blind Centre, 20 High Barn Cl, Rochdale OL11 3PN
   phone:
   - 01706 646 501
   web_addresses:
