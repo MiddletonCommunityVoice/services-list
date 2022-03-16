@@ -27,7 +27,7 @@ contact:
 ---
 
 ## Information and opening hours.
-See Brain and Heart Conditions in thie director.
+See Brain and Heart Conditions in this directory.
 
 **Services offered:**  
 *Bame Womens Wellbeing Socail Cafe at  
