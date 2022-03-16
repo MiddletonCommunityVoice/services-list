@@ -6,6 +6,7 @@ tags:
 - Cataract eye tests
 - Diabetic eye tests
 - DVLA Eye Tests
+- Bests Disease
 - Statgardts Disease
 - Sorby's Dystrophy
 - MECS Eye services
