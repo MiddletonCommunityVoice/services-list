@@ -29,7 +29,7 @@ contact:
 ## Information and opening hours.
 See Brain and Heart Conditions in thie director.
 
-** Services offered: **  
+**Services offered:**  
 *Bame Womens Wellbeing Socail Cafe at  
 Wardlerowth Community Centre  
 South Street. Rochdale.  OL16 2EP  
