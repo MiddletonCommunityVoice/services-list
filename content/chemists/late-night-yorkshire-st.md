@@ -3,7 +3,7 @@ title: Yorkshire St Rochdale Late opening
 draft: False
 tags:
 - Chemist late opening
-- Minor Ailments
+- Minor Ailments service
 areas:
 - Middleton
 - Heywood
