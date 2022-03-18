@@ -7,6 +7,7 @@ tags:
 - Work Stress
 - Sleeping problems
 - Depression
+- Stroke Help
 areas:
 - Middleton
 - Heywood
