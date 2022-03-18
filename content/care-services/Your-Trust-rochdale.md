@@ -1,9 +1,11 @@
 ---
-title: Link 4 Life
+title: Your Trust ( ex Link4Life )
 draft: false
 tags:
 - Wellbeing
 - Sport
+- Exercise
+- Stroke Help
 areas:
 - Middleton
 - Heywood
@@ -14,6 +16,7 @@ contact:
   phone:
   - 0161 662 4000
   web_addresses:
+  - https://www.yourtrust.org
   - https://www.link4life.org
 
 ---
@@ -23,7 +26,7 @@ Many services for health and wellbeing across the boroughs
 
 Reduced price entry for some.
 
-Enquiries via Middleton Arena.
+Enquiries via Middleton Arena.   0161 662 4000  
 
 Operates at Bowlee Park Sports Centre and
 St Mary's football pitches.
