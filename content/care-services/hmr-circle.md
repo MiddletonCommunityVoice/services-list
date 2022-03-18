@@ -7,6 +7,7 @@ tags:
 - Days out
 - Befriending
 - Voluntary Drivers
+- hospital discharge
 areas:
 - Middleton
 - Heywood
