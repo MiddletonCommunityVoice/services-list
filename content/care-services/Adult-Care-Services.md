@@ -13,8 +13,10 @@ areas:
 contact:
   addresses:
   - Lock 50, Oldham Road, Rochdale OL16 5RD
+  - Number One Riverside, Smith Street, Rochdale
   phone:
   - 0300 303 8886
+  - 0300 303 8801
   web_addresses:
   - https://www.ourrochdale.org.uk/kb5/rochdale/directory/adult.page?adultchannel=0
 
