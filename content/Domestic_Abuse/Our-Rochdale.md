@@ -2,7 +2,7 @@
 title: Our Rochdale - Various Services
 draft: false
 tags:
-- Domestic Abuse
+- Adult & Child Abuse
 areas:
 - Middleton
 - Heywood
