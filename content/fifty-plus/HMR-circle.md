@@ -3,6 +3,8 @@ title: HMR Circle, Rochdale
 draft: false
 tags:
 - Activities
+- social
+- hospital discharge
 areas:
 - Middleton
 - Heywood
