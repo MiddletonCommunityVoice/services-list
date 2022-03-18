@@ -6,6 +6,7 @@ tags:
 - Sport
 - Exercise
 - Stroke Help
+- activities
 areas:
 - Middleton
 - Heywood
