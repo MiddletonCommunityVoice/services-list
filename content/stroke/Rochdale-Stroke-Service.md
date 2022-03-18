@@ -27,13 +27,13 @@ disabled and rehabilitation.
 For more info speak to Chris
 
 ## This service offers:
-*Coordinated support throughout your stroke journey
-*Home visits and/or regular telephone calls
-*Emotional support
-*Tailored information
-*Assistance with accessing community-based support
-*Support for carers and family members
-*Signposting to other relevant organisations.
+- Coordinated support throughout your stroke journey
+- Home visits and/or regular telephone calls
+- Emotional support
+- Tailored information
+- Assistance with accessing community-based support
+- Support for carers and family members
+- Signposting to other relevant organisations.
 
 ## Who is this service for?
 This service is for stroke survivors (including TIAs/mini-strokes), and families and carers of people affected by stroke.
