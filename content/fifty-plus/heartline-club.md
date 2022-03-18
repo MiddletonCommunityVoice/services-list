@@ -3,6 +3,7 @@ title: Heartline Club
 draft: false
 tags:
 - Social
+- Stroke
 areas:
 - Middleton
 - Heywood
