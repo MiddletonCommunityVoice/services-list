@@ -9,7 +9,12 @@ tags:
 - Anxiety & Depression
 - Gardening
 - Bame
-- Abuse
+- Adult & Child Abuse
+- Adult Care
+- Wellbeing
+- Counselling
+- Advocacy
+- Dementia
 - Directory
 areas:
 - Middleton
