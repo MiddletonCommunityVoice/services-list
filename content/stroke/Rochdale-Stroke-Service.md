@@ -2,7 +2,7 @@
 title: Rochdale Stroke Service
 draft: False
 tags:
-- Stroke
+- Stroke Help
 areas:
 - Middleton
 - Heywood
