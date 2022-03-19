@@ -1,5 +1,5 @@
 ---
-title: RBH Rochdale Borough Housing
+title: RBH Rochdale Boroughwide Housing
 draft: false
 tags:
 - Housing
@@ -9,11 +9,14 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - RBH, Unique Enterprise Centre, Belfield Road, Rochdale, OL16 2UP
   - St Alban's House, Drake Street, Rochdale
   phone:
-  - '0800 027 7769'
+  - 0800 027 7769
+  - 01706 274 100
   web_addresses:
   - http://www.rbh.org.uk
+  - Email CustomerExperience@rbh.org.uk
 ---
 
 ### Opening Times
