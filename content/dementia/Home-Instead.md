@@ -6,6 +6,7 @@ tags:
 - Dementia
 - Adult Care
 - Companionship
+- Memory Cafes
 areas:
 - Middleton
 - Heywood
