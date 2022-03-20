@@ -2,4 +2,4 @@
 title: Suicide
 ---
 # Suicide
-**Also see Mental Health**
+## Also see Mental Health
