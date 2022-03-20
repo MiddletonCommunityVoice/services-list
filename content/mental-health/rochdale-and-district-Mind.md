@@ -17,6 +17,7 @@ tags:
 - Advocacy
 - Dementia
 - Directory
+- Rochdale Mind
 areas:
 - Middleton
 - Heywood
