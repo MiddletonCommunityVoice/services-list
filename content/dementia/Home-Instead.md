@@ -1,6 +1,5 @@
 ---
-title: Home Instead Senior Care  
-ALSO SEE CAFES
+title: Home Instead Senior Care
 draft: false
 tags:
 - Dementia
