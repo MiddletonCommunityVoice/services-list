@@ -14,7 +14,7 @@ contact:
   phone:
   - 0161 643 4907
   web_addresses:
-  - https://link4life.org/centres/bowlee-park-sports-centre
+  - https://yourtrust.org/centres/bowlee-park-sports-centre
   - http://link4life.org/
 ---
 

@@ -18,6 +18,7 @@ contact:
   phone:
   - 01706 926 203
   web_addresses:
+  - http://yourtrust.org/
   - http://link4life.org/
 ---
 
