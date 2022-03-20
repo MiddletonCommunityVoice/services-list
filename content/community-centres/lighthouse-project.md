@@ -13,6 +13,7 @@ tags:
 - Who let the dads out
 - Art
 - Walking Groups
+- Lighthouse
 areas:
 - Middleton
 - Heywood
