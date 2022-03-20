@@ -5,6 +5,7 @@ tags:
 - Walking Groups
 - Sport
 - Activities
+- Your Trust
 areas:
 - Middleton
 - Heywood
