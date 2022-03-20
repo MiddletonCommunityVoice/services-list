@@ -1,6 +1,5 @@
 ---
 title: Rocker Cafe by Home Instead
-ALSO Dementia
 draft: false
 tags:
 - Dementia
