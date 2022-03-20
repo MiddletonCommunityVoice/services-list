@@ -4,6 +4,7 @@ draft: False
 tags:
 - Sport
 - Activities
+- your trust
 areas:
 - Middleton
 - Heywood
@@ -14,8 +15,8 @@ contact:
   phone:
   - 0161 622 4000
   web_addresses:
-  - https://link4life.org/events-entertainment/middleton-arena
-  - http://link4life.org/
+  - https://yourtrust.org/events-entertainment/middleton-arena
+  - http://your trust.org/
 ---
 
 ### Information
