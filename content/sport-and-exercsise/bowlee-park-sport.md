@@ -3,6 +3,7 @@ title: Bowlee Park Sports Hall
 draft: False
 tags:
 - Sport
+- Your Trust
 areas:
 - Middleton
 - Heywood
