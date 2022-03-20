@@ -4,6 +4,7 @@ draft: false
 tags:
 - Activities
 - Social
+- lighthouse
 areas:
 - Middleton
 - Heywood
