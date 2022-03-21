@@ -8,6 +8,7 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Specsavers
 contact:
   addresses:
   - Unit G15 Middleton Shopping Centre
@@ -18,9 +19,9 @@ contact:
 ---
 
 ### Information
-Eye & hearing tests / Book online or phone the shop /
-DVLA eye tests available at this shop /
-Free eye tests at your own home. Call 0800 198 1132 /
+Eye & hearing tests / Book online or phone the shop  
+-DVLA eye tests available at this shop  
+-Free eye tests at your own home. Call 0800 198 1132  
 Services at the Middleton shop
 Adult eye tests &  Children's eye tests /
 Audiology services /
