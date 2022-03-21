@@ -26,15 +26,15 @@ Eye & hearing tests
 
 **Services at the Middleton shop**  
 * Adult eye tests  
-* Children's eye tests /
-* Audiology services /
-* Cataract post-op care /
-* Contact lens services /
-* DVLA optician / 
-* Dry eye clinic /
-* Cataracts, Glaucoma. Maciular Eye Degeneration
+* Children's eye tests  
+* Audiology services  
+* Cataract post-op care  
+* Contact lens services  
+* DVLA optician  
+* Dry eye clinic  
+* Cataracts, Glaucoma. Maciular Eye Degeneration  
 * Diabetes checks and MECS ( Minor eye conditions
-Service ) 
+Service   
 
 ### Opening Times
 * Open Every day.
