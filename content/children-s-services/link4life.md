@@ -7,6 +7,7 @@ areas:
 - HMiddleton
 - Heywood
 - Rochdale
+- your trust
 contact:
   addresses:
   - Middleton Arena, LCpl Joel Halliwell VC Way
@@ -15,15 +16,15 @@ contact:
   - Littleborough Sports
   - Number One Riverside, Smith Street, Rochdale
   phone:
-  - 0161 662 4000
-  - 0161 662 4200
-  - 0161 716 2840
-  - 01706 901 822
-  - 01706 924 840
+  - 0161 662 4000 Middleton
+  - 0161 662 4200 Heywood
+  - 0161 716 2840 Bowlee
+  - 01706 901 822 Littleborough
+  - 01706 924 840 
   - 01706 926 232
   - 0845 602 4993
   web_addresses:
-  - http://link4life.org/
+  - https://yourtrust.org
   - https://link4life.org
 ---
 
