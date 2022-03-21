@@ -4,11 +4,11 @@ draft: false
 tags:
 - Diabetic eye tests
 - DVLA Eye tests
+- Specsavers
 areas:
 - Middleton
 - Heywood
 - Rochdale
-- Specsavers
 contact:
   addresses:
   - Unit G15 Middleton Shopping Centre
