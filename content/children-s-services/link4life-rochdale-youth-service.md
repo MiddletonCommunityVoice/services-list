@@ -7,12 +7,14 @@ areas:
 - Middleton 
 - Heywood
 - Rochdale
+- your trust
 contact:
   addresses:
   - Heywood Sports Village
   phone:
   - 07527 385 767
   web_addresses:
+  - http://link4life.org/
   - http://link4life.org/
 ---
 
