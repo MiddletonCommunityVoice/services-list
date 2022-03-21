@@ -7,6 +7,7 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Rochdale Mind
 contact:
   addresses:
   - The Mind Wellbeing  Centre  3 - 11 Drake St  Rochdale
@@ -18,6 +19,8 @@ contact:
 ---
 
 ### Information
-Mental health and wellbeing information, advice and support.
+-Mental health and wellbeing information, 
+-advice and support.  
+
 Contact John Swallow
 
