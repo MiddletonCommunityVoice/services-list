@@ -13,6 +13,7 @@ tags:
 - Minor eye conditions
 - Macular Eye Degeneration
 - Glaucoma eye tests
+- Specsavers
 areas:
 - Middleton
 - Heywood
@@ -44,8 +45,8 @@ contact:
 
 ### Opening Times
 * Open every day.
-- Mon , Tue , Thu , Fri , 8.30am to 5.30pm /
-- Wed.  9.30am to 5.30pm /
-- Sat. 9am to 5pm /
-- Sun. 10am to 4pm
+* Mon , Tue , Thu , Fri , 8.30am to 5.30pm  
+* Wed.  9.30am to 5.30pm  
+* Sat. 9am to 5pm  
+* Sun. 10am to 4pm  
 
