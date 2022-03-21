@@ -32,13 +32,15 @@ Eye & hearing tests
 * Contact lens services  
 * DVLA optician  
 * Dry eye clinic  
-* Cataracts, Glaucoma. Maciular Eye Degeneration  
+* Cataracts  
+* Glaucoma  
+* Maciular Eye Degeneration  
 * Diabetes checks and MECS ( Minor eye conditions
 Service   
 
 ### Opening Times
 * Open Every day.
-* Mon , Tue , Thu , Fri , 8.30am to 5.30pm /
-* Wed.  9.30am to 5.30pm /
-* Sat. 9am to 5pm /
-* Sun. 10am to 4pm
+* Mon , Tue , Thu , Fri , 8.30am to 5.30pm  
+* Wed.  9.30am to 5.30pm  
+* Sat. 9am to 5pm  
+* Sun. 10am to 4pm  
