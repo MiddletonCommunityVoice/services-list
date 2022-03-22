@@ -41,22 +41,22 @@ We are the independent voice of local people in challenging
  and influencing health and social care provision in the
   Rochdale borough. 
 
-**Our Values**
-Inclusive - We start with local people first
+**Our Values**  
 
-*Independent - We are independent and act on behalf of all local people. We challenge and influence those in power.
+* Inclusive - We start with local people first
 
-*Credible - We hold ourselves to the highest standards through openness and transparency.
+- Independent - We are independent and act on behalf of all local people. We challenge and influence those in power.
 
-Collaborative - We work with others locally, regionally and nationally and we learn from people's experiences.
+* Credible - We hold ourselves to the highest standards through openness and transparency.
+
+* Collaborative - We work with others locally, regionally and nationally and we learn from people's experiences.
 
 *Responsive - We take what we know and translate it into actions.
 
 **Our Strategic Objectives**  
+
 1. Remove barriers so that choices can be made by all residents about their own and their family's health and social care needs.
-
-2. Work with others to achieve the best outcomes for the provision of health and social care.
-
+2. Work with others to achieve the best outcomes for the provision of health and social care.  
 3. Deliver innovative ways of working, new opportunities, positive outcomes and value for money.
 
 We champion what matters to you and work with others to find ideas that work. We are independent and committed to making the biggest difference to you. 
