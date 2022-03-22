@@ -9,7 +9,7 @@ areas:
 contact:
   addresses:
   - 346, Grimshaw Lane, Middleton Junction, Middleton
-  - Alkrington Health Centre, Hardfield Road, Middleton  M24 1PQ
+  - Also at Alkrington Health Centre, Hardfield Road, Middleton  M24 1PQ
   phone:
   - 0161 271 3030
   web_addresses:
@@ -33,6 +33,6 @@ Various services
 - Via BARDOC
 - Use Walk in Centres
 
-**DIAL 999 in life and death emergency**
+## DIAL 999 in life and death emergency
 
 Member of Rochdale Health Alliance
