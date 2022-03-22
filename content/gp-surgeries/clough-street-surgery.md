@@ -30,6 +30,6 @@ Various services
 - Via BARDOC
 - Use Walk in Centres
 
-**DIAL 999 in life and death emergency**
+## DIAL 999 in life and death emergency
 
 Member of Rochdale Health Alliance
