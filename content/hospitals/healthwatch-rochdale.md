@@ -43,15 +43,15 @@ We are the independent voice of local people in challenging
 
 **Our Values**  
 
-* Inclusive - We start with local people first
+- Inclusive - We start with local people first
 
 - Independent - We are independent and act on behalf of all local people. We challenge and influence those in power.
 
-* Credible - We hold ourselves to the highest standards through openness and transparency.
+- Credible - We hold ourselves to the highest standards through openness and transparency.
 
-* Collaborative - We work with others locally, regionally and nationally and we learn from people's experiences.
+- Collaborative - We work with others locally, regionally and nationally and we learn from people's experiences.
 
-*Responsive - We take what we know and translate it into actions.
+- Responsive - We take what we know and translate it into actions.
 
 **Our Strategic Objectives**  
 
