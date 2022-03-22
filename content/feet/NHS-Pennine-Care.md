@@ -8,7 +8,7 @@ areas:
 - Middleton
 contact:
   addresses:
-  - HMR Podiatry, Single point of Access, 3rd floor, Oldhamd Rd, Middleton  M24 1AY
+  - HMR Podiatry, Single point of Access, 3rd floor, Oldham Road, Middleton  M24 1AY
   phone:
   - 0161 716 5888
   web_addresses:
