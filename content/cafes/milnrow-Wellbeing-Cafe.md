@@ -5,7 +5,7 @@ tags:
 - Memory Cafe
 - Dementia
 - Alzheimers
-- Advice & Information
+- Advice and Information
 areas:
 - Milnrow, Rochdale
 contact:
