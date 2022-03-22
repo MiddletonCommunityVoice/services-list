@@ -2,7 +2,7 @@
 title: NHS Diabetic Eye Screening
 draft: false
 tags:
-- Diabetic eye tests
+- Diabetic eye screening
 areas:
 - Middleton
 - Heywood
@@ -29,6 +29,6 @@ Saturday  8am to 12 midday.
 
 If you need to change or cancel your appointment please phone 01204 891 000,
 
-### REMEMBER NOT TO DRIVE to yout eye test.
+### REMEMBER NOT TO DRIVE to your eye test.
 **The eye drops affect your eyes.  If you drive and have an accident, the Police may presecute you.**
 
