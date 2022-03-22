@@ -10,7 +10,7 @@ contact:
   addresses:
   - 346, Grimshaw Lane, Middleton Junction, Middleton
   phone:
-  - 0161 655 7478 press 1
+  - 0161 271 3030
   web_addresses:
   - http://www.junctionsurgery.nhs.uk
 ---
