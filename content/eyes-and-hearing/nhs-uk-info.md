@@ -3,6 +3,7 @@ title: NHS UK  Info
 draft: false
 tags:
 - Mobile opticians
+- Eye and Hearing Tests
 areas:
 - Nationwide
 contact:
