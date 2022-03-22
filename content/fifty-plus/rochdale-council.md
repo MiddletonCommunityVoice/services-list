@@ -15,10 +15,12 @@ contact:
   - 0300 303 8886
   - 01706 860347
   web_addresses:
-  - http://www.rochdale.gov.uk/social-care-and-support/pages/safeguarding-adults-at-risk/
+  - https://rochdalesafeguarding.com/
 ---
 
 ### Information
-Rochdale Safeguarding team for adults
-Delivers each lunchtime Mon - Fri
+Rochdale Safeguarding team for adults  
 
+Riverside One, Floor 4, Smith Street, Rochdale  OL16 1XU  
+0300 303 8886  
+0300 303 8875 Out of hours
