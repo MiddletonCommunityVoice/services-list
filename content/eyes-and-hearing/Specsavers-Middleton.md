@@ -21,6 +21,7 @@ areas:
 contact:
   addresses:
   - Unit G 15  Middleton Shopping Centre
+  - in other towns and cities
   phone:
   - 0161 654 0440
   web_addresses:
