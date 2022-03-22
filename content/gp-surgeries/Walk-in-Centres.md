@@ -13,12 +13,13 @@ areas:
 - Bury
 contact:
   addresses:
-  - Bury and Prestwich closed. Call 111
+  - Bury and Prestwich
   - North Manchester General Hospital
   - City Centre, 2nd fl, Boots Market St.
-  - The MRI
-  - Oldham, next to the bus station
-  - And others. See our Emergency Services
+  - Manchester Royal Infirmary
+  - Oldham, next to the bus station  Phone 0161 785 7520
+  - Several others across Oldham
+  - Also ee our Emergency Services
   phone:
   - 111
 ---
@@ -29,11 +30,11 @@ contact:
 
 ## Other Out of hours Services
 - Use the GP 7 day access service  
-**See Emergency Services in this directory**    
-*Hours vary depending on which centre you use*
 
 - Dial 111 for help and advice or look online
 
 - or Via BARDOC and GP Care Services
 
-**DIAL 999 in life and death emergency**
+- Ask you pharnacy
+
+## DIAL 999 in life and death emergency
