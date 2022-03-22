@@ -3,7 +3,7 @@ title: Healthwatch Rochdale
 draft: false
 tags:
 - Complaints
-- Advice & Information
+- Advice and Information
 - Directory
 - NHS Quality Checker
 - Healthwatch
