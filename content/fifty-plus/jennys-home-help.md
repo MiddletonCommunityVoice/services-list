@@ -8,9 +8,6 @@ areas:
 contact:
   phone:
   - 07482 277 847
-  web_addresses:
-  - none
-  -
 ---
 
 ### Opening Times
