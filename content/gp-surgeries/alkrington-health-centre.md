@@ -1,22 +1,53 @@
 ---
-title: Alkrington Health Centre
+title: Alkrington Health Centre by In Health
 draft: false
 tags:
 - GP Surgery
-- Nurses Services
-- Podiatry
+- AAA Screening
 - Audiology
+- Breast Screening
+- CT Scans
+- Cardiac Services
+- DEXA Scan
+- Diabetic Eye Screening
+- ENT
+- Echocardiography
+- Endoscopy
+- Interventional Cardiology
+- Lung Health Checks
+- MRI Scans
+- Mobiles and Relocatables
+- Paedictric Audiology
+- PET CT
+- Radiographer Reporting
+- Ultrasound
+- Upright MRI
+- X ray
+- Nurses Services
+
 - Physiotherapy
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
+  - In Health, Alkrington Health Centre,
   - Hardfield Road, Alkrington, Middleton
   phone:
-  - 0161 655 7478 press 2
+  - 01706 261 800
+  - 0333 202 0300 General Practice
+  - 0333 202 0297 Referer Line
+  - 0333 200 2064 Private Patients line
+  - 0333 202 0300 Customer Care line
   web_addresses:
-  - http://www.junctionsurgery.nhs.uk
+  - https://www.inhealthgroup.com/location/alkrington-health-centre/
 ---
+## Our Services  
+
+InHealth are providers of diagnostic and healthcare services to the NHS and Private providers.  Through our range of Radiology Services, Pathway Services and Screening Services, we see more than 3 million patients a year across the UK.
+
+Our primary goal is to make healthcare better by providing rapid and accurate assessment of every patient’s condition, enabling the right treatment to be delivered swiftly and effectively by specialist providers.
 
 ### Information
 Various services
@@ -34,7 +65,23 @@ Various services
 - Dial 111 for advice
 - Via BARDOC
 - Use Walk in Centres
+- ask your local pharmacy
 
-**DIAL 999 in life and death emergency**
+# DIAL 999 in life and death emergency
 
 Member of Rochdale Health Alliance
+
+**Head Office**  
+InHealth Group  
+Beechwood Hall, Kingsmead Road  
+High Wycombe  
+Bucks  HP11 1JL  
+01494 560000
+
+InHealth Patient   
+**Referral Centre**  
+Sandbrook House  
+Sandbrook Park  
+Rochdale   OL11 1RY  
+0333 202 0300
+
