@@ -30,7 +30,7 @@ If busy, please leave a message and someone will call you back.
 Available on the website. 
 
 An indelendent body supported by Government.  
-Listen to Patient complaints on NHS services.  
+Listen to Patient complaints about NHS services.  
 
 
 **Our Vision**
