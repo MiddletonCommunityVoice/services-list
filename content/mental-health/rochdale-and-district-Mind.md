@@ -9,7 +9,7 @@ tags:
 - Anxiety & Depression
 - Gardening
 - Bame
-- Adult & Child Abuse
+- Adult and Child Abuse
 - Adult Care
 - Bereavement
 - Wellbeing
