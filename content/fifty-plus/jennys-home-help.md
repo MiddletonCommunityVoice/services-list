@@ -7,8 +7,9 @@ areas:
 - Middleton
 contact:
   phone:
-  - '07482 277 847'
+  - 07482 277 847
   web_addresses:
+  - none
   -
 ---
 
