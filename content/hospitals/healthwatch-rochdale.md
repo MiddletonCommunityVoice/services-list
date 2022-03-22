@@ -14,7 +14,7 @@ areas:
 contact:
   addresses:
   - Healhwatch, Suite 5, Number 2, The Esplande, Rochdale. OL16 1AE  
-  - pposite the Town Hall in the Old Post Office building
+  - Opposite the Town Hall in the Old Post Office building
   phone:
   - 01706 249 575
   web_addresses:
