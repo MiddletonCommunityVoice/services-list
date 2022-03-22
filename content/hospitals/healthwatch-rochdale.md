@@ -13,7 +13,8 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Healhwatch, Suite 5, Number 2, The Esplande, Rochdale. OL16 1AE Opposite the Town Hall in the Old Post Office building
+  - Healhwatch, Suite 5, Number 2, The Esplande, Rochdale. OL16 1AE  
+  pposite the Town Hall in the Old Post Office building
   phone:
   - 01706 249 575
   web_addresses:
@@ -43,13 +44,13 @@ We are the independent voice of local people in challenging
 **Our Values**
 Inclusive - We start with local people first
 
-* Independent - We are independent and act on behalf of all local people. We challenge and influence those in power.
+*Independent - We are independent and act on behalf of all local people. We challenge and influence those in power.
 
-* Credible - We hold ourselves to the highest standards through openness and transparency.
+*Credible - We hold ourselves to the highest standards through openness and transparency.
 
-* Collaborative - We work with others locally, regionally and nationally and we learn from people's experiences.
+Collaborative - We work with others locally, regionally and nationally and we learn from people's experiences.
 
-* Responsive - We take what we know and translate it into actions.
+*Responsive - We take what we know and translate it into actions.
 
 **Our Strategic Objectives**  
 1. Remove barriers so that choices can be made by all residents about their own and their family's health and social care needs.
