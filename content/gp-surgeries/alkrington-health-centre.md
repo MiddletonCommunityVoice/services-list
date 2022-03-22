@@ -23,9 +23,6 @@ tags:
 - Ultrasound
 - Upright MRI
 - X ray
-- Nurses Services
-
-- Physiotherapy
 areas:
 - Middleton
 - Heywood
