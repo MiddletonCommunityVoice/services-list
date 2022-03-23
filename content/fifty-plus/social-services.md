@@ -16,5 +16,13 @@ contact:
 ---
 
 ### Information
-A directory of various Social Services
+A directory of various Social Services, you should find  
+
+* Residential care homes
+* Council Tax discounts and exemptions
+* Blue Badges
+* Home care and support
+* Care and support for adults and older people
+* Paying for care and support services
+
 
