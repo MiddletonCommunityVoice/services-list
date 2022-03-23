@@ -3,11 +3,10 @@ title: Rocker Cafe by Home Instead
 draft: false
 tags:
 - Dementia
-- Dementia
 - Alheimers
 - Adult Care
 - Companionship
-- Memory Cafes
+- Memory Cafe
 areas:
 - Middleton
 - Heywood
