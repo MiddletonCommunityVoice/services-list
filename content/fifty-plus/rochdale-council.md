@@ -2,6 +2,7 @@
 title: Rochdale Council
 draft: false
 tags:
+- Safeguarding
 - Adult Care
 areas:
 - Middleton
