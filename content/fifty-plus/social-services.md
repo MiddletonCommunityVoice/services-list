@@ -4,6 +4,7 @@ draft: false
 tags:
 - Directory
 - Adult Care
+- Blue Badge
 areas:
 - Middleton
 - Heywood
