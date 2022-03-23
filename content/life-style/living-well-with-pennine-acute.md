@@ -5,6 +5,8 @@ tags:
 - Wellbeing
 - Fitness
 - Stop Smoking
+- Healthy Weight
+- Advice and information
 areas:
 - Middleton
 - Heywood
@@ -19,4 +21,10 @@ contact:
 ---
 
 ### Information
-Impoving lifestyle, Stop smoking, Healthy Weight, Starting exercises
+* Impoving lifestyle 
+* Stop smoking 
+* Healthy Weight  01706 901 822
+* Starting exercises
+* Advice and Support
+
+
