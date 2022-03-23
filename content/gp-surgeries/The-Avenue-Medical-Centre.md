@@ -5,8 +5,8 @@ tags:
 - GP Surgery
 - Nurses Services
 areas:
-- North Manchester
 - Middleton
+- North Manchester
 contact:
   addresses:
   - 51 to 53, Victoria Avenue, Blackley, Manchester. M9 6BA
