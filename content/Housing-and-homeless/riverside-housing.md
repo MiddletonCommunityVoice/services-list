@@ -3,6 +3,10 @@ title: Riverside Housing Association
 draft: false
 tags:
 - Housing
+- Sheltered Housing
+- Jobseekers
+- Money Advice
+- CV
 areas:
 - Middleton
 - Heywood
