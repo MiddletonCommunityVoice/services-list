@@ -20,3 +20,16 @@ contact:
 
 ---
 
+### Information  
+
+* Swimming
+* Learn to Swim
+* Excercise classes
+* Gym
+* Sport hall
+* Theatre for concerts / shows
+* Cafe
+* Meetings
+
+### Opening times  
+Times vary depeneding on activities
