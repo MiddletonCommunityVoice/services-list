@@ -46,7 +46,8 @@ Call Sagufta Farhat on 07837 805 205
 Email: shaguftafarat@rochdalemind.org.uk  
 Open Tuesdays 1pm to 2.30pm  
 
-**At Drake Street, Rochdale A Support Group**  
+**A Support Group**    
+at Drake Street, Rochdale  
 Wednesdays and Thurdsdays  1pm to 2.30pm  
 Call Sagufta Farhat on 07837 805 205  
 Email: shaguftafarat@rochdalemind.org.uk 
