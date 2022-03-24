@@ -14,9 +14,10 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Office at Jape One Business Centre, Dell Road, Shawclough,Rochdale
+  - Head office in Rochdale and Cafes in Milnrow and Rochdale
   - Cafe at Butterworth Hall, New Street, Milnrow. OL16 PQ
   - Cafe at Rockers, St Georges Hall, Bury Road, Rochdale. OL11 4ED  
+  - Office at Jape One Business Centre, Dell Road, Shawclough,Rochdale
   phone:
   - 01706 408 652
   - 01706 249 100
