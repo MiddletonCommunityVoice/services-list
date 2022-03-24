@@ -4,6 +4,8 @@ draft: false
 tags:
 - Community Centres
 - Activities
+- Lets Just Dance for Dementia
+- Nursery
 areas:
 - Langley
 - Middleton
@@ -17,3 +19,9 @@ contact:
 
 ---
 
+### Information  
+Suzanne Patteson  
+Contact Joanne
+
+### Opening Times
+* Tuesday's 1.30 - 2.30 for Dancing with Dementia
