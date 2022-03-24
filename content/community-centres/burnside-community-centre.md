@@ -6,8 +6,16 @@ tags:
 - Childrens Services
 - Counselling
 - Activities
+- cafe
+- Computer Course
+- Dance Classes
+- First Aid and CPR
+- Crisis support
+- Energy Suppport
+- Foodbank vouchers
+- Karate and Self Defence
 areas:
-- Langley Middleton
+- Middleton
 contact:
   addresses:
   - Burnside Crescent, Langley, Middleton
@@ -17,3 +25,4 @@ contact:
   - http://www.burnsidecentre.org.uk
 ---
 
+See their website for a list of activies and opening times
