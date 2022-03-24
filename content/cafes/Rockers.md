@@ -6,7 +6,7 @@ tags:
 - Alheimers
 - Adult Care
 - Companionship
-- Memory Cafe
+- Cafe
 areas:
 - Middleton
 - Heywood
