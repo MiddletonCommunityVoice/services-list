@@ -12,8 +12,8 @@ This directory has been compiled from many public sources, online & from printed
 If you find any errors, Please send an email to [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com),  
 or send a  **TEXT MESSAGE ONLY to 0797 070 8448.**   VOICEMAILS will not be acted upon.
 
-You can use an A to Z search by using the Tags.  
-Click on this link  [https://www.betterhealth4.org.uk/tags] to get directly to the Tags page.
+Please use the A to Z search by using the Tags.  
+Click on this link  [https://www.betterhealth4.org.uk/tags] to get directly to the Tags page. Thia is the quickest way.
 
 # SCROLL down  
 ## to access our directory by category.  
