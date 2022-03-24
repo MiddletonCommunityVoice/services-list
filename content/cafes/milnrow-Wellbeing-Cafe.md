@@ -2,7 +2,7 @@
 title: Milnrow Wellbeing Café
 draft: false
 tags:
-- Memory Cafe
+- Cafe
 - Dementia
 - Alzheimers
 - Advice and Information
