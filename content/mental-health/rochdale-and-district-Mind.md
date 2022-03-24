@@ -24,15 +24,22 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - The Mind Wellbeing Centre, 3 to 11 Drake Street,  Rochdale  OL16 1RE  
-  - 16a to 18 Wood Street, Middleton ( cafe & Wellbeing)
+  - ROCHDALE Mind Wellbeing Centre    
+  - 3 to 11 Drake Street,  Rochdale  OL16 1RE  
+  - MIDDLETON Wellbeing Centre and Cafe  
+  - 16a to 18 Wood Street, Middleton  
+  - ROCHDALE  
+  - Nye Bevan House, Maclure Rd. Rochdale  
+  - opposite Rochdale Train Station and the tram stop
   phone:
   - 01706 752 338 Rochdale
   - 0161 653 9368 Middleton Cafe
   web_addresses:
-  - http://www.rochdalemind.org.uk  
-  - Email info@rochdalemind.org.uk
+  - http://www.rochdalemind.org.uk
 ---
+
+Email info@rochdalemind.org.uk  
+
 
 ## Information and opening hours.
 See Brain and Heart Conditions in this directory.
