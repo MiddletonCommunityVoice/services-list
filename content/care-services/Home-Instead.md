@@ -38,11 +38,15 @@ Email: david.bradshaw@homeinstead.co.uk
 
 **At the Memory Cafe in Milnrow**  
 Butterworth Hall, New Street   
-Book your place with Joanne on 01706 249100  
-### Opening Times for the memory cafe  
-1st Tue of month 1pm to 3pm  
-can also ontact Mike Thompson on 07582 954228  
-
+Open  1st Tue of month 1pm to 3pm   
+Book your place with Joanne on 01706 249100   
+ 
 **At Coffee Rockers, Bury Road, Rochdale**    
 Open 3rd Tuesday every month 1pm til 3pm  
-Book your place with Joanne on 01706 24900  
+Book your place with Joanne on 01706 249100  
+
+
+
+
+
+can also ontact Mike Thompson on 07582 954228  
