@@ -36,7 +36,7 @@ contact:
   - Email info@rochdalemind.org.uk  
 ---
 
-Also ee Brain and Heart Conditions in this directory.
+Also see Brain and Heart Conditions in this directory.
 
 ### Services offered   
 **Bame Womens Wellbeing Social Cafe** at  
@@ -62,11 +62,11 @@ social Cafe every week via ZOOM
 Self Help Course on Mondays 1pm to 2.30pm  
 At the Mind Wellbeing Centre on Drake Street OL16 1RE  
 Call Jeanette Tomombs on 07898 146 416  
-Email jeanettetoombs@rochdalemind.org.uk 
+Email jeanettetoombs@rochdalemind.org.uk  
 Social Cafe every week via ZOOM.  
 
 **Asylum Seekers & Refugee Support**  
-At  Drake Street, Rochdale.
+At  Drake Street, Rochdale.  
 Call Ruksana on 01706 752338 or  07896 146 100  
 Email ruksanagh0as@rochdalemind.org.uk  
 
@@ -82,14 +82,14 @@ at Drake Street, Rochdale
 Contact Ruksana Ghoas on 07896 146 109  
 Email Ruksanaghoas@rochdalemind.org.uk  
 
-**Growth Project**    **Gardening**
+**Growth Project**    **Gardening**  
 Wednesdays and Thursdays 10am to 4pm  
 At Kellet Street Allotments, Rochdale OL16 2JU  
 Call Alison Connolly on 07895 236 708  
 Email alisonconnilly@rochdalemind.org.uk  
 
-**Living Life to the Full**  
-Self Help  6 week course  
+**Living Life to the Full    Self Help**    
+6 week course  
 Fridays 10am to 12 midday
 At Drake Street, Rochdale  
 Call Neil Kerr on 07969 150 018  
@@ -102,11 +102,9 @@ Call Neil Kerr on 07969 150 018
 Email neilkerr@rochdale.org.uk  
 
 **Relaxation     Support Groups**  
-12 week courses at Drake Street, Rochdale
-
-**Females**, Wednesdays 11am to 12 midday
-
-**Males**, Tuesdays  11am to 12 midday  
+12 week courses at Drake Street, Rochdale  
+      **Females**, Wednesdays 11am to 12 midday  
+    **Males**, Tuesdays  11am to 12 midday  
 Call Alice Astley on 07766 140 904  
 Email aliceastley@rochdalemind.org.uk 
 
