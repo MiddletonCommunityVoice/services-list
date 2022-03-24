@@ -23,8 +23,8 @@ contact:
   - 01706 249 100 Home Instead
   - 01706 357 785 Alzheimers
   web_addresses:
-  - http://www.alzheimers.org.uk
-  - https://www.homeinstead.co.uk/rochdale  
+  - https://www.homeinstead.co.uk/rochdale 
+  - http://www.alzheimers.org.uk 
 
 ---
 
