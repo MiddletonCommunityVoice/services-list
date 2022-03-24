@@ -2,7 +2,7 @@
 title: CommuniTea Café
 draft: false
 tags:
-- Memory cafe
+- Cafe
 areas:
 - Rochdale
 contact:
