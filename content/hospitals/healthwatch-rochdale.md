@@ -24,7 +24,7 @@ contact:
 ### Open from 10am to 4pm, Monday to Friday.  
 If busy, please leave a message and someone will call you back.
 
-**Advice and Information**   is available on the website.0  
+**Advice and Information**   is available on the website.   
 
 **Healthwatch Rochdale** _is your local health and social care champion. We’re here to listen to you online, by email, phone and in person. Speak up, share your experiences of using health and care, and let us make decision makers aware of what needs to change._   
 
