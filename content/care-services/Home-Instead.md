@@ -4,6 +4,7 @@ draft: false
 tags:
 - Adult Care
 - Home Care
+- cafe
 - Companionship
 - Dementia
 - Home Instead
@@ -13,7 +14,9 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Jape One Business Centre, Dell Road, Shawclough,Rochdale
+  - Office at Jape One Business Centre, Dell Road, Shawclough,Rochdale
+  - Cafe at Butterworth Hall, New Street, Milnrow. OL16 PQ
+  - Cafe at Rockers, St Georges Hall, Bury Road, Rochdale. OL11 4ED  
   phone:
   - 01706 408 652
   - 01706 249 100
