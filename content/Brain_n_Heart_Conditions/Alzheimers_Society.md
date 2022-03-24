@@ -11,10 +11,9 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - Butterworth Hall, New Street, Milnrow
   - D'olivera Court, Wood Street,  Langley, Middleton  
   - 585-591, Oldham Road, Rochdale  OL16 4SU  
-  - Butterworth Hall, New Street, Milnrow  
-  - Café's @ Milnrow, Heywood  
   - St. Andrew’s Church, Entwisle Road, Rochdale
   phone:
   - 01706 341 803 Rochdale
