@@ -40,7 +40,7 @@ Also see Brain and Heart Conditions in this directory.
 
 ### Services offered   
 **Bame Womens Wellbeing Social Cafe** at  
-Wardlerowth Community Centre  
+Wardleworth Community Centre  
 South Street. Rochdale.  OL16 2EP  
 Call Sagufta Farhat on 07837 805 205  
 Email: shaguftafarat@rochdalemind.org.uk  
