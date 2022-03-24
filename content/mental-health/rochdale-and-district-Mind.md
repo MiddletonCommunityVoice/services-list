@@ -24,9 +24,9 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - ROCHDALE Mind Wellbeing Centre    3 to 11 Drake Street,  Rochdale  OL16 1RE  
-  - MIDDLETON Wellbeing Centre and Cafe    16a to 18 Wood Street, Middleton  
-  - ROCHDALE    Nye Bevan House, Maclure Rd. Rochdale  
+  - In ROCHDALE The Mind Wellbeing Centre, 3 to 11 Drake Street,  Rochdale  OL16 1RE  
+  - In MIDDLETON The Wellbeing Centre and Cafe,  16a to 18 Wood Street, Middleton  
+  - In ROCHDALE at Nye Bevan House, Maclure Rd. Rochdale  
   - opposite Rochdale Train Station and the tram stop
   phone:
   - 01706 752 338 Rochdale
@@ -36,10 +36,10 @@ contact:
   - Email info@rochdalemind.org.uk  
 ---
 
-## See Brain and Heart Conditions in this directory.
+Also ee Brain and Heart Conditions in this directory.
 
 ### Services offered   
-* Bame Womens Wellbeing Social Cafe at  
+**Bame Womens Wellbeing Social Cafe** at  
 Wardlerowth Community Centre  
 South Street. Rochdale.  OL16 2EP  
 Call Sagufta Farhat on 07837 805 205  
