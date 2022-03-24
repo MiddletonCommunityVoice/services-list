@@ -6,6 +6,7 @@ tags:
 - Home Care
 - Companionship
 - Dementia
+- Home Instead
 areas:
 - Middleton
 - Heywood

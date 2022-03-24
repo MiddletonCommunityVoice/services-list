@@ -8,6 +8,7 @@ tags:
 - Advice and Information
 areas:
 - Milnrow, Rochdale
+- Home Instead
 contact:
   addresses:
   - Butterworth Hall, New Street, Milnrow. OL16 PQ

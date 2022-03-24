@@ -7,6 +7,7 @@ tags:
 - Adult Care
 - Companionship
 - Cafe
+- Home Instead
 areas:
 - Middleton
 - Heywood
