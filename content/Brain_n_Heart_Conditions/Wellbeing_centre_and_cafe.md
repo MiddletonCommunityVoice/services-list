@@ -2,7 +2,7 @@
 title: Rochdale & District Wellbeing Centre & Cafe
 draft: false
 tags:
-- Memory Cafe
+- Cafe
 - Mental Health
 - Wellbeing
 - Self Estime

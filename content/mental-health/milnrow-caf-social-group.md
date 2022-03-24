@@ -2,7 +2,8 @@
 title: Milnrow Café Social Group
 draft: false
 tags:
-- Memory Cafe
+- Cafe
+- Home Instead
 areas:
 - Milnrow, Rochdale
 contact:
