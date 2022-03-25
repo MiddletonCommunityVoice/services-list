@@ -7,7 +7,7 @@ tags:
 - Counselling
 - Activities
 - cafe
-- Computer Course
+- Computer Courses
 - Dance Classes
 - First Aid and CPR
 - Crisis support
