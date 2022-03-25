@@ -7,6 +7,8 @@ tags:
 areas:
 - Nationwide
 contact:
+  Phone:
+  - Online  
   web_addresses:
   - http://www.minded.org.uk
 ---
