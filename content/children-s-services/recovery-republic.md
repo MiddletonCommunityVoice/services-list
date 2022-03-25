@@ -3,6 +3,7 @@ title: Recovery Republic
 draft: false
 tags:
 - Childrens emotions
+- Money advice
 areas:
 - Middleton
 - Heywood
@@ -15,6 +16,10 @@ contact:
   web_addresses:
   - http://www.recoveryrepublic.co.uk
 ---
+
+Email  info@recoveryrepublic.co.uk  
+
+### Open  9am   
 
 ### Services  
 * Emotional wellbeing,

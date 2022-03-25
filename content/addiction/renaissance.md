@@ -3,7 +3,7 @@ title: Renaissance
 draft: false
 tags:
 - Addiction
-- Smoking
+- Stop Smoking
 - Drugs
 - Alcohol
 
