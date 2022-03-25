@@ -3,12 +3,15 @@ title: Papyrus
 draft: false
 tags:
 - Under 18 Mental Health
+- Mental Health
+- Suicide
 areas:
 - Nationwide
 contact:
   phone:
   - 0800 068 4141
   - 0808 802 5544
+  - 07786 20969 Text Line
   web_addresses:
   - http://www.papyrus-uk.org
 ---
