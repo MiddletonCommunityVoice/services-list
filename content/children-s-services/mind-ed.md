@@ -3,6 +3,7 @@ title: Mind-ed
 draft: false
 tags:
 - Childrens emotions
+- Young Peoples Mental Health
 areas:
 - Middleton
 - Heywood
@@ -15,4 +16,5 @@ contact:
 ---
 
 ### Information
-The new emotional health and wellbeing service for young people
+The new emotional health and wellbeing service for young people  
+ONLINE help  
