@@ -11,6 +11,8 @@ tags:
 - Alcohol
 - Stop Smoking
 - addiction
+- Befriending
+- Counselling
 areas:
 - Middleton
 - Heywood
