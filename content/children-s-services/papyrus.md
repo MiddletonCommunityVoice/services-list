@@ -11,8 +11,7 @@ contact:
   Addresses:
   - Bankside 2, Crosfield Street, Warrington. WA1 1UP
   phone:
-  - 0800 068 4141
-  - 0808 802 5544
+  - 0800 068 4141  freephone
   - 07860 039967 Text Line
   - 01925 572 444 Head Office
   - 01925 388 428 NW office
@@ -21,19 +20,18 @@ contact:
 ---
 
 ### Information   
-Help for Children with mental health or emotional issues  
-Fill in website form online    
+Help for Children with mental health or emotional issues   
+Fill in the form online or     
 Email  pat@papyrus-uk.org
 
-NW office Email  northwest@papyrus-uk.org
+NW office Email  northwest@papyrus-uk.org   
 
-### Opening Times
-* Mon to Fri 9.30 til 4pm
-* Fri 10am - 10pm Mon - Fri
-* Sat and Sun   2pm -10pm
+### Head office Opening Times   
+Mon to Fri 9am til 5.15pm
 
-**Suicide Intervention  contact**  
-HOPELINEUK. We are open 9am–midnight every day.   
+### Suicide Intervention  contact  
+**HOPELINEUK**    
+Open every day  9am–midnight      
 0800 068 41 41  
 Text: 07860 039967  
 Email: pat@papyrus-uk.org  
