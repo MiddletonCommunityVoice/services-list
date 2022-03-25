@@ -16,9 +16,9 @@ contact:
 ---
 
 ### Information
-For young men.  Help online
-5pm til midnight, 365 days
-Help after attempted suicide
-Help for friends & family after suicide
-Bereavement after suicide
+* For young men.  Help online  Web chat  
+* 5pm til midnight, 365 days
+* Help after attempted suicide
+* Help for friends & family after suicide
+* Bereavement after suicide
 
