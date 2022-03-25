@@ -3,6 +3,7 @@ title: MERIT team via Pennine
 draft: false
 tags:
 - Mental Health
+- Older People's Mental Health
 - Dementia
 areas:
 - Middleton
@@ -12,13 +13,17 @@ contact:
   addresses:
   - Watergrove Birch Hill Hospital, Birch Road, Rochdale. OL12 9QB
   phone:
-  - 01706 676400
+  - 01706 676400 Rochdale
+  - 0161 716 3000
   web_addresses:
   - https://www.penninecare.nhs.uk/services/hmr-older-peoples-community-mental-health-team
+  - https://www.penninecare.nhs.uk/contact
 ---
 
-### Information
-**Open Mon - Fri 9am - 5pm**
+### Opening Hours   
+Mon - Fri 9am - 5pm   
+
+Referrals to us are made via the older people's single point of entry service. They will screen and direct referrals to the most appropriate service to support you.   
 
 **Referral methods**  
 1. GP  
