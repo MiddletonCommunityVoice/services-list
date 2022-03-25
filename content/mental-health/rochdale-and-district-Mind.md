@@ -24,6 +24,7 @@ areas:
 - Rochdale
 contact:
   addresses:
+  - Wellbeing Centres and cafes in Rochdale and Middleton  
   - In ROCHDALE The Mind Wellbeing Centre, 3 to 11 Drake Street,  Rochdale  OL16 1RE  
   - In MIDDLETON The Wellbeing Centre and Cafe,  16a to 18 Wood Street, Middleton  
   - In ROCHDALE at Nye Bevan House, Maclure Rd. Rochdale  
@@ -95,7 +96,7 @@ At Drake Street, Rochdale
 Call Neil Kerr on 07969 150 018  
 Email neilkerr@rochdalemind.org.uk 
 
-**Moving Faorward    Self Help course  about deparession**   
+**Moving Forward    Self Help course  about deparession**   
 6 week course on Thursdays 10am to 12 midday  
 At Drake Street, Rochdale  
 Call Neil Kerr on 07969 150 018  
