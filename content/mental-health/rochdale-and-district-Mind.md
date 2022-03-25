@@ -36,7 +36,6 @@ contact:
   - Email info@rochdalemind.org.uk  
 ---
 
-Also see Brain and Heart Conditions in this directory.
 
 ### Services offered   
 **Bame Womens Wellbeing Social Cafe** at  
@@ -119,4 +118,14 @@ Email aliceastley@rochdalemind.org.uk
 Contact Alice Astley on 07766 140 904  
 Email aliceastley@rochdalemind.org.uk  
 
+### Opening Times  
+* Wellbeing Centre and Cafe opening times:  
+- Mon, Wed, Thu, Fri open 8.30am to 4pm  
+- Tuesdays 8.30sm to 2pm  
+- Saturdays 9am to 4pm  
+- Closed all day on Sundays  
+
+Breakfast Lite Bites Lunches Sweet Treats Healthy Snacks Coffee Teas Hot Chocolate  Smoothies
+
+Times and food may vary to those at Nye Bevan
 
