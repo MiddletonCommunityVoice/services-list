@@ -18,11 +18,12 @@ areas:
 - Middleton
 contact:
   addresses:
-  - Burnside Crescent, Langley, Middleton
+  - 36, Burnside Crescent, Langley, Middleton. M24 5NN
   phone:
   - 0161 643 5775
   web_addresses:
   - http://www.burnsidecentre.org.uk
 ---
 
-See their website for a list of activies and opening times
+See their website for a list of activies and opening times.
+Times vary depending on the activity.
