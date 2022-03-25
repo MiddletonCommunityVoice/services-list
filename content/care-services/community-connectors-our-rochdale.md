@@ -10,7 +10,6 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Community Connectors at Middleton Health Centre
   - Head Office, Number One Riverside, Smith St  Rochdale. OL16 1XU
   phone:
   - 0300 303 0360
@@ -20,23 +19,19 @@ contact:
 
 ---
 
-### Information
-HEALTH HELP BY THE COMMUNITY CONNECTORS
+### Information  
+Email   adult.care@rochdale.gov.uk   
 
-Help and advice : For Families : 
-For Children: For AdultS
+Help and advice  
+* For Families    
+* For Children    
+* For Adults   
 
-### Information
-Phone the Community Connectors 0300 303 0360
 
-Email : community.connectors@rochdale.gov.uk
+### Information   
+Phone  0300 303 0360   
 
-Drop-in and talk to the Community Connectors
-in Middleton Health Centre.
+Email : community.connectors@rochdale.gov.uk  
 
-Drop-in sessions 
-
-* Tuesdays 8.30 - 12.30
-* Fridays  1pm - 5.30pm
 
 
