@@ -5,7 +5,7 @@ tags:
 - Adult Care
 - Home Care
 - cafe
-- Companionship
+- Befriending
 - Dementia
 - Home Instead
 areas:
