@@ -26,19 +26,18 @@ tags:
 ---
 
 ### Information
-Rochdale Infirmary is open and continues to provide a 
-range of hospital services including a  
+Rochdale Infirmary is open and continues to provide a range of hospital services including a  
 **24/7 Urgent Care Centre (UCC)**,  
-a short stay in-patient 
-- Clinical Assessment Unit, 
-- day surgery, 
-- a specialist Pennine Rheumatology Centre, 
-- x-ray, 
-- blood testing, 
-- antenatal services, 
-- early pregnancy unit,
-- outpatient clinics and 
-- a new eye unit.
+* a short stay in-patient  
+* Clinical Assessment Unit,  
+* day surgery,  
+* a specialist Pennine Rheumatology Centre,  
+* x-ray,  
+* blood testing,  
+* antenatal services,  
+* early pregnancy unit,  
+* outpatient clinics,   
+* a new eye unit.
 
 
 {{< youtube YTqV24NiFAo >}}
