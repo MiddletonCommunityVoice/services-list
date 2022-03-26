@@ -18,19 +18,19 @@ contact:
   - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
 - Hospital with A & E
+- Urgent Care Centre
 - Neurology
 - PALS
-- A and E
 - Complaints
+- Urgent Treatment Centre
 
 ---
 
 ### Information
 
-Fairfield General Hospital is the sole remaining hospital in the
-Metropolitan Borough of Bury, in Greater Manchester. The hospital occupies
-an extensive site to the east of the town of Bury on Rochdale Old Road. It
-is part of the Pennine Acute Hospitals NHS Trust. There is an Accident and
+Fairfield General Hospital is the sole remaining hospital in the Metropolitan Borough of Bury, in Greater Manchester. The hospital occupies an extensive site to the east of the town of Bury on Rochdale Old Road. 
+It is part of the NHS Northern Care Alliance group of hospitals .  
+There is an Accident and
 Emergency department and Maternity Wing. Much of the hospital was
 constructed in the 1970s.
 
