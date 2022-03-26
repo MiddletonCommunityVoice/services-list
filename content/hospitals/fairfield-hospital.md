@@ -12,8 +12,8 @@ contact:
   addresses:
   - Rochdale Old Road, Fairfield, Bury
   phone:
-  - 0161 764 6081
   - 0161 624 0420
+  - 0161 764 6081
   web_addresses:
   - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
@@ -30,12 +30,9 @@ tags:
 
 Fairfield General Hospital is the sole remaining hospital in the Metropolitan Borough of Bury, in Greater Manchester. The hospital occupies an extensive site to the east of the town of Bury on Rochdale Old Road. 
 It is part of the NHS Northern Care Alliance group of hospitals .  
-There is an Accident and
-Emergency department and Maternity Wing. Much of the hospital was
-constructed in the 1970s.
+There is an Accident and Emergency department and Maternity Wing. Much of the hospital was constructed in the 1970s.  
 
-After the closure of Bury General Hospital, off Walmersley Road, all
-services transferred to Fairfield.
+After the closure of Bury General Hospital, off Walmersley Road, all services transferred to Fairfield.
 
 ### Opening Times
 * 24 hour service
