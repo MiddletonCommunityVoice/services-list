@@ -23,6 +23,7 @@ tags:
 - PALS
 - Complaints
 - Urgent Treatment Centre
+- A and E
 
 ---
 
