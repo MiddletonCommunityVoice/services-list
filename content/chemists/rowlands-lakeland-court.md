@@ -5,6 +5,7 @@ tags:
 - Chemist
 - Minor Ailments Service
 - Flu jabs
+- Needle Exchange
 areas:
 - Middleton
 - Heywood
