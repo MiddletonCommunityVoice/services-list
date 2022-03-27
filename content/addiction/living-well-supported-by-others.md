@@ -17,3 +17,5 @@ contact:
   web_addresses:
   - http://www.livingwellrochdale.com 
 ---
+
+Contact Ve Nutter on 01706 924 187
