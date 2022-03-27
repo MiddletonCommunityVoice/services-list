@@ -3,6 +3,7 @@ title: Living Well
 draft: true
 tags:
 - Fibromyalgia
+- Living Well
 areas:
 - Middleton
 - Heywood
