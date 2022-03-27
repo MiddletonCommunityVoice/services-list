@@ -3,6 +3,7 @@ title: NHS Choices
 draft: false
 tags:
 - Cancer Treatments and help
+- NHS Choices
 areas:
 - Middleton
 - Heywood
