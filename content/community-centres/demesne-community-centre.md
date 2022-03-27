@@ -6,6 +6,7 @@ tags:
 - Activities
 - Lets Just Dance for Dementia
 - Nursery
+- Breast Cancer
 areas:
 - Langley
 - Middleton
