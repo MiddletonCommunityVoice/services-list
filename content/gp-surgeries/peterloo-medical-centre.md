@@ -4,7 +4,6 @@ draft: false
 tags:
 - GP Surgery
 - Nurses Services
-- Pharmacy
 areas:
 - Middleton
 contact:
