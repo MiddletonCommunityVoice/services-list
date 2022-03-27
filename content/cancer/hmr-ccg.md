@@ -3,6 +3,7 @@ title: HMR CCG
 draft: false
 tags:
 - Cancer Treatments and help
+- CCG
 areas:
 - Middleton
 - Heywood

@@ -3,6 +3,7 @@ title: HMR CCG
 draft: false
 tags:
 - Governing Body
+- CCG
 areas:
 - Middleton
 - Heywood

@@ -5,6 +5,7 @@ tags:
 - Fibromyalgia
 - Wellbeing
 - health trainers
+- Living Well
 areas:
 - Middleton
 - Heywood
