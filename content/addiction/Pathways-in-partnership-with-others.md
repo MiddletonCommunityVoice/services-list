@@ -9,6 +9,7 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Pathways
 contact:
   addresses:
   - 13 St Chads Crt School Ln Rochdale
