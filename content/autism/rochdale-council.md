@@ -3,6 +3,7 @@ title: Rochdale Council
 draft: false
 tags:
 - Autism
+- Rochdale
 areas:
 - Middleton
 - Heywood
