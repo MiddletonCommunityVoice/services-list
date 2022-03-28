@@ -2,6 +2,7 @@
 title: Alkrington Health Centre by In Health
 draft: false
 tags:
+- Health Centre
 - GP Surgery
 - AAA Screening
 - Audiology
