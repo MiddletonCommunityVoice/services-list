@@ -17,7 +17,7 @@ contact:
   web_addresses:
   - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
-- Hospital with A & E
+- Hospital with A and E
 - Urgent Care Centre
 - Neurology
 - PALS
