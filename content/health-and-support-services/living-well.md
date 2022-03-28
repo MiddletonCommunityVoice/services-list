@@ -7,6 +7,7 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Living Well
 contact:
   addresses:
   - Living Well, Lock 50, Oldham Road, Rochdale

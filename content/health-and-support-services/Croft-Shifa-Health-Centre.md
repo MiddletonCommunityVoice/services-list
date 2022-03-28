@@ -2,6 +2,7 @@
 title:  Croft Shifa Health Centre
 draft: false
 tags:
+- Health Centre
 - Clinic
 - GP Surgery
 - MRI
