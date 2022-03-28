@@ -1,4 +1,0 @@
----
-title: Dermatology
----
-# Dermatology
