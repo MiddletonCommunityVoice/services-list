@@ -1,5 +1,5 @@
 ---
-title: Durford Dermatology Clinic
+title: Durnford Dermatology Clinic
 draft: false
 tags:
 - Dermatology
@@ -10,7 +10,7 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - 113 Long Street, Middleton
+  - Durnford Street Medical Centre, 113 Long Street, Middleton
   phone:
   - 0161 654 6149
   web_addresses:
