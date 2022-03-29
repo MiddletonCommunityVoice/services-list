@@ -2,7 +2,7 @@
 title: Recovery Republic
 draft: false
 tags:
-- Community Centre
+- Community Centres
 - Money advice
 - Housing
 - Wellbeing
