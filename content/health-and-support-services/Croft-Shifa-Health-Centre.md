@@ -34,7 +34,7 @@ Sat / Sun  Closed.
 ### Inspire Medical Centre Opening Times  
 Mon to Fri 8am to 6.30pm   
 Sat / Sun  Closed.   
-01706 664160 Inspire 
+01706 664160 Inspire  
 
 Different times for all other services.  
 Dentist  
