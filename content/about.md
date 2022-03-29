@@ -17,4 +17,4 @@ or send a  **TEXT MESSAGE ONLY to 0797 070 8448.**   VOICEMAILS will not be acte
 
 # SCROLL down  
 ## to access our directory by category.  
-- Please remember to click on the service providers name if you want to see the full listing.
+**Please remember to click on the service providers name if you want to see the full listing.**
