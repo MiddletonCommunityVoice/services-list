@@ -17,8 +17,9 @@ contact:
 ### Information Online  
 
 **Lots of info online.  Look at this list.**   
-*Retirement housing   
-*Assisted living/extra care housing   
+
+* Retirement housing   
+* Assisted living/extra care housing   
 * Retirement villages   
 * Close care housing   
 * Available to rent   
@@ -30,6 +31,7 @@ contact:
 * Other property directories   
 
 **Home Services**  
+
 * Small repairs and odd jobs   
 * Domestic help   
 * Meals delivery   
