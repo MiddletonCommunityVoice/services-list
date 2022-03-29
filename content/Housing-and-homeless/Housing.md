@@ -16,28 +16,28 @@ contact:
 
 ### Information Online  
 
-**Lots of info online.  Look at this list.**
-* Retirement housing
-* Assisted living/extra care housing
-* Retirement villages
-* Close care housing
-* Available to rent
-* Available to buy
-* New sales
-* Housing and care home providers
-* HousingCare abroad
-* Featured accomodation
-* Other property directories
+**Lots of info online.  Look at this list.**   
+* Retirement housing   
+* Assisted living/extra care housing   
+* Retirement villages   
+* Close care housing   
+* Available to rent   
+* Available to buy    
+* New sales   
+* Housing and care home providers   
+* Housing Care abroad   
+* Featured accomodation   
+* Other property directories   
 
 **Home Services**  
-* Small repairs and odd jobs
-* Domestic help
-* Meals delivery
-* All services
+* Small repairs and odd jobs   
+* Domestic help   
+* Meals delivery   
+* All services   
 
 **IND A CARE/NURSING HOME**  
 
-* Residential care homes
-* Nursing homes
+* Residential care homes   
+* Nursing homes   
 
-Lots more to read and look at.
+Lots more to read and look at.   
