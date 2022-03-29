@@ -4,14 +4,12 @@ draft: false
 tags:
 - Alzheimers
 - Dementia
-- Cafe
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Butterworth Hall, New Street, Milnrow
   - D'olivera Court, Wood Street,  Langley, Middleton  
   - 585-591, Oldham Road, Rochdale  OL16 4SU  
   - St. Andrew’s Church, Entwisle Road, Rochdale
