@@ -14,6 +14,7 @@ tags:
 - addiction
 - Befriending
 - Counselling
+- Recovery Republic
 areas:
 - Middleton
 - Heywood
