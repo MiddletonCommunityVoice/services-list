@@ -5,20 +5,16 @@ tags:
 - Health Centre
 - Clinic
 - GP Surgery
-- MRI
-- Dentist
-- Eye clinic
-- Health visitors
-- Pharmacy
+- To be added
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  - Heywood
+  - Church St, Heywood OL10 1LR
   phone:
-  - 01706 
+  - 01706 676700
   web_addresses:
   - Various
 ---
@@ -26,24 +22,12 @@ contact:
 ### Information  
 There are GP services and also various clinics   
 
-### Dr Babar and partners surgery Opening times   
+### Dosctors Opening times   
 Mon to Fri 8am to 6.30pm   
-Sat / Sun  Closed.   
-01706 671560   
-
-### Inspire Medical Centre Opening Times  
-Mon to Fri 8am to 6.30pm   
-Sat / Sun  Closed.   
-01706 664160 Inspire 
+Sat / Sun  Closed.  
 
 Different times for all other services.  
-Dentist  
-Pharmacy   
+ 
 
 **InHealth Group offer**   
-MRI services.   
-
-**Connect Health**   
-* Offer Occupational Health and Physiotherapy serices.  
-* MSK Services: 0330 174 1398   
-* Pain Management: 0800 0340 406   
+services to be added   
