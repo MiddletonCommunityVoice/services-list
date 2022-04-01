@@ -5,45 +5,39 @@ tags:
 - Health Centre
 - Clinic
 - GP Surgery
-- MRI
 - Dentist
-- Eye clinic
-- Health visitors
 - Pharmacy
+- Opticia
+- Physiotherapy
+- Sexual Health
+- Podiatry
+- Audiology
+- Breast Screening
+- Community Paediatric
+- Childrens Orthopaedics
+- Adolenescent Orthopaedics
 areas:
 - Middleton
 - Heywood
 - Rochdale
 contact:
   addresses:
-  -  Rochdale. OL16 
+  - Nye Bevan House, Maclure Road, Rochdale OL11 1DN
   phone:
-  - 01706 
+  - 01706 664365 
   web_addresses:
   - Various
 ---
 
 ### Information  
-There are GP services and also various clinics   
+There are 4 GP services and also various clinics and services. A pharmacy and an opticians.   A cafe.
+Car parking is difficult.      
 
-### Dr Babar and partners surgery Opening times   
+### Doctors opening hours are;      
 Mon to Fri 8am to 6.30pm   
-Sat / Sun  Closed.   
-01706 671560   
+Sat / Sun  Closed.     
 
-### Inspire Medical Centre Opening Times  
-Mon to Fri 8am to 6.30pm   
-Sat / Sun  Closed.   
-01706 664160 Inspire 
-
-Different times for all other services.  
-Dentist  
-Pharmacy   
+Different times for all other services.   
 
 **InHealth Group offer**   
-MRI services.   
-
-**Connect Health**   
-* Offer Occupational Health and Physiotherapy serices.  
-* MSK Services: 0330 174 1398   
-* Pain Management: 0800 0340 406   
+services.  to be added.  
