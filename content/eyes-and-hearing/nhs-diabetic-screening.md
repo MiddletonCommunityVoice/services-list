@@ -1,8 +1,9 @@
 ---
-title: NHS Diabetic Eye Screening
+title: NHS Diabetic Eye Screening Appointments
 draft: false
 tags:
-- Diabetic eye screening
+- Diabetic Eye Appointments
+- NHS Diabetic Eye Screening
 areas:
 - Middleton
 - Heywood
