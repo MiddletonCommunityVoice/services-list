@@ -4,8 +4,9 @@ draft: false
 tags:
 - GP Surgery
 - Nurses Services
-- Adiology
+- Audiology
 - Dermatology
+- clinic
 areas:
 - Middleton
 - Heywood
