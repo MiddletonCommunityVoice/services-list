@@ -1,5 +1,5 @@
 ---
-title: Alkrington Health Centre by In Health
+title: Alkrington Health Centre
 draft: false
 tags:
 - Health Centre
@@ -30,16 +30,20 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - In Health, Alkrington Health Centre,
-  - Hardfield Road, Alkrington, Middleton
+  - Alkrington Health Centre, In Health,
+  - Hardfield Road, Alkrington, Middleton   
+  - Also The Junction / Alkrington Practice
   phone:
-  - 01706 261 800
+  - 0161 271 3030 GP
+  - 01706 261 800 In Health
   - 0333 202 0300 General Practice
   - 0333 202 0297 Referer Line
   - 0333 200 2064 Private Patients line
   - 0333 202 0300 Customer Care line
   web_addresses:
+  - http://www.junctionsurgery.nhs.uk
   - https://www.inhealthgroup.com/location/alkrington-health-centre/
+  
 ---
 ## Our Services  
 
