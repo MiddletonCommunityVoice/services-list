@@ -56,8 +56,8 @@ Web: www.inspiremedicalcentre.co.uk
 * Referal Line  0333 202 0297   
 * Private Patients   0333 200 2064
 * website   https://www.inhealthgroup.com/location/croft-shifa-health-centre/   
-* Email  Email complaints@inhealthgroup.com
-Many services. See the website   
+* Email  Email complaints@inhealthgroup.com   
+* Many services. See the website   
 
 **Connect Health**   
 * Offer Occupational Health and Physiotherapy serices.  
