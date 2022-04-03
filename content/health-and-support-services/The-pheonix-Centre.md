@@ -20,14 +20,12 @@ contact:
 ---
 
 ### Information  
-There are GP services and also various clinics   
+There are GP services and also various clinics.   
+All operate at different times.      
 
-### Dosctors Opening times   
+### All Doctors Opening times   
 Mon to Fri 8am to 6.30pm   
 Sat / Sun  Closed.  
-
-Different times for all other services.  
- 
 
 **InHealth Group offer**   
 services to be added   

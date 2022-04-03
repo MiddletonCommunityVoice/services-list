@@ -29,15 +29,15 @@ contact:
   - Various
 ---
 
-### Information  
+**Different times for all services**     
+
+### Nye Bevan Information  
 There are 4 GP services and also various clinics and services. A pharmacy and an opticians.   A cafe.
 Car parking is difficult.      
 
-### Doctors opening hours are;      
+### All Doctors opening hours are;      
 Mon to Fri 8am to 6.30pm   
 Sat / Sun  Closed.     
 
-Different times for all other services.   
-
 **InHealth Group offer**   
-services.  to be added.  
+services need to be added.  
