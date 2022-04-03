@@ -23,7 +23,7 @@ contact:
   - Various
 ---
 
-### Information  
+### The Phoenix Centre Information  
 There are GP services and also various clinics.   
 All operate at different times.      
 
@@ -41,7 +41,7 @@ Mon to Fri 8am to 6.30pm
 Sat / Sun  Closed.  
 0161 653 8673   
 This service also operates at Ashoworth St Surgery     
-and at Durnford St Medical Centre
+and at Durnford St Medical Centre   
 
 **InHealth Group offer**   
 Various screening services.  See website   
