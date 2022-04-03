@@ -4,8 +4,12 @@ draft: false
 tags:
 - GP Surgery
 - Nurses Services
+- Adiology
+- Dermatology
 areas:
 - Middleton
+- Heywood
+- Rochdale
 contact:
   addresses:
   - 113 Long Street, Middleton
