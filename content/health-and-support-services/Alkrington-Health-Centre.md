@@ -34,31 +34,32 @@ contact:
   - Hardfield Road, Alkrington, Middleton   
   - Also The Junction / Alkrington Practice
   phone:
-  - 0161 271 3030 GP
-  - 01706 261 800 In Health
+  - 01706 261 800
   - 0333 202 0300 General Practice
   - 0333 202 0297 Referer Line
   - 0333 200 2064 Private Patients line
   - 0333 202 0300 Customer Care line
+  - 0161 271 3030 Junction GP
   web_addresses:
-  - http://www.junctionsurgery.nhs.uk
   - https://www.inhealthgroup.com/location/alkrington-health-centre/
+  - http://www.junctionsurgery.nhs.uk
   
 ---
-## Our Services  
+
+**Also see GP Surgeries**   
+
+## In Health Services  
 
 InHealth are providers of diagnostic and healthcare services to the NHS and Private providers.  Through our range of Radiology Services, Pathway Services and Screening Services, we see more than 3 million patients a year across the UK.
 
-Our primary goal is to make healthcare better by providing rapid and accurate assessment of every patient’s condition, enabling the right treatment to be delivered swiftly and effectively by specialist providers.
+Our primary goal is to make healthcare better by providing rapid and accurate assessment of every patient’s condition, enabling the right treatment to be delivered swiftly and effectively by specialist providers.   
 
 ### Information
-Various services
+Various and many services. See website   
 
 ### Opening Times
 *Mon to Fri 8am to 6.30pm*   
-
 *Closed Sat and Sun*   
-
 *2nd Thursday of each month open 8am to 1pm*  
 
 ## Out of hours Services   
@@ -78,7 +79,7 @@ InHealth Group
 Beechwood Hall, Kingsmead Road  
 High Wycombe  
 Bucks  HP11 1JL  
-01494 560000
+01494 560000   
 
 InHealth Patient   
 **Referral Centre**  
