@@ -1,5 +1,5 @@
 ---
-title:  The Pheonix Centre Health Centre
+title:  The Phoenix Centre Health Centre
 draft: false
 tags:
 - Health Centre
@@ -33,6 +33,7 @@ Saturday 8am to 6pm
 Sunday   10am to 1pm   
 Phone  0161 763 8292 for appointments   
 Service operated jointly by BARDOC and GP Care Services   
+Website  http://bardoc.co.uk/7-day-access-service/  
 
 ### GP's by Durnford Health Care Ltd  
 Opening times   

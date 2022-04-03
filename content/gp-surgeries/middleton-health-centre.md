@@ -4,6 +4,7 @@ draft: false
 tags:
 - GP Surgery
 - Nurses Services
+- GP 7 day Access Extra Hours Hubs
 areas:
 - Middleton
 contact:
@@ -18,10 +19,17 @@ contact:
 ### Information
 Various services
 
-### Opening Times
+### Middleton Health Centre Opening Times   
 *Mon to Fri 8am to 6.30pm*
+*Closed Sat and Sun*   
 
-*Closed Sat and Sun*
+### 7 day access out hours service   
+Operated by BARDOC   
+Mon to Fri  6.30pm to 9pm   
+Saturday  8am to 6pm   
+Sunday  10am to 7pm.
+Phone 0161 763 8292  Phone for appointments   
+Website  http://bardoc.co.uk/7-day-access-service/   
 
 ## Out of hours Services
 - Use the 7 day access service.
