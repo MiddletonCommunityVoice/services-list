@@ -37,7 +37,7 @@ Phone  01706 619502
 **KLM Orthodontics**   
 Phone  01706 664361   
 
-**Croft Shifa Denatl Practice**   
+**Croft Shifa Dental Practice**   
 Phone 01706 764 738   
 
 **The Hub+ Pharmacy**   
