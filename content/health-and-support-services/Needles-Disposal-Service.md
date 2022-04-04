@@ -7,14 +7,14 @@ areas:
 - Middleton
 contact:
   Addresses:
+  - The Recycling Centre, Springvale, Middleton M24 2HQ
   - Alkrington Health Centre, Hardfield Road, Alkrington, Middleton. M24 1PQ
-  - Also The Recycling Centre, Springvale, Middleton M24 2HQ
   Phone:
-  - 0161 271 3030 Option 2
   - 0161 654 6614 Springvale
+  - 0161 271 3030 Option 2
   web_addresses:
-  - https://www.junctionsurgery.nhs.uk/
   - http://www.rochdale.gov.uk/recycling-and-bins/Pages/waste-and-recycling-sites.aspx
+  - https://www.junctionsurgery.nhs.uk/
 
 ---
 
@@ -27,8 +27,7 @@ to Alkrington Health Centre
 
 ### OR
 
-**Springvale** will only accept boxes from  
-individuals  and will  **NOT** accept commercial /
-businesses waste such as needles from Tatoo Parlours.  
+**Springvale Recycling Centre**   
+They will only accept boxes from individuals  and will  **NOT** accept commercial / businesses waste such as needles from Tatoo Parlours.  
 - 0161 654 6614
  
