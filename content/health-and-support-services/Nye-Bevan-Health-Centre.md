@@ -7,6 +7,8 @@ tags:
 - GP Surgery
 - Dentist
 - Pharmacy
+- ENT
+- MRI
 - Opticia
 - Physiotherapy
 - Occupational Health
@@ -54,4 +56,16 @@ MSK Services phone 0330 174 1398
 Open Mon to Fri  from 9am to 5pm   
 
 **InHealth Group offer**   
-services need to be added.  
+* ENT   
+* MRI   
+* Audiology   
+Phone 01706 261 800   
+General Patient Line 0333 202 0300   
+Referal Line 0333 202 0297   
+Private Patients 0333 200 2064
+
+**Virgin Care**  Sexual Health Services.   
+Phone 0300 3038565   
+Website:   www.sexualhealthrochdale.co.uk   
+Clinic and time phone 01706 676460   
+
