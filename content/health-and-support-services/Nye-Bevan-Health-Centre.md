@@ -64,8 +64,12 @@ General Patient Line 0333 202 0300
 Referal Line 0333 202 0297   
 Private Patients 0333 200 2064
 
-**Virgin Care**  Sexual Health Services.   
+**NHS Pennine Accute**  Sexual Health Services   
 Phone 0300 3038565   
-Website:   www.sexualhealthrochdale.co.uk   
-Clinic and time phone 01706 676460   
 
+**Virgin Care**  Sexual Health Services.   
+Website:   www.sexualhealthrochdale.co.uk   
+For clinic and times phone 01706 676460   
+
+**Care Services**  Dentist   
+Phone 01706 261830
