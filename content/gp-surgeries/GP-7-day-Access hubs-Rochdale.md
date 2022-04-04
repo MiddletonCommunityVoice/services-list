@@ -2,7 +2,7 @@
 title: GP 7 day Access Hubs Rochdale
 draft: false
 tags:
-- GP 7 day Access Extra Hours Hubs
+- GP 7 day Access Extra Hours Rochdale
 - Nurses Services
 areas:
 - Middleton
@@ -33,6 +33,6 @@ Book appointments via your GP or phone directly
 - Sat & bank hols 8am - 6pm
 - Sun 10am - 1pm
 
-### SEE
+### ALSO SEE
 - GP Surgeries
 - Emergency Services
