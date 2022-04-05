@@ -10,7 +10,6 @@ areas:
 contact:
   addresses:
   - Children's Acute and Ongoing Needs Service Callaghan House Cross Street Heywood OL10 2DY
-  - Callaghan House, Green Lane, Heywood. OL10 2DY
   phone:
   - 01706 676777
   web_addresses:
