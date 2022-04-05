@@ -16,6 +16,7 @@ contact:
   - Pennine Surgery, Littleborough Health Centre
   phone:
   - 0161 763 8292
+  - 01706 248661
   Web_Addresses:
   - http://bardoc.co.uk/7-day-access-service/
   - http://www.gpcareservices.co.uk/7-day-access
