@@ -29,7 +29,7 @@ contact:
   phone:
   - 01706 664365 
   web_addresses:
-  - Various
+  - See information
 ---
 
 
@@ -47,6 +47,19 @@ Telephone:01706 397666
 Prescription Line:01706 397665   
 Fax:01706 397667   
 Out of Hours:01706 397666   
+
+**Dr Hamid**   
+2nd floor   
+Phone 01706 396210   
+
+**The Dale Medical Practice**
+2nd floor   
+Phone 01706 396299   
+
+**Dr Bhima Surgery**   
+1st floor   
+Phone 01706 664150   
+
 
 **Connect Health**   *Restricted Access*   
 Physiotherapy   
