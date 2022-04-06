@@ -19,7 +19,7 @@ $color-secondary: #606c76 !default
 $color-tertiary: #f4f5f6 !default
 $color-quaternary: #d1d1d1 !default
 $color-quinary: #e1e1e1 !default
-
+$color-tag: thistle
 
 @import 'milligram'
 
@@ -33,20 +33,20 @@ header
 
   h1.title
     font-weight: bold
+    margin: auto
 
 .button-tag
-  background-color: $color-yellow
-  border-color: $color-yellow
+  background-color: $color-tag
+  border-color: $color-tag
   color: black
-  font-size: xx-small
+  font-size: small
   padding: 0rem 1rem
 
   a
     color: black
 
   &:hover
-    background-color: darken($color-yellow, 15%)
-    border-color: darken($color-yellow, 15%)
+    background-color: lighten($color-tag, 8%)
     color: black
 
 .card
@@ -97,9 +97,7 @@ header
 
 ul.tags
   list-style-type: none
-
-  li
-    display: inline
+  columns: 2
 
 footer > .row
   border-top: 1px solid $color-border

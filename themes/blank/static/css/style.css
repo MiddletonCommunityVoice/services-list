@@ -459,19 +459,19 @@ header {
   border-bottom: 1px solid #d1d1ae;
   margin-bottom: 2rem; }
   header h1.title {
-    font-weight: bold; }
+    font-weight: bold;
+    margin: auto; }
 
 .button-tag {
-  background-color: #f4e842;
-  border-color: #f4e842;
+  background-color: thistle;
+  border-color: thistle;
   color: black;
-  font-size: xx-small;
+  font-size: small;
   padding: 0rem 1rem; }
   .button-tag a {
     color: black; }
   .button-tag:hover {
-    background-color: #ddcf0d;
-    border-color: #ddcf0d;
+    background-color: #e7d8e7;
     color: black; }
 
 .card {
@@ -505,9 +505,8 @@ header {
   list-style: none; }
 
 ul.tags {
-  list-style-type: none; }
-  ul.tags li {
-    display: inline; }
+  list-style-type: none;
+  columns: 2; }
 
 footer > .row {
   border-top: 1px solid #d1d1ae;
