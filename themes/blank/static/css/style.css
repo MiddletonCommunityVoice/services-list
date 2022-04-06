@@ -455,10 +455,11 @@ html {
   background-color: #f6f6ef; }
 
 header {
-  padding: 0rem 2rem;
+  padding: 0rem 10rem;
   border-bottom: 1px solid #d1d1ae;
   margin-bottom: 2rem; }
   header h1.title {
+    max-width: 112rem;
     font-weight: bold;
     margin: auto; }
 
@@ -479,17 +480,20 @@ header {
   padding: 2rem 3rem;
   overflow-x: auto;
   border-radius: 5px; }
-  .card dt {
-    font-weight: 500; }
-  .card dd, .card p, .card li, .card a {
-    font-weight: 400; }
-  .card.compact {
-    padding: 1rem 2rem;
-    margin: 1.5rem; }
-    .card.compact a {
-      font-weight: bolder; }
-  .card.contact {
-    margin-bottom: 1rem; }
+
+.disclaimer h2 {
+  font-size: 2rem; }
+.disclaimer dt {
+  font-weight: 500; }
+.disclaimer dd, .disclaimer p, .disclaimer li, .disclaimer a {
+  font-weight: 400; }
+.disclaimer.compact {
+  padding: 1rem 2rem;
+  margin: 1.5rem; }
+  .disclaimer.compact a {
+    font-weight: bolder; }
+.disclaimer.contact {
+  margin-bottom: 1rem; }
 
 .directory ul {
   list-style: none; }

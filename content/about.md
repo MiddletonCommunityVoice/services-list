@@ -1,21 +1,20 @@
 ---
 title: Disclaimer
 ---
-# THIS DIRECTORY IS ALWAYS BEING UPDATED.  
 
-## THE NEXT MEETING WILL BE TUESDAY 12th, APRIL, STARTING AT 11am AT THE LIGHTHOUSE, 2nd floor, MIDDLETON SHOPPING CENTRE  
-EASY ACCESS FOR DISABLED PEOPLE.
+This directory is always being updated.
+
+The next meeting will be Tuesday 12th April at 11am at The Lighthouse Project, 2nd floor, Middleton Shopping Centre.
+There is easy access for disabled people.
 
 ## DISCLAIMER
+
 This directory has been compiled from many public sources, online & from printed materials. Services come and go, some  just change name without notice.  it's impossible to  maintain 100% accuracy.  For this reason we cannot accept any responsibility or liabiltity for any errors or ommissions.  Nor do we endorse any of the services.
 
-If you find any errors, Please send an email to [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com),  
-or send a  **TEXT MESSAGE ONLY to 0797 070 8448.**   VOICEMAILS will not be acted upon.
+If you find any errors, Please send an email to [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com), or send a  text message to 0797 070 8448. **Voicemails will not be acted upon**.
 
-### Please use the A to Z search by using the Tags. It's quicker.   
+[Use the tags to easily find services](/tags).
 
-### [Use the tags](/tags) to easily find services.
+**Scroll down to access our directory by category.**
 
-# SCROLL down  
-## to access our directory by category.  
 **Please remember to click on the service providers name if you want to see the full listing.**
