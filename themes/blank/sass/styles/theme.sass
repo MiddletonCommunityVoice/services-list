@@ -102,7 +102,16 @@ header
 
 ul.tags
   list-style-type: none
-  columns: 2
+
+  li
+    display: inline
+
+
+  &.full-list
+    columns: 2
+
+    li
+      display: block
 
 footer > .row
   border-top: 1px solid $color-border
