@@ -1,16 +1,9 @@
-	<footer class="container">
-		<div class="row">
-			<div class="column column-offset-25 column-10">
-				<a href="/about">Disclaimer</a>
+		<footer class="container">
+			<div class="row">
+				<div>
+					&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+				</div>
 			</div>
-			<div class="column column-33">
-				&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-
-			</div>
-			<div class="column column-10">
-				<a href="https://github.com/MiddletonCommunityVoice/services-list">Contribute</a>
-			</div>
-		</div>
-	</footer>
-</body>
+		</footer>
+	</body>
 </html>
