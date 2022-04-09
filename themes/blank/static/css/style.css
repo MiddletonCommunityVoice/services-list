@@ -1,5 +1,6 @@
 :root {
   --background: floralwhite;
+  --button: seagreen;
 }
 
 html, body {
@@ -51,9 +52,28 @@ a:hover {
   }
 }
 
+a.button {
+  display: inline-block;
+  background: seagreen;
+  color: white;
+  padding: 1em;
+  margin-block: 1em;
+  text-decoration: none;
+}
+
+a.button:hover {
+  text-decoration: underline .1em;
+  filter: brightness(110%);
+}
+
+a.button:focus {
+  background: yellow;
+  color: black;
+  outline: 2px solid black;
+}
+
 .card {
   padding: 0.2em 1em;
-  background: var(--card);
 }
 
 .tags {
