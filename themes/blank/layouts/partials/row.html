@@ -3,7 +3,7 @@
 
 		{{ if .Params.Tags }}
 			{{ $ft := index .Params.Tags 0 }}
-			<a class="button button-tag" href="/tags/{{ urlize $ft }}">
+			<a class="tag" href="/tags/{{ urlize $ft }}">
 				{{ $ft }}
 			{{ end }}
 			</a>
@@ -20,7 +20,7 @@
 	</td>
 	<td>
 		{{ if .Params.contact.web_addresses }}
-		<a class="button button-outline" target="_blank" href="{{ index .Params.contact.web_addresses 0 }}" title="{{ index .Params.contact.web_addresses 0 }}">
+		<a target="_blank" href="{{ index .Params.contact.web_addresses 0 }}" title="{{ index .Params.contact.web_addresses 0 }}">
 			Website
 		</a>
 		{{ end }}

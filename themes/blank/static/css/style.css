@@ -72,13 +72,13 @@ a:hover {
   margin: 1em;
 }
 
-.button-tag {
+.tag {
   background: mistyrose;
   padding: .3em;
   color: black;
 }
 
-.button-tag:hover {
+.tag:hover {
   background: pink;
 }
 
@@ -121,7 +121,7 @@ tr + tr {
     margin-top: 2.5em;
   }
 
-  tr .button-tag {
+  tr .tag {
     display: none;
   }
 }

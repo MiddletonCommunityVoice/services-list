@@ -45,7 +45,7 @@ search.addWidget(
 
     templates: {
       empty: 'No results',
-      item: '<li class="card"><a href="{{uri}}">{{{_highlightResult.title.value}}}</a> <ul class="tags">{{#tags_snakecase}}<li class="tag"><a class="button button-tag" href="/tags/{{.}}">{{{.}}}</a></li>{{/tags_snakecase}}</ul>{{{_highlightResult.content.value}}}</li>'
+      item: '<li class="card"><a href="{{uri}}">{{{_highlightResult.title.value}}}</a> <ul class="tags">{{#tags_snakecase}}<li class="tag"><a class="tag" href="/tags/{{.}}">{{{.}}}</a></li>{{/tags_snakecase}}</ul>{{{_highlightResult.content.value}}}</li>'
     }
   })
 );
