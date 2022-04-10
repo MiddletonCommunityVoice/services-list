@@ -10,24 +10,26 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - D'olivera Court, Wood Street,  Langley, Middleton  
-  - 585-591, Oldham Road, Rochdale  OL16 4SU  
-  - St. Andrew’s Church, Entwisle Road, Rochdale
+  - 1 to 1 services offered now.
   phone:
-  - 01706 341 803 Rochdale
-  - 0300 222 1122 North West
-  - 0161 342 0797
-  - 01706 357 785
-  - 01706 751 838
-  - 0333 150 3456  National
+  - 0333 150 3456 Dementia Connect
   web_addresses:
+  - https://wwww.dementia.connect@alzheimers.org.uk
+  - https://www.alzheimers.org.uk/get-support
   - http://www.alzheimers.org.uk
   - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=YG67dYSirkk
 
 ---
 
-### Information
-  OPENING TIMES
+### Information   
+Dementia Connect and local Dementia Advisers deliver 1-2-1 support for people worried about their memories or are going through the diagnosis process; or who have been diagnosed with dementia or mild cognitive impairment.   
+
+Alzheimer’s Society*. Group support for people living with dementia and their carers is offered by us through the more frequent (twice weekly) Singing for the Brain sessions in Castleton.   
+
+For carers of people living with dementia through the regular Carers Information and Support Programmes – CrISP 1 & 2 (see attached example flyer for CrISP 1). CrISP1 supports carers of people living with dementia after a diagnosis in the family; and CrISP 2 supports carers of people living with dementia who are further on in their dementia journey.   
+
+ 
+## OPENING TIMES
 8am to 10pm every day  (except Christmas Day)  
   0333 150 3456  
 
@@ -37,13 +39,10 @@ boroughs too
 ### Phonne numbers
 Dementia Connect support line on   0333 150 3456  
 Supporter Care team on   0330 333 0804  
-also 07718 115 700.   For carers only  
-  01706 370 034  ??  
-  Contact Mike Tomkinson   07582 954 228  
-  Also 07718 113 415 or 01706 752 838
 
-### Opening Times at these locations
-* 1.30 - 3pm   Last Wed each month at D'Oivera  
-* 1.30 - 3.30  2nd Wed each month at Rochdale  
-* 1.30 - 3.30  2nd Wed  at Milnrow  
-* 1.30 to 330  1st Tue each month at Rochdale  
+also 07718 115 700 ??   
+For carers only 01706 370 034  ??  
+Contact Mike Tomkinson   07582 954 228  ??
+Also 07718 113 415 or 01706 752 838  ?? 
+01706 341 803 Rochdale   ??
+0300 222 1122 North West  ??
