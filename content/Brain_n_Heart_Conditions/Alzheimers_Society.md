@@ -25,8 +25,7 @@ contact:
 ### OFFICE OPENING TIMES
 9am to 4.30pm Mon to Fri     0333 150 3456  
 
-vers all of Heywood.Middleton & Rochdale
-boroughs too
+
 ### Information   
 Dementia Connect and local Dementia Advisers deliver 1-2-1 support for people worried about their memories or are going through the diagnosis process; or who have been diagnosed with dementia or mild cognitive impairment.   
 
@@ -47,8 +46,8 @@ Dementia Connect support line on   0333 150 3456
 Supporter Care team on   0330 333 0804  
 
 also 07718 115 700 ??   
-For carers only 01706 370 034  ??  
-Contact Mike Tomkinson   07582 954 228  ??
-Also 07718 113 415 or 01706 752 838  ?? 
-01706 341 803 Rochdale   ??
-0300 222 1122 North West  ??
+For carers only 01706 370 034  ??   
+Contact Mike Tomkinson   07582 954 228  ??   
+Also 07718 113 415 or 01706 752 838  ??   
+01706 341 803 Rochdale   ??   
+0300 222 1122 North West  ??   
