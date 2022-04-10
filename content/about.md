@@ -13,6 +13,6 @@ This directory has been compiled from many public sources, online & from printed
 
 If you find any errors, please send an email to [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com), or send a  text message to 0797 070 8448. **Voicemails will not be acted upon**.
 
-<a href="/tags" class="button">Use the tags to easily find services</a>
+<a href="/tags" class="button">Use the A to Z tags for an easy search of services</a>
 
 ## Directory
