@@ -2,6 +2,7 @@
 title: Your Trust  ex Link4life
 draft: false
 tags:
+- Childrens Sports
 - Junior Skills
 - Disability Sports
 - Doorstep Sports Club
@@ -14,8 +15,11 @@ areas:
 contact:
   addresses:
   - Number One, Riverside Smith Street,  Rochdale
+  - Middleton Arena, LCpl Joel Halliwell VC Way, Middleton
+  - Heywood Sports Village
+  - Littleborough Sports
   phone:
-  - 0845 602 4993
+  - 0161 662 4000
   web_addresses:
   - http://yourtrust.org/
   - http://link4life.org/
@@ -24,13 +28,26 @@ contact:
 ### Information   
 * Disabled Sports 01706 926 203   
 * Middleton Arena on 0161 662 4000   
-* Bowlee Park Sports Centre   
+* Bowlee Park Sports Centre   0161 716 2840   
 * Bowlee Park Football Fields   
-* Heywood Sports Village  07527 385 767  
+* Heywood Sports Village  0161 662 4200   
+* Littleborough Sports  01706 901 822   
+
+
+**Middleton Arena**   
+LCpl Joel Halliwell VC Way,  Middleton   
+0161 662 4000   
 
 **Doorstep Sports Club**  
 Heywood Sports Village  
 For 12 to 17 year olds   
 Friday Nights   
 Contact Diane Higgins   
+07527 385 767   
 
+
+  
+  
+  - 01706 924 840 
+  - 01706 926 232
+  - 0845 602 4993
