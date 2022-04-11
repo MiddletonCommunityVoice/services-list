@@ -23,11 +23,6 @@ contact:
   web_addresses:
   - https://www.northerncarealliance.nhs.uk/bury-care-orgaisation
 
-tags:
-- Neurology
-- PALS
-- Complaints
-- A and E
 
 ---
 
