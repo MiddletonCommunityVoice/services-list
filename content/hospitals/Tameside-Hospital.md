@@ -11,7 +11,8 @@ contact:
   phone:
   - 0161 922 6000
   web_addresses:
-  - https://www.tamesidehospital.nhs.uk/
+  - https://tamesideandglossopicft.nhs.uk/
+  
 tags:
 - Hospital with A & E
 - Neurology
