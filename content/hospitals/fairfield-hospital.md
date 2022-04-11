@@ -18,11 +18,10 @@ contact:
   - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
 tags:
 - Hospital with A and E
-- Urgent Care Centre
+- Urgent Treatment Centre
 - Neurology
 - PALS
 - Complaints
-- Urgent Treatment Centre
 - A and E
 
 ---
