@@ -17,7 +17,7 @@ contact:
   - https://www.northerncarealliance.nhs.uk/rochdale-care-organisation
   
 tags:
-  - Hospital with Urgent Care Centre
+  - Hospital with Urgent Treatment Centre
   - Rheumatology
   - Antenatal Services
   - Eye Surgery
