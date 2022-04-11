@@ -2,7 +2,7 @@
 title: Walk in Centres
 draft: false
 tags:
-- Walk in Centres
+- Walk in Centre
 areas:
 - Manchester
 - Middleton
