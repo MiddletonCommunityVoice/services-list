@@ -15,7 +15,8 @@ contact:
   - 0161 624 0420 Main
   - 0161 604 5897  PALS
   web_addresses:
-  - http://www.pat.nhs.uk/our-hospitals/the-royal-oldham-hospital/
+  - https://www.northerncarealliance.nhs.uk/oldham-care-organisation
+  
 tags:
 - Hospital with A & E
 - Maternity
