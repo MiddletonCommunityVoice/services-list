@@ -16,13 +16,7 @@ contact:
   - Littleborough Sports
   - Number One Riverside, Smith Street, Rochdale
   phone:
-  - 0161 662 4000 Middleton
-  - 0161 662 4200 Heywood
-  - 0161 716 2840 Bowlee
-  - 01706 901 822 Littleborough
-  - 01706 924 840 
-  - 01706 926 232
-  - 0845 602 4993
+  - 
   web_addresses:
   - https://yourtrust.org
   - https://link4life.org
