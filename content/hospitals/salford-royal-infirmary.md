@@ -13,7 +13,7 @@ contact:
   - https://www.northerncarealliance.nhs.uk/salford-care-organisation
   
 tags:
-- Hospital with A & E
+- Hospital with A and E
 - Neurology
 - Neurosurgery
 - Nephrology

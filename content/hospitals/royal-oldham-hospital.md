@@ -18,7 +18,7 @@ contact:
   - https://www.northerncarealliance.nhs.uk/oldham-care-organisation
   
 tags:
-- Hospital with A & E
+- Hospital with A and E
 - Maternity
 - Diabetes
 - Stroke emergencies

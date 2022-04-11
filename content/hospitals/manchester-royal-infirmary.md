@@ -12,7 +12,7 @@ contact:
   web_addresses:
   - https://mft.nhs.uk/mri/
 tags:
-- Hospital with A & E
+- Hospital with A and E
 - Walk in Centre
 - Urology
 - Orthopaedics
@@ -23,7 +23,7 @@ tags:
 ---
 
 # Information
-Hospital with A & E  
+Hospital with A and E  
 
 * Hospital Map  https://mft.nhs.uk/app/uploads/2020/02/internal-with-title-Jan-20-V2.pdf
 
