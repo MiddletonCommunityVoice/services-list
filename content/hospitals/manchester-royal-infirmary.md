@@ -13,7 +13,7 @@ contact:
   - https://mft.nhs.uk/mri/
 tags:
 - Hospital with A & E
-- Walk in Centres
+- Walk in Centre
 - Urology
 - Orthopaedics
 - Heart Surgery
