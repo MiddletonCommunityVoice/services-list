@@ -2,7 +2,8 @@
 title: Fairfield Hospital
 draft: false
 tags:
-areas:
+- Hospital with A and E
+- Urgent Treatment Centre
 - Middleton
 - Heywood
 - Rochdale
@@ -16,10 +17,8 @@ contact:
   - 0161 764 6081
   web_addresses:
   - https://www.northerncarealliance.nhs.uk/bury-care-orgaisation
-  
+
 tags:
-- Hospital with A and E
-- Urgent Treatment Centre
 - Neurology
 - PALS
 - Complaints
