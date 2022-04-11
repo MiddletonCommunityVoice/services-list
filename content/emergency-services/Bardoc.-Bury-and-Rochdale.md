@@ -1,8 +1,8 @@
 ---
-title: BARDOC
+title: BARDOC Bury and Rochdale
 draft: false
 tags:
-- Emergency GP
+- Emergency GP Bury and Rochdale
 - GP out of hours
 areas:
 - Middleton
