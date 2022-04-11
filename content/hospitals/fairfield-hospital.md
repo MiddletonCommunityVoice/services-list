@@ -15,7 +15,8 @@ contact:
   - 0161 624 0420
   - 0161 764 6081
   web_addresses:
-  - https://www.pat.nhs.uk/our-hospitals/fairfield-general-hospital/
+  - https://www.northerncarealliance.nhs.uk/bury-care-orgaisation
+  
 tags:
 - Hospital with A and E
 - Urgent Treatment Centre
