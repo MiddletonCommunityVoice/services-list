@@ -4,6 +4,11 @@ draft: false
 tags:
 - Hospital with A and E
 - Urgent Treatment Centre
+- Neurology
+- PALS
+- Complaints
+- A and E
+Areas:
 - Middleton
 - Heywood
 - Rochdale
