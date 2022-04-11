@@ -2,7 +2,7 @@
 title: North Manchester General Hospital
 draft: false
 tags:
-- Hospital with A & E
+- Hospital with A and E
 - Walk in Centre
 - Maternity
 - GP out of hours
@@ -20,31 +20,22 @@ contact:
   phone:
   - 0161 795 4567
   web_addresses:
-  - http://www.pat.nhs.uk/our-hospitals/north-manchester-general-hospital/
-  
+  - https://www.pat.nhs.uk/our-hospitals/north-manchester-general-hospital/
+   
 ---
 
 ### Information
 
-*Hospital Map  https://www.pat.nhs.uk/Getting%20Here/North%20Manchester%20Map%20and%20A-Z%20Directory.pdf
 
-North Manchester General Hospital is a large NHS hospital located in Crumpsall
-in the north of the English city of Manchester. It is operated as part of the
-Pennine Acute Hospitals NHS Trust. There is an accident and emergency unit,
-together with a maternity unit, high dependency unit and a mental health wing.
+North Manchester General Hospital is a large NHS hospital located in Crumpsall in the north of the English city of Manchester. It operated as part of the Pennine Acute Hospitals NHS Trust. There is an accident and emergency unit,together with a maternity unit, high dependency unit and a mental health wing.
 
-The hospital has undergone extensive work regarding its size and layout. The
-main entrance is in the newly built "Phase 1" part of the building, whereas
-most of the wards are in the old part of the building. A&E is in the new
-building, along with infectious diseases and tropical medicine.
+The hospital has undergone extensive work regarding its size and layout. The main entrance is in the newly built "Phase 1" part of the building, whereas most of the wards are in the old part of the building.   
+A & E is in the new building, along with infectious diseases and tropical medicine.
 
 ## Visiting times
 
-North Manchester General Hospital's visiting policy is now *open*. Visitors
-are allowed access throughout the day providing their visit adheres to the
-[visitor's code](http://www.pat.nhs.uk/patients-and-visitors/Bedside%20booklet.PDF),
-which places limits on the number of visitors per patient in order to
-combat infection or obstruct meal times.
+North Manchester General Hospital's visiting policy is now *open*. Visitors are allowed access throughout the day  providing their visit adheres to the [visitor's code](http://www.pat.nhs.uk/patients-and-visitors/Bedside%20booklet.PDF),
+which places limits on the number of visitors per patient in order to combat infection or obstruct meal times.
 
 ## Direct ward numbers
 
