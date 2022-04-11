@@ -19,7 +19,7 @@ tags:
 - MRI Scans
 - Mobiles and Relocatables
 - Paedictric Audiology
-- PET CT
+- PET CT Scan
 - Radiographer Reporting
 - Ultrasound
 - Upright MRI
