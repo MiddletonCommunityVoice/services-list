@@ -14,7 +14,8 @@ contact:
   - 0161 624 0420
   - 01706 377 777
   web_addresses:
-  - http://www.pat.nhs.uk/our-hospitals/rochdale-infirmary/
+  - https://www.northerncarealliance.nhs.uk/rochdale-care-organisation
+  
 tags:
   - Hospital with Urgent Care Centre
   - Rheumatology
