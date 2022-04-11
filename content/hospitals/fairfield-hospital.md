@@ -3,7 +3,7 @@ title: Fairfield Hospital
 draft: false
 tags:
 - Hospital with A and E
-- Urgent Treatment Centre
+- Hospital with Urgent Treatment Centre
 - Neurology
 - PALS
 - Complaints
