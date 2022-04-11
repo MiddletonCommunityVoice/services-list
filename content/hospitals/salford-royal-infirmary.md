@@ -10,7 +10,8 @@ contact:
   phone:
   - 0161 789 7373
   web_addresses:
-  - http://www.srft.nhs.uk/
+  - https://www.northerncarealliance.nhs.uk/salford-care-organisation
+  
 tags:
 - Hospital with A & E
 - Neurology
