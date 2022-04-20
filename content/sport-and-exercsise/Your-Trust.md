@@ -40,7 +40,7 @@ Lots of activities across the borough
 Disabled Sports 01706 926 203
 Contact Middleton Arena on 0161 662 4000
 
-### Information   
+### Locations & phone numbers      
 * Middleton Arena on 0161 662 4000 
 * Disabled Sports 01706 926 203   
 * Bowlee Park Sports Centre   0161 716 2840   
@@ -64,7 +64,6 @@ SOFT PLAY from 3 months at Middleton, Heywood, Rochdale,Littleborough & Touchsto
 
 ENEGRY CLUB 6 week session for 5 to 12 year olds with parents/ carers.   
 ENERGY CLUB follow-on courses at Rochdale Leisure Centre   
-
 
 
 01706 924 840 ?   
