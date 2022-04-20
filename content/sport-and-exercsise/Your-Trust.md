@@ -2,8 +2,8 @@
 title: Your Trust ( ex Link4Life )
 draft: false
 tags:
-- Walking Groups
 - Sport
+- Walking Groups
 - Activities
 - Bowlee Park Sports
 - Middleton Arena
@@ -15,6 +15,12 @@ areas:
 contact:
   addresses:
   - Number One, Riverside, Smith St  Rochdale
+  - Middleton Arena
+  - Heywood Sports Village
+  - Heywood Civic
+  - Rochdale Sport
+  - Littleborough
+  - Hollingworth Lake
   phone:
   - 01706 926 203
   web_addresses:
@@ -23,6 +29,7 @@ contact:
 ---
 
 ### Information
+Sarah Shard   
 Graeme Hill on 07976 498 615.  Inactive 16 - 25 year olds
 Lots of activities across the borough
 
