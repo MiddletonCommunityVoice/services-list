@@ -6,6 +6,7 @@ tags:
 - Disability Sports
 - Childrens Sports
 - Junior Skills
+- swimming 3+ years
 - Doorstep Sports Club
 - Walking Groups
 - Activities
@@ -65,6 +66,10 @@ SOFT PLAY from 3 months at Middleton, Heywood, Rochdale,Littleborough & Touchsto
 ENEGRY CLUB 6 week session for 5 to 12 year olds with parents/ carers.   
 ENERGY CLUB follow-on courses at Rochdale Leisure Centre   
 
+### Swimming
+Swimming lessons for 3 year olds and above
+on the Starfish Swimming Program   
+0161 662 4200   
 
 01706 924 840 ?   
 01706 926 232 ?   
