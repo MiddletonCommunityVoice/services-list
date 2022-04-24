@@ -38,7 +38,7 @@ Dementia Connect and local Dementia Advisers deliver 1-2-1 support for people wo
 **The next CrISP 2** course starts on Friday 1st July and runs for four consecutive Friday mornings at Springhill Learning Centre, Carders Court, Castleton (10.30 a.m. to 1.00 p.m.) up to and including Friday 22nd July.  CrISP 2 offers support and information relevant for family/ friend carers of people with dementia who are more advanced on their dementia journey. The relaxed and informal learning takes place in small, supportive peer groups of up to 10 participants. (Please see attached flyer for more detail).   
 
 Anyone wishing to attend either (or both) courses must book their place first with Ali Roberts (see contact details below).   
-- (To be eligible carers and/or cared for need to be residents of borough of Rochdale, though occasionally carers from neighbouring boroughs willing to travel can be accepted onto the course if all places have not been filled by Rochdale based candidates).      
+*To be eligible carers and/or cared for need to be residents of borough of Rochdale, though occasionally carers from neighbouring boroughs willing to travel can be accepted onto the course if all places have not been filled by Rochdale based candidates*      
 
 Alison Roberts    
 Dementia Support Worker - Alzheimer’s Society Rochdale    
