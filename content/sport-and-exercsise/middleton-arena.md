@@ -20,5 +20,7 @@ contact:
 ---
 
 ### Information
-Many events at the Arena and many sports activities  
-including activities for disabled and GP referals.
+Many events, sports and activities at the Arena, including activities for disabled people and GP referals.
+
+Hours of operation vary accorging to the activities.  See the arena website or phone their reception.
+
