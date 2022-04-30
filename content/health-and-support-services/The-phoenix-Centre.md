@@ -5,7 +5,7 @@ tags:
 - Health Centre
 - Clinic
 - GP Surgery
-- GP 7 day Access
+- GP 7 day Access Rochdale
 - Dentist
 - Diabetes
 - Audiology
@@ -17,10 +17,13 @@ areas:
 contact:
   addresses:
   - Church St, Heywood OL10 1LR
+  - Also 7 day access in Middleton, Rochdale and Littleborough
   phone:
-  - 01706 676700
+  - 01706 676700 Health Centre
+  - 0161 763 8292 7 dat access
   web_addresses:
-  - Various
+  - See below
+  - http://bardoc.co.uk/7-day-access-service/
 ---
 
 ### The Phoenix Centre Information  
