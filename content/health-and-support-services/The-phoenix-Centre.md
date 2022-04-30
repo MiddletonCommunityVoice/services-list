@@ -5,7 +5,7 @@ tags:
 - Health Centre
 - Clinic
 - GP Surgery
-- GP 7 day Access Extra Hours Hubs
+- GP 7 day Access Hubs
 - Dentist
 - Diabetes
 - Audiology
