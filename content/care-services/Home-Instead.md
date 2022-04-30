@@ -7,7 +7,7 @@ tags:
 - cafe
 - Befriending
 - Dementia
-- Wellbeing Centre
+- Wellbeing
 - Home Instead
 areas:
 - Middleton
