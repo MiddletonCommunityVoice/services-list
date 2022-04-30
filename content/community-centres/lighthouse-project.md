@@ -6,12 +6,8 @@ tags:
 - Middleton Central Foodbank
 - The Pantry
 - Money Advice
-- Computer Courses
 - Meetups
 - Knit and Natter
-- Men in Sheds
-- Who let the dads out
-- Art
 - Walking Groups
 - Lighthouse
 areas:
