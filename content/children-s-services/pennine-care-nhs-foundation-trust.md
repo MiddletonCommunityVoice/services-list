@@ -4,7 +4,7 @@ draft: false
 tags:
 - Long Term Illness
 - Diabetes
-- Asthama
+- Asthma
 areas:
 - Middleton
 - Heywood

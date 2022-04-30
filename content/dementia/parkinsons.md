@@ -3,6 +3,7 @@ title: Parkinson's UK
 draft: false
 tags:
 - Parkinsons
+- Emotional Tremors
 areas:
 - Middleton
 - Heywood
@@ -61,5 +62,8 @@ Parkinson’s symptoms that don’t involve movement and are therefore sometimes
 - Reduced libido
 - Slower blinking and dry eyes
 
-
+**Emotional Tremors**   
+Do you have Emotional Tremors and not Parkinson's.
+This can be mistaken for Parkinson's Disease.
+A new services at Walton, Liverpool is available and being trialed. Contact your GP to access this service.
 
