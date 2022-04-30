@@ -2,7 +2,7 @@
 title: Manchester Extened Access Service
 draft: false
 tags:
-- GP 7 day Extra Hours Hubs
+- GP 7 day Access Hubs
 areas:
 - Manchester
 - Middleton
