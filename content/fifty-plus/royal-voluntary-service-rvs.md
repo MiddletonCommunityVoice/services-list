@@ -2,7 +2,7 @@
 title: Royal Voluntary Service ( RVS )
 draft: false
 tags:
-- Hosptial discharge
+- Hospital discharge
 - Voluntary Drivers
 areas:
 - Middleton
