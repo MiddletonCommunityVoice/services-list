@@ -3,6 +3,7 @@ title: Boots the Chemist
 draft: False
 tags:
 - Chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood

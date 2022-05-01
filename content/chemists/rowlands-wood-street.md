@@ -3,6 +3,7 @@ title: Rowlands Pharmacy - Wood Street
 draft: False
 tags:
 - Chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood

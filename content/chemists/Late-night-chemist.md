@@ -3,6 +3,7 @@ title: Cameolord Pharmacy Late opening
 draft: False
 tags:
 - Chemist late opening
+- Pharmacy
 areas:
 - Middleton
 - Heywood

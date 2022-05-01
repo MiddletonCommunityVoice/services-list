@@ -3,6 +3,7 @@ title: Tesco's Pharmacy Oldham late opening
 draft: False
 tags:
 - Chemist late opening
+- Pharmacy
 areas:
 - Middleton
 - Heywood

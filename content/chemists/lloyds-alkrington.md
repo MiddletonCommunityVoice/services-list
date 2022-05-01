@@ -3,6 +3,7 @@ title: Lloyds Pharmacy Alkrington
 draft: False
 tags:
 - Chemist
+- Pharmacy
 - Flu Jabs
 areas:
 - Middleton

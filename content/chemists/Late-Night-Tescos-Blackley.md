@@ -3,6 +3,7 @@ title: Tesco's Pharmacy Blackley Late Night
 draft: False
 tags:
 - Chemist late opening
+- Pharmacy
 areas:
 - Middleton
 - North Manchester

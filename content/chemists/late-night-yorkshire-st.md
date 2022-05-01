@@ -4,6 +4,7 @@ draft: False
 tags:
 - Chemist late opening
 - Minor Ailments service
+- Pharmacy
 areas:
 - Middleton
 - Heywood

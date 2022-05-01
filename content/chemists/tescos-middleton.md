@@ -3,6 +3,7 @@ title: Tesco's instore Pharmacy - Middleton
 draft: False
 tags:
 - Chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood

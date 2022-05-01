@@ -3,6 +3,7 @@ title: Boarshaw Pharmacy
 draft: False
 tags:
 - Chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood

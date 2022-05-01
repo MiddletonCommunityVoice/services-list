@@ -3,6 +3,7 @@ title: Drugsmart Pharmacy
 draft: False
 tags:
 - Chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood

@@ -3,6 +3,7 @@ title: Boots Chemist - Peterloo
 draft: False
 tags:
 - Chemist
+- Pharmacy
 - Minor Ailments Service
 areas:
 - Middleton

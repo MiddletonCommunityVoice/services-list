@@ -3,6 +3,7 @@ title: Carlows Pharmacy
 draft: False
 tags:
 - Chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood

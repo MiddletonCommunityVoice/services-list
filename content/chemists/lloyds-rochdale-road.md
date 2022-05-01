@@ -3,6 +3,7 @@ title: Lloyds Pharmacy
 draft: False
 tags:
 - Chemist
+- Pharmacy
 - Flu jabs
 areas:
 - Middleton

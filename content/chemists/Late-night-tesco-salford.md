@@ -3,6 +3,7 @@ title: Tesco's Pharmacy Salford late opening
 draft: False
 tags:
 - Chemist late opening
+- Pharmacy
 areas:
 - Middleton
 - Heywood

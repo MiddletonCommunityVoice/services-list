@@ -4,6 +4,7 @@ draft: false
 tags:
 - Needle exchange
 - chemist
+- Pharmacy
 areas:
 - Middleton
 - Heywood
