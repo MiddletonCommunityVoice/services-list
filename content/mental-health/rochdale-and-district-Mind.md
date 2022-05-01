@@ -120,6 +120,10 @@ Email aliceastley@rochdalemind.org.uk
 Contact Alice Astley on 07766 140 904  
 Email aliceastley@rochdalemind.org.uk  
 
+**Knit and Natter**   
+At the Middleton Cafe   
+1pm to 2pm Friday afternoons.    
+
 ### Opening Times  
 * Wellbeing Centre and Cafe opening times:  
 - Mon, Wed, Thu, Fri open 8.30am to 4pm  
