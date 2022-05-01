@@ -4,6 +4,7 @@ draft: false
 tags:
 - Diabetic Eye Appointments
 - NHS Diabetic Eye Screening
+- Opticians
 areas:
 - Middleton
 - Heywood

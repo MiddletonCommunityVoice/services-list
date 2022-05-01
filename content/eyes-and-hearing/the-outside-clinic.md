@@ -3,6 +3,7 @@ title: The Outside Clinic
 draft: false
 tags:
 - Mobile Opticians
+- Opticians
 areas:
 - Nationwide
 contact:

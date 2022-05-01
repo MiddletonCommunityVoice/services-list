@@ -2,6 +2,7 @@
 title: Specsavers Middleton
 draft: false
 tags:
+- Opticians
 - Eye and Hearing tests
 - Cataract eye tests
 - Diabetic eye tests

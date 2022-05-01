@@ -5,6 +5,7 @@ tags:
 - Mobile opticians
 - Eye and Hearing Tests
 - Diabetic Eye Tests
+- Opticians
 areas:
 - Nationwide
 contact:
