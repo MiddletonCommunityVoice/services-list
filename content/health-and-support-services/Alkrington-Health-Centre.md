@@ -4,7 +4,7 @@ draft: false
 tags:
 - Health Centre
 - GP Surgery
-- AAA Screening
+- AAA  Screening
 - Audiology
 - Breast Screening
 - CT Scans
@@ -17,7 +17,6 @@ tags:
 - Interventional Cardiology
 - Lung Health Checks
 - MRI Scans
-- Mobiles and Relocatables
 - Paedictric Audiology
 - PET CT Scan
 - Radiographer Reporting
