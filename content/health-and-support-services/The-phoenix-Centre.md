@@ -9,7 +9,7 @@ tags:
 - Dentist
 - Diabetes
 - Audiology
-- Podiatary
+- Podiatry
 areas:
 - Middleton
 - Heywood
