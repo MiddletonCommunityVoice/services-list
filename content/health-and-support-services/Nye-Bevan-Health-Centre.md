@@ -8,7 +8,7 @@ tags:
 - Dentist
 - Pharmacy
 - ENT
-- MRI
+- MRI Scans
 - Opticia
 - Physiotherapy
 - Occupational Health
