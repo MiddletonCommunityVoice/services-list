@@ -9,7 +9,7 @@ tags:
 - Pharmacy
 - ENT
 - MRI Scans
-- Opticia
+- Opticians
 - Physiotherapy
 - Occupational Health
 - Sexual Health
