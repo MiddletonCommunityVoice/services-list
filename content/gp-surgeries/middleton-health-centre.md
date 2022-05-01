@@ -5,6 +5,7 @@ tags:
 - GP Surgery
 - Nurses Services
 - GP 7 day Access Rochdale
+- Asthma
 areas:
 - Middleton
 contact:
