@@ -4,6 +4,7 @@ draft: false
 tags:
 - Health Centre
 - GP Surgery
+- Screening Services
 - AAA  Screening
 - Audiology
 - Breast Screening

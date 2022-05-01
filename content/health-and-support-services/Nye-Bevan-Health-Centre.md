@@ -8,6 +8,7 @@ tags:
 - Dentist
 - Pharmacy
 - ENT
+- Screening Services
 - MRI Scans
 - Opticians
 - Physiotherapy
