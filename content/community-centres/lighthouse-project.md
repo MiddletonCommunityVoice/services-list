@@ -6,6 +6,9 @@ tags:
 - Middleton Central Foodbank
 - The Pantry
 - Money Advice
+- social
+- Activities
+- Veterans in Communities
 - Art Group
 - Camera Club
 - Computers
