@@ -7,6 +7,7 @@ areas:
 - Middleton
 - Heywood
 - Rochdale
+- Our Rochdale
 contact:
   addresses:
   - Number One Riverside, Smith Street, Rochdale. OL16 1XU
