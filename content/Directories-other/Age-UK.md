@@ -8,6 +8,7 @@ areas:
 - Oldham
 - Manchester
 - Salford
+- Age UK
 contact:
   addresses:
   - 298a Broadway Chadderton Oldham
