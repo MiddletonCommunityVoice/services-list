@@ -16,16 +16,19 @@ areas:
 - Greater Manchester
 contact:
   addresses:
-  - Delaunys Road, Crumpsall, Manchester
+  - Hospital, Delaunys Road, Crumpsall, Manchester
+  - Trust HQ, Cobbett House, Manchester University NHS Foundation Trust, Oxford Road, Manchester. M13 9WL
   phone:
+  - 0300 3309444
   - 0161 795 4567
   web_addresses:
-  - https://www.pat.nhs.uk/our-hospitals/north-manchester-general-hospital/
+  - https://mft.nhs.uk/north-manchester-general-hospital/
+  - Email   pals@mft.nhs.uk
    
 ---
 
-### Information
-
+### Information   
+North Manchester General Hospital is now part of the University of Manchester Hospital Trust.   
 
 North Manchester General Hospital is a large NHS hospital located in Crumpsall in the north of the English city of Manchester. It operated as part of the Pennine Acute Hospitals NHS Trust. There is an accident and emergency unit,together with a maternity unit, high dependency unit and a mental health wing.
 
@@ -39,9 +42,9 @@ which places limits on the number of visitors per patient in order to combat inf
 
 ## Direct ward numbers
 
-| Department/Ward                                 | Telephone Number                            |
+| Department/Ward                                 |                                         Telephone Number 
 | ---------------                                 | ----------------                            |
-| A&E Reception                                   | 0161 720 2433                               |
+| A&E Reception                            | 0161 720 2433 
 | C3 (General Surgery - Male)                     | 0161 918 4780                               |
 | C4 (General Surgery - Female)                   | 0161 720 2117                               |
 | C6 Gastroenterology                             | 0161 922 3406                               |
@@ -73,5 +76,5 @@ which places limits on the number of visitors per patient in order to combat inf
 | Children's In-Patient Ward                      | 0161 625 8273                               |
 | Children's Day Surgery Ward                     | 0161 625 8117                               |
 | Endoscopy                                       | 0161 720 2835, 0161 604 5264, 0161 604 5265 |
-PALS - 0161 604 5897  
+PALS - 0161 276 8686 
 North Manchester General Hospital - The PALS Office is located at the Main Entrance to the hospital. Follow signs for Way Out, Main Entrance. Level 0.
