@@ -3,6 +3,10 @@ title: Living Well / Big Life Group
 draft: false
 tags:
 - Directory
+- Losing Weight
+- Stop Smoking
+- Getting more active
+- Healthy Living
 areas:
 - Middleton
 - Heywood
@@ -17,9 +21,8 @@ contact:
 ---
 
 ### Information
-Many services across :
+Many services across the borough:   
 
-Heywood, Middleton, Rochdale Milnrow
-and Littleborough
+Heywood, Middleton, Rochdale, Milnrow, Littleborough, Newhey, Norden, Bamford and Castleton   
 
 Also, look at their online directory
