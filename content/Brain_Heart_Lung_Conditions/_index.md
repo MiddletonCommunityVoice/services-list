@@ -1,4 +1,4 @@
 ---
-title: Brain and Heart Conditions
+title: Brain, Heart and Lung Conditions
 ---
-# Brain and Heart Conditions
+# Brain, Heart and Lung Conditions
