@@ -2,7 +2,7 @@
 title: British Heart Foundation
 draft: false
 tags:
-- Heart
+- Heart Problems
 - Stroke Help
 areas:
 - Middleton
