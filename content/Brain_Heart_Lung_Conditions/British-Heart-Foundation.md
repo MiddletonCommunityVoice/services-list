@@ -16,9 +16,10 @@ contact:
   - 0300 330 3322 Customers
   - 0300 330 3311 Medical
   web_addresses:
-  - https://www.bhf.org.uk/
+  - https://www.bhf.org.uk/  
 
-  ---
+
+---
 
 ### OFFICE OPENING TIMES   
 9am to 5pm Mon to Fri   
