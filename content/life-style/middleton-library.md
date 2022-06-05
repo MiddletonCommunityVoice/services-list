@@ -4,7 +4,6 @@ draft: false
 tags:
 - Libraries
 - Activities
-- Social
 areas:
 - Middleton
 - Heywood
