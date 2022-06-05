@@ -3,7 +3,7 @@ title: British Heart Foundation
 draft: false
 tags:
 - Heart
-- Stroke
+- Stroke Help
 areas:
 - Middleton
 - Heywood
