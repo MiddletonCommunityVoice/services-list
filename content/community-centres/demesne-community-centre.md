@@ -4,6 +4,7 @@ draft: false
 tags:
 - Community Centres
 - Activities
+- Social
 - Lets Just Dance for Dementia
 - Nursery
 - Breast Cancer
