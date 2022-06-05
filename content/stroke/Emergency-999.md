@@ -3,7 +3,7 @@ title: Emergency 999
 draft: False
 tags:
 - Stroke Emergencies
-- Hear attack
+- Heart Problems
 - TIA
 areas:
 - Middleton
