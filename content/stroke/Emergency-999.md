@@ -3,6 +3,8 @@ title: Emergency 999
 draft: False
 tags:
 - Stroke Emergencies
+- Hear attack
+- TIA
 areas:
 - Middleton
 - Heywood
@@ -17,7 +19,9 @@ contact:
 ---
 
 ### Information
-For advice you can call NHS Choice on 111.  They may
-decide to call 999 for you.
-Remember    F.A.S.T    Face, Arms, Speech,
-If in any doubt dial 999
+For advice you can call NHS on 111.  They may
+decide to call 999 for you.   
+
+Remember    F.A.S.T    Face, Arms, Speech,   
+
+If in any doubt dial *999*   
