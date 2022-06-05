@@ -4,6 +4,8 @@ draft: false
 tags:
 - Social
 - Stroke Help
+- Heart Problems
+- TIA
 - Heartline Club
 areas:
 - Middleton
@@ -13,11 +15,11 @@ contact:
   addresses:
   - Middleton Arena, LCpl Joel Halliwell VC Way, Middleton
   phone:
-  - 0161 740 7498  Chair
+  - 0161 740 7498 Chair
   - 0161 681 3760 Secretary
   web_addresses:
-  - http://www.middletonheartlineclub.co.uk
-  - http://www.yourtrust.org/centres/middleton-arena
+  - https://www.facebook.com/MiddletonHeartlineClub/
+  - https://www.yourtrustrochdale.co.uk/venues/middleton-arena/
 ---
 
 ### Information   
@@ -32,6 +34,6 @@ It provides
 * Days out and dinner dances.   
 * Opportunities to meet other people and chat.   
 
-### Meeting Times
+### Where and When   
 * Wed & Fri 10 til 12 midday at Middleton Arena
 
