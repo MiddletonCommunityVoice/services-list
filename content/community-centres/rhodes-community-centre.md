@@ -1,6 +1,6 @@
 ---
 title: Rhodes Community Centre
-draft: false
+draft: true
 tags:
 - Community Centres
 areas:

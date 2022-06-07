@@ -1,6 +1,6 @@
 ---
 title: Brookside Community Centre
-draft: false
+draft: true
 tags:
 - Community Centres
 areas:
