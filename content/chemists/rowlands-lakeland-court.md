@@ -4,7 +4,6 @@ draft: False
 tags:
 - Chemist
 - Pharmacy
-- Minor Ailments Service
 - Flu jabs
 - Needle Exchange
 areas:
@@ -20,15 +19,13 @@ contact:
   - https://www.nhs.uk/Services/pharmacies/Overview/DefaultView.aspx?id=4743
 ---
 
-### Information
-* Order prescriptions by phone   
-* Advice & Minor ailments service.   
-* Flu Jabs service.    
+### Information  
+* See online for services on offer   
 * Needle Exchange.   
 * Collect a leaflet to see more services.
 
 
 ### Opening Hours
 * Mon to Fri  9am to 1pm and 2pm til 5.30pm
-* Sat. 9am to 12 Midday
+* Sat. 9am to 1pm   
 * Sundays  CLOSED
