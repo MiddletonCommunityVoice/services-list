@@ -4,7 +4,7 @@ draft: False
 tags:
 - Chemist
 - Pharmacy
-- Minor Ailments
+- Minor Ailments Service
 - Covid Jabs
 - Flu Jabs
 - Online GP
