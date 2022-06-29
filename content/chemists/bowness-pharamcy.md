@@ -4,6 +4,10 @@ draft: False
 tags:
 - Chemist
 - Pharmacy
+- Minor Ailments
+- Covid Jabs
+- Flu Jabs
+- Online GP
 areas:
 - Middleton
 - Heywood
@@ -18,9 +22,10 @@ contact:
 ---
 
 ### Information
-
+Many services available
 
 
 ### Opening Hours
-8.45am to 6pm Mon to Fri
-8.45am to 1pm Sat.     CLOSED Sundays
+8.45am to 6pm Mon to Fri   
+8.45am to 1pm Sat.     
+CLOSED Sundays
