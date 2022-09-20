@@ -1,6 +1,6 @@
 ---
 title: Neuro Speak
-draft: false
+draft: true
 tags:
 - Epilepsy
 areas:
