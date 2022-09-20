@@ -4,8 +4,8 @@ title: Disclaimer
 
 This directory is always being updated.
 
-The next meeting will be **THURSDAY, 15th, September at 11am in The Lighthouse Project, 2nd floor, Middleton Shopping Centre.**
-There's easy access for disabled people.
+The next meeting will be **THURSDAY, 20th, October at 11am in The Lighthouse Project, 2nd floor, Middleton Shopping Centre.**  
+Easy access for disabled people.
 
 ## Disclaimer
 
@@ -15,4 +15,4 @@ If you find any errors, please send an email to [betterhealth4middleton@gmail.co
 
 <a href="/tags" class="button">Use the A to Z tags for an easy search of services</a>
 
-## Directory
+## Scroll down to the Directory  
