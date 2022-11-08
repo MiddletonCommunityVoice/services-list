@@ -3,6 +3,7 @@ title: Turning Point Rochdale ( ROAR )
 draft: false
 tags:
 - Addiction
+- Needle Exchange
 - Learning Disabilities
 - Drugs
 - Alcohol
@@ -24,7 +25,8 @@ contact:
 
 ### Information
 
-Hours vary.  Call for an appointment
+General opening hours are 11am to 3pm  
+Hours may vary.  Call for an appointment
 
 Email: ROARreferrals@turning-point.co.uk
 
