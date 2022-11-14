@@ -4,7 +4,7 @@ title: Disclaimer
 
 This directory is always being updated.
 
-The next meeting will be **THURSDAY, 20th, October at 11am in The Lighthouse Project, 2nd floor, Middleton Shopping Centre.**  
+The next meeting will be **In 2023**  
 Easy access for disabled people.
 
 ## Disclaimer
