@@ -4,7 +4,9 @@ title: Disclaimer
 
 This directory is always being updated.
 
-The next meeting will be **In 2023**  
+The next meeting will be **Thursday, 12th, January, 2023**  
+**starting at 11am ends 1pm in The Lighthouse, Middleton Shopping Centre**  
+Remember. These monthly meetings are open to everyone.  
 Easy access for disabled people.
 
 ## Disclaimer
