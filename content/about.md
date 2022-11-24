@@ -17,4 +17,4 @@ If you find any errors, please send an email to [betterhealth4middleton@gmail.co
 
 <a href="/tags" class="button">Use the A to Z tags for an easy search of services</a>
 
-## Scroll down to the Directory  
+## Now scroll down to the Directory  
