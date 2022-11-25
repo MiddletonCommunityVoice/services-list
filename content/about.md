@@ -4,7 +4,7 @@ title: Disclaimer
 
 This directory is always being updated.
 
-The next meeting will be **Thursday, 12th, January, 2023**  
+The next meeting will be **Thursday 12th January 2023**  
 **starting at 11am ends 1pm in The Lighthouse, Middleton Shopping Centre**  
 Remember. These monthly meetings are open to everyone.  
 Easy access for disabled people.
@@ -17,4 +17,4 @@ If you find any errors, please send an email to [betterhealth4middleton@gmail.co
 
 <a href="/tags" class="button">Use the A to Z tags for an easy search of services</a>
 
-## Now scroll down to the Directory  
+## Scroll down to the Directory  
