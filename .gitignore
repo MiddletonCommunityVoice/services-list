@@ -5,3 +5,4 @@ public
 .DS_Store
 *.sass-cache
 themes/blank/sass/node_modules
+.hugo_build.lock
