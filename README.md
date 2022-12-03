@@ -4,7 +4,7 @@ Welcome to this directory of services which is aimed at the people of Middleton,
   * 50+
   * children and teenagers
 
-The directory does cover everyone. This directory has been compiled from many public
+The directory covers everyone. This directory has been compiled from many public
 sources available online and printed materials.
 
 Because lots of services come and go, some just change their names, and
