@@ -13,9 +13,9 @@ areas:
 - Rochdale
 contact:
   addresses:
-  - Hopwood Hall Sports Arena  Rochdale Road M24 6XH
+  - The Pavillion, Middelton Masonic Hall, Manchester Old Road, Middleton.  M24 4DY
   phone:
-  - 07837 815 167
+  - 0161 818 8100
   web_addresses:
   - https://danrixphysio.co.uk/
 ---
