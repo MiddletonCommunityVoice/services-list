@@ -5,7 +5,6 @@ tags:
 - Chemist
 - Pharmacy
 - Flu jabs
-- Needle Exchange
 areas:
 - Middleton
 - Heywood
