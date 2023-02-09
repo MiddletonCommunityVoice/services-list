@@ -13,10 +13,8 @@ contact:
   - This service has changed.   Contact your own surgery and request this service.
   phone:
   - 0161 763 8292 BARDOC
-  - 01706 248661
   Web_Addresses:
-  - http://bardoc.co.uk/7-day-access-service/
-    - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=zEHJYgZHh8Q
+      - https://www.ourrochdale.org.uk/kb5/rochdale/directory/service.page?id=zEHJYgZHh8Q
 
 ---
 
