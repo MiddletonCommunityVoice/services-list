@@ -2,7 +2,7 @@
 title: GP 7 day Access Rochdale
 draft: false
 tags:
-- GP 7 day Access Rochdale
+- GP 7 day Access Rochdale via your GP
 - Nurses Services
 areas:
 - Middleton
