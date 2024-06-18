@@ -2,19 +2,18 @@
 title: Disclaimer
 ---
 
-This directory is always being updated.
+This directory can be searched using the Main Directory Category links below, or for a more detailed topical search click the **A-Z tags button** which gives you an extensive list of all the service tags used in the directory.
 
 ## Disclaimer
 
-This directory has been compiled to help local people find services that can benefit their lives or situation. The information has been collected from many public sources, including online and printed materials. 
+The directory has been compiled to help local people find services that can benefit their lives or situation. 
 
-Some services come and go, and some change their details without notice. It's therefore impossible to maintain 100% accuracy.  For this reason we cannot accept any responsibility or liabiltity for any errors or ommissions.  Nor do we endorse any of the services listed.
+The information has been collected from many public sources, including online and printed materials, and is always being updated. 
+Some services come and go, and some change their details without notice, it is therefore impossible to maintain 100% accuracy.  For this reason we do not accept any responsibility or liabiltity for any errors or ommissions.  Nor do we endorse any of the services listed.
 
 If you find any errors, or require an update please send an email to [betterhealth4middleton@gmail.com](mailto:betterhealth4middleton@gmail.com).
 
-The directory can be searched using the main category links below. For a more detailed topical search click on the **A-Z tags button** which will take you to a list of all the service tags used in the directory.
-
-<a href="/tags" class="button">Click this button to search for organisations using **A-Z service tags**</a>
+<a href="/tags" class="button">**A-Z service tags** - Click this button for a more detailed search of services</a>
 
 ## Main Directory Categories
 click links to expand
