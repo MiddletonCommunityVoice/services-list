@@ -6,7 +6,7 @@ Explore the directory using the **Main Directory Categories** below.
 
 For detailed topical searches click the **A-Z tags button** to see an extensive list of all the service tags used in the listings.
 
-## Disclaimer
+### Disclaimer
 
 The directory has been compiled to help local people find services that can benefit their lives or situation. 
 
