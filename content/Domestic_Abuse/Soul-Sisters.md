@@ -1,5 +1,5 @@
 ---
-title: Soul SIsters
+title: Soul Sisters
 draft: false
 tags:
 - Domestic Abuse
