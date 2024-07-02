@@ -13,14 +13,13 @@ contact:
   - Lighthouse Project S6 2nd Fl Middleton Shopping Centre
   phone:
   - 0161 653 2729
-  web_addresses:
-  - https://www.lighthouseproject.org.uk/lighthouse-middleton-dial/
+  - web_addresses: https://www.lighthouseproject.org.uk/lighthouse-middleton-dial/
 
 ### Information
-- Wheelchair hire and repair
+- Short-term Wheelchair hire
 - Mobility aids, like rollators, walking sticks, Zimmer Frames
 - Perching Stools, and bathroom aids
 
 ### Opening Times
-* Mon,Tue,Thur, Fri 10am - 2.30pm - Closed Wednesday.
+* Mon, Tue, Thur, Fri 10am - 2.30pm - Closed Wednesday.
 
