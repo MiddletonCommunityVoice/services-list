@@ -14,6 +14,7 @@ contact:
   phone:
   - 0161 653 2729
   - web_addresses: https://www.lighthouseproject.org.uk/lighthouse-middleton-dial/
+---
 
 ### Information
 - Short-term Wheelchair hire
