@@ -56,7 +56,7 @@ restrictions for that ward.
 | Coronary Care Unit (Ward 35)                    | 0161 276 4499                               |
 | Vascular (Ward 7)                               | 0161 701 7230,0161 276 4055, 0161 701 7567 |
 | Critical Care                                   | 0161 276 4166                               |
-| Ear, Nose and Throat Outpatients                | 0161 276 8634                               |
+| Ear, Nose and Throat Outpatients                | 0161 701 9434                               |
 | Elective Treatment Centre Pre-Operative         | 0161 276 3624                               |
 | Elective Treatment Centre Short Stay            | 0161 276 8688                               |
 | Elective Treatment Centre Day Case              | 0161 276 8657                               |
