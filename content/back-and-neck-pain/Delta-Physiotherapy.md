@@ -1,5 +1,5 @@
 ---
-title: Total Physiotherapy
+title: Delta Physiotherapy
 draft: false
 tags:
 - Physiotherapy
@@ -14,9 +14,9 @@ contact:
   addresses:
   - 49 to 51 Mount Road Middleton M24 1DY
   phone:
-  - 0161 653 5853
+  - 0161 653 5853 & 0161 641 3900
   web_addresses:
-  - https://totalphysio.co.uk/physiotherapist-in-middleton/
+  - https://www.deltaphysio.co.uk
 ---
 
 ### Information
