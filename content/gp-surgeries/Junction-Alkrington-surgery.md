@@ -11,7 +11,7 @@ contact:
   - 346, Grimshaw Lane, Middleton Junction, Middleton
   - Also at Alkrington Health Centre, Hardfield Road, Middleton  M24 1PQ
   phone:
-  - 0161 271 3030
+  - 0161 383 9975
   web_addresses:
   - http://www.junctionsurgery.nhs.uk
 ---
