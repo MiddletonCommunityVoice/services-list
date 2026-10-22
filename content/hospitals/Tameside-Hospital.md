@@ -463,11 +463,6 @@ Building at the rear of the Workshops - Entrance off
 Mellor House, 1st floor – Mellor Road entrance
  adjacent to Renal Unit.
 
-**Surgical Appliances Department** - 0161 922 6357  
-Hartshead Building North - Ground Floor - within 
-Yellow Suite (first entrance on the right) - to the 
-rear of reception desks.
-
 **Training and Development** - 0161 922 4203  
 Werneth House Building - Multidisciplinary Education
  Centre - off Fountain Street - opposite Accident and 
